@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 
 - Senior Executive // Architect // Developer
 
+<br />
+
 ### 🔭 Interests
 
 - GraphQL // Apollo // REST // AsyncAPI
 - LeanIX // Renovate // Tech Radar
+
+<br />
 
 ### 📫 How to reach me
 
