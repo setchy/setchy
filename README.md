@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 📖 About me
+### 📖 About me
 
 - Senior Executive // Architect // Developer
 
-#### 🚀 Interests
+### 🚀 Interests
 
 - GraphQL // Apollo // REST // AsyncAPI
 - LeanIX // Renovate // Tech Radar
 
-#### 📫 How to reach me
+### 📫 How to reach me
 
 You can reach me at the email in my Github proifle.
 
