@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### 🔭 Interests
+### 🔭 Interests
 
 - GraphQL // Apollo // REST // AsyncAPI
 - LeanIX // Renovate // Tech Radar
