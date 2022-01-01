@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 📖 About me
 
-- Senior Executive // Architect // Developer
+- Senior Executive (VP) // Architect // Developer
 
 ### 🔭 Interests
 
