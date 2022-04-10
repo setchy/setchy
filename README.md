@@ -6,6 +6,8 @@
 
 - GraphQL // Apollo // REST // AsyncAPI
 - LeanIX // Renovate // Tech Radar
+- Developer Experience // Developer Productivity
+- Building strong communities of practice (guilds, chapters, etc)
 
 ### 📫 How to reach me
 
