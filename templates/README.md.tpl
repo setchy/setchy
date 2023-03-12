@@ -29,11 +29,11 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description }}, {{humanize .OccurredAt}}
   {{- end}}
 
-#### 🚀 My recent pull requests
+#### 🎉 My recent pull requests
 
 {{range recentPullRequests 20}}
 
-- [{{.Title}}]({{.URL}}) [{{.State}}] to {{.Repo.Name}}, {{humanize .CreatedAt}}
+- [{{.State}}] - [{{.Title}}]({{.URL}}) to [{{.Repo.Name}}]({{.Repo.URL}}), {{humanize .CreatedAt}}
   {{- end}}
 
 #### ⭐ Latest projects I've starred
