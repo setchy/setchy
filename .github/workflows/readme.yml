@@ -9,7 +9,7 @@ jobs:
   markscribe:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@3.3.0
+      - uses: actions/checkout@3
 
       - uses: muesli/readme-scribe@master
         env:
