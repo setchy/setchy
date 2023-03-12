@@ -46,49 +46,49 @@
 
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker., 2 weeks ago
 
-#### 🚀 My recent pull requests
+#### 🎉 My recent pull requests
 
 
 
-- [docs: readme makeover](https://github.com/graphql-java/graphql-java-extended-scalars/pull/94) [OPEN] to graphql-java/graphql-java-extended-scalars, today
+- [OPEN] - [docs: readme makeover](https://github.com/graphql-java/graphql-java-extended-scalars/pull/94) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), today
 
-- [docs: update to reference scalars.graphql.org specification for DateTime](https://github.com/graphql-java/graphql-java-extended-scalars/pull/93) [MERGED] to graphql-java/graphql-java-extended-scalars, 1 day ago
+- [MERGED] - [docs: update to reference scalars.graphql.org specification for DateTime](https://github.com/graphql-java/graphql-java-extended-scalars/pull/93) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 1 day ago
 
-- [docs: generate platform and datasources open features and bugs markdown](https://github.com/renovatebot/renovate/pull/20873) [OPEN] to renovatebot/renovate, 1 day ago
+- [OPEN] - [docs: generate platform and datasources open features and bugs markdown](https://github.com/renovatebot/renovate/pull/20873) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
 
-- [docs(platform/bitbucket-server): update header to be consistent with other platforms](https://github.com/renovatebot/renovate/pull/20870) [MERGED] to renovatebot/renovate, 1 day ago
+- [MERGED] - [docs(platform/bitbucket-server): update header to be consistent with other platforms](https://github.com/renovatebot/renovate/pull/20870) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
 
-- [docs: update major platform features not supported](https://github.com/renovatebot/renovate/pull/20869) [MERGED] to renovatebot/renovate, 1 day ago
+- [MERGED] - [docs: update major platform features not supported](https://github.com/renovatebot/renovate/pull/20869) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
 
-- [docs(platform/bitbucket): update requiring implementation section](https://github.com/renovatebot/renovate/pull/20863) [MERGED] to renovatebot/renovate, 1 day ago
+- [MERGED] - [docs(platform/bitbucket): update requiring implementation section](https://github.com/renovatebot/renovate/pull/20863) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
 
-- [build: add .nvmrc](https://github.com/renovatebot/renovate/pull/20862) [MERGED] to renovatebot/renovate, 2 days ago
+- [MERGED] - [build: add .nvmrc](https://github.com/renovatebot/renovate/pull/20862) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [docs: add @setchy as contributor](https://github.com/renovatebot/renovate/pull/20861) [MERGED] to renovatebot/renovate, 2 days ago
+- [MERGED] - [docs: add @setchy as contributor](https://github.com/renovatebot/renovate/pull/20861) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [feat(platform/bitbucket): add support for Bitbucket development branching model](https://github.com/renovatebot/renovate/pull/20860) [MERGED] to renovatebot/renovate, 2 days ago
+- [MERGED] - [feat(platform/bitbucket): add support for Bitbucket development branching model](https://github.com/renovatebot/renovate/pull/20860) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [Feature/bitbucket development branch](https://github.com/renovatebot/renovate/pull/20859) [CLOSED] to renovatebot/renovate, 2 days ago
+- [CLOSED] - [Feature/bitbucket development branch](https://github.com/renovatebot/renovate/pull/20859) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [feat(platform/bitbucket): use development branching model as default branch](https://github.com/renovatebot/renovate/pull/20803) [CLOSED] to renovatebot/renovate, 4 days ago
+- [CLOSED] - [feat(platform/bitbucket): use development branching model as default branch](https://github.com/renovatebot/renovate/pull/20803) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
-- [feat(platform): update PR target branch if baseBranch changed](https://github.com/renovatebot/renovate/pull/20800) [CLOSED] to renovatebot/renovate, 4 days ago
+- [CLOSED] - [feat(platform): update PR target branch if baseBranch changed](https://github.com/renovatebot/renovate/pull/20800) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
-- [docs: add replacement to matchUpdateTypes](https://github.com/renovatebot/renovate/pull/20656) [MERGED] to renovatebot/renovate, 1 week ago
+- [MERGED] - [docs: add replacement to matchUpdateTypes](https://github.com/renovatebot/renovate/pull/20656) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
-- [feat: support name only replacements](https://github.com/renovatebot/renovate/pull/20629) [MERGED] to renovatebot/renovate, 2 weeks ago
+- [MERGED] - [feat: support name only replacements](https://github.com/renovatebot/renovate/pull/20629) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
-- [fix: auto-replace pinning](https://github.com/renovatebot/renovate/pull/20627) [MERGED] to renovatebot/renovate, 2 weeks ago
+- [MERGED] - [fix: auto-replace pinning](https://github.com/renovatebot/renovate/pull/20627) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
-- [feat(auto-replace): ability to specify global or first match from replacement rules](https://github.com/renovatebot/renovate/pull/20604) [OPEN] to renovatebot/renovate, 2 weeks ago
+- [OPEN] - [feat(auto-replace): ability to specify global or first match from replacement rules](https://github.com/renovatebot/renovate/pull/20604) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
-- [fix(platform/bitbucket): remove blockquote markdown from bitbucket issue description](https://github.com/renovatebot/renovate/pull/20588) [MERGED] to renovatebot/renovate, 2 weeks ago
+- [MERGED] - [fix(platform/bitbucket): remove blockquote markdown from bitbucket issue description](https://github.com/renovatebot/renovate/pull/20588) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
-- [fix: remove rebase-all-open-prs checkbox from read only issue bodies](https://github.com/renovatebot/renovate/pull/20578) [MERGED] to renovatebot/renovate, 2 weeks ago
+- [MERGED] - [fix: remove rebase-all-open-prs checkbox from read only issue bodies](https://github.com/renovatebot/renovate/pull/20578) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
-- [feat(platform/bitbucket): consolidate types](https://github.com/renovatebot/renovate/pull/20570) [MERGED] to renovatebot/renovate, 2 weeks ago
+- [MERGED] - [feat(platform/bitbucket): consolidate types](https://github.com/renovatebot/renovate/pull/20570) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
-- [feat(bitbucket): add support for jira issues [WIP]](https://github.com/renovatebot/renovate/pull/20559) [OPEN] to renovatebot/renovate, 2 weeks ago
+- [OPEN] - [feat(bitbucket): add support for jira issues [WIP]](https://github.com/renovatebot/renovate/pull/20559) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
 #### ⭐ Latest projects I've starred
 
