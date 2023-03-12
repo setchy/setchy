@@ -40,7 +40,7 @@
 
 {{range recentPullRequests 10}}
 
-- [{{.Title}}]({{.URL}}) [{{.State}}] to ([{{.Repo.Name}}]({{.Repo.Url}}) at {{humanize .CreatedAt}}
+- [{{.Title}}]({{.URL}}) [{{.State}}] to {{.Repo.Name}} at {{humanize .CreatedAt}}
   {{- end}}
 
 #### ⭐ Latest projects I've starred
