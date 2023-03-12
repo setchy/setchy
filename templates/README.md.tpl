@@ -22,25 +22,18 @@
 
 - [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph](https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph)
 
-#### 🚀 Latest releases I've contributed to
-
-{{range recentReleases 10}}
-
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
-  {{- end}}
-
 #### 🚀 My recent contributions
 
 {{range recentContributions 10}}
 
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description }} at {{humanize .OccurredAt}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description }}, {{humanize .OccurredAt}}
   {{- end}}
 
 #### 🚀 My recent pull requests
 
-{{range recentPullRequests 10}}
+{{range recentPullRequests 20}}
 
-- [{{.Title}}]({{.URL}}) [{{.State}}] to {{.Repo.Name}} at {{humanize .CreatedAt}}
+- [{{.Title}}]({{.URL}}) [{{.State}}] to {{.Repo.Name}}, {{humanize .CreatedAt}}
   {{- end}}
 
 #### ⭐ Latest projects I've starred
@@ -48,13 +41,6 @@
 {{range recentStars 10}}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) {{.Repo.Stargazers}}⭐
-  {{- end}}
-
-#### ⭐ Latest followers
-
-{{range followers 5}}
-
-- [{{.Login}}]({{.AvatarURL}}) {{.Name}}⭐
   {{- end}}
 
 <!--
