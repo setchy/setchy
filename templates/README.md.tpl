@@ -33,14 +33,14 @@
 
 {{range recentContributions 10}}
 
-- [{{.Name}}]({{.URL}}) ([{{.Repo.Name}}]({{.Repo.URL}}), {{humanize .OccurredAt}}){{ with .Repo.Description }} - {{.}}{{ end }}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description }} at {{humanize .OccurredAt}}{{ end }}
   {{- end}}
 
 #### 🚀 My recent pull requests
 
 {{range recentPullRequests 10}}
 
-- [{{.Name}}]({{.URL}}) ([{{.Title}}]({{.URL}}), {{humanize .CreatedAt}}){{ with .Repo.Description }} - {{.}}{{ end }}
+- [{{.Title}}]({{.URL}}) [{{.State}}] to ([{{.Repo.Name}}]({{.Repo.Url}}) at {{humanize .CreatedAt}}{{ end }}
   {{- end}}
 
 #### ⭐ Latest projects I've starred
