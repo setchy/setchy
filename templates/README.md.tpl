@@ -26,36 +26,36 @@
 
 {{range recentReleases 10}}
 
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
-  {{- end}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}
+  {{end}}
 
 #### 🚀 My recent contributions
 
 {{range recentContributions 10}}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description }} at {{humanize .OccurredAt}}
-  {{- end}}
+  {{end}}
 
 #### 🚀 My recent pull requests
 
 {{range recentPullRequests 10}}
 
 - [{{.Title}}]({{.URL}}) [{{.State}}] to ([{{.Repo.Name}}]({{.Repo.Url}}) at {{humanize .CreatedAt}}
-  {{- end}}
+  {{end}}
 
 #### ⭐ Latest projects I've starred
 
 {{range recentStars 10}}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) {{.Repo.Stargazers}}⭐
-  {{- end}}
+  {{end}}
 
 #### ⭐ Latest followers
 
 {{range followers 5}}
 
 - [{{.Login}}]({{.AvatarURL}}) {{.Name}}⭐
-  {{- end}}
+  {{end}}
 
 <!--
 **setchy/setchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
