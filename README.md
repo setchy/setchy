@@ -26,17 +26,17 @@
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., today
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 1 day ago
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, today
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 1 day ago
 
-- [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 1 day ago
+- [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 2 days ago
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 2 days ago
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 3 days ago
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway , 2 days ago
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 3 days ago
 
-- [setchy/renovate-docker-pinning-issue](https://github.com/setchy/renovate-docker-pinning-issue) - , 6 days ago
+- [setchy/renovate-docker-pinning-issue](https://github.com/setchy/renovate-docker-pinning-issue) - , 1 week ago
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 1 week ago
 
@@ -50,31 +50,31 @@
 
 
 
-- [OPEN] - [docs: readme makeover](https://github.com/graphql-java/graphql-java-extended-scalars/pull/94) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), today
+- [OPEN] - [docs: readme makeover](https://github.com/graphql-java/graphql-java-extended-scalars/pull/94) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 1 day ago
 
-- [MERGED] - [docs: update to reference scalars.graphql.org specification for DateTime](https://github.com/graphql-java/graphql-java-extended-scalars/pull/93) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 1 day ago
+- [MERGED] - [docs: update to reference scalars.graphql.org specification for DateTime](https://github.com/graphql-java/graphql-java-extended-scalars/pull/93) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 2 days ago
 
-- [OPEN] - [docs: generate platform and datasources open features and bugs markdown](https://github.com/renovatebot/renovate/pull/20873) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [OPEN] - [docs: generate platform and datasources open features and bugs markdown](https://github.com/renovatebot/renovate/pull/20873) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [MERGED] - [docs(platform/bitbucket-server): update header to be consistent with other platforms](https://github.com/renovatebot/renovate/pull/20870) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [MERGED] - [docs(platform/bitbucket-server): update header to be consistent with other platforms](https://github.com/renovatebot/renovate/pull/20870) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [MERGED] - [docs: update major platform features not supported](https://github.com/renovatebot/renovate/pull/20869) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [MERGED] - [docs: update major platform features not supported](https://github.com/renovatebot/renovate/pull/20869) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [MERGED] - [docs(platform/bitbucket): update requiring implementation section](https://github.com/renovatebot/renovate/pull/20863) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [MERGED] - [docs(platform/bitbucket): update requiring implementation section](https://github.com/renovatebot/renovate/pull/20863) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [MERGED] - [build: add .nvmrc](https://github.com/renovatebot/renovate/pull/20862) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [MERGED] - [build: add .nvmrc](https://github.com/renovatebot/renovate/pull/20862) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
 
-- [MERGED] - [docs: add @setchy as contributor](https://github.com/renovatebot/renovate/pull/20861) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [MERGED] - [docs: add @setchy as contributor](https://github.com/renovatebot/renovate/pull/20861) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
 
-- [MERGED] - [feat(platform/bitbucket): add support for Bitbucket development branching model](https://github.com/renovatebot/renovate/pull/20860) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [MERGED] - [feat(platform/bitbucket): add support for Bitbucket development branching model](https://github.com/renovatebot/renovate/pull/20860) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
 
-- [CLOSED] - [Feature/bitbucket development branch](https://github.com/renovatebot/renovate/pull/20859) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [CLOSED] - [Feature/bitbucket development branch](https://github.com/renovatebot/renovate/pull/20859) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
 
-- [CLOSED] - [feat(platform/bitbucket): use development branching model as default branch](https://github.com/renovatebot/renovate/pull/20803) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
+- [CLOSED] - [feat(platform/bitbucket): use development branching model as default branch](https://github.com/renovatebot/renovate/pull/20803) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
 
-- [CLOSED] - [feat(platform): update PR target branch if baseBranch changed](https://github.com/renovatebot/renovate/pull/20800) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
+- [CLOSED] - [feat(platform): update PR target branch if baseBranch changed](https://github.com/renovatebot/renovate/pull/20800) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
 
-- [MERGED] - [docs: add replacement to matchUpdateTypes](https://github.com/renovatebot/renovate/pull/20656) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
+- [MERGED] - [docs: add replacement to matchUpdateTypes](https://github.com/renovatebot/renovate/pull/20656) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
 - [MERGED] - [feat: support name only replacements](https://github.com/renovatebot/renovate/pull/20629) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
@@ -100,11 +100,11 @@
 
 - [criteo/openapi-comparator](https://github.com/criteo/openapi-comparator) 9⭐
 
-- [sindresorhus/execa](https://github.com/sindresorhus/execa) 5262⭐
+- [sindresorhus/execa](https://github.com/sindresorhus/execa) 5265⭐
 
 - [renovatebot/renovatebot.github.io](https://github.com/renovatebot/renovatebot.github.io) 27⭐
 
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) 13575⭐
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) 13577⭐
 
 - [dexterleng/homerow](https://github.com/dexterleng/homerow) 130⭐
 
