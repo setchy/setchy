@@ -2,41 +2,41 @@
   <img src="https://github-readme-stats.vercel.app/api?username=setchy&show_icons=true&theme=algolia&count_private=true" alt="setchys's github stats">
 </p>
 
-#### 📖 About me
+### 📖 About me
 
 - Senior Executive (VP) // Architect // Developer
 
-#### 🔭 Interests
+### 🔭 Interests
 
 - GraphQL // Apollo // REST // AsyncAPI
 - LeanIX // Renovate // Tech Radar
 - Developer Experience // Developer Productivity
 - Building strong communities of practice (guilds, chapters, etc)
 
-#### 📫 How to reach me
+### 📫 How to reach me
 
 - You can reach me at the email in my Github profile.
 - [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adamsetch)
 
-#### 🎤 Presentations
+### 🎤 Presentations
 
 - [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph](https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph)
 
-#### 🚀 My recent contributions
+### 🚀 My recent contributions
 
 {{range recentContributions 10}}
 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description }}, {{humanize .OccurredAt}}
   {{- end}}
 
-#### 🎉 My recent pull requests
+### 🎉 My recent pull requests
 
 {{range recentPullRequests 20}}
 
 - [{{.State}}] - [{{.Title}}]({{.URL}}) to [{{.Repo.Name}}]({{.Repo.URL}}), {{humanize .CreatedAt}}
   {{- end}}
 
-#### ⭐ Latest projects I've starred
+### ⭐ Latest projects I've starred
 
 {{range recentStars 10}}
 
