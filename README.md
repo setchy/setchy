@@ -2,27 +2,27 @@
   <img src="https://github-readme-stats.vercel.app/api?username=setchy&show_icons=true&theme=algolia&count_private=true" alt="setchys's github stats">
 </p>
 
-#### 📖 About me
+### 📖 About me
 
 - Senior Executive (VP) // Architect // Developer
 
-#### 🔭 Interests
+### 🔭 Interests
 
 - GraphQL // Apollo // REST // AsyncAPI
 - LeanIX // Renovate // Tech Radar
 - Developer Experience // Developer Productivity
 - Building strong communities of practice (guilds, chapters, etc)
 
-#### 📫 How to reach me
+### 📫 How to reach me
 
 - You can reach me at the email in my Github profile.
 - [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adamsetch)
 
-#### 🎤 Presentations
+### 🎤 Presentations
 
 - [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph](https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph)
 
-#### 🚀 My recent contributions
+### 🚀 My recent contributions
 
 
 
@@ -46,7 +46,7 @@
 
 - [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker., 3 weeks ago
 
-#### 🎉 My recent pull requests
+### 🎉 My recent pull requests
 
 
 
@@ -90,7 +90,7 @@
 
 - [MERGED] - [fix: remove rebase-all-open-prs checkbox from read only issue bodies](https://github.com/renovatebot/renovate/pull/20578) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
-#### ⭐ Latest projects I've starred
+### ⭐ Latest projects I've starred
 
 
 
@@ -100,11 +100,11 @@
 
 - [criteo/openapi-comparator](https://github.com/criteo/openapi-comparator) 9⭐
 
-- [sindresorhus/execa](https://github.com/sindresorhus/execa) 5274⭐
+- [sindresorhus/execa](https://github.com/sindresorhus/execa) 5275⭐
 
 - [renovatebot/renovatebot.github.io](https://github.com/renovatebot/renovatebot.github.io) 27⭐
 
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) 13585⭐
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) 13591⭐
 
 - [dexterleng/homerow](https://github.com/dexterleng/homerow) 131⭐
 
@@ -112,6 +112,6 @@
 
 - [manosim/gitify](https://github.com/manosim/gitify) 3924⭐
 
-- [stepci/garph](https://github.com/stepci/garph) 248⭐
+- [stepci/garph](https://github.com/stepci/garph) 249⭐
 
 
