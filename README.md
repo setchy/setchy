@@ -26,63 +26,63 @@
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 1 day ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 2 days ago
 
-- [setchy/renovate-jenv](https://github.com/setchy/renovate-jenv) - , 1 day ago
+- [setchy/renovate-jenv](https://github.com/setchy/renovate-jenv) - , 2 days ago
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 day ago
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 2 days ago
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 day ago
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 2 days ago
 
-- [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement) - renovate-docker-replacement, 2 days ago
+- [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement) - renovate-docker-replacement, 3 days ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 3 days ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 4 days ago
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site, 3 days ago
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site, 4 days ago
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 6 days ago
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 1 week ago
 
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 1 week ago
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 1 week ago
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 2 weeks ago
 
 ### 🎉 My recent pull requests
 
 
 
-- [OPEN] - [Update dependency java to v17](https://github.com/setchy/renovate-jenv/pull/5) to [setchy/renovate-jenv](https://github.com/setchy/renovate-jenv), 1 day ago
+- [OPEN] - [Update dependency java to v17](https://github.com/setchy/renovate-jenv/pull/5) to [setchy/renovate-jenv](https://github.com/setchy/renovate-jenv), 2 days ago
 
-- [OPEN] - [Update dependency java to v11.0.18&#43;10](https://github.com/setchy/renovate-jenv/pull/4) to [setchy/renovate-jenv](https://github.com/setchy/renovate-jenv), 1 day ago
+- [OPEN] - [Update dependency java to v11.0.18&#43;10](https://github.com/setchy/renovate-jenv/pull/4) to [setchy/renovate-jenv](https://github.com/setchy/renovate-jenv), 2 days ago
 
-- [CLOSED] - [Update dependency eclipse-temurin to v17 - autoclosed](https://github.com/setchy/renovate-jenv/pull/2) to [setchy/renovate-jenv](https://github.com/setchy/renovate-jenv), 1 day ago
+- [CLOSED] - [Update dependency eclipse-temurin to v17 - autoclosed](https://github.com/setchy/renovate-jenv/pull/2) to [setchy/renovate-jenv](https://github.com/setchy/renovate-jenv), 2 days ago
 
-- [CLOSED] - [Update dependency eclipse-temurin to v11.0.18&#43;10 - autoclosed](https://github.com/setchy/renovate-jenv/pull/1) to [setchy/renovate-jenv](https://github.com/setchy/renovate-jenv), 1 day ago
+- [CLOSED] - [Update dependency eclipse-temurin to v11.0.18&#43;10 - autoclosed](https://github.com/setchy/renovate-jenv/pull/1) to [setchy/renovate-jenv](https://github.com/setchy/renovate-jenv), 2 days ago
 
-- [MERGED] - [fix(bitbucket): use correct case  ](https://github.com/renovatebot/renovate/pull/21002) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [MERGED] - [fix(bitbucket): use correct case  ](https://github.com/renovatebot/renovate/pull/21002) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [OPEN] - [Update docker.io/library/eclipse-temurin Docker tag to v19](https://github.com/setchy/renovate-docker-replacement/pull/15) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 2 days ago
+- [OPEN] - [Update docker.io/library/eclipse-temurin Docker tag to v19](https://github.com/setchy/renovate-docker-replacement/pull/15) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 3 days ago
 
-- [OPEN] - [Replace Node.js with ghcr.io/library/node](https://github.com/setchy/renovate-docker-replacement/pull/14) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 2 days ago
+- [OPEN] - [Replace Node.js with ghcr.io/library/node](https://github.com/setchy/renovate-docker-replacement/pull/14) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 3 days ago
 
-- [OPEN] - [Update Node.js to v19](https://github.com/setchy/renovate-docker-replacement/pull/13) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 2 days ago
+- [OPEN] - [Update Node.js to v19](https://github.com/setchy/renovate-docker-replacement/pull/13) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 3 days ago
 
-- [OPEN] - [Replace docker.io/library/eclipse-temurin Docker tag with ghcr.io/library/eclipse-temurin](https://github.com/setchy/renovate-docker-replacement/pull/12) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 2 days ago
+- [OPEN] - [Replace docker.io/library/eclipse-temurin Docker tag with ghcr.io/library/eclipse-temurin](https://github.com/setchy/renovate-docker-replacement/pull/12) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 3 days ago
 
-- [CLOSED] - [close me Replace docker.io/library/eclipse-temurin Docker tag with ghcr.io/library/eclipse-temurin](https://github.com/setchy/renovate-docker-replacement/pull/11) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 2 days ago
+- [CLOSED] - [close me Replace docker.io/library/eclipse-temurin Docker tag with ghcr.io/library/eclipse-temurin](https://github.com/setchy/renovate-docker-replacement/pull/11) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 3 days ago
 
-- [CLOSED] - [closing Replace docker.io/library/eclipse-temurin Docker tag with ghcr.io/library/eclipse-temurin](https://github.com/setchy/renovate-docker-replacement/pull/10) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 2 days ago
+- [CLOSED] - [closing Replace docker.io/library/eclipse-temurin Docker tag with ghcr.io/library/eclipse-temurin](https://github.com/setchy/renovate-docker-replacement/pull/10) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 3 days ago
 
-- [CLOSED] - [close me Replace docker.io/library/eclipse-temurin Docker tag with ghcr.io/library/eclipse-temurin](https://github.com/setchy/renovate-docker-replacement/pull/6) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 2 days ago
+- [CLOSED] - [close me Replace docker.io/library/eclipse-temurin Docker tag with ghcr.io/library/eclipse-temurin](https://github.com/setchy/renovate-docker-replacement/pull/6) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 3 days ago
 
-- [CLOSED] - [closed Replace Node.js with ghcr.io/library/node](https://github.com/setchy/renovate-docker-replacement/pull/5) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 2 days ago
+- [CLOSED] - [closed Replace Node.js with ghcr.io/library/node](https://github.com/setchy/renovate-docker-replacement/pull/5) to [setchy/renovate-docker-replacement](https://github.com/setchy/renovate-docker-replacement), 3 days ago
 
-- [MERGED] - [feat(manager/bitbucket-pipelines): add support for docker-based pipes](https://github.com/renovatebot/renovate/pull/20938) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [MERGED] - [feat(manager/bitbucket-pipelines): add support for docker-based pipes](https://github.com/renovatebot/renovate/pull/20938) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
-- [OPEN] - [feat(replacements): support for replacement name templating](https://github.com/renovatebot/renovate/pull/20905) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [OPEN] - [feat(replacements): support for replacement name templating](https://github.com/renovatebot/renovate/pull/20905) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
 
-- [MERGED] - [docs: add @setchy to about-us](https://github.com/renovatebot/renovate/pull/20903) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [MERGED] - [docs: add @setchy to about-us](https://github.com/renovatebot/renovate/pull/20903) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
 
-- [OPEN] - [docs: readme makeover](https://github.com/graphql-java/graphql-java-extended-scalars/pull/94) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 6 days ago
+- [OPEN] - [docs: readme makeover](https://github.com/graphql-java/graphql-java-extended-scalars/pull/94) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 1 week ago
 
 - [MERGED] - [docs: update to reference scalars.graphql.org specification for DateTime](https://github.com/graphql-java/graphql-java-extended-scalars/pull/93) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 1 week ago
 
@@ -96,7 +96,7 @@
 
 - [trailofbits/publications](https://github.com/trailofbits/publications) 1119⭐
 
-- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) 138⭐
+- [Azure/data-api-builder](https://github.com/Azure/data-api-builder) 153⭐
 
 - [muesli/markscribe](https://github.com/muesli/markscribe) 269⭐
 
@@ -104,13 +104,13 @@
 
 - [criteo/openapi-comparator](https://github.com/criteo/openapi-comparator) 10⭐
 
-- [sindresorhus/execa](https://github.com/sindresorhus/execa) 5325⭐
+- [sindresorhus/execa](https://github.com/sindresorhus/execa) 5361⭐
 
 - [renovatebot/renovatebot.github.io](https://github.com/renovatebot/renovatebot.github.io) 27⭐
 
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) 13603⭐
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) 13606⭐
 
-- [dexterleng/homerow](https://github.com/dexterleng/homerow) 131⭐
+- [dexterleng/homerow](https://github.com/dexterleng/homerow) 132⭐
 
 - [MunifTanjim/node-bitbucket](https://github.com/MunifTanjim/node-bitbucket) 97⭐
 
