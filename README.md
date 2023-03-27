@@ -26,15 +26,17 @@
 
 
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 1 day ago
+- [setchy/demo-renovate-oboarding](https://github.com/setchy/demo-renovate-oboarding) - , 1 day ago
 
-- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 3 days ago
+- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 1 day ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 3 days ago
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 2 days ago
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 4 days ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 4 days ago
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 6 days ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 5 days ago
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 1 week ago
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 week ago
 
@@ -44,37 +46,35 @@
 
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 2 weeks ago
 
-- [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker., 1 month ago
-
 ### 🎉 My recent pull requests
 
 
 
-- [OPEN] - [feat(replacement): consolidate replacement rules](https://github.com/renovatebot/renovate/pull/21155) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [OPEN] - [feat(replacement): consolidate replacement rules](https://github.com/renovatebot/renovate/pull/21155) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [OPEN] - [feat(replacement): support replacement rules for invalid versions](https://github.com/renovatebot/renovate/pull/21151) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [CLOSED] - [feat(replacement): support replacement rules for invalid versions](https://github.com/renovatebot/renovate/pull/21151) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [CLOSED] - [feat(bitbucket-pipelines): extract private images](https://github.com/renovatebot/renovate/pull/21107) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [CLOSED] - [feat(bitbucket-pipelines): extract private images](https://github.com/renovatebot/renovate/pull/21107) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
-- [CLOSED] - [docs(bitbucket-pipelines): specify language as docker](https://github.com/renovatebot/renovate/pull/21097) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [CLOSED] - [docs(bitbucket-pipelines): specify language as docker](https://github.com/renovatebot/renovate/pull/21097) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
-- [OPEN] - [docs(bitbucket-pipelines): authenticated registries](https://github.com/renovatebot/renovate/pull/21096) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [OPEN] - [docs(bitbucket-pipelines): authenticated registries](https://github.com/renovatebot/renovate/pull/21096) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
-- [OPEN] - [chore(deps): update node docker tag to v19](https://github.com/setchy/renovate-bitbucket-pipelines/pull/2) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 4 days ago
+- [OPEN] - [chore(deps): update node docker tag to v19](https://github.com/setchy/renovate-bitbucket-pipelines/pull/2) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 5 days ago
 
-- [MERGED] - [Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/1) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 4 days ago
+- [MERGED] - [Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/1) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 5 days ago
 
-- [MERGED] - [docs(replacement): update examples](https://github.com/renovatebot/renovate/pull/21076) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [MERGED] - [docs(replacement): update examples](https://github.com/renovatebot/renovate/pull/21076) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
 
-- [OPEN] - [feat(issues): add jira http util](https://github.com/renovatebot/renovate/pull/21056) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [OPEN] - [feat(issues): add jira http util](https://github.com/renovatebot/renovate/pull/21056) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
 
 - [MERGED] - [fix(bitbucket): use correct case  ](https://github.com/renovatebot/renovate/pull/21002) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
 - [MERGED] - [feat(manager/bitbucket-pipelines): add support for docker-based pipes](https://github.com/renovatebot/renovate/pull/20938) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
-- [MERGED] - [feat(replacements): support for replacement name templating](https://github.com/renovatebot/renovate/pull/20905) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
+- [MERGED] - [feat(replacements): support for replacement name templating](https://github.com/renovatebot/renovate/pull/20905) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
-- [MERGED] - [docs: add @setchy to about-us](https://github.com/renovatebot/renovate/pull/20903) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
+- [MERGED] - [docs: add @setchy to about-us](https://github.com/renovatebot/renovate/pull/20903) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
 - [OPEN] - [docs: readme makeover](https://github.com/graphql-java/graphql-java-extended-scalars/pull/94) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 2 weeks ago
 
@@ -94,19 +94,19 @@
 
 
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 534⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 651⭐
 
 - [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 457⭐
 
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7477⭐
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7498⭐
 
-- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) 2915⭐
+- [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) 2916⭐
 
-- [antfu/ni](https://github.com/antfu/ni) 3810⭐
+- [antfu/ni](https://github.com/antfu/ni) 3816⭐
 
 - [jdrouet/ferris-emoji](https://github.com/jdrouet/ferris-emoji) 23⭐
 
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) 17536⭐
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) 17540⭐
 
 - [jfrog/setup-jfrog-cli](https://github.com/jfrog/setup-jfrog-cli) 193⭐
 
