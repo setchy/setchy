@@ -26,21 +26,21 @@
 
 
 
-- [setchy/demo-renovate-oboarding](https://github.com/setchy/demo-renovate-oboarding) - , 1 day ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 1 day ago
 
 - [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 1 day ago
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 2 days ago
+- [setchy/demo-renovate-oboarding](https://github.com/setchy/demo-renovate-oboarding) - , 2 days ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 4 days ago
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 3 days ago
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 5 days ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 5 days ago
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 1 week ago
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 week ago
-
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 week ago
+
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 week ago
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site, 1 week ago
 
@@ -50,23 +50,27 @@
 
 
 
-- [OPEN] - [feat(replacement): consolidate replacement rules](https://github.com/renovatebot/renovate/pull/21155) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [OPEN] - [feat(template): indentation capture group](https://github.com/renovatebot/renovate/pull/21193) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
 
-- [CLOSED] - [feat(replacement): support replacement rules for invalid versions](https://github.com/renovatebot/renovate/pull/21151) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [CLOSED] - [closed Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/5) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 1 day ago
 
-- [CLOSED] - [feat(bitbucket-pipelines): extract private images](https://github.com/renovatebot/renovate/pull/21107) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
+- [MERGED] - [feat(replacement): consolidate replacement rules](https://github.com/renovatebot/renovate/pull/21155) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
 
-- [CLOSED] - [docs(bitbucket-pipelines): specify language as docker](https://github.com/renovatebot/renovate/pull/21097) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
+- [CLOSED] - [feat(replacement): support replacement rules for invalid versions](https://github.com/renovatebot/renovate/pull/21151) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
 
-- [OPEN] - [docs(bitbucket-pipelines): authenticated registries](https://github.com/renovatebot/renovate/pull/21096) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
+- [CLOSED] - [feat(bitbucket-pipelines): extract private images](https://github.com/renovatebot/renovate/pull/21107) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
 
-- [OPEN] - [chore(deps): update node docker tag to v19](https://github.com/setchy/renovate-bitbucket-pipelines/pull/2) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 5 days ago
+- [CLOSED] - [docs(bitbucket-pipelines): specify language as docker](https://github.com/renovatebot/renovate/pull/21097) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
 
-- [MERGED] - [Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/1) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 5 days ago
+- [OPEN] - [docs(bitbucket-pipelines): authenticated registries](https://github.com/renovatebot/renovate/pull/21096) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
 
-- [MERGED] - [docs(replacement): update examples](https://github.com/renovatebot/renovate/pull/21076) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+- [CLOSED] - [stale chore(deps): update node docker tag to v19](https://github.com/setchy/renovate-bitbucket-pipelines/pull/2) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 6 days ago
 
-- [OPEN] - [feat(issues): add jira http util](https://github.com/renovatebot/renovate/pull/21056) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+- [MERGED] - [renamed Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/1) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 6 days ago
+
+- [MERGED] - [docs(replacement): update examples](https://github.com/renovatebot/renovate/pull/21076) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
+
+- [OPEN] - [feat(issues): add jira http util](https://github.com/renovatebot/renovate/pull/21056) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
 - [MERGED] - [fix(bitbucket): use correct case  ](https://github.com/renovatebot/renovate/pull/21002) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
@@ -86,32 +90,28 @@
 
 - [MERGED] - [docs: update major platform features not supported](https://github.com/renovatebot/renovate/pull/20869) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
-- [MERGED] - [docs(platform/bitbucket): update requiring implementation section](https://github.com/renovatebot/renovate/pull/20863) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
-
-- [MERGED] - [build: add .nvmrc](https://github.com/renovatebot/renovate/pull/20862) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
-
 ### ⭐ Latest projects I've starred
 
 
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 651⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28149⭐
 
-- [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 457⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 709⭐
 
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7498⭐
+- [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 458⭐
+
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7523⭐
 
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) 2916⭐
 
-- [antfu/ni](https://github.com/antfu/ni) 3816⭐
+- [antfu/ni](https://github.com/antfu/ni) 3821⭐
 
 - [jdrouet/ferris-emoji](https://github.com/jdrouet/ferris-emoji) 23⭐
 
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) 17540⭐
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) 17549⭐
 
 - [jfrog/setup-jfrog-cli](https://github.com/jfrog/setup-jfrog-cli) 193⭐
 
-- [maxday/lambda-perf](https://github.com/maxday/lambda-perf) 167⭐
-
-- [atlassian-labs/compass-examples](https://github.com/atlassian-labs/compass-examples) 8⭐
+- [maxday/lambda-perf](https://github.com/maxday/lambda-perf) 168⭐
 
 
