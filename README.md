@@ -26,23 +26,23 @@
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 1 day ago
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 1 day ago
 
-- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 1 day ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 2 days ago
 
-- [setchy/demo-renovate-oboarding](https://github.com/setchy/demo-renovate-oboarding) - , 2 days ago
+- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 2 days ago
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 3 days ago
+- [setchy/demo-renovate-oboarding](https://github.com/setchy/demo-renovate-oboarding) - , 3 days ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 5 days ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 6 days ago
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 1 week ago
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 week ago
-
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 week ago
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site, 1 week ago
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 week ago
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site, 2 weeks ago
 
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 2 weeks ago
 
@@ -50,23 +50,37 @@
 
 
 
-- [OPEN] - [feat(template): indentation capture group](https://github.com/renovatebot/renovate/pull/21193) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [MERGED] - [test: add tests for resourceid directive](https://github.com/setchy/dgs-extended-formatters/pull/81) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 day ago
 
-- [CLOSED] - [closed Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/5) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 1 day ago
+- [MERGED] - [tests: increase coverage](https://github.com/setchy/dgs-extended-formatters/pull/80) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 day ago
 
-- [MERGED] - [feat(replacement): consolidate replacement rules](https://github.com/renovatebot/renovate/pull/21155) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [MERGED] - [build: sonarcloud coverage reporting](https://github.com/setchy/dgs-extended-formatters/pull/79) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 day ago
 
-- [CLOSED] - [feat(replacement): support replacement rules for invalid versions](https://github.com/renovatebot/renovate/pull/21151) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [CLOSED] - [Feature/sonarcloud config setup](https://github.com/setchy/dgs-extended-formatters/pull/78) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 day ago
 
-- [CLOSED] - [feat(bitbucket-pipelines): extract private images](https://github.com/renovatebot/renovate/pull/21107) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [MERGED] - [build: configure sonarcloud coverage](https://github.com/setchy/dgs-extended-formatters/pull/76) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 day ago
 
-- [CLOSED] - [docs(bitbucket-pipelines): specify language as docker](https://github.com/renovatebot/renovate/pull/21097) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [MERGED] - [build: configure sonarcloud](https://github.com/setchy/dgs-extended-formatters/pull/75) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 day ago
 
-- [OPEN] - [docs(bitbucket-pipelines): authenticated registries](https://github.com/renovatebot/renovate/pull/21096) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [MERGED] - [tests: add string directive unit tests](https://github.com/setchy/dgs-extended-formatters/pull/74) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 day ago
 
-- [CLOSED] - [stale chore(deps): update node docker tag to v19](https://github.com/setchy/renovate-bitbucket-pipelines/pull/2) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 6 days ago
+- [OPEN] - [feat(template): indentation capture group](https://github.com/renovatebot/renovate/pull/21193) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [MERGED] - [renamed Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/1) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 6 days ago
+- [CLOSED] - [closed Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/5) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 2 days ago
+
+- [MERGED] - [feat(replacement): consolidate replacement rules](https://github.com/renovatebot/renovate/pull/21155) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
+
+- [CLOSED] - [feat(replacement): support replacement rules for invalid versions](https://github.com/renovatebot/renovate/pull/21151) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
+
+- [CLOSED] - [feat(bitbucket-pipelines): extract private images](https://github.com/renovatebot/renovate/pull/21107) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+
+- [CLOSED] - [docs(bitbucket-pipelines): specify language as docker](https://github.com/renovatebot/renovate/pull/21097) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+
+- [OPEN] - [docs(bitbucket-pipelines): authenticated registries](https://github.com/renovatebot/renovate/pull/21096) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+
+- [CLOSED] - [stale chore(deps): update node docker tag to v19](https://github.com/setchy/renovate-bitbucket-pipelines/pull/2) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 1 week ago
+
+- [MERGED] - [renamed Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/1) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 1 week ago
 
 - [MERGED] - [docs(replacement): update examples](https://github.com/renovatebot/renovate/pull/21076) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
@@ -74,41 +88,27 @@
 
 - [MERGED] - [fix(bitbucket): use correct case  ](https://github.com/renovatebot/renovate/pull/21002) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
-- [MERGED] - [feat(manager/bitbucket-pipelines): add support for docker-based pipes](https://github.com/renovatebot/renovate/pull/20938) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
-
-- [MERGED] - [feat(replacements): support for replacement name templating](https://github.com/renovatebot/renovate/pull/20905) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
-
-- [MERGED] - [docs: add @setchy to about-us](https://github.com/renovatebot/renovate/pull/20903) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
-
-- [OPEN] - [docs: readme makeover](https://github.com/graphql-java/graphql-java-extended-scalars/pull/94) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 2 weeks ago
-
-- [MERGED] - [docs: update to reference scalars.graphql.org specification for DateTime](https://github.com/graphql-java/graphql-java-extended-scalars/pull/93) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 2 weeks ago
-
-- [MERGED] - [docs: generate platform and datasources open features and bugs markdown](https://github.com/renovatebot/renovate/pull/20873) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
-
-- [MERGED] - [docs(platform/bitbucket-server): update header to be consistent with other platforms](https://github.com/renovatebot/renovate/pull/20870) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
-
-- [MERGED] - [docs: update major platform features not supported](https://github.com/renovatebot/renovate/pull/20869) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
+- [MERGED] - [feat(manager/bitbucket-pipelines): add support for docker-based pipes](https://github.com/renovatebot/renovate/pull/20938) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
 ### ⭐ Latest projects I've starred
 
 
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28149⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28165⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 709⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 799⭐
 
 - [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 458⭐
 
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7523⭐
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7550⭐
 
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) 2916⭐
 
-- [antfu/ni](https://github.com/antfu/ni) 3821⭐
+- [antfu/ni](https://github.com/antfu/ni) 3822⭐
 
 - [jdrouet/ferris-emoji](https://github.com/jdrouet/ferris-emoji) 23⭐
 
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) 17549⭐
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) 17555⭐
 
 - [jfrog/setup-jfrog-cli](https://github.com/jfrog/setup-jfrog-cli) 193⭐
 
