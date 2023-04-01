@@ -26,13 +26,13 @@
 
 
 
-- [setchy/renovate-demo-onboard](https://github.com/setchy/renovate-demo-onboard) - , 1 day ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 1 day ago
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 2 days ago
+- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 1 day ago
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 4 days ago
+- [setchy/renovate-demo-onboard](https://github.com/setchy/renovate-demo-onboard) - , 2 days ago
 
-- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 4 days ago
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - An experimental set of DGS Directives for common formatting use-cases, 3 days ago
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 1 week ago
 
@@ -44,35 +44,39 @@
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site, 2 weeks ago
 
-- [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 2 weeks ago
+- [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 3 weeks ago
 
 ### 🎉 My recent pull requests
 
 
 
-- [MERGED] - [feat: numeric formatters](https://github.com/setchy/dgs-extended-formatters/pull/84) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 days ago
+- [OPEN] - [docs: fix year](https://github.com/Netflix/dgs/pull/132) to [Netflix/dgs](https://github.com/Netflix/dgs), today
 
-- [MERGED] - [test: add tests for resourceid directive](https://github.com/setchy/dgs-extended-formatters/pull/81) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 days ago
+- [OPEN] - [tests: update unit tests](https://github.com/setchy/dgs-extended-formatters/pull/85) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 day ago
 
-- [MERGED] - [tests: increase coverage](https://github.com/setchy/dgs-extended-formatters/pull/80) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 days ago
+- [MERGED] - [feat: numeric formatters](https://github.com/setchy/dgs-extended-formatters/pull/84) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 days ago
 
-- [MERGED] - [build: sonarcloud coverage reporting](https://github.com/setchy/dgs-extended-formatters/pull/79) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 days ago
+- [MERGED] - [test: add tests for resourceid directive](https://github.com/setchy/dgs-extended-formatters/pull/81) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 4 days ago
 
-- [CLOSED] - [Feature/sonarcloud config setup](https://github.com/setchy/dgs-extended-formatters/pull/78) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 days ago
+- [MERGED] - [tests: increase coverage](https://github.com/setchy/dgs-extended-formatters/pull/80) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 4 days ago
 
-- [MERGED] - [build: configure sonarcloud coverage](https://github.com/setchy/dgs-extended-formatters/pull/76) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 days ago
+- [MERGED] - [build: sonarcloud coverage reporting](https://github.com/setchy/dgs-extended-formatters/pull/79) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 4 days ago
 
-- [MERGED] - [build: configure sonarcloud](https://github.com/setchy/dgs-extended-formatters/pull/75) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 days ago
+- [CLOSED] - [Feature/sonarcloud config setup](https://github.com/setchy/dgs-extended-formatters/pull/78) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 4 days ago
 
-- [MERGED] - [tests: add string directive unit tests](https://github.com/setchy/dgs-extended-formatters/pull/74) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 days ago
+- [MERGED] - [build: configure sonarcloud coverage](https://github.com/setchy/dgs-extended-formatters/pull/76) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 4 days ago
 
-- [OPEN] - [feat(template): indentation capture group](https://github.com/renovatebot/renovate/pull/21193) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
+- [MERGED] - [build: configure sonarcloud](https://github.com/setchy/dgs-extended-formatters/pull/75) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 4 days ago
 
-- [CLOSED] - [closed Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/5) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 4 days ago
+- [MERGED] - [tests: add string directive unit tests](https://github.com/setchy/dgs-extended-formatters/pull/74) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 4 days ago
 
-- [MERGED] - [feat(replacement): consolidate replacement rules](https://github.com/renovatebot/renovate/pull/21155) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+- [MERGED] - [feat(template): indentation capture group](https://github.com/renovatebot/renovate/pull/21193) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
 
-- [CLOSED] - [feat(replacement): support replacement rules for invalid versions](https://github.com/renovatebot/renovate/pull/21151) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+- [CLOSED] - [closed Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/5) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 5 days ago
+
+- [MERGED] - [feat(replacement): consolidate replacement rules](https://github.com/renovatebot/renovate/pull/21155) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
+
+- [CLOSED] - [feat(replacement): support replacement rules for invalid versions](https://github.com/renovatebot/renovate/pull/21151) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
 - [CLOSED] - [feat(bitbucket-pipelines): extract private images](https://github.com/renovatebot/renovate/pull/21107) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
@@ -86,32 +90,28 @@
 
 - [MERGED] - [docs(replacement): update examples](https://github.com/renovatebot/renovate/pull/21076) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
-- [OPEN] - [feat(issues): add jira http util](https://github.com/renovatebot/renovate/pull/21056) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
-
-- [MERGED] - [fix(bitbucket): use correct case  ](https://github.com/renovatebot/renovate/pull/21002) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
-
 ### ⭐ Latest projects I've starred
 
 
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28189⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18489⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 851⭐
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 12366⭐
 
-- [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 459⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28203⭐
 
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7594⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 868⭐
+
+- [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 460⭐
+
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7617⭐
 
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) 2919⭐
 
-- [antfu/ni](https://github.com/antfu/ni) 3829⭐
+- [antfu/ni](https://github.com/antfu/ni) 3839⭐
 
 - [jdrouet/ferris-emoji](https://github.com/jdrouet/ferris-emoji) 23⭐
 
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) 17573⭐
-
-- [jfrog/setup-jfrog-cli](https://github.com/jfrog/setup-jfrog-cli) 194⭐
-
-- [maxday/lambda-perf](https://github.com/maxday/lambda-perf) 169⭐
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) 17579⭐
 
 
