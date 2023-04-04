@@ -26,19 +26,17 @@
 
 
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 2 days ago
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 1 day ago
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 3 days ago
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 1 day ago
 
-- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 3 days ago
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 day ago
 
-- [setchy/renovate-demo-onboard](https://github.com/setchy/renovate-demo-onboard) - , 4 days ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 1 day ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 1 week ago
+- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 1 day ago
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 2 weeks ago
-
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 2 weeks ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 4 days ago
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 2 weeks ago
 
@@ -46,31 +44,39 @@
 
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 3 weeks ago
 
+- [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker., 1 month ago
+
 ### 🎉 My recent pull requests
 
 
 
-- [MERGED] - [tests: remove modifier](https://github.com/setchy/dgs-extended-formatters/pull/87) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 days ago
+- [OPEN] - [docs: update template capture group definitions](https://github.com/renovatebot/renovate/pull/21311) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
 
-- [OPEN] - [docs: fix year](https://github.com/Netflix/dgs/pull/132) to [Netflix/dgs](https://github.com/Netflix/dgs), 2 days ago
+- [MERGED] - [feat: add prefix and suffix string directives](https://github.com/setchy/dgs-extended-formatters/pull/90) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 day ago
 
-- [MERGED] - [tests: update unit tests](https://github.com/setchy/dgs-extended-formatters/pull/85) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 days ago
+- [MERGED] - [tests: optimize imports and add basic intg test](https://github.com/setchy/dgs-extended-formatters/pull/89) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 day ago
 
-- [MERGED] - [feat: numeric formatters](https://github.com/setchy/dgs-extended-formatters/pull/84) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 5 days ago
+- [MERGED] - [tests: remove modifier](https://github.com/setchy/dgs-extended-formatters/pull/87) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 days ago
 
-- [MERGED] - [test: add tests for resourceid directive](https://github.com/setchy/dgs-extended-formatters/pull/81) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 6 days ago
+- [OPEN] - [docs: fix year](https://github.com/Netflix/dgs/pull/132) to [Netflix/dgs](https://github.com/Netflix/dgs), 3 days ago
 
-- [MERGED] - [tests: increase coverage](https://github.com/setchy/dgs-extended-formatters/pull/80) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 6 days ago
+- [MERGED] - [tests: update unit tests](https://github.com/setchy/dgs-extended-formatters/pull/85) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 4 days ago
 
-- [MERGED] - [build: sonarcloud coverage reporting](https://github.com/setchy/dgs-extended-formatters/pull/79) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 6 days ago
+- [MERGED] - [feat: numeric formatters](https://github.com/setchy/dgs-extended-formatters/pull/84) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 6 days ago
 
-- [CLOSED] - [Feature/sonarcloud config setup](https://github.com/setchy/dgs-extended-formatters/pull/78) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 6 days ago
+- [MERGED] - [test: add tests for resourceid directive](https://github.com/setchy/dgs-extended-formatters/pull/81) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
 
-- [MERGED] - [build: configure sonarcloud coverage](https://github.com/setchy/dgs-extended-formatters/pull/76) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 6 days ago
+- [MERGED] - [tests: increase coverage](https://github.com/setchy/dgs-extended-formatters/pull/80) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
 
-- [MERGED] - [build: configure sonarcloud](https://github.com/setchy/dgs-extended-formatters/pull/75) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 6 days ago
+- [MERGED] - [build: sonarcloud coverage reporting](https://github.com/setchy/dgs-extended-formatters/pull/79) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
 
-- [MERGED] - [tests: add string directive unit tests](https://github.com/setchy/dgs-extended-formatters/pull/74) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 6 days ago
+- [CLOSED] - [Feature/sonarcloud config setup](https://github.com/setchy/dgs-extended-formatters/pull/78) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
+
+- [MERGED] - [build: configure sonarcloud coverage](https://github.com/setchy/dgs-extended-formatters/pull/76) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
+
+- [MERGED] - [build: configure sonarcloud](https://github.com/setchy/dgs-extended-formatters/pull/75) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
+
+- [MERGED] - [tests: add string directive unit tests](https://github.com/setchy/dgs-extended-formatters/pull/74) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
 
 - [MERGED] - [feat(template): indentation capture group](https://github.com/renovatebot/renovate/pull/21193) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
@@ -84,34 +90,28 @@
 
 - [CLOSED] - [docs(bitbucket-pipelines): specify language as docker](https://github.com/renovatebot/renovate/pull/21097) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
-- [CLOSED] - [docs(bitbucket-pipelines): authenticated registries](https://github.com/renovatebot/renovate/pull/21096) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
-
-- [CLOSED] - [stale chore(deps): update node docker tag to v19](https://github.com/setchy/renovate-bitbucket-pipelines/pull/2) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 1 week ago
-
-- [MERGED] - [renamed Configure Renovate](https://github.com/setchy/renovate-bitbucket-pipelines/pull/1) to [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines), 1 week ago
-
 ### ⭐ Latest projects I've starred
 
 
 
-- [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 474⭐
+- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 299⭐
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18529⭐
+- [silidos/graphqxl-maven-plugin](https://github.com/silidos/graphqxl-maven-plugin) 2⭐
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 38062⭐
+- [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 475⭐
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28222⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18539⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 897⭐
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 44555⭐
 
-- [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 460⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28234⭐
 
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7636⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 909⭐
+
+- [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 461⭐
+
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7652⭐
 
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) 2920⭐
-
-- [antfu/ni](https://github.com/antfu/ni) 3847⭐
-
-- [jdrouet/ferris-emoji](https://github.com/jdrouet/ferris-emoji) 23⭐
 
 
