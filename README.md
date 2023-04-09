@@ -26,21 +26,21 @@
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 1 day ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 2 days ago
 
-- [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue) - , 2 days ago
+- [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue) - , 3 days ago
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 4 days ago
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 5 days ago
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 5 days ago
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 6 days ago
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 5 days ago
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 6 days ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 5 days ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 6 days ago
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 5 days ago
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 6 days ago
 
-- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 5 days ago
+- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 6 days ago
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site, 3 weeks ago
 
@@ -50,21 +50,21 @@
 
 
 
-- [MERGED] - [test(manager/regex): add replaceString to all non-snapshot based test assertions](https://github.com/renovatebot/renovate/pull/21380) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [MERGED] - [test(manager/regex): add replaceString to all non-snapshot based test assertions](https://github.com/renovatebot/renovate/pull/21380) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [MERGED] - [fix(manager/regex): set replaceString for digest-only matches](https://github.com/renovatebot/renovate/pull/21370) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [MERGED] - [fix(manager/regex): set replaceString for digest-only matches](https://github.com/renovatebot/renovate/pull/21370) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
 
-- [OPEN] - [Update Node.js to c212097](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/7) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 2 days ago
+- [OPEN] - [Update Node.js to c212097](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/7) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 3 days ago
 
-- [OPEN] - [Update Node.js to v19](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/6) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 2 days ago
+- [OPEN] - [Update Node.js to v19](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/6) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 3 days ago
 
-- [OPEN] - [Update Node.js to 1fab548](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/5) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 2 days ago
+- [OPEN] - [Update Node.js to 1fab548](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/5) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 3 days ago
 
-- [MERGED] - [docs: update template capture group definitions](https://github.com/renovatebot/renovate/pull/21311) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [MERGED] - [docs: update template capture group definitions](https://github.com/renovatebot/renovate/pull/21311) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
 
-- [MERGED] - [feat: add prefix and suffix string directives](https://github.com/setchy/dgs-extended-formatters/pull/90) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 5 days ago
+- [MERGED] - [feat: add prefix and suffix string directives](https://github.com/setchy/dgs-extended-formatters/pull/90) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 6 days ago
 
-- [MERGED] - [tests: optimize imports and add basic intg test](https://github.com/setchy/dgs-extended-formatters/pull/89) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 5 days ago
+- [MERGED] - [tests: optimize imports and add basic intg test](https://github.com/setchy/dgs-extended-formatters/pull/89) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 6 days ago
 
 - [MERGED] - [tests: remove modifier](https://github.com/setchy/dgs-extended-formatters/pull/87) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
 
@@ -94,24 +94,24 @@
 
 
 
-- [package-url/purl-spec](https://github.com/package-url/purl-spec) 448⭐
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3674⭐
 
-- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 300⭐
+- [package-url/purl-spec](https://github.com/package-url/purl-spec) 449⭐
+
+- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 301⭐
 
 - [silidos/graphqxl-maven-plugin](https://github.com/silidos/graphqxl-maven-plugin) 2⭐
 
-- [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 477⭐
+- [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 478⭐
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18650⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18666⭐
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 52133⭐
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 52653⭐
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28290⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28297⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 965⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 967⭐
 
 - [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 463⭐
-
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) 7701⭐
 
 
