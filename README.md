@@ -26,9 +26,9 @@
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 1 day ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 2 days ago
 
-- [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue) - , 5 days ago
+- [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue) - , 6 days ago
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 1 week ago
 
@@ -42,7 +42,7 @@
 
 - [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 1 week ago
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site, 3 weeks ago
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site, 4 weeks ago
 
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 1 month ago
 
@@ -50,17 +50,17 @@
 
 
 
-- [MERGED] - [refactor(platform): add id for each platform](https://github.com/renovatebot/renovate/pull/21405) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [MERGED] - [refactor(platform): add id for each platform](https://github.com/renovatebot/renovate/pull/21405) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [MERGED] - [test(manager/regex): add replaceString to all non-snapshot based test assertions](https://github.com/renovatebot/renovate/pull/21380) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
+- [MERGED] - [test(manager/regex): add replaceString to all non-snapshot based test assertions](https://github.com/renovatebot/renovate/pull/21380) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
 
-- [MERGED] - [fix(manager/regex): set replaceString for digest-only matches](https://github.com/renovatebot/renovate/pull/21370) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [MERGED] - [fix(manager/regex): set replaceString for digest-only matches](https://github.com/renovatebot/renovate/pull/21370) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
 
-- [OPEN] - [Update Node.js to c212097](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/7) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 5 days ago
+- [OPEN] - [Update Node.js to c212097](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/7) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 6 days ago
 
-- [OPEN] - [Update Node.js to v19](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/6) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 5 days ago
+- [OPEN] - [Update Node.js to v19](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/6) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 6 days ago
 
-- [OPEN] - [Update Node.js to 1fab548](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/5) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 5 days ago
+- [OPEN] - [Update Node.js to 1fab548](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/5) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 6 days ago
 
 - [MERGED] - [docs: update template capture group definitions](https://github.com/renovatebot/renovate/pull/21311) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
@@ -74,7 +74,7 @@
 
 - [MERGED] - [tests: update unit tests](https://github.com/setchy/dgs-extended-formatters/pull/85) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
 
-- [MERGED] - [feat: numeric formatters](https://github.com/setchy/dgs-extended-formatters/pull/84) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
+- [MERGED] - [feat: numeric formatters](https://github.com/setchy/dgs-extended-formatters/pull/84) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
 
 - [MERGED] - [test: add tests for resourceid directive](https://github.com/setchy/dgs-extended-formatters/pull/81) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
 
@@ -94,23 +94,23 @@
 
 
 
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3694⭐
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3704⭐
 
-- [package-url/purl-spec](https://github.com/package-url/purl-spec) 450⭐
+- [package-url/purl-spec](https://github.com/package-url/purl-spec) 451⭐
 
 - [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 302⭐
 
 - [silidos/graphqxl-maven-plugin](https://github.com/silidos/graphqxl-maven-plugin) 2⭐
 
-- [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 478⭐
+- [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 479⭐
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18685⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18697⭐
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 53550⭐
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 53969⭐
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28328⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28343⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 974⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 980⭐
 
 - [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 463⭐
 
