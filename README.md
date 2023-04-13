@@ -26,9 +26,9 @@
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 2 days ago
+- [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix) - , 1 day ago
 
-- [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue) - , 6 days ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 3 days ago
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 1 week ago
 
@@ -50,17 +50,35 @@
 
 
 
-- [MERGED] - [refactor(platform): add id for each platform](https://github.com/renovatebot/renovate/pull/21405) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [OPEN] - [refactor(presets): use commitMessagePrefix for separate internal presets](https://github.com/renovatebot/renovate/pull/21454) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
 
-- [MERGED] - [test(manager/regex): add replaceString to all non-snapshot based test assertions](https://github.com/renovatebot/renovate/pull/21380) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [OPEN] - [Update cucumber.version to v7 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/23) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
 
-- [MERGED] - [fix(manager/regex): set replaceString for digest-only matches](https://github.com/renovatebot/renovate/pull/21370) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+- [OPEN] - [Update cucumber.version to v6 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/22) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
 
-- [OPEN] - [Update Node.js to c212097](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/7) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 6 days ago
+- [OPEN] - [Update cucumber.version to v5 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/21) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
 
-- [OPEN] - [Update Node.js to v19](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/6) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 6 days ago
+- [CLOSED] - [ignore - Update cucumber.version to v7 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/20) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
 
-- [OPEN] - [Update Node.js to 1fab548](https://github.com/setchy/renovate-bitbucket-pipeline-issue/pull/5) to [setchy/renovate-bitbucket-pipeline-issue](https://github.com/setchy/renovate-bitbucket-pipeline-issue), 6 days ago
+- [CLOSED] - [ignore - Update cucumber.version to v6 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/19) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
+
+- [CLOSED] - [ignore - Update cucumber.version to v5 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/18) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
+
+- [CLOSED] - [ignore - Update cucumber.version (major) (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/17) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
+
+- [CLOSED] - [ignore - Update cucumber.version (major) (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/16) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
+
+- [CLOSED] - [ignore - Update cucumber.version (major) (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/15) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
+
+- [CLOSED] - [ignore - Update cucumber.version (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/12) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
+
+- [CLOSED] - [ignore - Update cucumber.version (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/11) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 day ago
+
+- [MERGED] - [refactor(platform): add id for each platform](https://github.com/renovatebot/renovate/pull/21405) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+
+- [MERGED] - [test(manager/regex): add replaceString to all non-snapshot based test assertions](https://github.com/renovatebot/renovate/pull/21380) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+
+- [MERGED] - [fix(manager/regex): set replaceString for digest-only matches](https://github.com/renovatebot/renovate/pull/21370) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
 - [MERGED] - [docs: update template capture group definitions](https://github.com/renovatebot/renovate/pull/21311) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
@@ -72,45 +90,27 @@
 
 - [OPEN] - [docs: fix year](https://github.com/Netflix/dgs/pull/132) to [Netflix/dgs](https://github.com/Netflix/dgs), 1 week ago
 
-- [MERGED] - [tests: update unit tests](https://github.com/setchy/dgs-extended-formatters/pull/85) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 week ago
-
-- [MERGED] - [feat: numeric formatters](https://github.com/setchy/dgs-extended-formatters/pull/84) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
-
-- [MERGED] - [test: add tests for resourceid directive](https://github.com/setchy/dgs-extended-formatters/pull/81) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
-
-- [MERGED] - [tests: increase coverage](https://github.com/setchy/dgs-extended-formatters/pull/80) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
-
-- [MERGED] - [build: sonarcloud coverage reporting](https://github.com/setchy/dgs-extended-formatters/pull/79) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
-
-- [CLOSED] - [Feature/sonarcloud config setup](https://github.com/setchy/dgs-extended-formatters/pull/78) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
-
-- [MERGED] - [build: configure sonarcloud coverage](https://github.com/setchy/dgs-extended-formatters/pull/76) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
-
-- [MERGED] - [build: configure sonarcloud](https://github.com/setchy/dgs-extended-formatters/pull/75) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
-
-- [MERGED] - [tests: add string directive unit tests](https://github.com/setchy/dgs-extended-formatters/pull/74) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
-
 ### ⭐ Latest projects I've starred
 
 
 
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3704⭐
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3710⭐
 
-- [package-url/purl-spec](https://github.com/package-url/purl-spec) 451⭐
+- [package-url/purl-spec](https://github.com/package-url/purl-spec) 453⭐
 
-- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 302⭐
+- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 301⭐
 
 - [silidos/graphqxl-maven-plugin](https://github.com/silidos/graphqxl-maven-plugin) 2⭐
 
 - [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 479⭐
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18697⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18708⭐
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 53969⭐
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 54315⭐
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28343⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28353⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 980⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 983⭐
 
 - [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) 463⭐
 
