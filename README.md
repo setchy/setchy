@@ -26,11 +26,11 @@
 
 
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 2 days ago
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 3 days ago
 
-- [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix) - , 3 days ago
+- [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix) - , 4 days ago
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 5 days ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 6 days ago
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 1 week ago
 
@@ -50,31 +50,31 @@
 
 
 
-- [OPEN] - [refactor(presets): use commitMessageSuffix for separate internal presets](https://github.com/renovatebot/renovate/pull/21454) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [OPEN] - [refactor(presets): use commitMessageSuffix for separate internal presets](https://github.com/renovatebot/renovate/pull/21454) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
-- [OPEN] - [Update cucumber.version to v7 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/23) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [OPEN] - [Update cucumber.version to v7 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/23) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [OPEN] - [Update cucumber.version to v6 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/22) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [OPEN] - [Update cucumber.version to v6 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/22) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [OPEN] - [Update cucumber.version to v5 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/21) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [OPEN] - [Update cucumber.version to v5 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/21) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [CLOSED] - [ignore - Update cucumber.version to v7 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/20) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [CLOSED] - [ignore - Update cucumber.version to v7 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/20) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [CLOSED] - [ignore - Update cucumber.version to v6 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/19) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [CLOSED] - [ignore - Update cucumber.version to v6 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/19) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [CLOSED] - [ignore - Update cucumber.version to v5 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/18) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [CLOSED] - [ignore - Update cucumber.version to v5 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/18) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [CLOSED] - [ignore - Update cucumber.version (major) (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/17) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [CLOSED] - [ignore - Update cucumber.version (major) (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/17) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [CLOSED] - [ignore - Update cucumber.version (major) (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/16) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [CLOSED] - [ignore - Update cucumber.version (major) (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/16) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [CLOSED] - [ignore - Update cucumber.version (major) (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/15) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [CLOSED] - [ignore - Update cucumber.version (major) (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/15) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [CLOSED] - [ignore - Update cucumber.version (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/12) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [CLOSED] - [ignore - Update cucumber.version (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/12) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [CLOSED] - [ignore - Update cucumber.version (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/11) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 3 days ago
+- [CLOSED] - [ignore - Update cucumber.version (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/11) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 4 days ago
 
-- [MERGED] - [refactor(platform): add id for each platform](https://github.com/renovatebot/renovate/pull/21405) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [MERGED] - [refactor(platform): add id for each platform](https://github.com/renovatebot/renovate/pull/21405) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
 
 - [MERGED] - [test(manager/regex): add replaceString to all non-snapshot based test assertions](https://github.com/renovatebot/renovate/pull/21380) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
@@ -94,24 +94,24 @@
 
 
 
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 12895⭐
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 12908⭐
 
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3717⭐
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3720⭐
 
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) 453⭐
 
-- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 307⭐
+- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 308⭐
 
 - [silidos/graphqxl-maven-plugin](https://github.com/silidos/graphqxl-maven-plugin) 2⭐
 
 - [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 483⭐
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18721⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18725⭐
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 54800⭐
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 54928⭐
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28386⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28395⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 1008⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 1012⭐
 
 
