@@ -26,7 +26,7 @@
 
 
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 6 days ago
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 week ago
 
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 1 week ago
 
@@ -50,7 +50,7 @@
 
 
 
-- [OPEN] - [feat: add config to bypass prTitle manipulation for separated group updates](https://github.com/renovatebot/renovate/pull/21454) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
+- [OPEN] - [feat: add prTitleStrict config option to bypass prTitle manipulation](https://github.com/renovatebot/renovate/pull/21454) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
 - [OPEN] - [Update cucumber.version to v7 (major)](https://github.com/setchy/renovate-demo-split-major-suffix/pull/23) to [setchy/renovate-demo-split-major-suffix](https://github.com/setchy/renovate-demo-split-major-suffix), 1 week ago
 
@@ -78,7 +78,7 @@
 
 - [MERGED] - [test(manager/regex): add replaceString to all non-snapshot based test assertions](https://github.com/renovatebot/renovate/pull/21380) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
-- [MERGED] - [fix(manager/regex): set replaceString for digest-only matches](https://github.com/renovatebot/renovate/pull/21370) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
+- [MERGED] - [fix(manager/regex): set replaceString for digest-only matches](https://github.com/renovatebot/renovate/pull/21370) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
 - [MERGED] - [docs: update template capture group definitions](https://github.com/renovatebot/renovate/pull/21311) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
@@ -94,24 +94,24 @@
 
 
 
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 12977⭐
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 13001⭐
 
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3733⭐
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3736⭐
 
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) 455⭐
 
-- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 312⭐
+- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 315⭐
 
 - [silidos/graphqxl-maven-plugin](https://github.com/silidos/graphqxl-maven-plugin) 2⭐
 
 - [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 484⭐
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18750⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18757⭐
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 55338⭐
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 55460⭐
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28430⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28444⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 1050⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 1054⭐
 
 
