@@ -26,7 +26,11 @@
 
 
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 week ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 1 day ago
+
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 day ago
+
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 day ago
 
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 1 week ago
 
@@ -36,15 +40,11 @@
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 2 weeks ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 2 weeks ago
-
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 2 weeks ago
 
 - [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 2 weeks ago
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 2 weeks ago
-
-- [Netflix/dgs](https://github.com/Netflix/dgs) - , 2 weeks ago
+- [Netflix/dgs](https://github.com/Netflix/dgs) - , 3 weeks ago
 
 ### 🎉 My recent pull requests
 
@@ -76,7 +76,7 @@
 
 - [MERGED] - [refactor(platform): add id for each platform](https://github.com/renovatebot/renovate/pull/21405) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
-- [MERGED] - [test(manager/regex): add replaceString to all non-snapshot based test assertions](https://github.com/renovatebot/renovate/pull/21380) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
+- [MERGED] - [test(manager/regex): add replaceString to all non-snapshot based test assertions](https://github.com/renovatebot/renovate/pull/21380) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
 - [MERGED] - [fix(manager/regex): set replaceString for digest-only matches](https://github.com/renovatebot/renovate/pull/21370) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
@@ -94,24 +94,24 @@
 
 
 
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 13001⭐
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 13029⭐
 
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3736⭐
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3741⭐
 
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) 455⭐
 
-- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 315⭐
+- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 316⭐
 
 - [silidos/graphqxl-maven-plugin](https://github.com/silidos/graphqxl-maven-plugin) 2⭐
 
 - [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 484⭐
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18757⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18767⭐
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 55460⭐
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 55555⭐
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28444⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28459⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 1054⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 1058⭐
 
 
