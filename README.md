@@ -26,11 +26,11 @@
 
 
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 1 day ago
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 2 days ago
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 day ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 2 days ago
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 day ago
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 2 days ago
 
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 1 week ago
 
@@ -86,17 +86,17 @@
 
 - [MERGED] - [tests: optimize imports and add basic intg test](https://github.com/setchy/dgs-extended-formatters/pull/89) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
 
-- [MERGED] - [tests: remove modifier](https://github.com/setchy/dgs-extended-formatters/pull/87) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 2 weeks ago
+- [MERGED] - [tests: remove modifier](https://github.com/setchy/dgs-extended-formatters/pull/87) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 weeks ago
 
-- [MERGED] - [docs: fix year](https://github.com/Netflix/dgs/pull/132) to [Netflix/dgs](https://github.com/Netflix/dgs), 2 weeks ago
+- [MERGED] - [docs: fix year](https://github.com/Netflix/dgs/pull/132) to [Netflix/dgs](https://github.com/Netflix/dgs), 3 weeks ago
 
 ### ⭐ Latest projects I've starred
 
 
 
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 13029⭐
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 13048⭐
 
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3741⭐
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3748⭐
 
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) 455⭐
 
@@ -106,12 +106,12 @@
 
 - [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 484⭐
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18767⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18779⭐
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 55555⭐
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 55644⭐
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28459⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28476⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 1058⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 1159⭐
 
 
