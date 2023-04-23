@@ -26,11 +26,15 @@
 
 
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 2 days ago
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 1 day ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 2 days ago
+- [setchy/byor-sample-data](https://github.com/setchy/byor-sample-data) - Sample data for thoughtworks/bring-your-own-radar, 1 day ago
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 2 days ago
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 3 days ago
+
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 3 days ago
+
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 3 days ago
 
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 1 week ago
 
@@ -40,15 +44,13 @@
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 2 weeks ago
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 2 weeks ago
-
 - [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 2 weeks ago
-
-- [Netflix/dgs](https://github.com/Netflix/dgs) - , 3 weeks ago
 
 ### 🎉 My recent pull requests
 
 
+
+- [OPEN] - [feature: add optional support for moved in / out blips](https://github.com/thoughtworks/build-your-own-radar/pull/310) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar), 1 day ago
 
 - [OPEN] - [feat: add prTitleStrict config option to bypass prTitle manipulation](https://github.com/renovatebot/renovate/pull/21454) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
@@ -88,30 +90,28 @@
 
 - [MERGED] - [tests: remove modifier](https://github.com/setchy/dgs-extended-formatters/pull/87) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 3 weeks ago
 
-- [MERGED] - [docs: fix year](https://github.com/Netflix/dgs/pull/132) to [Netflix/dgs](https://github.com/Netflix/dgs), 3 weeks ago
-
 ### ⭐ Latest projects I've starred
 
 
 
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 13048⭐
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 13066⭐
 
-- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3748⭐
+- [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3760⭐
 
 - [package-url/purl-spec](https://github.com/package-url/purl-spec) 455⭐
 
-- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 316⭐
+- [total-typescript/untypeable](https://github.com/total-typescript/untypeable) 317⭐
 
 - [silidos/graphqxl-maven-plugin](https://github.com/silidos/graphqxl-maven-plugin) 2⭐
 
 - [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 484⭐
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18779⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18787⭐
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 55644⭐
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) 55713⭐
 
-- [tmux/tmux](https://github.com/tmux/tmux) 28476⭐
+- [tmux/tmux](https://github.com/tmux/tmux) 28486⭐
 
-- [context-labs/autodoc](https://github.com/context-labs/autodoc) 1159⭐
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) 1178⭐
 
 
