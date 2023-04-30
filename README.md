@@ -26,25 +26,25 @@
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar , 2 days ago
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar , 1 day ago
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 4 days ago
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 1 day ago
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 4 days ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 5 days ago
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 1 week ago
-
-- [setchy/byor-sample-data](https://github.com/setchy/byor-sample-data) - Sample data for thoughtworks/bring-your-own-radar, 1 week ago
-
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 week ago
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 1 week ago
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 week ago
 
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 week ago
+
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 2 weeks ago
 
-- [setchy/renovate-bitbucket-pipelines](https://github.com/setchy/renovate-bitbucket-pipelines) - , 3 weeks ago
+- [Netflix/dgs](https://github.com/Netflix/dgs) - , 1 month ago
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site, 1 month ago
 
 ### 🎉 My recent pull requests
 
@@ -70,7 +70,7 @@
 
 - [MERGED] - [docs: fix year](https://github.com/Netflix/dgs/pull/132) to [Netflix/dgs](https://github.com/Netflix/dgs), 4 weeks ago
 
-- [MERGED] - [tests: update unit tests](https://github.com/setchy/dgs-extended-formatters/pull/85) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 4 weeks ago
+- [MERGED] - [tests: update unit tests](https://github.com/setchy/dgs-extended-formatters/pull/85) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 month ago
 
 - [MERGED] - [feat: numeric formatters](https://github.com/setchy/dgs-extended-formatters/pull/84) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters), 1 month ago
 
@@ -98,9 +98,9 @@
 
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) 2070⭐
 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 117938⭐
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 118922⭐
 
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 13211⭐
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) 13225⭐
 
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) 3805⭐
 
@@ -112,6 +112,6 @@
 
 - [TeamTopologies/Team-API-template](https://github.com/TeamTopologies/Team-API-template) 486⭐
 
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18859⭐
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) 18867⭐
 
 
