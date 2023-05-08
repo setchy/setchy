@@ -26,23 +26,23 @@
 
 
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 1 day ago
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 2 days ago
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar , 1 day ago
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar , 2 days ago
 
-- [setchy/renovate-reproduction-issue-21015](https://github.com/setchy/renovate-reproduction-issue-21015) - A reproduction for triaging issue #21015, 1 day ago
+- [setchy/renovate-reproduction-issue-21015](https://github.com/setchy/renovate-reproduction-issue-21015) - A reproduction for triaging issue #21015, 2 days ago
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 1 day ago
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 2 days ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 1 day ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 2 days ago
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 day ago
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 2 days ago
 
-- [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) - , 4 days ago
+- [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) - , 5 days ago
 
-- [setchy/renovate-test-changelogs](https://github.com/setchy/renovate-test-changelogs) - , 6 days ago
+- [setchy/renovate-test-changelogs](https://github.com/setchy/renovate-test-changelogs) - , 1 week ago
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 6 days ago
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 1 week ago
 
 - [setchy/renovate-testing-jenv](https://github.com/setchy/renovate-testing-jenv) - , 1 week ago
 
@@ -50,17 +50,21 @@
 
 
 
-- [OPEN] - [Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/2) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 4 days ago
+- [OPEN] - [Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/5) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 1 day ago
 
-- [OPEN] - [Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity/pull/1) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 4 days ago
+- [OPEN] - [Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity/pull/4) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 1 day ago
 
-- [OPEN] - [feat(vulnerabilities): set highestVulnerabilitySeverity for use in templated fields](https://github.com/renovatebot/renovate/pull/21939) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [CLOSED] - [close me - Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/2) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 5 days ago
 
-- [OPEN] - [Update dependency io.github.setchy:dgs-extended-formatters to v1.0.9](https://github.com/setchy/renovate-test-changelogs/pull/3) to [setchy/renovate-test-changelogs](https://github.com/setchy/renovate-test-changelogs), 6 days ago
+- [CLOSED] - [close me - Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity/pull/1) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 5 days ago
 
-- [CLOSED] - [reopen - Update dependency io.github.setchy:dgs-extended-formatters to v1.0.8](https://github.com/setchy/renovate-test-changelogs/pull/2) to [setchy/renovate-test-changelogs](https://github.com/setchy/renovate-test-changelogs), 6 days ago
+- [OPEN] - [feat(vulnerabilities): set highestVulnerabilitySeverity for use in templated fields](https://github.com/renovatebot/renovate/pull/21939) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
 
-- [MERGED] - [Configure Renovate](https://github.com/setchy/renovate-test-changelogs/pull/1) to [setchy/renovate-test-changelogs](https://github.com/setchy/renovate-test-changelogs), 6 days ago
+- [OPEN] - [Update dependency io.github.setchy:dgs-extended-formatters to v1.0.9](https://github.com/setchy/renovate-test-changelogs/pull/3) to [setchy/renovate-test-changelogs](https://github.com/setchy/renovate-test-changelogs), 1 week ago
+
+- [CLOSED] - [reopen - Update dependency io.github.setchy:dgs-extended-formatters to v1.0.8](https://github.com/setchy/renovate-test-changelogs/pull/2) to [setchy/renovate-test-changelogs](https://github.com/setchy/renovate-test-changelogs), 1 week ago
+
+- [MERGED] - [Configure Renovate](https://github.com/setchy/renovate-test-changelogs/pull/1) to [setchy/renovate-test-changelogs](https://github.com/setchy/renovate-test-changelogs), 1 week ago
 
 - [OPEN] - [Update dependency temurin64 to v20](https://github.com/setchy/renovate-testing-jenv/pull/17) to [setchy/renovate-testing-jenv](https://github.com/setchy/renovate-testing-jenv), 1 week ago
 
@@ -86,32 +90,28 @@
 
 - [CLOSED] - [restart - Update dependency openjdk to v11.0.19&#43;7](https://github.com/setchy/renovate-testing-jenv/pull/6) to [setchy/renovate-testing-jenv](https://github.com/setchy/renovate-testing-jenv), 1 week ago
 
-- [CLOSED] - [reopen - Update dependency java to v17](https://github.com/setchy/renovate-testing-jenv/pull/5) to [setchy/renovate-testing-jenv](https://github.com/setchy/renovate-testing-jenv), 1 week ago
-
-- [CLOSED] - [restart - Update dependency java to v11.0.19&#43;7](https://github.com/setchy/renovate-testing-jenv/pull/4) to [setchy/renovate-testing-jenv](https://github.com/setchy/renovate-testing-jenv), 1 week ago
-
 ### ⭐ Latest projects I've starred
 
 
 
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) 17⭐
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) 31028⭐
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) 31042⭐
 
-- [nrwl/nx](https://github.com/nrwl/nx) 17456⭐
+- [nrwl/nx](https://github.com/nrwl/nx) 17460⭐
 
-- [cruft/cruft](https://github.com/cruft/cruft) 852⭐
+- [cruft/cruft](https://github.com/cruft/cruft) 853⭐
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) 6⭐
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) 3580⭐
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) 3590⭐
 
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) 2904⭐
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) 2906⭐
 
 - [linkedin/rest.li](https://github.com/linkedin/rest.li) 2273⭐
 
-- [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) 2075⭐
+- [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) 2076⭐
 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 125716⭐
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 126396⭐
 
 
