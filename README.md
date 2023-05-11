@@ -26,39 +26,39 @@
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar , 2 days ago
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar , 1 day ago
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 2 days ago
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 3 days ago
 
-- [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) - , 2 days ago
+- [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) - , 3 days ago
 
-- [setchy/renovate-reproduction-issue-21015](https://github.com/setchy/renovate-reproduction-issue-21015) - A reproduction for triaging issue #21015, 4 days ago
+- [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 3 days ago
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 4 days ago
+- [setchy/renovate-reproduction-issue-21015](https://github.com/setchy/renovate-reproduction-issue-21015) - A reproduction for triaging issue #21015, 5 days ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 4 days ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 5 days ago
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 4 days ago
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 5 days ago
+
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 5 days ago
 
 - [setchy/renovate-test-changelogs](https://github.com/setchy/renovate-test-changelogs) - , 1 week ago
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL, 1 week ago
 
-- [setchy/renovate-testing-jenv](https://github.com/setchy/renovate-testing-jenv) - , 1 week ago
-
 ### 🎉 My recent pull requests
 
 
 
-- [OPEN] - [Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/7) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 2 days ago
+- [OPEN] - [Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/7) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 3 days ago
 
-- [OPEN] - [Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity/pull/6) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 2 days ago
+- [OPEN] - [Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity/pull/6) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 3 days ago
 
-- [OPEN] - [docs: update version](https://github.com/graphql-java/graphql-java-extended-scalars/pull/106) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 2 days ago
+- [MERGED] - [docs: update version](https://github.com/graphql-java/graphql-java-extended-scalars/pull/106) to [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars), 3 days ago
 
-- [CLOSED] - [reopen testing - Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/5) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 3 days ago
+- [CLOSED] - [reopen testing - Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/5) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 4 days ago
 
-- [CLOSED] - [reopen testing - Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity/pull/4) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 3 days ago
+- [CLOSED] - [reopen testing - Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity/pull/4) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 4 days ago
 
 - [CLOSED] - [close me - Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/2) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 1 week ago
 
@@ -94,24 +94,24 @@
 
 
 
-- [ardatan/feTS](https://github.com/ardatan/feTS) 83⭐
+- [ardatan/feTS](https://github.com/ardatan/feTS) 92⭐
 
 - [SamVerschueren/listr](https://github.com/SamVerschueren/listr) 3157⭐
 
-- [benphelps/homepage](https://github.com/benphelps/homepage) 6156⭐
+- [benphelps/homepage](https://github.com/benphelps/homepage) 6171⭐
 
-- [endoflife-date/release-data](https://github.com/endoflife-date/release-data) 18⭐
+- [endoflife-date/release-data](https://github.com/endoflife-date/release-data) 19⭐
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) 31075⭐
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) 31098⭐
 
-- [nrwl/nx](https://github.com/nrwl/nx) 17482⭐
+- [nrwl/nx](https://github.com/nrwl/nx) 17490⭐
 
-- [cruft/cruft](https://github.com/cruft/cruft) 855⭐
+- [cruft/cruft](https://github.com/cruft/cruft) 857⭐
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) 6⭐
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) 3614⭐
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) 3629⭐
 
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) 2908⭐
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) 2916⭐
 
 
