@@ -26,51 +26,53 @@
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 1 day ago
+- [setchy/renovate-demo-springboot-osvs](https://github.com/setchy/renovate-demo-springboot-osvs) - , 1 day ago
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar , 1 day ago
-
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 1 day ago
-
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 2 days ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 1 day ago
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 2 days ago
 
-- [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) - , 2 days ago
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar , 2 days ago
 
-- [setchy/renovate-demo-osv-severity-fix](https://github.com/setchy/renovate-demo-osv-severity-fix) - , 2 days ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 2 days ago
+
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases, 2 days ago
+
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 3 days ago
+
+- [setchy/renovate-demo-osv-severity-fix](https://github.com/setchy/renovate-demo-osv-severity-fix) - , 3 days ago
+
+- [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) - , 3 days ago
 
 - [graphql-java/graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - A library of extended scalars for graphql-java, 1 week ago
-
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 1 week ago
-
-- [setchy/renovate-reproduction-issue-21015](https://github.com/setchy/renovate-reproduction-issue-21015) - A reproduction for triaging issue #21015, 1 week ago
 
 ### 🎉 My recent pull requests
 
 
 
-- [OPEN] - [refactor(bitbucket): use paginated api for getRepos](https://github.com/renovatebot/renovate/pull/22275) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [OPEN] - [feat(bitbucket): add support for pagelen](https://github.com/renovatebot/renovate/pull/22278) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
 
-- [MERGED] - [feat(vulnerabilities): handle medium and unknown severities](https://github.com/renovatebot/renovate/pull/22257) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [OPEN] - [refactor(bitbucket): use paginated api for getRepos](https://github.com/renovatebot/renovate/pull/22275) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [OPEN] - [Update dependency pandas to v1 [SECURITY-UNKNOWN]](https://github.com/setchy/renovate-demo-osv-severity-fix/pull/4) to [setchy/renovate-demo-osv-severity-fix](https://github.com/setchy/renovate-demo-osv-severity-fix), 2 days ago
+- [MERGED] - [feat(vulnerabilities): handle medium and unknown severities](https://github.com/renovatebot/renovate/pull/22257) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [OPEN] - [Update dependency org.springframework:spring-web to v6 [SECURITY-MODERATE]](https://github.com/setchy/renovate-demo-osv-severity-fix/pull/3) to [setchy/renovate-demo-osv-severity-fix](https://github.com/setchy/renovate-demo-osv-severity-fix), 2 days ago
+- [OPEN] - [Update dependency pandas to v1 [SECURITY-UNKNOWN]](https://github.com/setchy/renovate-demo-osv-severity-fix/pull/4) to [setchy/renovate-demo-osv-severity-fix](https://github.com/setchy/renovate-demo-osv-severity-fix), 3 days ago
 
-- [OPEN] - [Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity-fix/pull/2) to [setchy/renovate-demo-osv-severity-fix](https://github.com/setchy/renovate-demo-osv-severity-fix), 2 days ago
+- [OPEN] - [Update dependency org.springframework:spring-web to v6 [SECURITY-MODERATE]](https://github.com/setchy/renovate-demo-osv-severity-fix/pull/3) to [setchy/renovate-demo-osv-severity-fix](https://github.com/setchy/renovate-demo-osv-severity-fix), 3 days ago
 
-- [OPEN] - [Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity-fix/pull/1) to [setchy/renovate-demo-osv-severity-fix](https://github.com/setchy/renovate-demo-osv-severity-fix), 2 days ago
+- [OPEN] - [Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity-fix/pull/2) to [setchy/renovate-demo-osv-severity-fix](https://github.com/setchy/renovate-demo-osv-severity-fix), 3 days ago
 
-- [OPEN] - [Update dependency pandas to v1 [SECURITY-]](https://github.com/setchy/renovate-demo-osv-severity/pull/9) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 2 days ago
+- [OPEN] - [Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity-fix/pull/1) to [setchy/renovate-demo-osv-severity-fix](https://github.com/setchy/renovate-demo-osv-severity-fix), 3 days ago
 
-- [OPEN] - [Update dependency org.springframework:spring-web to v6 [SECURITY-MODERATE]](https://github.com/setchy/renovate-demo-osv-severity/pull/8) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 2 days ago
+- [OPEN] - [Update dependency pandas to v1 [SECURITY-]](https://github.com/setchy/renovate-demo-osv-severity/pull/9) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 3 days ago
 
-- [MERGED] - [feat(bitbucket): use paginated effective default reviewers response](https://github.com/renovatebot/renovate/pull/22164) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
+- [OPEN] - [Update dependency org.springframework:spring-web to v6 [SECURITY-MODERATE]](https://github.com/setchy/renovate-demo-osv-severity/pull/8) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 3 days ago
 
-- [MERGED] - [feat(bitbucket): add paginate http option](https://github.com/renovatebot/renovate/pull/22135) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
+- [MERGED] - [feat(bitbucket): use paginated effective default reviewers response](https://github.com/renovatebot/renovate/pull/22164) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 5 days ago
 
-- [OPEN] - [feat(platform/bitbucket): add support for fetching release notes](https://github.com/renovatebot/renovate/pull/22094) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+- [MERGED] - [feat(bitbucket): add paginate http option](https://github.com/renovatebot/renovate/pull/22135) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 6 days ago
+
+- [OPEN] - [feat(platform/bitbucket): add support for fetching release notes](https://github.com/renovatebot/renovate/pull/22094) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
 - [OPEN] - [Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/7) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 1 week ago
 
@@ -88,30 +90,28 @@
 
 - [MERGED] - [feat(vulnerabilities): set, maintain and expose vulnerabilitySeverity for templated fields](https://github.com/renovatebot/renovate/pull/21939) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
-- [OPEN] - [Update dependency io.github.setchy:dgs-extended-formatters to v1.0.9](https://github.com/setchy/renovate-test-changelogs/pull/3) to [setchy/renovate-test-changelogs](https://github.com/setchy/renovate-test-changelogs), 2 weeks ago
-
 ### ⭐ Latest projects I've starred
 
 
 
 - [google/osv.dev](https://github.com/google/osv.dev) 1117⭐
 
-- [ardatan/feTS](https://github.com/ardatan/feTS) 106⭐
+- [ardatan/feTS](https://github.com/ardatan/feTS) 107⭐
 
 - [SamVerschueren/listr](https://github.com/SamVerschueren/listr) 3159⭐
 
-- [benphelps/homepage](https://github.com/benphelps/homepage) 6266⭐
+- [benphelps/homepage](https://github.com/benphelps/homepage) 6283⭐
 
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) 19⭐
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) 31224⭐
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) 31251⭐
 
-- [nrwl/nx](https://github.com/nrwl/nx) 17549⭐
+- [nrwl/nx](https://github.com/nrwl/nx) 17562⭐
 
-- [cruft/cruft](https://github.com/cruft/cruft) 864⭐
+- [cruft/cruft](https://github.com/cruft/cruft) 865⭐
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) 6⭐
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) 3672⭐
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) 3678⭐
 
 
