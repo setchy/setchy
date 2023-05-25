@@ -26,15 +26,15 @@
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar , 2 days ago
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 1 day ago
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows., 2 days ago
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar , 3 days ago
 
-- [setchy/installme](https://github.com/setchy/installme) - Who thought zip domains were a good idea?, 4 days ago
+- [setchy/installme](https://github.com/setchy/installme) - Who thought zip domains were a good idea?, 5 days ago
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 5 days ago
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway, 6 days ago
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 6 days ago
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example., 1 week ago
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway, 1 week ago
 
@@ -50,23 +50,23 @@
 
 
 
-- [OPEN] - [fix: correct typo](https://github.com/renovatebot/renovate/pull/22392) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 day ago
+- [MERGED] - [fix: correct typo](https://github.com/renovatebot/renovate/pull/22392) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
 
-- [MERGED] - [refactor(bitbucket): remove unused accumulate value utility](https://github.com/renovatebot/renovate/pull/22359) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [MERGED] - [refactor(bitbucket): remove unused accumulate value utility](https://github.com/renovatebot/renovate/pull/22359) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
 
-- [CLOSED] - [test(bitbucket): update paginated values mocks](https://github.com/renovatebot/renovate/pull/22357) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [CLOSED] - [test(bitbucket): update paginated values mocks](https://github.com/renovatebot/renovate/pull/22357) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
 
-- [MERGED] - [refactor(bitbucket): use paginated api for comments](https://github.com/renovatebot/renovate/pull/22348) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 days ago
+- [MERGED] - [refactor(bitbucket): use paginated api for comments](https://github.com/renovatebot/renovate/pull/22348) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
 
-- [MERGED] - [refactor(bitbucket): use paginated api for tags](https://github.com/renovatebot/renovate/pull/22336) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [MERGED] - [refactor(bitbucket): use paginated api for tags](https://github.com/renovatebot/renovate/pull/22336) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
-- [OPEN] - [feat: add back backwards compatibility](https://github.com/thoughtworks/build-your-own-radar/pull/318) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar), 3 days ago
+- [OPEN] - [feat: add back backwards compatibility](https://github.com/thoughtworks/build-your-own-radar/pull/318) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar), 4 days ago
 
-- [MERGED] - [feat(template): allow isGroup](https://github.com/renovatebot/renovate/pull/22331) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [MERGED] - [feat(template): allow isGroup](https://github.com/renovatebot/renovate/pull/22331) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
-- [MERGED] - [refactor(bitbucket): use paginated api for pullrequests](https://github.com/renovatebot/renovate/pull/22330) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [MERGED] - [refactor(bitbucket): use paginated api for pullrequests](https://github.com/renovatebot/renovate/pull/22330) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
-- [MERGED] - [refactor(bitbucket): use paginated api for commit statuses](https://github.com/renovatebot/renovate/pull/22329) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 3 days ago
+- [MERGED] - [refactor(bitbucket): use paginated api for commit statuses](https://github.com/renovatebot/renovate/pull/22329) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 4 days ago
 
 - [MERGED] - [feat(bitbucket): add support for pagelen](https://github.com/renovatebot/renovate/pull/22278) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
@@ -82,7 +82,7 @@
 
 - [MERGED] - [feat(bitbucket): add paginate http option](https://github.com/renovatebot/renovate/pull/22135) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
 
-- [OPEN] - [feat(platform/bitbucket): add support for fetching release notes](https://github.com/renovatebot/renovate/pull/22094) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 1 week ago
+- [OPEN] - [feat(platform/bitbucket): add support for fetching release notes](https://github.com/renovatebot/renovate/pull/22094) to [renovatebot/renovate](https://github.com/renovatebot/renovate), 2 weeks ago
 
 - [OPEN] - [Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/7) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity), 2 weeks ago
 
@@ -100,18 +100,18 @@
 
 - [SamVerschueren/listr](https://github.com/SamVerschueren/listr) 3162⭐
 
-- [benphelps/homepage](https://github.com/benphelps/homepage) 6405⭐
+- [benphelps/homepage](https://github.com/benphelps/homepage) 6412⭐
 
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) 19⭐
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) 31355⭐
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) 31365⭐
 
-- [nrwl/nx](https://github.com/nrwl/nx) 17617⭐
+- [nrwl/nx](https://github.com/nrwl/nx) 17631⭐
 
-- [cruft/cruft](https://github.com/cruft/cruft) 871⭐
+- [cruft/cruft](https://github.com/cruft/cruft) 872⭐
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) 6⭐
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) 3841⭐
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) 3917⭐
 
 
