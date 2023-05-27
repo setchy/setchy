@@ -4,16 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Executive (VP) // Architect // Developer
 -----------------------------------------------
 
-<br />
-
 ### 🔭 Interests
 
 - GraphQL // Apollo // REST // AsyncAPI
 - LeanIX // Renovate // Tech Radar
 - Developer Experience // Developer Productivity
 - Building strong communities of practice (guilds, chapters, etc)
-
-<br />
 
 ### 💪 Skills
 
@@ -41,8 +37,7 @@ Senior Executive (VP) // Architect // Developer
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="36" height="36" alt="IntelliJ" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="36" height="36" alt="VSCode" /></a>
 </p>
-                    
-<br />                
+                      
 
 ### 🎙️ Socials
                   
