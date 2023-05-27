@@ -39,6 +39,7 @@ Senior Executive (VP) // Architect // Developer
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="36" height="36" alt="IntelliJ" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="36" height="36" alt="VSCode" /></a>
   <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="36" height="36" alt="Slack" /></a>
+  <a href="https://drawio-app.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" width="36" height="36" alt="Draw IO" /></a>
 </p>
 
                       
@@ -139,13 +140,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4037⭐
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4038⭐
 
-- [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 484⭐
+- [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 486⭐
 
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7045⭐
 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159260⭐
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159264⭐
 
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26290⭐
 
@@ -155,7 +156,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [atlassian-labs/gitlab-for-compass](https://github.com/atlassian-labs/gitlab-for-compass) 8⭐
 
-- [clovaai/donut](https://github.com/clovaai/donut) 2102⭐
+- [clovaai/donut](https://github.com/clovaai/donut) 2103⭐
 
 - [google/osv.dev](https://github.com/google/osv.dev) 1127⭐
 
