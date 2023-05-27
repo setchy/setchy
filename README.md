@@ -9,7 +9,7 @@ Senior Executive (VP) // Architect // Developer
 - GraphQL // Apollo // REST // AsyncAPI
 - LeanIX // Renovate // Tech Radar
 - Developer Experience // Developer Productivity
-- Building strong communities of practice (guilds, chapters, etc)
+- Building engineering communities of practice (guilds, chapters, etc)
 
 ### 💪 Skills
 
