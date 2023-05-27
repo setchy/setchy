@@ -67,14 +67,14 @@ Senior Executive (VP) // Architect // Developer
 
 {{range recentContributions 10}}
 
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description }}, {{humanize .OccurredAt}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description }} [{{humanize .OccurredAt}}]
   {{- end}}
 
 #### 🎉 My recent pull requests
 
 {{range recentPullRequests 20}}
 
-- [{{.State}}] - [{{.Title}}]({{.URL}}) to [{{.Repo.Name}}]({{.Repo.URL}}), {{humanize .CreatedAt}}
+- {{.State}} - [{{.Title}}]({{.URL}}) to [{{.Repo.Name}}]({{.Repo.URL}}) [{{humanize .CreatedAt}}]
   {{- end}}
 
 #### ⭐ Latest projects I've starred
