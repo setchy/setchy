@@ -38,7 +38,9 @@ Senior Executive (VP) // Architect // Developer
   <a href="https://jfrog.com/artifactory/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nx211/homer-icons/master/png/artifactory.png" width="36" height="36" alt="Artifactory" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="36" height="36" alt="IntelliJ" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="36" height="36" alt="VSCode" /></a>
+  <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="36" height="36" alt="Slack" /></a>
 </p>
+
                       
 
 ### 🎙️ Socials
