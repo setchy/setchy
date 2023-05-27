@@ -39,6 +39,7 @@ Senior Executive (VP) // Architect // Developer
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="36" height="36" alt="IntelliJ" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="36" height="36" alt="VSCode" /></a>
   <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="36" height="36" alt="Slack" /></a>
+  <a href="https://drawio-app.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" width="36" height="36" alt="Draw IO" /></a>
 </p>
 
                       
