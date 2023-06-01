@@ -70,21 +70,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
-
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
 
-- [WorldFuelServicesCorp/.github](https://github.com/WorldFuelServicesCorp/.github) -  [6 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [6 days ago]
+
+- [WorldFuelServicesCorp/.github](https://github.com/WorldFuelServicesCorp/.github) -  [1 week ago]
 
 - [setchy/installme](https://github.com/setchy/installme) - Who thought zip domains were a good idea? [1 week ago]
 
@@ -94,7 +94,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [4 days ago]
+- OPEN - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [5 days ago]
 
 - MERGED - [fix: correct typo](https://github.com/renovatebot/renovate/pull/22392) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -120,42 +120,42 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(vulnerabilities): handle medium and unknown severities](https://github.com/renovatebot/renovate/pull/22257) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- OPEN - [Update dependency pandas to v1 [SECURITY-]](https://github.com/setchy/renovate-demo-osv-severity/pull/9) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [2 weeks ago]
+- CLOSED - [manual close - Update dependency pandas to v1 [SECURITY-]](https://github.com/setchy/renovate-demo-osv-severity/pull/9) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [2 weeks ago]
 
-- OPEN - [Update dependency org.springframework:spring-web to v6 [SECURITY-MODERATE]](https://github.com/setchy/renovate-demo-osv-severity/pull/8) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [2 weeks ago]
+- CLOSED - [manual close - Update dependency org.springframework:spring-web to v6 [SECURITY-MODERATE]](https://github.com/setchy/renovate-demo-osv-severity/pull/8) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [2 weeks ago]
 
 - MERGED - [feat(bitbucket): use paginated effective default reviewers response](https://github.com/renovatebot/renovate/pull/22164) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [feat(bitbucket): add paginate http option](https://github.com/renovatebot/renovate/pull/22135) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- OPEN - [feat(platform/bitbucket): add support for fetching release notes](https://github.com/renovatebot/renovate/pull/22094) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- OPEN - [feat(platform/bitbucket): add support for fetching release notes](https://github.com/renovatebot/renovate/pull/22094) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- OPEN - [Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/7) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [3 weeks ago]
+- CLOSED - [manual close - Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/7) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [3 weeks ago]
 
-- OPEN - [Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity/pull/6) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [3 weeks ago]
+- CLOSED - [manual close - Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity/pull/6) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [3 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4039⭐
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4040⭐
 
 - [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 493⭐
 
-- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7055⭐
+- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7056⭐
 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159349⭐
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159391⭐
 
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26312⭐
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26324⭐
 
-- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17057⭐
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17063⭐
 
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) 4308⭐
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) 4313⭐
 
 - [atlassian-labs/gitlab-for-compass](https://github.com/atlassian-labs/gitlab-for-compass) 8⭐
 
-- [clovaai/donut](https://github.com/clovaai/donut) 3137⭐
+- [clovaai/donut](https://github.com/clovaai/donut) 3333⭐
 
-- [google/osv.dev](https://github.com/google/osv.dev) 1128⭐
+- [google/osv.dev](https://github.com/google/osv.dev) 1129⭐
 
 
