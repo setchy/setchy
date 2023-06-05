@@ -70,92 +70,92 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
-- [WorldFuelServicesCorp/.github](https://github.com/WorldFuelServicesCorp/.github) -  [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 week ago]
 
-- [setchy/installme](https://github.com/setchy/installme) - Who thought zip domains were a good idea? [1 week ago]
+- [WorldFuelServicesCorp/.github](https://github.com/WorldFuelServicesCorp/.github) -  [1 week ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 weeks ago]
+- [setchy/installme](https://github.com/setchy/installme) - Who thought zip domains were a good idea? [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [3 days ago]
+- OPEN - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [3 days ago]
+
+- OPEN - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 week ago]
 
 - MERGED - [fix: correct typo](https://github.com/renovatebot/renovate/pull/22392) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [refactor(bitbucket): remove unused accumulate value utility](https://github.com/renovatebot/renovate/pull/22359) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor(bitbucket): remove unused accumulate value utility](https://github.com/renovatebot/renovate/pull/22359) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [test(bitbucket): update paginated values mocks](https://github.com/renovatebot/renovate/pull/22357) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [test(bitbucket): update paginated values mocks](https://github.com/renovatebot/renovate/pull/22357) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [refactor(bitbucket): use paginated api for comments](https://github.com/renovatebot/renovate/pull/22348) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor(bitbucket): use paginated api for comments](https://github.com/renovatebot/renovate/pull/22348) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [refactor(bitbucket): use paginated api for tags](https://github.com/renovatebot/renovate/pull/22336) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor(bitbucket): use paginated api for tags](https://github.com/renovatebot/renovate/pull/22336) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- OPEN - [feat: add back backwards compatibility](https://github.com/thoughtworks/build-your-own-radar/pull/318) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- OPEN - [feat: add back backwards compatibility](https://github.com/thoughtworks/build-your-own-radar/pull/318) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
-- MERGED - [feat(template): allow isGroup](https://github.com/renovatebot/renovate/pull/22331) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [feat(template): allow isGroup](https://github.com/renovatebot/renovate/pull/22331) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [refactor(bitbucket): use paginated api for pullrequests](https://github.com/renovatebot/renovate/pull/22330) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor(bitbucket): use paginated api for pullrequests](https://github.com/renovatebot/renovate/pull/22330) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [refactor(bitbucket): use paginated api for commit statuses](https://github.com/renovatebot/renovate/pull/22329) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor(bitbucket): use paginated api for commit statuses](https://github.com/renovatebot/renovate/pull/22329) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [feat(bitbucket): add support for pagelen](https://github.com/renovatebot/renovate/pull/22278) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [feat(bitbucket): add support for pagelen](https://github.com/renovatebot/renovate/pull/22278) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [refactor(bitbucket): use paginated api for getRepos](https://github.com/renovatebot/renovate/pull/22275) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [feat(vulnerabilities): handle medium and unknown severities](https://github.com/renovatebot/renovate/pull/22257) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- OPEN - [Update dependency pandas to v1 [SECURITY-]](https://github.com/setchy/renovate-demo-osv-severity/pull/9) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [2 weeks ago]
+- CLOSED - [manual close - Update dependency pandas to v1 [SECURITY-]](https://github.com/setchy/renovate-demo-osv-severity/pull/9) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [3 weeks ago]
 
-- OPEN - [Update dependency org.springframework:spring-web to v6 [SECURITY-MODERATE]](https://github.com/setchy/renovate-demo-osv-severity/pull/8) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [2 weeks ago]
+- CLOSED - [manual close - Update dependency org.springframework:spring-web to v6 [SECURITY-MODERATE]](https://github.com/setchy/renovate-demo-osv-severity/pull/8) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [3 weeks ago]
 
-- MERGED - [feat(bitbucket): use paginated effective default reviewers response](https://github.com/renovatebot/renovate/pull/22164) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [feat(bitbucket): use paginated effective default reviewers response](https://github.com/renovatebot/renovate/pull/22164) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- MERGED - [feat(bitbucket): add paginate http option](https://github.com/renovatebot/renovate/pull/22135) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [feat(bitbucket): add paginate http option](https://github.com/renovatebot/renovate/pull/22135) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- OPEN - [feat(platform/bitbucket): add support for fetching release notes](https://github.com/renovatebot/renovate/pull/22094) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- OPEN - [feat(platform/bitbucket): add support for fetching release notes](https://github.com/renovatebot/renovate/pull/22094) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- OPEN - [Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/7) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [3 weeks ago]
-
-- OPEN - [Update dependency express-cart to v1.1.17 [SECURITY-CRITICAL]](https://github.com/setchy/renovate-demo-osv-severity/pull/6) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [3 weeks ago]
+- CLOSED - [manual close - Update dependency karma to v6 [SECURITY-MEDIUM]](https://github.com/setchy/renovate-demo-osv-severity/pull/7) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [4 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4039⭐
+- [highlight/highlight](https://github.com/highlight/highlight) 3909⭐
 
-- [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 493⭐
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4046⭐
 
-- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7049⭐
+- [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 498⭐
 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159326⭐
+- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7060⭐
 
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26310⭐
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159513⭐
 
-- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17052⭐
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26364⭐
 
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) 4307⭐
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17085⭐
+
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) 4323⭐
 
 - [atlassian-labs/gitlab-for-compass](https://github.com/atlassian-labs/gitlab-for-compass) 8⭐
 
-- [clovaai/donut](https://github.com/clovaai/donut) 2814⭐
-
-- [google/osv.dev](https://github.com/google/osv.dev) 1128⭐
+- [clovaai/donut](https://github.com/clovaai/donut) 3448⭐
 
 
