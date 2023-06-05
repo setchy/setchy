@@ -60,23 +60,23 @@ Senior Executive (VP) // Architect // Developer
 
 <a href="http://www.github.com/setchy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=setchy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### 🎤 Presentations
+### 📼 Videos
 
 - [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph](https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph)
-
+- [GraphQL Summit 2023 - it's all about the people](https://www.youtube.com/watch?v=090IWEcHbJc)
 
 ### 🎯 OSS Activity
 #### 🚀 My recent contributions
 
 
 
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [today]
+
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
 
@@ -96,7 +96,7 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [3 days ago]
 
-- OPEN - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 week ago]
+- CLOSED - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 week ago]
 
 - MERGED - [fix: correct typo](https://github.com/renovatebot/renovate/pull/22392) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -138,24 +138,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [highlight/highlight](https://github.com/highlight/highlight) 3909⭐
+- [highlight/highlight](https://github.com/highlight/highlight) 3935⭐
 
-- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4046⭐
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4048⭐
 
-- [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 498⭐
+- [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 500⭐
 
-- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7060⭐
+- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7063⭐
 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159513⭐
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159545⭐
 
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26364⭐
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26371⭐
 
-- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17085⭐
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17093⭐
 
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) 4323⭐
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) 4334⭐
 
 - [atlassian-labs/gitlab-for-compass](https://github.com/atlassian-labs/gitlab-for-compass) 8⭐
 
-- [clovaai/donut](https://github.com/clovaai/donut) 3448⭐
+- [clovaai/donut](https://github.com/clovaai/donut) 3463⭐
 
 
