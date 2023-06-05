@@ -23,13 +23,11 @@ Senior Executive (VP) // Architect // Developer
   <a href="https://www.npmjs.com//" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" width="36" height="36" alt="npm" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-  <br />
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
   <a href="https://netflix.github.io/dgs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Netflix/dgs/main/docs/images/dgs-framework-brand/Icon/dgs-icon--blue.svg" width="36" height="36" alt="Netflix DGS" /></a>
   <a href="https://apollographql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" width="36" height="36" alt="Apollo GraphQL" /></a>
   <a href="https://swagger.io/specification/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" width="36" height="36" alt="Open API Spec" /></a>
   <a href="https://www.postman.com//" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="36" height="36" alt="Postman" /></a>
-  <br />
   <a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="36" height="36" alt="Bitbucket" /></a>
   <a href="https://www.atlassian.com/software/compass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/compass.svg" width="36" height="36" alt="Compass" /></a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="36" height="36" alt="Confluence" /></a>
@@ -148,9 +146,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159545⭐
 
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26371⭐
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26372⭐
 
-- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17093⭐
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17094⭐
 
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) 4334⭐
 
