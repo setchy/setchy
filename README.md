@@ -29,9 +29,10 @@ Senior Executive (VP) // Architect // Developer
   <a href="https://swagger.io/specification/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" width="36" height="36" alt="Open API Spec" /></a>
   <a href="https://www.postman.com//" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="36" height="36" alt="Postman" /></a>
   <a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="36" height="36" alt="Bitbucket" /></a>
-  <a href="https://www.atlassian.com/software/compass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/compass.svg" width="36" height="36" alt="Compass" /></a>
+  <a href="https://www.atlassian.com/software/compass" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/atlassian-compass-1.svg" width="36" height="36" alt="Compass" /></a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" width="36" height="36" alt="Confluence" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="Jira" /></a>
+  <a href="https://launchdarkly.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/launchdarkly-2.svg" width="36" height="36" alt="LaunchDarkly" /></a>
   <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nx211/homer-icons/master/png/docker.png" width="36" height="36" alt="Docker" /></a>
   <a href="https://jfrog.com/artifactory/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nx211/homer-icons/master/png/artifactory.png" width="36" height="36" alt="Artifactory" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="36" height="36" alt="IntelliJ" /></a>
@@ -68,17 +69,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [today]
+
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
+
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
-
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 days ago]
-
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
@@ -136,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [highlight/highlight](https://github.com/highlight/highlight) 3952⭐
+- [highlight/highlight](https://github.com/highlight/highlight) 3960⭐
 
 - [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4046⭐
 
 - [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 504⭐
 
-- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7068⭐
+- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7069⭐
 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159619⭐
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159647⭐
 
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26392⭐
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26397⭐
 
-- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17102⭐
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17106⭐
 
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) 4342⭐
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) 4347⭐
 
 - [atlassian-labs/gitlab-for-compass](https://github.com/atlassian-labs/gitlab-for-compass) 8⭐
 
-- [clovaai/donut](https://github.com/clovaai/donut) 3512⭐
+- [clovaai/donut](https://github.com/clovaai/donut) 3527⭐
 
 
