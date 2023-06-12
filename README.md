@@ -69,17 +69,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [4 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
@@ -93,9 +93,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: improve error handling](https://github.com/setchy/dgs-extended-formatters/pull/120) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [2 days ago]
+- MERGED - [feat: improve error handling](https://github.com/setchy/dgs-extended-formatters/pull/120) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
 
-- MERGED - [feat: add support for ARGUMENT_DEFINITION](https://github.com/setchy/dgs-extended-formatters/pull/119) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [2 days ago]
+- MERGED - [feat: add support for ARGUMENT_DEFINITION](https://github.com/setchy/dgs-extended-formatters/pull/119) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
 
 - OPEN - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [1 week ago]
 
@@ -103,11 +103,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: correct typo](https://github.com/renovatebot/renovate/pull/22392) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [refactor(bitbucket): remove unused accumulate value utility](https://github.com/renovatebot/renovate/pull/22359) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [refactor(bitbucket): remove unused accumulate value utility](https://github.com/renovatebot/renovate/pull/22359) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- MERGED - [test(bitbucket): update paginated values mocks](https://github.com/renovatebot/renovate/pull/22357) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [test(bitbucket): update paginated values mocks](https://github.com/renovatebot/renovate/pull/22357) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- MERGED - [refactor(bitbucket): use paginated api for comments](https://github.com/renovatebot/renovate/pull/22348) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [refactor(bitbucket): use paginated api for comments](https://github.com/renovatebot/renovate/pull/22348) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
 - MERGED - [refactor(bitbucket): use paginated api for tags](https://github.com/renovatebot/renovate/pull/22336) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
@@ -125,11 +125,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(vulnerabilities): handle medium and unknown severities](https://github.com/renovatebot/renovate/pull/22257) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- CLOSED - [manual close - Update dependency pandas to v1 [SECURITY-]](https://github.com/setchy/renovate-demo-osv-severity/pull/9) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [3 weeks ago]
+- CLOSED - [manual close - Update dependency pandas to v1 [SECURITY-]](https://github.com/setchy/renovate-demo-osv-severity/pull/9) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [4 weeks ago]
 
-- CLOSED - [manual close - Update dependency org.springframework:spring-web to v6 [SECURITY-MODERATE]](https://github.com/setchy/renovate-demo-osv-severity/pull/8) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [3 weeks ago]
+- CLOSED - [manual close - Update dependency org.springframework:spring-web to v6 [SECURITY-MODERATE]](https://github.com/setchy/renovate-demo-osv-severity/pull/8) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [4 weeks ago]
 
-- MERGED - [feat(bitbucket): use paginated effective default reviewers response](https://github.com/renovatebot/renovate/pull/22164) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
+- MERGED - [feat(bitbucket): use paginated effective default reviewers response](https://github.com/renovatebot/renovate/pull/22164) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
 - MERGED - [feat(bitbucket): add paginate http option](https://github.com/renovatebot/renovate/pull/22135) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [highlight/highlight](https://github.com/highlight/highlight) 3972⭐
+- [rclone/rclone](https://github.com/rclone/rclone) 38800⭐
 
-- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4047⭐
+- [basecamp/handbook](https://github.com/basecamp/handbook) 6159⭐
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9272⭐
+
+- [highlight/highlight](https://github.com/highlight/highlight) 3982⭐
+
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4049⭐
 
 - [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 505⭐
 
-- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7072⭐
+- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7074⭐
 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159723⭐
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159750⭐
 
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26415⭐
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 26424⭐
 
-- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17122⭐
-
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) 4355⭐
-
-- [atlassian-labs/gitlab-for-compass](https://github.com/atlassian-labs/gitlab-for-compass) 8⭐
-
-- [clovaai/donut](https://github.com/clovaai/donut) 3556⭐
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) 17130⭐
 
 
