@@ -69,13 +69,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [4 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [5 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
@@ -87,15 +87,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [2 weeks ago]
 
-- [WorldFuelServicesCorp/.github](https://github.com/WorldFuelServicesCorp/.github) -  [2 weeks ago]
+- [WorldFuelServicesCorp/.github](https://github.com/WorldFuelServicesCorp/.github) -  [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [feat: improve error handling](https://github.com/setchy/dgs-extended-formatters/pull/120) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [5 days ago]
+- MERGED - [feat: improve error handling](https://github.com/setchy/dgs-extended-formatters/pull/120) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [6 days ago]
 
-- MERGED - [feat: add support for ARGUMENT_DEFINITION](https://github.com/setchy/dgs-extended-formatters/pull/119) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [5 days ago]
+- MERGED - [feat: add support for ARGUMENT_DEFINITION](https://github.com/setchy/dgs-extended-formatters/pull/119) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [6 days ago]
 
 - OPEN - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [1 week ago]
 
@@ -121,9 +121,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(bitbucket): add support for pagelen](https://github.com/renovatebot/renovate/pull/22278) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [refactor(bitbucket): use paginated api for getRepos](https://github.com/renovatebot/renovate/pull/22275) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
+- MERGED - [refactor(bitbucket): use paginated api for getRepos](https://github.com/renovatebot/renovate/pull/22275) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
-- MERGED - [feat(vulnerabilities): handle medium and unknown severities](https://github.com/renovatebot/renovate/pull/22257) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
+- MERGED - [feat(vulnerabilities): handle medium and unknown severities](https://github.com/renovatebot/renovate/pull/22257) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
 - CLOSED - [manual close - Update dependency pandas to v1 [SECURITY-]](https://github.com/setchy/renovate-demo-osv-severity/pull/9) to [setchy/renovate-demo-osv-severity](https://github.com/setchy/renovate-demo-osv-severity) [1 month ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [anchore/syft](https://github.com/anchore/syft) 4253⭐
+- [anchore/syft](https://github.com/anchore/syft) 4258⭐
 
-- [anchore/grype](https://github.com/anchore/grype) 5941⭐
+- [anchore/grype](https://github.com/anchore/grype) 5952⭐
 
-- [rclone/rclone](https://github.com/rclone/rclone) 38829⭐
+- [rclone/rclone](https://github.com/rclone/rclone) 38840⭐
 
 - [basecamp/handbook](https://github.com/basecamp/handbook) 6159⭐
 
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9284⭐
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9286⭐
 
-- [highlight/highlight](https://github.com/highlight/highlight) 3993⭐
+- [highlight/highlight](https://github.com/highlight/highlight) 4000⭐
 
-- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4050⭐
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4051⭐
 
 - [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 506⭐
 
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7080⭐
 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159805⭐
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159834⭐
 
 
