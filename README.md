@@ -69,19 +69,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
@@ -99,7 +99,7 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [2 weeks ago]
 
-- CLOSED - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [2 weeks ago]
+- CLOSED - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [3 weeks ago]
 
 - MERGED - [fix: correct typo](https://github.com/renovatebot/renovate/pull/22392) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [anchore/syft](https://github.com/anchore/syft) 4263⭐
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71595⭐
 
-- [anchore/grype](https://github.com/anchore/grype) 5961⭐
+- [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) 628⭐
 
-- [rclone/rclone](https://github.com/rclone/rclone) 38856⭐
+- [anchore/syft](https://github.com/anchore/syft) 4267⭐
+
+- [anchore/grype](https://github.com/anchore/grype) 5970⭐
+
+- [rclone/rclone](https://github.com/rclone/rclone) 38867⭐
 
 - [basecamp/handbook](https://github.com/basecamp/handbook) 6159⭐
 
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9292⭐
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9297⭐
 
-- [highlight/highlight](https://github.com/highlight/highlight) 4015⭐
+- [highlight/highlight](https://github.com/highlight/highlight) 4253⭐
 
-- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4052⭐
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4051⭐
 
 - [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 506⭐
-
-- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) 7082⭐
-
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 159864⭐
 
 
