@@ -69,21 +69,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
-
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 weeks ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [3 weeks ago]
 
@@ -109,15 +109,15 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor(bitbucket): use paginated api for comments](https://github.com/renovatebot/renovate/pull/22348) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- MERGED - [refactor(bitbucket): use paginated api for tags](https://github.com/renovatebot/renovate/pull/22336) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor(bitbucket): use paginated api for tags](https://github.com/renovatebot/renovate/pull/22336) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- OPEN - [feat: add back backwards compatibility](https://github.com/thoughtworks/build-your-own-radar/pull/318) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 weeks ago]
+- OPEN - [feat: add back backwards compatibility](https://github.com/thoughtworks/build-your-own-radar/pull/318) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 weeks ago]
 
-- MERGED - [feat(template): allow isGroup](https://github.com/renovatebot/renovate/pull/22331) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [feat(template): allow isGroup](https://github.com/renovatebot/renovate/pull/22331) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [refactor(bitbucket): use paginated api for pullrequests](https://github.com/renovatebot/renovate/pull/22330) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor(bitbucket): use paginated api for pullrequests](https://github.com/renovatebot/renovate/pull/22330) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [refactor(bitbucket): use paginated api for commit statuses](https://github.com/renovatebot/renovate/pull/22329) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor(bitbucket): use paginated api for commit statuses](https://github.com/renovatebot/renovate/pull/22329) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
 - MERGED - [feat(bitbucket): add support for pagelen](https://github.com/renovatebot/renovate/pull/22278) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
@@ -137,23 +137,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71595⭐
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71599⭐
 
 - [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) 628⭐
 
-- [anchore/syft](https://github.com/anchore/syft) 4267⭐
+- [anchore/syft](https://github.com/anchore/syft) 4266⭐
 
-- [anchore/grype](https://github.com/anchore/grype) 5970⭐
+- [anchore/grype](https://github.com/anchore/grype) 5977⭐
 
-- [rclone/rclone](https://github.com/rclone/rclone) 38867⭐
+- [rclone/rclone](https://github.com/rclone/rclone) 38871⭐
 
-- [basecamp/handbook](https://github.com/basecamp/handbook) 6159⭐
+- [basecamp/handbook](https://github.com/basecamp/handbook) 6160⭐
 
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9297⭐
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9304⭐
 
-- [highlight/highlight](https://github.com/highlight/highlight) 4253⭐
+- [highlight/highlight](https://github.com/highlight/highlight) 4290⭐
 
-- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4051⭐
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4054⭐
 
 - [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 506⭐
 
