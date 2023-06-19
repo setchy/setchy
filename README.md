@@ -69,15 +69,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -103,11 +103,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: correct typo](https://github.com/renovatebot/renovate/pull/22392) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- MERGED - [refactor(bitbucket): remove unused accumulate value utility](https://github.com/renovatebot/renovate/pull/22359) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor(bitbucket): remove unused accumulate value utility](https://github.com/renovatebot/renovate/pull/22359) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [test(bitbucket): update paginated values mocks](https://github.com/renovatebot/renovate/pull/22357) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [test(bitbucket): update paginated values mocks](https://github.com/renovatebot/renovate/pull/22357) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [refactor(bitbucket): use paginated api for comments](https://github.com/renovatebot/renovate/pull/22348) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor(bitbucket): use paginated api for comments](https://github.com/renovatebot/renovate/pull/22348) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
 - MERGED - [refactor(bitbucket): use paginated api for tags](https://github.com/renovatebot/renovate/pull/22336) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71599⭐
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71597⭐
 
 - [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) 628⭐
 
-- [anchore/syft](https://github.com/anchore/syft) 4266⭐
+- [anchore/syft](https://github.com/anchore/syft) 4269⭐
 
-- [anchore/grype](https://github.com/anchore/grype) 5977⭐
+- [anchore/grype](https://github.com/anchore/grype) 5981⭐
 
-- [rclone/rclone](https://github.com/rclone/rclone) 38871⭐
+- [rclone/rclone](https://github.com/rclone/rclone) 38881⭐
 
 - [basecamp/handbook](https://github.com/basecamp/handbook) 6160⭐
 
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9304⭐
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9312⭐
 
-- [highlight/highlight](https://github.com/highlight/highlight) 4290⭐
+- [highlight/highlight](https://github.com/highlight/highlight) 4314⭐
 
-- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4054⭐
+- [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons) 4058⭐
 
-- [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 506⭐
+- [danielcranney/profileme-dev](https://github.com/danielcranney/profileme-dev) 509⭐
 
 
