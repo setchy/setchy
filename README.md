@@ -71,17 +71,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [3 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [4 days ago]
 
-- [docker-java/docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client [3 days ago]
+- [docker-java/docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client [4 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [5 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [6 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [6 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -93,13 +93,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: add export to getDatasourceFor function](https://github.com/renovatebot/renovate/pull/22872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [refactor: add export to getDatasourceFor function](https://github.com/renovatebot/renovate/pull/22872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
-- MERGED - [feat: improve error handling](https://github.com/setchy/dgs-extended-formatters/pull/120) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 week ago]
+- MERGED - [feat: improve error handling](https://github.com/setchy/dgs-extended-formatters/pull/120) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [2 weeks ago]
 
-- MERGED - [feat: add support for ARGUMENT_DEFINITION](https://github.com/setchy/dgs-extended-formatters/pull/119) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 week ago]
+- MERGED - [feat: add support for ARGUMENT_DEFINITION](https://github.com/setchy/dgs-extended-formatters/pull/119) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [2 weeks ago]
 
-- MERGED - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [2 weeks ago]
+- MERGED - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [3 weeks ago]
 
 - CLOSED - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [3 weeks ago]
 
@@ -141,20 +141,20 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix/vsm-sbom-booster](https://github.com/leanix/vsm-sbom-booster) 5⭐
 
-- [score-spec/spec](https://github.com/score-spec/spec) 7757⭐
+- [score-spec/spec](https://github.com/score-spec/spec) 7752⭐
 
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71614⭐
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71615⭐
 
 - [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) 628⭐
 
-- [anchore/syft](https://github.com/anchore/syft) 4299⭐
+- [anchore/syft](https://github.com/anchore/syft) 4322⭐
 
-- [anchore/grype](https://github.com/anchore/grype) 6018⭐
+- [anchore/grype](https://github.com/anchore/grype) 6040⭐
 
-- [rclone/rclone](https://github.com/rclone/rclone) 38911⭐
+- [rclone/rclone](https://github.com/rclone/rclone) 38920⭐
 
 - [basecamp/handbook](https://github.com/basecamp/handbook) 6161⭐
 
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9336⭐
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9341⭐
 
 
