@@ -69,15 +69,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [6 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 week ago]
 
-- [docker-java/docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client [6 days ago]
+- [docker-java/docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client [1 week ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
@@ -93,7 +93,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: add export to getDatasourceFor function](https://github.com/renovatebot/renovate/pull/22872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [refactor: add export to getDatasourceFor function](https://github.com/renovatebot/renovate/pull/22872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [feat: improve error handling](https://github.com/setchy/dgs-extended-formatters/pull/120) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [2 weeks ago]
 
@@ -101,7 +101,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [3 weeks ago]
 
-- CLOSED - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [4 weeks ago]
+- CLOSED - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 month ago]
 
 - MERGED - [fix: correct typo](https://github.com/renovatebot/renovate/pull/22392) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [deoxxa/npmrc](https://github.com/deoxxa/npmrc) 431⭐
+
 - [opossum-tool/OpossumUI](https://github.com/opossum-tool/OpossumUI) 48⭐
 
 - [leanix/vsm-sbom-booster](https://github.com/leanix/vsm-sbom-booster) 5⭐
 
 - [score-spec/spec](https://github.com/score-spec/spec) 7750⭐
 
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71625⭐
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71632⭐
 
 - [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) 628⭐
 
-- [anchore/syft](https://github.com/anchore/syft) 4346⭐
+- [anchore/syft](https://github.com/anchore/syft) 4349⭐
 
-- [anchore/grype](https://github.com/anchore/grype) 6067⭐
+- [anchore/grype](https://github.com/anchore/grype) 6071⭐
 
-- [rclone/rclone](https://github.com/rclone/rclone) 38947⭐
+- [rclone/rclone](https://github.com/rclone/rclone) 38961⭐
 
-- [basecamp/handbook](https://github.com/basecamp/handbook) 6161⭐
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) 9346⭐
+- [basecamp/handbook](https://github.com/basecamp/handbook) 6160⭐
 
 
