@@ -69,13 +69,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
-
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [2 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -93,11 +93,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(platform/bitbucket): support reopening declined PRs via authorized user comments](https://github.com/renovatebot/renovate/pull/22984) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [feat(platform/bitbucket): support reopening declined PRs via comments](https://github.com/renovatebot/renovate/pull/22984) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [refactor: correct case for handlePr function](https://github.com/renovatebot/renovate/pull/22980) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [refactor: correct case for handlePr function](https://github.com/renovatebot/renovate/pull/22980) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [feat(platform/bitbucket): handle author is also default reviewer](https://github.com/renovatebot/renovate/pull/22978) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [feat(platform/bitbucket): handle author is also default reviewer](https://github.com/renovatebot/renovate/pull/22978) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
 - MERGED - [refactor: add export to getDatasourceFor function](https://github.com/renovatebot/renovate/pull/22872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [deoxxa/npmrc](https://github.com/deoxxa/npmrc) 431⭐
+- [deoxxa/npmrc](https://github.com/deoxxa/npmrc) 432⭐
 
 - [opossum-tool/OpossumUI](https://github.com/opossum-tool/OpossumUI) 48⭐
 
 - [leanix/vsm-sbom-booster](https://github.com/leanix/vsm-sbom-booster) 5⭐
 
-- [score-spec/spec](https://github.com/score-spec/spec) 7749⭐
+- [score-spec/spec](https://github.com/score-spec/spec) 7747⭐
 
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71638⭐
 
 - [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) 629⭐
 
-- [anchore/syft](https://github.com/anchore/syft) 4356⭐
+- [anchore/syft](https://github.com/anchore/syft) 4361⭐
 
-- [anchore/grype](https://github.com/anchore/grype) 6079⭐
+- [anchore/grype](https://github.com/anchore/grype) 6083⭐
 
-- [rclone/rclone](https://github.com/rclone/rclone) 38969⭐
+- [rclone/rclone](https://github.com/rclone/rclone) 38978⭐
 
-- [basecamp/handbook](https://github.com/basecamp/handbook) 6160⭐
+- [basecamp/handbook](https://github.com/basecamp/handbook) 6161⭐
 
 
