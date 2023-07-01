@@ -69,23 +69,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [4 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [4 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [5 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [docker-java/docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client [1 week ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 weeks ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 weeks ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 month ago]
 
@@ -93,11 +93,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(platform/bitbucket): support reopening declined PRs via comments](https://github.com/renovatebot/renovate/pull/22984) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- OPEN - [feat(platform/bitbucket): support reopening declined PRs via comments](https://github.com/renovatebot/renovate/pull/22984) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [refactor: correct case for handlePr function](https://github.com/renovatebot/renovate/pull/22980) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [refactor: correct case for handlePr function](https://github.com/renovatebot/renovate/pull/22980) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [feat(platform/bitbucket): handle author is also default reviewer](https://github.com/renovatebot/renovate/pull/22978) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [feat(platform/bitbucket): handle author is also default reviewer](https://github.com/renovatebot/renovate/pull/22978) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
 - MERGED - [refactor: add export to getDatasourceFor function](https://github.com/renovatebot/renovate/pull/22872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [sindresorhus/is](https://github.com/sindresorhus/is) 1500⭐
+
 - [deoxxa/npmrc](https://github.com/deoxxa/npmrc) 432⭐
 
 - [opossum-tool/OpossumUI](https://github.com/opossum-tool/OpossumUI) 48⭐
 
 - [leanix/vsm-sbom-booster](https://github.com/leanix/vsm-sbom-booster) 5⭐
 
-- [score-spec/spec](https://github.com/score-spec/spec) 7741⭐
+- [score-spec/spec](https://github.com/score-spec/spec) 7739⭐
 
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71647⭐
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71654⭐
 
 - [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) 629⭐
 
-- [anchore/syft](https://github.com/anchore/syft) 4370⭐
+- [anchore/syft](https://github.com/anchore/syft) 4373⭐
 
-- [anchore/grype](https://github.com/anchore/grype) 6099⭐
+- [anchore/grype](https://github.com/anchore/grype) 6101⭐
 
-- [rclone/rclone](https://github.com/rclone/rclone) 38997⭐
-
-- [basecamp/handbook](https://github.com/basecamp/handbook) 6162⭐
+- [rclone/rclone](https://github.com/rclone/rclone) 39006⭐
 
 
