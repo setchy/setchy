@@ -69,13 +69,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
+- [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) -  [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [5 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
+
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [6 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -83,21 +85,41 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 weeks ago]
-
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat(platform/bitbucket): support reopening declined PRs via comments](https://github.com/renovatebot/renovate/pull/22984) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [Update dependency org.springframework:spring to v5](https://github.com/setchy/renovate-changelog-refactor/pull/8) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [1 day ago]
 
-- MERGED - [refactor: correct case for handlePr function](https://github.com/renovatebot/renovate/pull/22980) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [Update dependency @gitlab/ui to v64](https://github.com/setchy/renovate-changelog-refactor/pull/7) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [1 day ago]
 
-- MERGED - [feat(platform/bitbucket): handle author is also default reviewer](https://github.com/renovatebot/renovate/pull/22978) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [Update dependency @gitlab/ui to v61.3.0](https://github.com/setchy/renovate-changelog-refactor/pull/6) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [1 day ago]
+
+- CLOSED - [Update dependency com.gitlab.dumonts:hunspell to v2 - autoclosed](https://github.com/setchy/renovate-changelog-refactor/pull/5) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [1 day ago]
+
+- CLOSED - [Update dependency com.gitlab.dumonts:hunspell to v1.1.1 - autoclosed](https://github.com/setchy/renovate-changelog-refactor/pull/4) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [1 day ago]
+
+- CLOSED - [Update dependency fdroidserver to v2 - autoclosed](https://github.com/setchy/renovate-changelog-refactor/pull/2) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [1 day ago]
+
+- OPEN - [Update dependency io.github.setchy:dgs-extended-formatters to v1.0.11](https://github.com/setchy/renovate-changelog-refactor/pull/1) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [1 day ago]
+
+- MERGED - [refactor: reorder platforms alphabetically](https://github.com/renovatebot/renovate/pull/23077) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+
+- MERGED - [feat: refactor changelog platforms](https://github.com/renovatebot/renovate/pull/23076) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+
+- MERGED - [feat: detect bitbucket host types](https://github.com/renovatebot/renovate/pull/23075) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+
+- MERGED - [feat: detect bitbucket hosts](https://github.com/renovatebot/renovate/pull/23074) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+
+- OPEN - [feat(platform/bitbucket): support reopening declined PRs via comments](https://github.com/renovatebot/renovate/pull/22984) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+
+- MERGED - [refactor: correct case for handlePr function](https://github.com/renovatebot/renovate/pull/22980) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+
+- MERGED - [feat(platform/bitbucket): handle author is also default reviewer](https://github.com/renovatebot/renovate/pull/22978) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
 - MERGED - [refactor: add export to getDatasourceFor function](https://github.com/renovatebot/renovate/pull/22872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -105,33 +127,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add support for ARGUMENT_DEFINITION](https://github.com/setchy/dgs-extended-formatters/pull/119) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 weeks ago]
 
-- MERGED - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [4 weeks ago]
+- MERGED - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [1 month ago]
 
 - CLOSED - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 month ago]
 
 - MERGED - [fix: correct typo](https://github.com/renovatebot/renovate/pull/22392) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [refactor(bitbucket): remove unused accumulate value utility](https://github.com/renovatebot/renovate/pull/22359) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [test(bitbucket): update paginated values mocks](https://github.com/renovatebot/renovate/pull/22357) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [refactor(bitbucket): use paginated api for comments](https://github.com/renovatebot/renovate/pull/22348) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [refactor(bitbucket): use paginated api for tags](https://github.com/renovatebot/renovate/pull/22336) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- OPEN - [feat: add back backwards compatibility](https://github.com/thoughtworks/build-your-own-radar/pull/318) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 month ago]
-
-- MERGED - [feat(template): allow isGroup](https://github.com/renovatebot/renovate/pull/22331) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [refactor(bitbucket): use paginated api for pullrequests](https://github.com/renovatebot/renovate/pull/22330) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [refactor(bitbucket): use paginated api for commit statuses](https://github.com/renovatebot/renovate/pull/22329) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [feat(bitbucket): add support for pagelen](https://github.com/renovatebot/renovate/pull/22278) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [refactor(bitbucket): use paginated api for getRepos](https://github.com/renovatebot/renovate/pull/22275) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [feat(vulnerabilities): handle medium and unknown severities](https://github.com/renovatebot/renovate/pull/22257) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -145,16 +145,16 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix/vsm-sbom-booster](https://github.com/leanix/vsm-sbom-booster) 5⭐
 
-- [score-spec/spec](https://github.com/score-spec/spec) 7739⭐
+- [score-spec/spec](https://github.com/score-spec/spec) 7737⭐
 
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71654⭐
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71656⭐
 
 - [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) 629⭐
 
-- [anchore/syft](https://github.com/anchore/syft) 4373⭐
+- [anchore/syft](https://github.com/anchore/syft) 4375⭐
 
-- [anchore/grype](https://github.com/anchore/grype) 6101⭐
+- [anchore/grype](https://github.com/anchore/grype) 6107⭐
 
-- [rclone/rclone](https://github.com/rclone/rclone) 39006⭐
+- [rclone/rclone](https://github.com/rclone/rclone) 39011⭐
 
 
