@@ -69,11 +69,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 day ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
-
-- [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) -  [2 days ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
@@ -89,35 +87,35 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 weeks ago]
 
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 month ago]
+
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat(matcher): add matchRepositoryPatterns matcher](https://github.com/renovatebot/renovate/pull/23085) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [test(changelog): moves tests to respective source-platform folder](https://github.com/renovatebot/renovate/pull/23118) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- MERGED - [chore(bitbucket): add optional page to PagedResult](https://github.com/renovatebot/renovate/pull/23084) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [refactor(changelog): remove unused apiBaseUrl/endpoint param](https://github.com/renovatebot/renovate/pull/23116) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- OPEN - [Update dependency org.springframework:spring to v5](https://github.com/setchy/renovate-changelog-refactor/pull/8) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [2 days ago]
+- MERGED - [refactor(changelog): use util/url instead of deprecated URL](https://github.com/renovatebot/renovate/pull/23113) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- OPEN - [Update dependency @gitlab/ui to v64](https://github.com/setchy/renovate-changelog-refactor/pull/7) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [2 days ago]
+- MERGED - [fix(changelog): remove urls from md heading url](https://github.com/renovatebot/renovate/pull/23112) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- OPEN - [Update dependency @gitlab/ui to v61.3.0](https://github.com/setchy/renovate-changelog-refactor/pull/6) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [2 days ago]
+- MERGED - [refactor(changelog/gitlab): move source](https://github.com/renovatebot/renovate/pull/23104) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- CLOSED - [Update dependency com.gitlab.dumonts:hunspell to v2 - autoclosed](https://github.com/setchy/renovate-changelog-refactor/pull/5) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [2 days ago]
+- MERGED - [refactor(changelog/github): move source](https://github.com/renovatebot/renovate/pull/23103) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- CLOSED - [Update dependency com.gitlab.dumonts:hunspell to v1.1.1 - autoclosed](https://github.com/setchy/renovate-changelog-refactor/pull/4) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [2 days ago]
+- OPEN - [feat(matcher): add matchRepositoryPatterns matcher](https://github.com/renovatebot/renovate/pull/23085) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- CLOSED - [Update dependency fdroidserver to v2 - autoclosed](https://github.com/setchy/renovate-changelog-refactor/pull/2) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [2 days ago]
+- MERGED - [chore(bitbucket): add optional page to PagedResult](https://github.com/renovatebot/renovate/pull/23084) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- OPEN - [Update dependency io.github.setchy:dgs-extended-formatters to v1.0.11](https://github.com/setchy/renovate-changelog-refactor/pull/1) to [setchy/renovate-changelog-refactor](https://github.com/setchy/renovate-changelog-refactor) [2 days ago]
+- MERGED - [refactor: reorder platforms alphabetically](https://github.com/renovatebot/renovate/pull/23077) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- MERGED - [refactor: reorder platforms alphabetically](https://github.com/renovatebot/renovate/pull/23077) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [feat: refactor changelog platforms](https://github.com/renovatebot/renovate/pull/23076) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- MERGED - [feat: refactor changelog platforms](https://github.com/renovatebot/renovate/pull/23076) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [feat: detect bitbucket host types](https://github.com/renovatebot/renovate/pull/23075) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- MERGED - [feat: detect bitbucket host types](https://github.com/renovatebot/renovate/pull/23075) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
-
-- MERGED - [feat: detect bitbucket hosts](https://github.com/renovatebot/renovate/pull/23074) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [feat: detect bitbucket hosts](https://github.com/renovatebot/renovate/pull/23074) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
 - MERGED - [feat(platform/bitbucket): support reopening declined PRs via comments](https://github.com/renovatebot/renovate/pull/22984) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -133,9 +131,15 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix(2127): handle repoNames with tags](https://github.com/docker-java/docker-java/pull/2128) to [docker-java/docker-java](https://github.com/docker-java/docker-java) [1 month ago]
 
+- CLOSED - [[Snyk] Security upgrade github-pages from 228 to 228](https://github.com/setchy/setchy.github.io/pull/22) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 month ago]
+
 #### ⭐ Latest projects I've starred
 
 
+
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 5452⭐
+
+- [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) 7175⭐
 
 - [sindresorhus/is](https://github.com/sindresorhus/is) 1500⭐
 
@@ -145,16 +149,12 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix/vsm-sbom-booster](https://github.com/leanix/vsm-sbom-booster) 5⭐
 
-- [score-spec/spec](https://github.com/score-spec/spec) 7734⭐
+- [score-spec/spec](https://github.com/score-spec/spec) 7733⭐
 
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71662⭐
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 71665⭐
 
 - [cncf/tag-app-delivery](https://github.com/cncf/tag-app-delivery) 629⭐
 
-- [anchore/syft](https://github.com/anchore/syft) 4377⭐
-
-- [anchore/grype](https://github.com/anchore/grype) 6114⭐
-
-- [rclone/rclone](https://github.com/rclone/rclone) 39034⭐
+- [anchore/syft](https://github.com/anchore/syft) 4379⭐
 
 
