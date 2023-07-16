@@ -69,15 +69,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) -  [2 days ago]
+- [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) -  [3 days ago]
 
-- [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) -  [4 days ago]
+- [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) -  [5 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [6 days ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
@@ -93,25 +93,25 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 day ago]
+- OPEN - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 days ago]
 
-- CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [1 day ago]
+- CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [2 days ago]
 
-- MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [2 days ago]
+- MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [3 days ago]
 
-- OPEN - [Update dependency react-native to v0.72.2](https://github.com/setchy/renovate-react-native/pull/4) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [4 days ago]
+- OPEN - [Update dependency react-native to v0.72.2](https://github.com/setchy/renovate-react-native/pull/4) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [5 days ago]
 
-- CLOSED - [main-branch: Update dependency react-native to v0.72.2](https://github.com/setchy/renovate-react-native/pull/2) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [4 days ago]
+- CLOSED - [main-branch: Update dependency react-native to v0.72.2](https://github.com/setchy/renovate-react-native/pull/2) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [5 days ago]
 
-- MERGED - [Configure Renovate](https://github.com/setchy/renovate-react-native/pull/1) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [4 days ago]
+- MERGED - [Configure Renovate](https://github.com/setchy/renovate-react-native/pull/1) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [5 days ago]
 
-- OPEN - [refactor(release-notes): extract shouldSkipChangelogMd](https://github.com/renovatebot/renovate/pull/23274) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [refactor(release-notes): extract shouldSkipChangelogMd](https://github.com/renovatebot/renovate/pull/23274) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- OPEN - [fix: correct case for function name](https://github.com/thoughtworks/build-your-own-radar/pull/332) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [5 days ago]
+- OPEN - [fix: correct case for function name](https://github.com/thoughtworks/build-your-own-radar/pull/332) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [6 days ago]
 
-- MERGED - [refactor(util/markdown): remove test scenario](https://github.com/renovatebot/renovate/pull/23272) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- MERGED - [refactor(util/markdown): remove test scenario](https://github.com/renovatebot/renovate/pull/23272) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- OPEN - [feat: add support for quadrant deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/331) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [6 days ago]
+- OPEN - [feat: add support for quadrant deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/331) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
 
 - OPEN - [feat: alphabetically order blips](https://github.com/thoughtworks/build-your-own-radar/pull/330) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
 
@@ -139,22 +139,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 113⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3874⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3875⭐
 
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1128⭐
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) 7066⭐
+- [teaxyz/cli](https://github.com/teaxyz/cli) 7070⭐
 
-- [plotly/dash](https://github.com/plotly/dash) 18997⭐
+- [plotly/dash](https://github.com/plotly/dash) 19005⭐
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11176⭐
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11181⭐
 
-- [ronami/meta-typing](https://github.com/ronami/meta-typing) 1469⭐
+- [ronami/meta-typing](https://github.com/ronami/meta-typing) 1471⭐
 
-- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 5903⭐
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 5935⭐
 
-- [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) 7190⭐
+- [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) 7191⭐
 
-- [sindresorhus/is](https://github.com/sindresorhus/is) 1500⭐
+- [sindresorhus/is](https://github.com/sindresorhus/is) 1501⭐
 
 
