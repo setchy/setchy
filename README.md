@@ -69,15 +69,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
-
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
-- [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) -  [5 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [2 days ago]
+
+- [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) -  [6 days ago]
 
 - [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) -  [1 week ago]
 
@@ -85,19 +87,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 week ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
-
-- [docker-java/docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client [4 weeks ago]
+- [docker-java/docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 days ago]
+- MERGED - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [5 days ago]
 
-- CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [4 days ago]
+- CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [5 days ago]
 
-- MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [5 days ago]
+- MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [6 days ago]
 
 - OPEN - [Update dependency react-native to v0.72.2](https://github.com/setchy/renovate-react-native/pull/4) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [1 week ago]
 
@@ -131,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat: draw blips in ascending order within quadrant/ring](https://github.com/thoughtworks/build-your-own-radar/pull/322) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
 
-- MERGED - [fix(changelog/gitlab): custom endpoint and repository length validation](https://github.com/renovatebot/renovate/pull/23182) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [fix(changelog/gitlab): custom endpoint and repository length validation](https://github.com/renovatebot/renovate/pull/23182) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -139,22 +139,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 113⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3888⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3896⭐
 
-- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1132⭐
+- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1134⭐
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) 7077⭐
+- [teaxyz/cli](https://github.com/teaxyz/cli) 7081⭐
 
-- [plotly/dash](https://github.com/plotly/dash) 19010⭐
+- [plotly/dash](https://github.com/plotly/dash) 19016⭐
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11192⭐
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11205⭐
 
 - [ronami/meta-typing](https://github.com/ronami/meta-typing) 1471⭐
 
-- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 6014⭐
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 6072⭐
 
-- [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) 7194⭐
+- [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) 7196⭐
 
-- [sindresorhus/is](https://github.com/sindresorhus/is) 1518⭐
+- [sindresorhus/is](https://github.com/sindresorhus/is) 1525⭐
 
 
