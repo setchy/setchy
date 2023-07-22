@@ -71,13 +71,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
 
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 day ago]
+
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [1 day ago]
+
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [4 days ago]
-
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [4 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
 
 - [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) -  [1 week ago]
 
@@ -85,19 +87,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 week ago]
-
 - [docker-java/docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat: support deep linking by blip or quadrant](https://github.com/thoughtworks/build-your-own-radar/pull/337) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 days ago]
+- OPEN - [feat: support deep linking by blip or quadrant](https://github.com/thoughtworks/build-your-own-radar/pull/337) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 days ago]
 
-- CLOSED - [feat: add support for blip deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/336) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 days ago]
+- CLOSED - [feat: add support for blip deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/336) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 days ago]
 
 - MERGED - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
 
@@ -113,25 +113,25 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [refactor(release-notes): extract shouldSkipChangelogMd](https://github.com/renovatebot/renovate/pull/23274) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- OPEN - [fix: correct case for function name](https://github.com/thoughtworks/build-your-own-radar/pull/332) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- MERGED - [fix: correct case for function name](https://github.com/thoughtworks/build-your-own-radar/pull/332) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
 
 - MERGED - [refactor(util/markdown): remove test scenario](https://github.com/renovatebot/renovate/pull/23272) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - CLOSED - [feat: add support for quadrant deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/331) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
 
-- OPEN - [feat: alphabetically order blips](https://github.com/thoughtworks/build-your-own-radar/pull/330) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- OPEN - [feat: alphabetically order blips](https://github.com/thoughtworks/build-your-own-radar/pull/330) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
-- OPEN - [docs: add @setchy to contributors](https://github.com/thoughtworks/build-your-own-radar/pull/329) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- OPEN - [docs: add @setchy to contributors](https://github.com/thoughtworks/build-your-own-radar/pull/329) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
-- OPEN - [chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/328) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- OPEN - [chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/328) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
-- OPEN - [build: add codeowners](https://github.com/thoughtworks/build-your-own-radar/pull/327) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- OPEN - [build: add codeowners](https://github.com/thoughtworks/build-your-own-radar/pull/327) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
-- CLOSED - [chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/326) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- CLOSED - [chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/326) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
-- CLOSED - [docs: update contributors](https://github.com/thoughtworks/build-your-own-radar/pull/325) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- CLOSED - [docs: update contributors](https://github.com/thoughtworks/build-your-own-radar/pull/325) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
-- MERGED - [feat: update vscode extension recommendations](https://github.com/thoughtworks/build-your-own-radar/pull/324) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- MERGED - [feat: update vscode extension recommendations](https://github.com/thoughtworks/build-your-own-radar/pull/324) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -139,22 +139,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 113⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3904⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3906⭐
 
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1135⭐
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) 7105⭐
+- [teaxyz/cli](https://github.com/teaxyz/cli) 7109⭐
 
-- [plotly/dash](https://github.com/plotly/dash) 19022⭐
+- [plotly/dash](https://github.com/plotly/dash) 19028⭐
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11228⭐
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11236⭐
 
-- [ronami/meta-typing](https://github.com/ronami/meta-typing) 1473⭐
+- [ronami/meta-typing](https://github.com/ronami/meta-typing) 1474⭐
 
-- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 6154⭐
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 6188⭐
 
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) 7199⭐
 
-- [sindresorhus/is](https://github.com/sindresorhus/is) 1526⭐
+- [sindresorhus/is](https://github.com/sindresorhus/is) 1528⭐
 
 
