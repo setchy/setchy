@@ -69,17 +69,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
+
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [3 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
-
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
@@ -93,19 +93,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
-- MERGED - [refactor(util/hash): replace hasha sha512 use cases](https://github.com/renovatebot/renovate/pull/23548) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [refactor(util/hash): replace hasha sha512 use cases](https://github.com/renovatebot/renovate/pull/23548) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
-- MERGED - [refactor(util/hash): replace sha256 hasha use cases](https://github.com/renovatebot/renovate/pull/23547) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [refactor(util/hash): replace sha256 hasha use cases](https://github.com/renovatebot/renovate/pull/23547) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
-- MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
-- MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- OPEN - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [5 days ago]
+- OPEN - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [6 days ago]
 
 - OPEN - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -113,9 +113,9 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [feat: add support for blip deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/336) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
 
-- MERGED - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- MERGED - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
-- CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [1 week ago]
+- CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [2 weeks ago]
 
 - MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [2 weeks ago]
 
@@ -141,20 +141,20 @@ Senior Executive (VP) // Architect // Developer
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 113⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3920⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3927⭐
 
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1135⭐
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) 7195⭐
+- [teaxyz/cli](https://github.com/teaxyz/cli) 7211⭐
 
-- [plotly/dash](https://github.com/plotly/dash) 19042⭐
+- [plotly/dash](https://github.com/plotly/dash) 19047⭐
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11269⭐
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11286⭐
 
 - [ronami/meta-typing](https://github.com/ronami/meta-typing) 1481⭐
 
-- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 6346⭐
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 6380⭐
 
-- [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) 7207⭐
+- [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) 7210⭐
 
 
