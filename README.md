@@ -69,13 +69,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [6 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 week ago]
 
@@ -83,7 +83,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
 
-- [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) -  [2 weeks ago]
+- [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) -  [3 weeks ago]
 
 - [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) -  [3 weeks ago]
 
@@ -107,7 +107,7 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
 
-- OPEN - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- OPEN - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - OPEN - [feat: support deep linking by blip or quadrant](https://github.com/thoughtworks/build-your-own-radar/pull/337) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
@@ -117,7 +117,7 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [2 weeks ago]
 
-- MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [2 weeks ago]
+- MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [3 weeks ago]
 
 - OPEN - [Update dependency react-native to v0.72.2](https://github.com/setchy/renovate-react-native/pull/4) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [3 weeks ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1587⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1612⭐
 
-- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1180⭐
+- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1182⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 113⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3941⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3943⭐
 
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1138⭐
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) 7249⭐
+- [teaxyz/cli](https://github.com/teaxyz/cli) 7251⭐
 
-- [plotly/dash](https://github.com/plotly/dash) 19071⭐
+- [plotly/dash](https://github.com/plotly/dash) 19078⭐
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11326⭐
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11333⭐
 
-- [ronami/meta-typing](https://github.com/ronami/meta-typing) 1483⭐
+- [ronami/meta-typing](https://github.com/ronami/meta-typing) 1484⭐
 
-- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 6519⭐
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 6546⭐
 
 
