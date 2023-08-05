@@ -69,19 +69,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
+
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
+
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
-
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
-
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 week ago]
 
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [1 week ago]
-
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
 
 - [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) -  [3 weeks ago]
 
@@ -103,9 +103,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- OPEN - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 week ago]
+- OPEN - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 weeks ago]
 
 - OPEN - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1619⭐
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 254⭐
+
+- [fern-api/fern](https://github.com/fern-api/fern) 1627⭐
 
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1184⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3944⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3950⭐
 
-- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1140⭐
+- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1141⭐
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) 7252⭐
+- [teaxyz/cli](https://github.com/teaxyz/cli) 7254⭐
 
-- [plotly/dash](https://github.com/plotly/dash) 19077⭐
+- [plotly/dash](https://github.com/plotly/dash) 19080⭐
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11339⭐
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11357⭐
 
-- [ronami/meta-typing](https://github.com/ronami/meta-typing) 1486⭐
-
-- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) 6580⭐
+- [ronami/meta-typing](https://github.com/ronami/meta-typing) 1487⭐
 
 
