@@ -69,13 +69,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
-
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -101,7 +101,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
@@ -131,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor(util/markdown): remove test scenario](https://github.com/renovatebot/renovate/pull/23272) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- CLOSED - [feat: add support for quadrant deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/331) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 weeks ago]
+- CLOSED - [feat: add support for quadrant deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/331) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -139,7 +139,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 254⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1627⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1631⭐
 
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1184⭐
 
@@ -147,13 +147,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3950⭐
 
-- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1141⭐
+- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1142⭐
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) 7254⭐
+- [teaxyz/cli](https://github.com/teaxyz/cli) 7258⭐
 
-- [plotly/dash](https://github.com/plotly/dash) 19080⭐
+- [plotly/dash](https://github.com/plotly/dash) 19085⭐
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11357⭐
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11361⭐
 
 - [ronami/meta-typing](https://github.com/ronami/meta-typing) 1487⭐
 
