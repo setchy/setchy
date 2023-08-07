@@ -69,13 +69,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -93,13 +93,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [refactor(util/hash): replace hasha sha512 use cases](https://github.com/renovatebot/renovate/pull/23548) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor(util/hash): replace hasha sha512 use cases](https://github.com/renovatebot/renovate/pull/23548) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [refactor(util/hash): replace sha256 hasha use cases](https://github.com/renovatebot/renovate/pull/23547) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor(util/hash): replace sha256 hasha use cases](https://github.com/renovatebot/renovate/pull/23547) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
@@ -125,11 +125,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [Configure Renovate](https://github.com/setchy/renovate-react-native/pull/1) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [3 weeks ago]
 
-- MERGED - [refactor(release-notes): extract shouldSkipChangelogMd](https://github.com/renovatebot/renovate/pull/23274) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor(release-notes): extract shouldSkipChangelogMd](https://github.com/renovatebot/renovate/pull/23274) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [fix: correct case for function name](https://github.com/thoughtworks/build-your-own-radar/pull/332) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 weeks ago]
+- MERGED - [fix: correct case for function name](https://github.com/thoughtworks/build-your-own-radar/pull/332) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 weeks ago]
 
-- MERGED - [refactor(util/markdown): remove test scenario](https://github.com/renovatebot/renovate/pull/23272) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor(util/markdown): remove test scenario](https://github.com/renovatebot/renovate/pull/23272) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
 - CLOSED - [feat: add support for quadrant deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/331) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 weeks ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 254⭐
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 255⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1631⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1632⭐
 
-- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1184⭐
+- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1186⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3950⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3953⭐
 
-- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1142⭐
+- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1143⭐
 
 - [teaxyz/cli](https://github.com/teaxyz/cli) 7258⭐
 
-- [plotly/dash](https://github.com/plotly/dash) 19085⭐
+- [plotly/dash](https://github.com/plotly/dash) 19089⭐
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11361⭐
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) 11362⭐
 
-- [ronami/meta-typing](https://github.com/ronami/meta-typing) 1487⭐
+- [ronami/meta-typing](https://github.com/ronami/meta-typing) 1486⭐
 
 
