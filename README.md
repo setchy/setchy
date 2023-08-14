@@ -69,11 +69,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
@@ -93,13 +93,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- MERGED - [refactor(util/hash): replace hasha sha512 use cases](https://github.com/renovatebot/renovate/pull/23548) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [refactor(util/hash): replace hasha sha512 use cases](https://github.com/renovatebot/renovate/pull/23548) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- MERGED - [refactor(util/hash): replace sha256 hasha use cases](https://github.com/renovatebot/renovate/pull/23547) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [refactor(util/hash): replace sha256 hasha use cases](https://github.com/renovatebot/renovate/pull/23547) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
 - MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 2725⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 2818⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2966⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2975⭐
 
-- [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 421⭐
+- [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 420⭐
 
 - [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 691⭐
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 259⭐
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 260⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1686⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1694⭐
 
-- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1188⭐
+- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1189⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3972⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3973⭐
 
-- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1149⭐
+- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1151⭐
 
 
