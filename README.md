@@ -69,21 +69,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
-
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [6 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [2 weeks ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [3 weeks ago]
 
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [3 weeks ago]
 
@@ -109,9 +109,9 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- OPEN - [feat: support deep linking by blip or quadrant](https://github.com/thoughtworks/build-your-own-radar/pull/337) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 weeks ago]
+- OPEN - [feat: support deep linking by blip or quadrant](https://github.com/thoughtworks/build-your-own-radar/pull/337) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 weeks ago]
 
-- CLOSED - [feat: add support for blip deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/336) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 weeks ago]
+- CLOSED - [feat: add support for blip deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/336) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 weeks ago]
 
 - MERGED - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 month ago]
 
@@ -137,9 +137,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 2870⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 2907⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2975⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2977⭐
 
 - [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 420⭐
 
@@ -147,14 +147,14 @@ Senior Executive (VP) // Architect // Developer
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 261⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1700⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1707⭐
 
-- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1189⭐
+- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1190⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3975⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3981⭐
 
-- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1151⭐
+- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1150⭐
 
 
