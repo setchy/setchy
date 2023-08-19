@@ -69,11 +69,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
@@ -103,11 +103,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- OPEN - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 weeks ago]
+- OPEN - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 weeks ago]
 
-- OPEN - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- OPEN - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
 - OPEN - [feat: support deep linking by blip or quadrant](https://github.com/thoughtworks/build-your-own-radar/pull/337) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 month ago]
 
@@ -137,23 +137,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 2950⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 2974⭐
 
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2979⭐
 
-- [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 422⭐
+- [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 423⭐
 
-- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 692⭐
+- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 694⭐
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 262⭐
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 263⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1737⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1744⭐
 
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1190⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3989⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3994⭐
 
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1151⭐
 
