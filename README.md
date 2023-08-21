@@ -69,11 +69,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
@@ -93,19 +93,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [refactor(util/hash): replace hasha sha512 use cases](https://github.com/renovatebot/renovate/pull/23548) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor(util/hash): replace hasha sha512 use cases](https://github.com/renovatebot/renovate/pull/23548) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [refactor(util/hash): replace sha256 hasha use cases](https://github.com/renovatebot/renovate/pull/23547) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor(util/hash): replace sha256 hasha use cases](https://github.com/renovatebot/renovate/pull/23547) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
 - MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
+- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
-- OPEN - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 weeks ago]
+- OPEN - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 month ago]
 
 - OPEN - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
@@ -137,9 +137,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 2985⭐
+- [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 79⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2978⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 2996⭐
+
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2980⭐
 
 - [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 423⭐
 
@@ -147,14 +149,12 @@ Senior Executive (VP) // Architect // Developer
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 263⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1747⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1750⭐
 
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1190⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3997⭐
-
-- [fossas/fossa-cli](https://github.com/fossas/fossa-cli) 1150⭐
 
 
