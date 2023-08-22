@@ -69,9 +69,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
@@ -85,7 +85,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [3 weeks ago]
 
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [3 weeks ago]
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [4 weeks ago]
 
 - [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) -  [1 month ago]
 
@@ -101,7 +101,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
-- MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
+- MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
 - MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
@@ -139,22 +139,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 79⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 2996⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3012⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2980⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2983⭐
 
-- [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 423⭐
+- [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 424⭐
 
-- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 694⭐
+- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 693⭐
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 263⭐
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 264⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1750⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1754⭐
 
-- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1190⭐
+- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1191⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 3997⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4002⭐
 
 
