@@ -75,7 +75,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -83,7 +83,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 weeks ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [4 weeks ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 month ago]
 
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [1 month ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 81⭐
+- [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 82⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3048⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3081⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2984⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2983⭐
 
-- [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 425⭐
+- [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 424⭐
 
-- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 694⭐
+- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 695⭐
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 269⭐
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 276⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1763⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1765⭐
 
-- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1195⭐
+- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1197⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4011⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4013⭐
 
 
