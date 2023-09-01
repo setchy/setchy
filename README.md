@@ -69,13 +69,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
+
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
-
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
@@ -139,22 +139,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 84⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3174⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3192⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2991⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2992⭐
 
-- [AppThreat/dep-scan](https://github.com/AppThreat/dep-scan) 426⭐
+- [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 426⭐
 
 - [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 697⭐
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 283⭐
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 285⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1783⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1787⭐
 
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1201⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4038⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4048⭐
 
 
