@@ -69,13 +69,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [4 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
@@ -139,7 +139,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 84⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3223⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3236⭐
 
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 2995⭐
 
@@ -149,12 +149,12 @@ Senior Executive (VP) // Architect // Developer
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 287⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1790⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1792⭐
 
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1201⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4050⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4052⭐
 
 
