@@ -69,11 +69,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
@@ -83,7 +83,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 weeks ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 month ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 month ago]
 
@@ -125,11 +125,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [Configure Renovate](https://github.com/setchy/renovate-react-native/pull/1) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [1 month ago]
 
-- MERGED - [refactor(release-notes): extract shouldSkipChangelogMd](https://github.com/renovatebot/renovate/pull/23274) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
+- MERGED - [refactor(release-notes): extract shouldSkipChangelogMd](https://github.com/renovatebot/renovate/pull/23274) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 months ago]
 
-- MERGED - [fix: correct case for function name](https://github.com/thoughtworks/build-your-own-radar/pull/332) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 month ago]
+- MERGED - [fix: correct case for function name](https://github.com/thoughtworks/build-your-own-radar/pull/332) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 months ago]
 
-- MERGED - [refactor(util/markdown): remove test scenario](https://github.com/renovatebot/renovate/pull/23272) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
+- MERGED - [refactor(util/markdown): remove test scenario](https://github.com/renovatebot/renovate/pull/23272) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 months ago]
 
 - CLOSED - [feat: add support for quadrant deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/331) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 months ago]
 
@@ -139,9 +139,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 84⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3278⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3290⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3003⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3006⭐
 
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 428⭐
 
@@ -149,12 +149,12 @@ Senior Executive (VP) // Architect // Developer
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 290⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1801⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1802⭐
 
-- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1204⭐
+- [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1206⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4062⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4064⭐
 
 
