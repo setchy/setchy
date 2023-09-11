@@ -69,13 +69,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [3 days ago]
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
@@ -117,7 +117,7 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [1 month ago]
 
-- MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [1 month ago]
+- MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [2 months ago]
 
 - OPEN - [Update dependency react-native to v0.72.2](https://github.com/setchy/renovate-react-native/pull/4) to [setchy/renovate-react-native](https://github.com/setchy/renovate-react-native) [2 months ago]
 
@@ -139,9 +139,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 84⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3317⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3325⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3008⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3009⭐
 
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 428⭐
 
@@ -149,12 +149,12 @@ Senior Executive (VP) // Architect // Developer
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 292⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1809⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1814⭐
 
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1207⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4068⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4074⭐
 
 
