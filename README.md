@@ -69,9 +69,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [4 days ago]
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [5 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -113,9 +113,9 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [feat: add support for blip deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/336) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 month ago]
 
-- MERGED - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 month ago]
+- MERGED - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 months ago]
 
-- CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [1 month ago]
+- CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [2 months ago]
 
 - MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [2 months ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 84⭐
+- [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 85⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3325⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3335⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3009⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3010⭐
 
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 428⭐
 
-- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 700⭐
+- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 701⭐
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 292⭐
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 294⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1814⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1816⭐
 
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1207⭐
 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
-- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4074⭐
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) 4078⭐
 
 
