@@ -69,21 +69,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [6 days ago]
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 weeks ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 weeks ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 weeks ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 month ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [joernio/joern](https://github.com/joernio/joern) 1484⭐
+- [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) 4418⭐
+
+- [joernio/joern](https://github.com/joernio/joern) 1486⭐
 
 - [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 86⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3349⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3375⭐
 
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3011⭐
 
 - [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 429⭐
 
-- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 702⭐
+- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 703⭐
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 295⭐
 
-- [fern-api/fern](https://github.com/fern-api/fern) 1818⭐
+- [fern-api/fern](https://github.com/fern-api/fern) 1820⭐
 
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) 1207⭐
-
-- [microsoft/graphitation](https://github.com/microsoft/graphitation) 114⭐
 
 
