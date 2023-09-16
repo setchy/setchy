@@ -69,9 +69,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 day ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [1 week ago]
 
@@ -79,21 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
-
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 weeks ago]
 
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
+
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 weeks ago]
-
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 weeks ago]
-
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
 - MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68386⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 11884⭐
 
-- [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) 4420⭐
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52776⭐
 
-- [joernio/joern](https://github.com/joernio/joern) 1487⭐
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57401⭐
+
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68421⭐
+
+- [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) 4419⭐
+
+- [joernio/joern](https://github.com/joernio/joern) 1488⭐
 
 - [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 86⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3389⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3411⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3012⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3015⭐
 
-- [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 429⭐
-
-- [ShiftLeftSecurity/sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) 703⭐
-
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) 295⭐
-
-- [fern-api/fern](https://github.com/fern-api/fern) 1825⭐
+- [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 431⭐
 
 
