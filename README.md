@@ -69,13 +69,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [3 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [1 week ago]
 
@@ -93,7 +93,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
 - MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 11929⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 11969⭐
 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52804⭐
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52817⭐
 
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57439⭐
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57448⭐
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68476⭐
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68505⭐
 
-- [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) 4428⭐
+- [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) 4430⭐
 
-- [joernio/joern](https://github.com/joernio/joern) 1487⭐
+- [joernio/joern](https://github.com/joernio/joern) 1488⭐
 
 - [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 86⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3444⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3455⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3017⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3021⭐
 
-- [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 432⭐
+- [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 434⭐
 
 
