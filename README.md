@@ -69,13 +69,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [5 days ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [1 week ago]
 
@@ -85,15 +89,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 weeks ago]
-
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
 - MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
@@ -105,9 +105,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
-- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
+- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 months ago]
 
-- MERGED - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 month ago]
+- MERGED - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 months ago]
 
 - MERGED - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 months ago]
 
@@ -137,24 +137,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 11969⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 11990⭐
 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52817⭐
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52828⭐
 
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57448⭐
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57475⭐
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68505⭐
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68536⭐
 
 - [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) 4430⭐
 
-- [joernio/joern](https://github.com/joernio/joern) 1488⭐
+- [joernio/joern](https://github.com/joernio/joern) 1489⭐
 
 - [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) 86⭐
 
-- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3455⭐
+- [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) 3469⭐
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3021⭐
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) 3023⭐
 
-- [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 434⭐
+- [owasp-dep-scan/dep-scan](https://github.com/owasp-dep-scan/dep-scan) 435⭐
 
 
