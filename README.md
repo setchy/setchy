@@ -71,13 +71,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -93,19 +93,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: add docs script](https://github.com/CycloneDX/cdxgen/pull/586) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
 
-- MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [build: add docs script](https://github.com/CycloneDX/cdxgen/pull/586) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
-- OPEN - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
-- MERGED - [feat(server): support dtrack publishing](https://github.com/CycloneDX/cdxgen/pull/583) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- OPEN - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- CLOSED - [feat(server): set projectType is passed via POST JSON Body](https://github.com/CycloneDX/cdxgen/pull/582) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [feat(server): support dtrack publishing](https://github.com/CycloneDX/cdxgen/pull/583) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [docs: add server arguments](https://github.com/CycloneDX/cdxgen/pull/581) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- CLOSED - [feat(server): set projectType is passed via POST JSON Body](https://github.com/CycloneDX/cdxgen/pull/582) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [docs: add server arguments](https://github.com/CycloneDX/cdxgen/pull/581) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+
+- MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 months ago]
 
@@ -131,30 +133,28 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [2 months ago]
 
-- MERGED - [Configure Renovate](https://github.com/setchy/renovate-gradle-release-notes/pull/1) to [setchy/renovate-gradle-release-notes](https://github.com/setchy/renovate-gradle-release-notes) [2 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
+- [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
+
+- [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 37⭐
+
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 461⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25046⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25055⭐
 
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8077⭐
 
-- [github/innovationgraph](https://github.com/github/innovationgraph) 138⭐
+- [github/innovationgraph](https://github.com/github/innovationgraph) 149⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12138⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12159⭐
 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52915⭐
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52935⭐
 
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57856⭐
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57888⭐
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68737⭐
-
-- [ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool) 4441⭐
-
-- [joernio/joern](https://github.com/joernio/joern) 1495⭐
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68757⭐
 
 
