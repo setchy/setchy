@@ -71,7 +71,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [5 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [6 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -93,11 +93,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [3 days ago]
+- MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [4 days ago]
 
-- MERGED - [build: add docs script](https://github.com/CycloneDX/cdxgen/pull/586) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [build: add docs script](https://github.com/CycloneDX/cdxgen/pull/586) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - OPEN - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -143,18 +143,18 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 461⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25074⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25084⭐
 
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8081⭐
 
-- [github/innovationgraph](https://github.com/github/innovationgraph) 162⭐
+- [github/innovationgraph](https://github.com/github/innovationgraph) 164⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12179⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12188⭐
 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52959⭐
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52970⭐
 
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57928⭐
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57949⭐
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68814⭐
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68840⭐
 
 
