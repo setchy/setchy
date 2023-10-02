@@ -69,9 +69,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [6 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -93,7 +93,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [4 days ago]
+- MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [5 days ago]
 
 - MERGED - [build: add docs script](https://github.com/CycloneDX/cdxgen/pull/586) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -143,18 +143,18 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 461⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25084⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25090⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8081⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8083⭐
 
-- [github/innovationgraph](https://github.com/github/innovationgraph) 164⭐
+- [github/innovationgraph](https://github.com/github/innovationgraph) 169⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12188⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12210⭐
 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52970⭐
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52974⭐
 
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57949⭐
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57968⭐
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68840⭐
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68868⭐
 
 
