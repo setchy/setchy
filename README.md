@@ -69,7 +69,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
@@ -93,13 +93,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [5 days ago]
+- OPEN - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/606) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+
+- OPEN - [feat(server) add simple health endpoint](https://github.com/CycloneDX/cdxgen/pull/605) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+
+- MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [6 days ago]
 
 - MERGED - [build: add docs script](https://github.com/CycloneDX/cdxgen/pull/586) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- OPEN - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- CLOSED - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [feat(server): support dtrack publishing](https://github.com/CycloneDX/cdxgen/pull/583) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -129,10 +133,6 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [feat: add support for blip deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/336) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 months ago]
 
-- MERGED - [docs: remove survey now that its closed](https://github.com/thoughtworks/build-your-own-radar/pull/334) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 months ago]
-
-- CLOSED - [docs: remove survey section (now closed)](https://github.com/setchy/build-your-own-radar/pull/1) to [setchy/build-your-own-radar](https://github.com/setchy/build-your-own-radar) [2 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
@@ -143,18 +143,18 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 461⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25090⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25091⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8083⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8082⭐
 
-- [github/innovationgraph](https://github.com/github/innovationgraph) 169⭐
+- [github/innovationgraph](https://github.com/github/innovationgraph) 173⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12210⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12231⭐
 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52974⭐
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52980⭐
 
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57968⭐
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57991⭐
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68868⭐
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68902⭐
 
 
