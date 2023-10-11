@@ -61,29 +61,30 @@ Senior Executive (VP) // Architect // Developer
 
 ### 📼 Videos
 
-- [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph](https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph)
+- [Apollo GraphOS: Power digital transformations](https://www.apollographql.com/enterprise?wvideo=4fu2lsjssc)
 - [GraphQL Summit 2023 - it's all about the people](https://www.youtube.com/watch?v=090IWEcHbJc)
+- [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph](https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph)
 
 ### 🎯 OSS Activity
 #### 🚀 My recent contributions
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [today]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 days ago]
+
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
-
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 weeks ago]
 
@@ -137,24 +138,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5389⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5393⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
 - [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 38⭐
 
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 461⭐
+- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 462⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25164⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25165⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8099⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8100⭐
 
 - [github/innovationgraph](https://github.com/github/innovationgraph) 202⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12342⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12350⭐
 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 53074⭐
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 53076⭐
 
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 58178⭐
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 58187⭐
 
 
