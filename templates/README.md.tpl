@@ -61,8 +61,9 @@ Senior Executive (VP) // Architect // Developer
 
 ### 📼 Videos
 
-- [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph](https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph)
+- [Apollo GraphOS: Power digital transformations](https://www.apollographql.com/enterprise?wvideo=4fu2lsjssc)
 - [GraphQL Summit 2023 - it's all about the people](https://www.youtube.com/watch?v=090IWEcHbJc)
+- [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph](https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph)
 
 ### 🎯 OSS Activity
 #### 🚀 My recent contributions
