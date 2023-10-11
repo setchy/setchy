@@ -71,47 +71,55 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
-
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 days ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [2 weeks ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 weeks ago]
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/606) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [docs: update BoM references](https://github.com/CycloneDX/cdxgen/pull/622) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- OPEN - [feat(server) add simple health endpoint](https://github.com/CycloneDX/cdxgen/pull/605) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [feat: safely log git url](https://github.com/CycloneDX/cdxgen/pull/612) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [6 days ago]
+- MERGED - [Update references of SBoM to SBOM](https://github.com/CycloneDX/cdxgen/pull/610) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [build: add docs script](https://github.com/CycloneDX/cdxgen/pull/586) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/607) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- CLOSED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/606) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- CLOSED - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [feat(server) add simple health endpoint](https://github.com/CycloneDX/cdxgen/pull/605) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [feat(server): support dtrack publishing](https://github.com/CycloneDX/cdxgen/pull/583) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 weeks ago]
 
-- CLOSED - [feat(server): set projectType is passed via POST JSON Body](https://github.com/CycloneDX/cdxgen/pull/582) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [build: add docs script](https://github.com/CycloneDX/cdxgen/pull/586) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [docs: add server arguments](https://github.com/CycloneDX/cdxgen/pull/581) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- CLOSED - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
+
+- MERGED - [feat(server): support dtrack publishing](https://github.com/CycloneDX/cdxgen/pull/583) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
+
+- CLOSED - [feat(server): set projectType is passed via POST JSON Body](https://github.com/CycloneDX/cdxgen/pull/582) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
+
+- MERGED - [docs: add server arguments](https://github.com/CycloneDX/cdxgen/pull/581) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
+
+- MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
 - MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 months ago]
 
@@ -125,36 +133,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 months ago]
 
-- MERGED - [ chore(deps): update dependencies](https://github.com/thoughtworks/build-your-own-radar/pull/338) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 months ago]
-
-- MERGED - [build: update git repository url](https://github.com/gitify-app/gitify/pull/593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 months ago]
-
-- OPEN - [feat: support deep linking by blip or quadrant](https://github.com/thoughtworks/build-your-own-radar/pull/337) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 months ago]
-
-- CLOSED - [feat: add support for blip deep-linking](https://github.com/thoughtworks/build-your-own-radar/pull/336) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5389⭐
+
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
-- [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 37⭐
+- [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 38⭐
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 461⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25091⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25164⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8082⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8099⭐
 
-- [github/innovationgraph](https://github.com/github/innovationgraph) 173⭐
+- [github/innovationgraph](https://github.com/github/innovationgraph) 202⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12231⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12342⭐
 
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 52980⭐
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) 53074⭐
 
-- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 57991⭐
-
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) 68902⭐
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) 58178⭐
 
 
