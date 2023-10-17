@@ -70,15 +70,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
@@ -86,7 +86,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 month ago]
 
@@ -94,13 +94,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- OPEN - [build: add codeowners file](https://github.com/gitify-app/gitify/pull/672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- OPEN - [refactor: replace substr with substring](https://github.com/gitify-app/gitify/pull/671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
 - MERGED - [docs: update BoM references](https://github.com/CycloneDX/cdxgen/pull/622) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [feat: safely log git url](https://github.com/CycloneDX/cdxgen/pull/612) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [Update references of SBoM to SBOM](https://github.com/CycloneDX/cdxgen/pull/610) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/607) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/607) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
 - CLOSED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/606) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
@@ -130,32 +134,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(util/hash): add toSha512 as default algorithm](https://github.com/renovatebot/renovate/pull/23544) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 months ago]
 
-- MERGED - [feat: add hash util](https://github.com/renovatebot/renovate/pull/23524) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 months ago]
-
-- MERGED - [feat: add minimatch wrapper to support caching](https://github.com/renovatebot/renovate/pull/23515) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1297⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1299⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5407⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5408⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
 - [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 38⭐
 
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 462⭐
+- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 461⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25193⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25210⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8110⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8113⭐
 
 - [github/innovationgraph](https://github.com/github/innovationgraph) 203⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12460⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12502⭐
 
 
