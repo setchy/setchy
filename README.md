@@ -70,15 +70,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [6 days ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
@@ -86,21 +88,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
-
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [build: add codeowners file](https://github.com/gitify-app/gitify/pull/672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: add codeowners file](https://github.com/gitify-app/gitify/pull/672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: replace substr with substring](https://github.com/gitify-app/gitify/pull/671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: replace substr with substring](https://github.com/gitify-app/gitify/pull/671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [docs: update BoM references](https://github.com/CycloneDX/cdxgen/pull/622) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [docs: update BoM references](https://github.com/CycloneDX/cdxgen/pull/622) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
 - MERGED - [feat: safely log git url](https://github.com/CycloneDX/cdxgen/pull/612) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
@@ -108,9 +108,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/607) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- CLOSED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/606) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
+- CLOSED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/606) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
-- MERGED - [feat(server) add simple health endpoint](https://github.com/CycloneDX/cdxgen/pull/605) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
+- MERGED - [feat(server) add simple health endpoint](https://github.com/CycloneDX/cdxgen/pull/605) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
 - MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [3 weeks ago]
 
@@ -118,13 +118,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
 
-- CLOSED - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- CLOSED - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [feat(server): support dtrack publishing](https://github.com/CycloneDX/cdxgen/pull/583) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [feat(server): support dtrack publishing](https://github.com/CycloneDX/cdxgen/pull/583) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- CLOSED - [feat(server): set projectType is passed via POST JSON Body](https://github.com/CycloneDX/cdxgen/pull/582) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- CLOSED - [feat(server): set projectType is passed via POST JSON Body](https://github.com/CycloneDX/cdxgen/pull/582) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [docs: add server arguments](https://github.com/CycloneDX/cdxgen/pull/581) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [docs: add server arguments](https://github.com/CycloneDX/cdxgen/pull/581) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
 - MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
@@ -142,7 +142,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5416⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5417⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
@@ -150,12 +150,12 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 466⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25252⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25257⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8128⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8131⭐
 
 - [github/innovationgraph](https://github.com/github/innovationgraph) 207⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12654⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12671⭐
 
 
