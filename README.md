@@ -70,17 +70,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [6 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
@@ -94,7 +94,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [build: add codeowners file](https://github.com/gitify-app/gitify/pull/672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -106,7 +106,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [Update references of SBoM to SBOM](https://github.com/CycloneDX/cdxgen/pull/610) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/607) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
+- MERGED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/607) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
 - CLOSED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/606) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
@@ -114,9 +114,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: update to include volume 29 publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/124) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [3 weeks ago]
 
-- MERGED - [build: add docs script](https://github.com/CycloneDX/cdxgen/pull/586) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [build: add docs script](https://github.com/CycloneDX/cdxgen/pull/586) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
 - CLOSED - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
@@ -138,7 +138,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1303⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1305⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
@@ -146,16 +146,16 @@ Senior Executive (VP) // Architect // Developer
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
-- [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 38⭐
+- [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 39⭐
 
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 466⭐
+- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 467⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25257⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25271⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8131⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8134⭐
 
-- [github/innovationgraph](https://github.com/github/innovationgraph) 207⭐
+- [github/innovationgraph](https://github.com/github/innovationgraph) 208⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12671⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12697⭐
 
 
