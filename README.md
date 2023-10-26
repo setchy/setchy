@@ -72,15 +72,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -138,24 +138,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1306⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1307⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5420⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5421⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
 - [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 39⭐
 
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 467⭐
+- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 469⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25274⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25284⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8136⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8137⭐
 
-- [github/innovationgraph](https://github.com/github/innovationgraph) 208⭐
+- [github/innovationgraph](https://github.com/github/innovationgraph) 209⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12723⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12736⭐
 
 
