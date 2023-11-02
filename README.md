@@ -70,19 +70,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
+
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
-
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
@@ -106,7 +106,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [Update references of SBoM to SBOM](https://github.com/CycloneDX/cdxgen/pull/610) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
 
-- MERGED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/607) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/607) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
 - CLOSED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/606) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
@@ -148,14 +148,14 @@ Senior Executive (VP) // Architect // Developer
 
 - [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 39⭐
 
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 472⭐
+- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 473⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25356⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25371⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8140⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8142⭐
 
 - [github/innovationgraph](https://github.com/github/innovationgraph) 210⭐
 
-- [steven-tey/dub](https://github.com/steven-tey/dub) 12830⭐
+- [steven-tey/dub](https://github.com/steven-tey/dub) 12840⭐
 
 
