@@ -72,7 +72,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -86,13 +88,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 weeks ago]
-
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
+
+- MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+
+- OPEN - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
 - MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
@@ -130,17 +134,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 months ago]
 
-- MERGED - [refactor(util/hash): replace hasha sha512 use cases](https://github.com/renovatebot/renovate/pull/23548) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 months ago]
-
-- MERGED - [refactor(util/hash): replace sha256 hasha use cases](https://github.com/renovatebot/renovate/pull/23547) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 112⭐
+- [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 113⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1318⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1319⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
@@ -152,9 +152,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 474⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25374⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25385⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8145⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8146⭐
 
 - [github/innovationgraph](https://github.com/github/innovationgraph) 211⭐
 
