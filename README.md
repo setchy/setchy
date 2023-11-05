@@ -70,11 +70,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -94,9 +94,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- OPEN - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- OPEN - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
 - MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
@@ -152,9 +152,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 474⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25385⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25393⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8146⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8148⭐
 
 - [github/innovationgraph](https://github.com/github/innovationgraph) 211⭐
 
