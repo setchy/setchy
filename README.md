@@ -70,33 +70,37 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
+
 - [setchy/cdxgen-dockerfile-demo](https://github.com/setchy/cdxgen-dockerfile-demo) -  [1 day ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [4 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [5 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
-
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
+
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- OPEN - [feat: populate dependencies for oci components](https://github.com/CycloneDX/cdxgen/pull/700) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- OPEN - [feat: oci image support for multiple src files](https://github.com/CycloneDX/cdxgen/pull/696) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+
+- MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+
+- OPEN - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
 - MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
@@ -104,7 +108,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: replace substr with substring](https://github.com/gitify-app/gitify/pull/671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [docs: update BoM references](https://github.com/CycloneDX/cdxgen/pull/622) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [docs: update BoM references](https://github.com/CycloneDX/cdxgen/pull/622) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
 - MERGED - [feat: safely log git url](https://github.com/CycloneDX/cdxgen/pull/612) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
@@ -130,32 +134,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: add server arguments](https://github.com/CycloneDX/cdxgen/pull/581) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [feat(manager/bitbucket-pipelines): support registry aliases](https://github.com/renovatebot/renovate/pull/24422) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [refactor: use minimatch util](https://github.com/renovatebot/renovate/pull/23549) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4255⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4256⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 114⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1323⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1325⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5438⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5441⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
 - [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 40⭐
 
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 478⭐
+- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 480⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25409⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25418⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8152⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8151⭐
 
 
