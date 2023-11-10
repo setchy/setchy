@@ -70,15 +70,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
+
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
 
-- [setchy/cdxgen-dockerfile-demo](https://github.com/setchy/cdxgen-dockerfile-demo) -  [2 days ago]
+- [setchy/cdxgen-dockerfile-demo](https://github.com/setchy/cdxgen-dockerfile-demo) -  [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
-
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -94,13 +94,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: populate dependencies for oci components](https://github.com/CycloneDX/cdxgen/pull/700) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- MERGED - [feat: ignore test/data files from codacy static analysis](https://github.com/CycloneDX/cdxgen/pull/710) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [feat: oci image support for multiple src files](https://github.com/CycloneDX/cdxgen/pull/696) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- MERGED - [build: update gitignore to exclude locally generated bom.json](https://github.com/CycloneDX/cdxgen/pull/707) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [fix: correct spelling](https://github.com/CycloneDX/cdxgen/pull/705) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [feat: add support for Dockerfile/Containerfile](https://github.com/CycloneDX/cdxgen/pull/704) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+
+- OPEN - [feat: populate dependencies for oci components](https://github.com/CycloneDX/cdxgen/pull/700) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+
+- OPEN - [feat: oci image support for multiple src files](https://github.com/CycloneDX/cdxgen/pull/696) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+
+- MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+
+- CLOSED - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
@@ -126,27 +134,19 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: fix table formatting](https://github.com/CycloneDX/cdxgen/pull/585) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- CLOSED - [build: add vscode settings and extensions for auto pretty on save](https://github.com/CycloneDX/cdxgen/pull/584) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
-
-- MERGED - [feat(server): support dtrack publishing](https://github.com/CycloneDX/cdxgen/pull/583) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
-
-- CLOSED - [feat(server): set projectType is passed via POST JSON Body](https://github.com/CycloneDX/cdxgen/pull/582) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
-
-- MERGED - [docs: add server arguments](https://github.com/CycloneDX/cdxgen/pull/581) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4260⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4264⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 116⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1325⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1326⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5442⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5445⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
@@ -154,8 +154,8 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 481⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25426⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25436⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8155⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8162⭐
 
 
