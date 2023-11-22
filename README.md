@@ -72,11 +72,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [4 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [5 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
@@ -86,7 +86,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 month ago]
 
@@ -138,24 +138,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4293⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4296⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 119⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1338⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1339⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5464⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5465⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
 - [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 41⭐
 
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 483⭐
+- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 485⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25524⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25535⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8181⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8186⭐
 
 
