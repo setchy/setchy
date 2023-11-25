@@ -72,7 +72,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -138,15 +138,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4302⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4306⭐
 
-- [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 119⭐
+- [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 120⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1340⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1341⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5478⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5483⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
@@ -154,8 +154,8 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 485⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25547⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25554⭐
 
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8195⭐
+- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8199⭐
 
 
