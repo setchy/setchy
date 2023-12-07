@@ -70,9 +70,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [6 days ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -80,13 +82,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [4 weeks ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 month ago]
 
-- [setchy/cdxgen-dockerfile-demo](https://github.com/setchy/cdxgen-dockerfile-demo) -  [4 weeks ago]
+- [setchy/cdxgen-dockerfile-demo](https://github.com/setchy/cdxgen-dockerfile-demo) -  [1 month ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 month ago]
-
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 month ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 month ago]
 
@@ -94,23 +94,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: add bitbucket pipelines support](https://github.com/CycloneDX/cdxgen/pull/752) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [docs: add bitbucket pipelines support](https://github.com/CycloneDX/cdxgen/pull/752) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [feat: support bitbucket-pipelines.yml as container img.image](https://github.com/CycloneDX/cdxgen/pull/751) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [feat: support bitbucket-pipelines.yml as container img.image](https://github.com/CycloneDX/cdxgen/pull/751) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [feat: enhance oci purl spec compliance](https://github.com/CycloneDX/cdxgen/pull/749) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [feat: ignore test/data files from codacy static analysis](https://github.com/CycloneDX/cdxgen/pull/710) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
+- MERGED - [feat: ignore test/data files from codacy static analysis](https://github.com/CycloneDX/cdxgen/pull/710) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
 
-- MERGED - [build: update gitignore to exclude locally generated bom.json](https://github.com/CycloneDX/cdxgen/pull/707) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
+- MERGED - [build: update gitignore to exclude locally generated bom.json](https://github.com/CycloneDX/cdxgen/pull/707) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
 
-- MERGED - [fix: correct spelling](https://github.com/CycloneDX/cdxgen/pull/705) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
+- MERGED - [fix: correct spelling](https://github.com/CycloneDX/cdxgen/pull/705) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
 
-- MERGED - [feat: add support for Dockerfile/Containerfile](https://github.com/CycloneDX/cdxgen/pull/704) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
+- MERGED - [feat: add support for Dockerfile/Containerfile](https://github.com/CycloneDX/cdxgen/pull/704) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
 
-- OPEN - [feat: populate dependencies for oci components](https://github.com/CycloneDX/cdxgen/pull/700) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- OPEN - [feat: populate dependencies for oci components](https://github.com/CycloneDX/cdxgen/pull/700) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- OPEN - [feat: oci image support for multiple src files](https://github.com/CycloneDX/cdxgen/pull/696) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- OPEN - [feat: oci image support for multiple src files](https://github.com/CycloneDX/cdxgen/pull/696) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
 - MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
@@ -138,15 +138,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4328⭐
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 264⭐
+
+- [opencost/opencost](https://github.com/opencost/opencost) 4330⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 122⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1362⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1364⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5539⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5540⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
@@ -154,8 +156,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 490⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25644⭐
-
-- [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) 8215⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25660⭐
 
 
