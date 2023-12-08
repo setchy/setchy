@@ -72,9 +72,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [6 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -94,7 +94,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: add bitbucket pipelines support](https://github.com/CycloneDX/cdxgen/pull/752) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [docs: add bitbucket pipelines support](https://github.com/CycloneDX/cdxgen/pull/752) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [feat: support bitbucket-pipelines.yml as container img.image](https://github.com/CycloneDX/cdxgen/pull/751) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -122,7 +122,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: replace substr with substring](https://github.com/gitify-app/gitify/pull/671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
-- MERGED - [docs: update BoM references](https://github.com/CycloneDX/cdxgen/pull/622) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- MERGED - [docs: update BoM references](https://github.com/CycloneDX/cdxgen/pull/622) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
 - MERGED - [feat: safely log git url](https://github.com/CycloneDX/cdxgen/pull/612) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
@@ -140,22 +140,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [xeol-io/xeol](https://github.com/xeol-io/xeol) 264⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4330⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4334⭐
 
-- [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 122⭐
+- [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 123⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1364⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1367⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5540⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5546⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
-- [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 42⭐
+- [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 43⭐
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 490⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25660⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25676⭐
 
 
