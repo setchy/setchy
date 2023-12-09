@@ -72,7 +72,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
@@ -100,13 +100,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: enhance oci purl spec compliance](https://github.com/CycloneDX/cdxgen/pull/749) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [feat: ignore test/data files from codacy static analysis](https://github.com/CycloneDX/cdxgen/pull/710) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [feat: ignore test/data files from codacy static analysis](https://github.com/CycloneDX/cdxgen/pull/710) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [build: update gitignore to exclude locally generated bom.json](https://github.com/CycloneDX/cdxgen/pull/707) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [build: update gitignore to exclude locally generated bom.json](https://github.com/CycloneDX/cdxgen/pull/707) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [fix: correct spelling](https://github.com/CycloneDX/cdxgen/pull/705) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [fix: correct spelling](https://github.com/CycloneDX/cdxgen/pull/705) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [feat: add support for Dockerfile/Containerfile](https://github.com/CycloneDX/cdxgen/pull/704) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [feat: add support for Dockerfile/Containerfile](https://github.com/CycloneDX/cdxgen/pull/704) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
 - OPEN - [feat: populate dependencies for oci components](https://github.com/CycloneDX/cdxgen/pull/700) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
@@ -138,17 +138,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 264⭐
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 263⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4334⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4339⭐
 
-- [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 123⭐
+- [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 124⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1367⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1369⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5546⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5553⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
