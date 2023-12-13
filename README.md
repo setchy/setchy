@@ -70,15 +70,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
-
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 weeks ago]
-
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 weeks ago]
 
@@ -98,7 +98,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: support bitbucket-pipelines.yml as container img.image](https://github.com/CycloneDX/cdxgen/pull/751) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [feat: enhance oci purl spec compliance](https://github.com/CycloneDX/cdxgen/pull/749) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [feat: enhance oci purl spec compliance](https://github.com/CycloneDX/cdxgen/pull/749) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
 - MERGED - [feat: ignore test/data files from codacy static analysis](https://github.com/CycloneDX/cdxgen/pull/710) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
@@ -138,17 +138,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 264⭐
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 266⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4345⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4350⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 125⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1376⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1379⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5561⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5564⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
@@ -156,6 +156,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 490⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25693⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25706⭐
 
 
