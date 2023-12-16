@@ -70,11 +70,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [4 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -116,7 +116,7 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
 - MERGED - [build: add codeowners file](https://github.com/gitify-app/gitify/pull/672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 months ago]
 
@@ -140,22 +140,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [xeol-io/xeol](https://github.com/xeol-io/xeol) 268⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4365⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4367⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 125⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1385⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1387⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5569⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5574⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
-- [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 43⭐
+- [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 44⭐
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 490⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25720⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25721⭐
 
 
