@@ -72,7 +72,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [6 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -138,17 +138,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 269⭐
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 270⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4369⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4375⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 125⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1388⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1389⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5577⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5582⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
@@ -156,6 +156,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 491⭐
 
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25733⭐
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25748⭐
 
 
