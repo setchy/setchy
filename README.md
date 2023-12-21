@@ -70,7 +70,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
@@ -79,8 +81,6 @@ Senior Executive (VP) // Architect // Developer
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 weeks ago]
-
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 weeks ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 month ago]
 
@@ -96,7 +96,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: add bitbucket pipelines support](https://github.com/CycloneDX/cdxgen/pull/752) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [feat: support bitbucket-pipelines.yml as container img.image](https://github.com/CycloneDX/cdxgen/pull/751) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
+- MERGED - [feat: support bitbucket-pipelines.yml as container img.image](https://github.com/CycloneDX/cdxgen/pull/751) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
 - MERGED - [feat: enhance oci purl spec compliance](https://github.com/CycloneDX/cdxgen/pull/749) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
@@ -138,24 +138,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 270⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3867⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4378⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 36⭐
+
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 271⭐
+
+- [opencost/opencost](https://github.com/opencost/opencost) 4380⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 125⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1389⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1394⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5587⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5592⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
 - [OAI/sig-workflows](https://github.com/OAI/sig-workflows) 44⭐
-
-- [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) 491⭐
-
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) 25758⭐
 
 
