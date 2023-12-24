@@ -70,9 +70,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [6 days ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
@@ -138,21 +138,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3867⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3870⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 49⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 55⭐
 
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 274⭐
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 278⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4386⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4388⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 126⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1395⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1398⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5600⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5603⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
