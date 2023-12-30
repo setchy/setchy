@@ -70,9 +70,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
 
@@ -96,7 +96,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: add bitbucket pipelines support](https://github.com/CycloneDX/cdxgen/pull/752) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
 
-- MERGED - [feat: support bitbucket-pipelines.yml as container img.image](https://github.com/CycloneDX/cdxgen/pull/751) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
+- MERGED - [feat: support bitbucket-pipelines.yml as container img.image](https://github.com/CycloneDX/cdxgen/pull/751) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
 - MERGED - [feat: enhance oci purl spec compliance](https://github.com/CycloneDX/cdxgen/pull/749) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
@@ -138,21 +138,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3876⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3877⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 84⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 106⭐
 
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 279⭐
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 280⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4399⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4402⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 126⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1400⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1402⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5618⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5619⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
