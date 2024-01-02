@@ -70,11 +70,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 weeks ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 weeks ago]
 
@@ -112,9 +112,9 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat: oci image support for multiple src files](https://github.com/CycloneDX/cdxgen/pull/696) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
-- CLOSED - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- CLOSED - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
 - MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
@@ -124,9 +124,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: update BoM references](https://github.com/CycloneDX/cdxgen/pull/622) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
-- MERGED - [feat: safely log git url](https://github.com/CycloneDX/cdxgen/pull/612) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
+- MERGED - [feat: safely log git url](https://github.com/CycloneDX/cdxgen/pull/612) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 months ago]
 
-- MERGED - [Update references of SBoM to SBOM](https://github.com/CycloneDX/cdxgen/pull/610) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
+- MERGED - [Update references of SBoM to SBOM](https://github.com/CycloneDX/cdxgen/pull/610) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 months ago]
 
 - MERGED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/607) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 months ago]
 
@@ -138,9 +138,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3876⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3878⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 122⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 131⭐
 
 - [xeol-io/xeol](https://github.com/xeol-io/xeol) 281⭐
 
@@ -148,11 +148,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 126⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1403⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1405⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5620⭐
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 5621⭐
 
 - [niwa/sfia-position-description-tool](https://github.com/niwa/sfia-position-description-tool) 6⭐
 
