@@ -70,7 +70,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
@@ -78,7 +78,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 weeks ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 month ago]
 
@@ -140,11 +140,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [ossf/scorecard](https://github.com/ossf/scorecard) 3878⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 131⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 136⭐
 
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 281⭐
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 282⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4406⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4408⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 126⭐
 
