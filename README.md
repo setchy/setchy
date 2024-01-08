@@ -72,11 +72,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [4 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 weeks ago]
 
@@ -100,13 +100,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: enhance oci purl spec compliance](https://github.com/CycloneDX/cdxgen/pull/749) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [feat: ignore test/data files from codacy static analysis](https://github.com/CycloneDX/cdxgen/pull/710) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- MERGED - [feat: ignore test/data files from codacy static analysis](https://github.com/CycloneDX/cdxgen/pull/710) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
-- MERGED - [build: update gitignore to exclude locally generated bom.json](https://github.com/CycloneDX/cdxgen/pull/707) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- MERGED - [build: update gitignore to exclude locally generated bom.json](https://github.com/CycloneDX/cdxgen/pull/707) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
-- MERGED - [fix: correct spelling](https://github.com/CycloneDX/cdxgen/pull/705) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- MERGED - [fix: correct spelling](https://github.com/CycloneDX/cdxgen/pull/705) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
-- MERGED - [feat: add support for Dockerfile/Containerfile](https://github.com/CycloneDX/cdxgen/pull/704) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- MERGED - [feat: add support for Dockerfile/Containerfile](https://github.com/CycloneDX/cdxgen/pull/704) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
 - OPEN - [feat: populate dependencies for oci components](https://github.com/CycloneDX/cdxgen/pull/700) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
@@ -140,17 +140,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [apache/skywalking](https://github.com/apache/skywalking) 22831⭐
 
-- [causefx/Organizr](https://github.com/causefx/Organizr) 4728⭐
+- [causefx/Organizr](https://github.com/causefx/Organizr) 4732⭐
 
-- [microsoft/kiota](https://github.com/microsoft/kiota) 1494⭐
+- [microsoft/kiota](https://github.com/microsoft/kiota) 1519⭐
 
 - [ossf/scorecard](https://github.com/ossf/scorecard) 3887⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 157⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 159⭐
 
 - [xeol-io/xeol](https://github.com/xeol-io/xeol) 285⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4419⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4422⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 126⭐
 
