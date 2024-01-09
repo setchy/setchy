@@ -70,15 +70,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [6 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 weeks ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 weeks ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 month ago]
 
@@ -138,15 +138,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [apache/skywalking](https://github.com/apache/skywalking) 22831⭐
+- [apache/skywalking](https://github.com/apache/skywalking) 22837⭐
 
-- [causefx/Organizr](https://github.com/causefx/Organizr) 4732⭐
+- [causefx/Organizr](https://github.com/causefx/Organizr) 4734⭐
 
-- [microsoft/kiota](https://github.com/microsoft/kiota) 1519⭐
+- [microsoft/kiota](https://github.com/microsoft/kiota) 1554⭐
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3887⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3889⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 159⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 165⭐
 
 - [xeol-io/xeol](https://github.com/xeol-io/xeol) 285⭐
 
@@ -154,7 +154,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 126⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1409⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1410⭐
 
 - [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
 
