@@ -70,7 +70,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -78,7 +78,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 weeks ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 month ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 month ago]
 
@@ -138,24 +138,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [apache/skywalking](https://github.com/apache/skywalking) 22842⭐
+- [expo/expo](https://github.com/expo/expo) 25777⭐
 
-- [causefx/Organizr](https://github.com/causefx/Organizr) 4733⭐
+- [apache/skywalking](https://github.com/apache/skywalking) 22851⭐
 
-- [microsoft/kiota](https://github.com/microsoft/kiota) 1568⭐
+- [causefx/Organizr](https://github.com/causefx/Organizr) 4739⭐
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3893⭐
+- [microsoft/kiota](https://github.com/microsoft/kiota) 1584⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 189⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3896⭐
 
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 285⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 206⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4423⭐
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 284⭐
+
+- [opencost/opencost](https://github.com/opencost/opencost) 4425⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 126⭐
 
-- [copier-org/copier](https://github.com/copier-org/copier) 1411⭐
-
-- [wayfair-incubator/gqmock](https://github.com/wayfair-incubator/gqmock) 4⭐
+- [copier-org/copier](https://github.com/copier-org/copier) 1413⭐
 
 
