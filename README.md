@@ -70,11 +70,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [2 days ago]
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [3 days ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 days ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 days ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -94,9 +94,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/frontend/pull/699) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
+- OPEN - [feat: link to release tag](https://github.com/gitify-app/gitify/pull/707) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/dependency-track/pull/3386) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [2 days ago]
+- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/frontend/pull/699) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+
+- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/dependency-track/pull/3386) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [3 days ago]
 
 - MERGED - [docs: add bitbucket pipelines support](https://github.com/CycloneDX/cdxgen/pull/752) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
@@ -132,29 +134,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [Update references of SBoM to SBOM](https://github.com/CycloneDX/cdxgen/pull/610) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 months ago]
 
-- MERGED - [build: add eslint prettier plugin](https://github.com/CycloneDX/cdxgen/pull/607) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [decs/typeschema](https://github.com/decs/typeschema) 226⭐
+- [decs/typeschema](https://github.com/decs/typeschema) 227⭐
 
-- [expo/expo](https://github.com/expo/expo) 25936⭐
+- [expo/expo](https://github.com/expo/expo) 25958⭐
 
-- [apache/skywalking](https://github.com/apache/skywalking) 22910⭐
+- [apache/skywalking](https://github.com/apache/skywalking) 22917⭐
 
-- [causefx/Organizr](https://github.com/causefx/Organizr) 4757⭐
+- [causefx/Organizr](https://github.com/causefx/Organizr) 4759⭐
 
-- [microsoft/kiota](https://github.com/microsoft/kiota) 1868⭐
+- [microsoft/kiota](https://github.com/microsoft/kiota) 1885⭐
 
 - [ossf/scorecard](https://github.com/ossf/scorecard) 3905⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 228⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 230⭐
 
 - [xeol-io/xeol](https://github.com/xeol-io/xeol) 289⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4442⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4443⭐
 
 - [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 126⭐
 
