@@ -70,17 +70,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [4 days ago]
+
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [4 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -88,17 +90,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 month ago]
 
-- [setchy/cdxgen-dockerfile-demo](https://github.com/setchy/cdxgen-dockerfile-demo) -  [2 months ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: link to release tag](https://github.com/gitify-app/gitify/pull/707) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: remove now redundant `mark as read on click` functionality](https://github.com/gitify-app/gitify/pull/713) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/frontend/pull/699) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- MERGED - [feat: link to release tag](https://github.com/gitify-app/gitify/pull/707) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/dependency-track/pull/3386) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [3 days ago]
+- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/frontend/pull/699) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
+
+- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/dependency-track/pull/3386) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [4 days ago]
 
 - MERGED - [docs: add bitbucket pipelines support](https://github.com/CycloneDX/cdxgen/pull/752) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
@@ -132,30 +134,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: safely log git url](https://github.com/CycloneDX/cdxgen/pull/612) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 months ago]
 
-- MERGED - [Update references of SBoM to SBOM](https://github.com/CycloneDX/cdxgen/pull/610) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3808⭐
+
 - [decs/typeschema](https://github.com/decs/typeschema) 227⭐
 
-- [expo/expo](https://github.com/expo/expo) 25958⭐
+- [expo/expo](https://github.com/expo/expo) 26030⭐
 
-- [apache/skywalking](https://github.com/apache/skywalking) 22917⭐
+- [apache/skywalking](https://github.com/apache/skywalking) 22920⭐
 
 - [causefx/Organizr](https://github.com/causefx/Organizr) 4759⭐
 
-- [microsoft/kiota](https://github.com/microsoft/kiota) 1885⭐
+- [microsoft/kiota](https://github.com/microsoft/kiota) 1902⭐
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3905⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3906⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 230⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 234⭐
 
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 289⭐
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 290⭐
 
-- [opencost/opencost](https://github.com/opencost/opencost) 4443⭐
-
-- [OWASP/Software-Component-Verification-Standard](https://github.com/OWASP/Software-Component-Verification-Standard) 126⭐
+- [opencost/opencost](https://github.com/opencost/opencost) 4446⭐
 
 
