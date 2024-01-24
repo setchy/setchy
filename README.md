@@ -70,21 +70,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
-
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [1 week ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
+
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -94,11 +94,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: add myself to codeowners](https://github.com/gitify-app/gitify/pull/729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: add myself to codeowners](https://github.com/gitify-app/gitify/pull/729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: remove now redundant `mark as read on click` functionality](https://github.com/gitify-app/gitify/pull/713) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: remove now redundant `mark as read on click` functionality](https://github.com/gitify-app/gitify/pull/713) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: link to release tag](https://github.com/gitify-app/gitify/pull/707) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: link to release tag](https://github.com/gitify-app/gitify/pull/707) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/frontend/pull/699) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
@@ -140,22 +140,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator) 5⭐
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3818⭐
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3822⭐
 
 - [decs/typeschema](https://github.com/decs/typeschema) 233⭐
 
-- [expo/expo](https://github.com/expo/expo) 26130⭐
+- [expo/expo](https://github.com/expo/expo) 26154⭐
 
-- [apache/skywalking](https://github.com/apache/skywalking) 22930⭐
+- [apache/skywalking](https://github.com/apache/skywalking) 22936⭐
 
-- [causefx/Organizr](https://github.com/causefx/Organizr) 4761⭐
+- [causefx/Organizr](https://github.com/causefx/Organizr) 4764⭐
 
-- [microsoft/kiota](https://github.com/microsoft/kiota) 1930⭐
+- [microsoft/kiota](https://github.com/microsoft/kiota) 1937⭐
 
 - [ossf/scorecard](https://github.com/ossf/scorecard) 3908⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 243⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 246⭐
 
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 290⭐
+- [xeol-io/xeol](https://github.com/xeol-io/xeol) 291⭐
 
 
