@@ -70,35 +70,37 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
-
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [1 day ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 month ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [docs: add myself to codeowners](https://github.com/gitify-app/gitify/pull/729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(preset): add allDigest grouping preset](https://github.com/renovatebot/renovate/pull/26849) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- MERGED - [refactor: remove now redundant `mark as read on click` functionality](https://github.com/gitify-app/gitify/pull/713) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [docs: add myself to codeowners](https://github.com/gitify-app/gitify/pull/729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: link to release tag](https://github.com/gitify-app/gitify/pull/707) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: remove now redundant `mark as read on click` functionality](https://github.com/gitify-app/gitify/pull/713) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- MERGED - [feat: link to release tag](https://github.com/gitify-app/gitify/pull/707) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/frontend/pull/699) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
@@ -132,29 +134,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: replace substr with substring](https://github.com/gitify-app/gitify/pull/671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 months ago]
 
-- MERGED - [docs: update BoM references](https://github.com/CycloneDX/cdxgen/pull/622) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator) 5⭐
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3822⭐
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3820⭐
 
 - [decs/typeschema](https://github.com/decs/typeschema) 233⭐
 
-- [expo/expo](https://github.com/expo/expo) 26154⭐
+- [expo/expo](https://github.com/expo/expo) 26192⭐
 
-- [apache/skywalking](https://github.com/apache/skywalking) 22936⭐
+- [apache/skywalking](https://github.com/apache/skywalking) 22939⭐
 
-- [causefx/Organizr](https://github.com/causefx/Organizr) 4764⭐
+- [causefx/Organizr](https://github.com/causefx/Organizr) 4763⭐
 
-- [microsoft/kiota](https://github.com/microsoft/kiota) 1937⭐
+- [microsoft/kiota](https://github.com/microsoft/kiota) 1947⭐
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3908⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3912⭐
 
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 246⭐
+- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 248⭐
 
 - [xeol-io/xeol](https://github.com/xeol-io/xeol) 291⭐
 
