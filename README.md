@@ -72,17 +72,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [3 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [1 week ago]
 
@@ -94,13 +94,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(violations): add current fail, warn, info metrics to footer](https://github.com/DependencyTrack/frontend/pull/705) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- OPEN - [feat(violations): add current fail, warn, info metrics to footer](https://github.com/DependencyTrack/frontend/pull/705) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
-- OPEN - [fix: correctly calculate audited violations percentage](https://github.com/DependencyTrack/frontend/pull/704) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- OPEN - [fix: correctly calculate audited violations and audited findings percentages](https://github.com/DependencyTrack/frontend/pull/704) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
-- MERGED - [feat(preset): add allDigest grouping preset](https://github.com/renovatebot/renovate/pull/26849) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [feat(preset): add allDigest grouping preset](https://github.com/renovatebot/renovate/pull/26849) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- MERGED - [docs: add myself to codeowners](https://github.com/gitify-app/gitify/pull/729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [docs: add myself to codeowners](https://github.com/gitify-app/gitify/pull/729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 - MERGED - [refactor: remove now redundant `mark as read on click` functionality](https://github.com/gitify-app/gitify/pull/713) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -138,24 +138,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) 109⭐
+
+- [krakend/krakend-ce](https://github.com/krakend/krakend-ce) 1643⭐
+
 - [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator) 5⭐
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3822⭐
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3824⭐
 
-- [decs/typeschema](https://github.com/decs/typeschema) 233⭐
+- [decs/typeschema](https://github.com/decs/typeschema) 234⭐
 
-- [expo/expo](https://github.com/expo/expo) 26234⭐
+- [expo/expo](https://github.com/expo/expo) 26264⭐
 
-- [apache/skywalking](https://github.com/apache/skywalking) 22941⭐
+- [apache/skywalking](https://github.com/apache/skywalking) 22948⭐
 
 - [causefx/Organizr](https://github.com/causefx/Organizr) 4762⭐
 
-- [microsoft/kiota](https://github.com/microsoft/kiota) 1951⭐
+- [microsoft/kiota](https://github.com/microsoft/kiota) 1958⭐
 
 - [ossf/scorecard](https://github.com/ossf/scorecard) 3916⭐
-
-- [linkedin/dph-framework](https://github.com/linkedin/dph-framework) 253⭐
-
-- [xeol-io/xeol](https://github.com/xeol-io/xeol) 291⭐
 
 
