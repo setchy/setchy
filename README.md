@@ -70,23 +70,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [1 day ago]
+
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 day ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. [3 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [1 week ago]
-
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
@@ -94,13 +94,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(violations): add current fail, warn, info metrics to footer](https://github.com/DependencyTrack/frontend/pull/705) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
+- MERGED - [feat(violations): add current fail, warn, info metrics to footer](https://github.com/DependencyTrack/frontend/pull/707) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
 
-- OPEN - [fix: correctly calculate audited violations and audited findings percentages](https://github.com/DependencyTrack/frontend/pull/704) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
+- MERGED - [docs(azure-ad): large enterprise group configuration](https://github.com/DependencyTrack/dependency-track/pull/3414) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [1 day ago]
 
-- MERGED - [feat(preset): add allDigest grouping preset](https://github.com/renovatebot/renovate/pull/26849) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- CLOSED - [feat(violations): add current fail, warn, info metrics to footer](https://github.com/DependencyTrack/frontend/pull/705) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
 
-- MERGED - [docs: add myself to codeowners](https://github.com/gitify-app/gitify/pull/729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: correctly calculate audited violations and audited findings percentages](https://github.com/DependencyTrack/frontend/pull/704) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+
+- MERGED - [feat(preset): add allDigest grouping preset](https://github.com/renovatebot/renovate/pull/26849) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+
+- MERGED - [docs: add myself to codeowners](https://github.com/gitify-app/gitify/pull/729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [refactor: remove now redundant `mark as read on click` functionality](https://github.com/gitify-app/gitify/pull/713) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -114,7 +118,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: support bitbucket-pipelines.yml as container img.image](https://github.com/CycloneDX/cdxgen/pull/751) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [feat: enhance oci purl spec compliance](https://github.com/CycloneDX/cdxgen/pull/749) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- MERGED - [feat: enhance oci purl spec compliance](https://github.com/CycloneDX/cdxgen/pull/749) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
 - MERGED - [feat: ignore test/data files from codacy static analysis](https://github.com/CycloneDX/cdxgen/pull/710) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
@@ -130,31 +134,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: correctly set projectType option](https://github.com/CycloneDX/cdxgen/pull/692) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
-- CLOSED - [feat: add Dockerfile support](https://github.com/CycloneDX/cdxgen/pull/691) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
-
-- MERGED - [refactor: remove dependency track spec downgrade](https://github.com/CycloneDX/cdxgen/pull/642) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) 109⭐
+- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) 110⭐
 
-- [krakend/krakend-ce](https://github.com/krakend/krakend-ce) 1643⭐
+- [krakend/krakend-ce](https://github.com/krakend/krakend-ce) 1645⭐
 
 - [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator) 5⭐
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3824⭐
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3828⭐
 
-- [decs/typeschema](https://github.com/decs/typeschema) 234⭐
+- [decs/typeschema](https://github.com/decs/typeschema) 235⭐
 
-- [expo/expo](https://github.com/expo/expo) 26264⭐
+- [expo/expo](https://github.com/expo/expo) 26291⭐
 
-- [apache/skywalking](https://github.com/apache/skywalking) 22948⭐
+- [apache/skywalking](https://github.com/apache/skywalking) 22951⭐
 
-- [causefx/Organizr](https://github.com/causefx/Organizr) 4762⭐
+- [causefx/Organizr](https://github.com/causefx/Organizr) 4763⭐
 
-- [microsoft/kiota](https://github.com/microsoft/kiota) 1958⭐
+- [microsoft/kiota](https://github.com/microsoft/kiota) 1962⭐
 
 - [ossf/scorecard](https://github.com/ossf/scorecard) 3916⭐
 
