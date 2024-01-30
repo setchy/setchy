@@ -72,19 +72,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 day ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 days ago]
 
-- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [2 days ago]
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [3 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [4 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [5 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [6 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -94,27 +94,31 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor(dashboard): set progress colors via scss](https://github.com/DependencyTrack/frontend/pull/713) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- OPEN - [feat(dashboard): auditing progress for findings and policy violations](https://github.com/DependencyTrack/frontend/pull/715) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
 
-- MERGED - [refactor(dashboard): use consistent color for suppressed](https://github.com/DependencyTrack/frontend/pull/712) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- OPEN - [feat(dashboard): add vuln / non-vuln footer to projects and components cards](https://github.com/DependencyTrack/frontend/pull/714) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
 
-- CLOSED - [Feat/dashboard footers](https://github.com/DependencyTrack/frontend/pull/711) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- MERGED - [refactor(dashboard): set progress colors via scss](https://github.com/DependencyTrack/frontend/pull/713) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
-- MERGED - [refactor(dashboard): remove unused policy violations widget](https://github.com/DependencyTrack/frontend/pull/710) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- MERGED - [refactor(dashboard): use consistent color for suppressed](https://github.com/DependencyTrack/frontend/pull/712) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
-- OPEN - [refactor(dashboard): display additional portfolio statistics](https://github.com/DependencyTrack/frontend/pull/709) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- CLOSED - [Feat/dashboard footers](https://github.com/DependencyTrack/frontend/pull/711) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
-- MERGED - [fix(common): calculate percentage to tenth decimal place](https://github.com/DependencyTrack/frontend/pull/708) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- MERGED - [refactor(dashboard): remove unused policy violations widget](https://github.com/DependencyTrack/frontend/pull/710) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
-- MERGED - [feat(violations): add current fail, warn, info metrics to footer](https://github.com/DependencyTrack/frontend/pull/707) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
+- OPEN - [feat(dashboard): display additional portfolio statistics](https://github.com/DependencyTrack/frontend/pull/709) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
-- MERGED - [docs(azure-ad): large enterprise group configuration](https://github.com/DependencyTrack/dependency-track/pull/3414) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [2 days ago]
+- MERGED - [fix(common): calculate percentage to tenth decimal place](https://github.com/DependencyTrack/frontend/pull/708) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
-- CLOSED - [feat(violations): add current fail, warn, info metrics to footer](https://github.com/DependencyTrack/frontend/pull/705) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
+- MERGED - [feat(violations): add current fail, warn, info metrics to footer](https://github.com/DependencyTrack/frontend/pull/707) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
 
-- MERGED - [fix: correctly calculate audited violations and audited findings percentages](https://github.com/DependencyTrack/frontend/pull/704) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
+- MERGED - [docs(azure-ad): large enterprise group configuration](https://github.com/DependencyTrack/dependency-track/pull/3414) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [3 days ago]
 
-- MERGED - [feat(preset): add allDigest grouping preset](https://github.com/renovatebot/renovate/pull/26849) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- CLOSED - [feat(violations): add current fail, warn, info metrics to footer](https://github.com/DependencyTrack/frontend/pull/705) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
+
+- MERGED - [fix: correctly calculate audited violations and audited findings percentages](https://github.com/DependencyTrack/frontend/pull/704) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
+
+- MERGED - [feat(preset): add allDigest grouping preset](https://github.com/renovatebot/renovate/pull/26849) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
 - MERGED - [docs: add myself to codeowners](https://github.com/gitify-app/gitify/pull/729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -122,23 +126,19 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: link to release tag](https://github.com/gitify-app/gitify/pull/707) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/frontend/pull/699) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
+- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/frontend/pull/699) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 weeks ago]
 
-- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/dependency-track/pull/3386) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [1 week ago]
+- MERGED - [docs: fix build status badge](https://github.com/DependencyTrack/dependency-track/pull/3386) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [2 weeks ago]
 
-- MERGED - [docs: add bitbucket pipelines support](https://github.com/CycloneDX/cdxgen/pull/752) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- MERGED - [docs: add bitbucket pipelines support](https://github.com/CycloneDX/cdxgen/pull/752) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
 - MERGED - [feat: support bitbucket-pipelines.yml as container img.image](https://github.com/CycloneDX/cdxgen/pull/751) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
-
-- MERGED - [feat: enhance oci purl spec compliance](https://github.com/CycloneDX/cdxgen/pull/749) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
-
-- MERGED - [feat: ignore test/data files from codacy static analysis](https://github.com/CycloneDX/cdxgen/pull/710) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 months ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) 4140⭐
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) 4279⭐
 
 - [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) 110⭐
 
@@ -146,16 +146,16 @@ Senior Executive (VP) // Architect // Developer
 
 - [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator) 5⭐
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3831⭐
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3838⭐
 
 - [decs/typeschema](https://github.com/decs/typeschema) 235⭐
 
-- [expo/expo](https://github.com/expo/expo) 26323⭐
+- [expo/expo](https://github.com/expo/expo) 26375⭐
 
-- [apache/skywalking](https://github.com/apache/skywalking) 22955⭐
+- [apache/skywalking](https://github.com/apache/skywalking) 22961⭐
 
-- [causefx/Organizr](https://github.com/causefx/Organizr) 4767⭐
+- [causefx/Organizr](https://github.com/causefx/Organizr) 4768⭐
 
-- [microsoft/kiota](https://github.com/microsoft/kiota) 1965⭐
+- [microsoft/kiota](https://github.com/microsoft/kiota) 1974⭐
 
 
