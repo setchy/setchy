@@ -70,11 +70,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [5 days ago]
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [4 days ago]
 
-- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [1 week ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [4 days ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -94,35 +94,35 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(components): quick search for projects also using component ](https://github.com/DependencyTrack/frontend/pull/724) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- OPEN - [feat(components): quick search for projects also using component ](https://github.com/DependencyTrack/frontend/pull/724) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
 
-- OPEN - [feat(vulnerabilities): support active/inactive affected projects](https://github.com/DependencyTrack/frontend/pull/723) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- MERGED - [feat(vulnerabilities): support active/inactive affected projects](https://github.com/DependencyTrack/frontend/pull/723) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
 
-- OPEN - [feat(vulnerabilities): enhance API to support frontend changes for active/inactive affected projects](https://github.com/DependencyTrack/dependency-track/pull/3425) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [3 days ago]
+- MERGED - [feat(vulnerabilities): enhance API to support frontend changes for active/inactive affected projects](https://github.com/DependencyTrack/dependency-track/pull/3425) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [4 days ago]
 
-- OPEN - [refactor(project details): improve UX for active/inactive toggle.](https://github.com/DependencyTrack/frontend/pull/721) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- MERGED - [refactor(project details): improve UX for active/inactive toggle.](https://github.com/DependencyTrack/frontend/pull/721) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
 
-- OPEN - [refactor: handle percentage calc edge cases](https://github.com/DependencyTrack/frontend/pull/719) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
+- MERGED - [refactor: handle percentage calc edge cases](https://github.com/DependencyTrack/frontend/pull/719) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
 
-- OPEN - [refactor(dashboard): show portfolio vulnerabilities severity in footer](https://github.com/DependencyTrack/frontend/pull/718) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
+- MERGED - [refactor(dashboard): show portfolio vulnerabilities severity in footer](https://github.com/DependencyTrack/frontend/pull/718) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
 
-- OPEN - [feat(dashboard): policy violations by state and classification cards](https://github.com/DependencyTrack/frontend/pull/717) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
+- MERGED - [feat(dashboard): policy violations by state and classification cards](https://github.com/DependencyTrack/frontend/pull/717) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
 
-- MERGED - [feat(dashboard): auditing progress for findings and policy violations](https://github.com/DependencyTrack/frontend/pull/715) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
+- MERGED - [feat(dashboard): auditing progress for findings and policy violations](https://github.com/DependencyTrack/frontend/pull/715) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
 
-- MERGED - [feat(dashboard): add vuln / non-vuln footer to projects and components cards](https://github.com/DependencyTrack/frontend/pull/714) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
+- MERGED - [feat(dashboard): add vuln / non-vuln footer to projects and components cards](https://github.com/DependencyTrack/frontend/pull/714) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
 
-- MERGED - [refactor(dashboard): set progress colors via scss](https://github.com/DependencyTrack/frontend/pull/713) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
+- MERGED - [refactor(dashboard): set progress colors via scss](https://github.com/DependencyTrack/frontend/pull/713) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
-- MERGED - [refactor(dashboard): use consistent color for suppressed](https://github.com/DependencyTrack/frontend/pull/712) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
+- MERGED - [refactor(dashboard): use consistent color for suppressed](https://github.com/DependencyTrack/frontend/pull/712) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
-- CLOSED - [Feat/dashboard footers](https://github.com/DependencyTrack/frontend/pull/711) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
+- CLOSED - [Feat/dashboard footers](https://github.com/DependencyTrack/frontend/pull/711) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
-- MERGED - [refactor(dashboard): remove unused policy violations widget](https://github.com/DependencyTrack/frontend/pull/710) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
+- MERGED - [refactor(dashboard): remove unused policy violations widget](https://github.com/DependencyTrack/frontend/pull/710) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
-- MERGED - [feat(dashboard): display additional portfolio statistics](https://github.com/DependencyTrack/frontend/pull/709) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
+- MERGED - [feat(dashboard): display additional portfolio statistics](https://github.com/DependencyTrack/frontend/pull/709) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
-- MERGED - [fix(common): calculate percentage to tenth decimal place](https://github.com/DependencyTrack/frontend/pull/708) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
+- MERGED - [fix(common): calculate percentage to tenth decimal place](https://github.com/DependencyTrack/frontend/pull/708) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
 - MERGED - [feat(violations): add current fail, warn, info metrics to footer](https://github.com/DependencyTrack/frontend/pull/707) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
@@ -138,24 +138,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) 4427⭐
+- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) 4431⭐
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) 4355⭐
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) 4361⭐
 
 - [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) 111⭐
 
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) 1653⭐
 
-- [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator) 6⭐
+- [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator) 7⭐
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3859⭐
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3864⭐
 
 - [decs/typeschema](https://github.com/decs/typeschema) 238⭐
 
-- [expo/expo](https://github.com/expo/expo) 26584⭐
+- [expo/expo](https://github.com/expo/expo) 26607⭐
 
-- [apache/skywalking](https://github.com/apache/skywalking) 22972⭐
+- [apache/skywalking](https://github.com/apache/skywalking) 22973⭐
 
-- [causefx/Organizr](https://github.com/causefx/Organizr) 4775⭐
+- [causefx/Organizr](https://github.com/causefx/Organizr) 4777⭐
 
 
