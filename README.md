@@ -70,17 +70,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [3 days ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [6 days ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [1 week ago]
 
@@ -94,27 +94,27 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [chore: prepare 10.0.6 release](https://github.com/CycloneDX/cdxgen/pull/880) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [chore: prepare 10.0.6 release](https://github.com/CycloneDX/cdxgen/pull/880) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
-- MERGED - [feat(oci): skip adding repository_url qualifier when they contain arguments/variables](https://github.com/CycloneDX/cdxgen/pull/879) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [feat(oci): skip adding repository_url qualifier when they contain arguments/variables](https://github.com/CycloneDX/cdxgen/pull/879) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
-- OPEN - [feat(project): add tooltip to vuln progress bar](https://github.com/DependencyTrack/frontend/pull/738) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- OPEN - [feat(project): add tooltip to vuln progress bar](https://github.com/DependencyTrack/frontend/pull/738) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
 
-- OPEN - [feat(project): finding badges including and excluding aliases](https://github.com/DependencyTrack/frontend/pull/736) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- OPEN - [feat(project): finding badges including and excluding aliases](https://github.com/DependencyTrack/frontend/pull/736) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
 
-- OPEN - [build: add @vue/runtime-dom as devDependency](https://github.com/DependencyTrack/frontend/pull/735) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
+- OPEN - [build: add @vue/runtime-dom as devDependency](https://github.com/DependencyTrack/frontend/pull/735) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
 
-- OPEN - [feat: show policy violation badges by state](https://github.com/DependencyTrack/frontend/pull/734) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
+- OPEN - [feat: show policy violation badges by state](https://github.com/DependencyTrack/frontend/pull/734) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
 
-- OPEN - [feat: improve tooltip clarity for project vulnerabilities](https://github.com/DependencyTrack/frontend/pull/733) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
+- OPEN - [feat: improve tooltip clarity for project vulnerabilities](https://github.com/DependencyTrack/frontend/pull/733) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
 
-- MERGED - [chore: prepare 10.0.5 release](https://github.com/CycloneDX/cdxgen/pull/876) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [chore: prepare 10.0.5 release](https://github.com/CycloneDX/cdxgen/pull/876) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [feat(oci): extract platform](https://github.com/CycloneDX/cdxgen/pull/874) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [feat(oci): extract platform](https://github.com/CycloneDX/cdxgen/pull/874) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [feat(oci): set repository_url to registry and name, not full image statement](https://github.com/CycloneDX/cdxgen/pull/873) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [feat(oci): set repository_url to registry and name, not full image statement](https://github.com/CycloneDX/cdxgen/pull/873) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [feat(notifications): show publisher name on expanded row](https://github.com/DependencyTrack/frontend/pull/728) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
+- MERGED - [feat(notifications): show publisher name on expanded row](https://github.com/DependencyTrack/frontend/pull/728) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
 - OPEN - [feat(components): quick search for projects also using component ](https://github.com/DependencyTrack/frontend/pull/724) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
@@ -130,19 +130,23 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(dashboard): policy violations by state and classification cards](https://github.com/DependencyTrack/frontend/pull/717) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
-- MERGED - [feat(dashboard): auditing progress for findings and policy violations](https://github.com/DependencyTrack/frontend/pull/715) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
+- MERGED - [feat(dashboard): auditing progress for findings and policy violations](https://github.com/DependencyTrack/frontend/pull/715) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 weeks ago]
 
-- MERGED - [feat(dashboard): add vuln / non-vuln footer to projects and components cards](https://github.com/DependencyTrack/frontend/pull/714) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
+- MERGED - [feat(dashboard): add vuln / non-vuln footer to projects and components cards](https://github.com/DependencyTrack/frontend/pull/714) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
+- [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) 879⭐
+
+- [tj/commander.js](https://github.com/tj/commander.js) 25799⭐
+
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) 1430⭐
 
 - [Mankee/starlink](https://github.com/Mankee/starlink) 1⭐
 
-- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) 4455⭐
+- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) 4456⭐
 
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) 4388⭐
 
@@ -152,10 +156,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [MediaMarktSaturn/technolinator](https://github.com/MediaMarktSaturn/technolinator) 7⭐
 
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3888⭐
-
-- [decs/typeschema](https://github.com/decs/typeschema) 241⭐
-
-- [expo/expo](https://github.com/expo/expo) 26860⭐
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) 3890⭐
 
 
