@@ -70,21 +70,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
-
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com [1 day ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 days ago]
 
-- [setchy/github-action-demo](https://github.com/setchy/github-action-demo) - Used to help develop gitify features for github action notifications [2 days ago]
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com [2 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 days ago]
+- [setchy/github-action-demo](https://github.com/setchy/github-action-demo) - Used to help develop gitify features for github action notifications [3 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [4 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [5 days ago]
+
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -94,23 +94,27 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs(notifications) add approval_requested reason type](https://github.com/github/docs/pull/31681) to [github/docs](https://github.com/github/docs) [1 day ago]
+- OPEN - [docs(notifications): add missing `member_feature_requested` reason](https://github.com/github/docs/pull/31698) to [github/docs](https://github.com/github/docs) [1 day ago]
 
-- MERGED - [docs: add example for git authentication](https://github.com/CycloneDX/cdxgen/pull/893) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- OPEN - [docs(notifications): add missing `security_advisory_credit` reason](https://github.com/github/docs/pull/31695) to [github/docs](https://github.com/github/docs) [1 day ago]
 
-- MERGED - [chore: bump pnpm/action-setup](https://github.com/gitify-app/gitify/pull/779) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs(notifications) add approval_requested reason type](https://github.com/github/docs/pull/31681) to [github/docs](https://github.com/github/docs) [2 days ago]
 
-- MERGED - [feat: prevent local files from opening](https://github.com/gitify-app/gitify/pull/777) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: add example for git authentication](https://github.com/CycloneDX/cdxgen/pull/893) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [docs: add myself as contributor](https://github.com/gitify-app/gitify/pull/775) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [chore: bump pnpm/action-setup](https://github.com/gitify-app/gitify/pull/779) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [test: add coverage for repository invitation icon](https://github.com/gitify-app/gitify/pull/769) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: prevent local files from opening](https://github.com/gitify-app/gitify/pull/777) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: correct typos](https://github.com/gitify-app/gitify/pull/768) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [docs: add myself as contributor](https://github.com/gitify-app/gitify/pull/775) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [feat: support ci workflow notifications](https://github.com/gitify-app/gitify/pull/766) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [test: add coverage for repository invitation icon](https://github.com/gitify-app/gitify/pull/769) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build(renovate): configuration updates for major versions and osv](https://github.com/gitify-app/gitify/pull/752) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: correct typos](https://github.com/gitify-app/gitify/pull/768) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- OPEN - [feat: support ci workflow notifications](https://github.com/gitify-app/gitify/pull/766) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- MERGED - [build(renovate): configuration updates for major versions and osv](https://github.com/gitify-app/gitify/pull/752) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
 - MERGED - [chore: prepare 10.0.6 release](https://github.com/CycloneDX/cdxgen/pull/880) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -130,31 +134,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(oci): extract platform](https://github.com/CycloneDX/cdxgen/pull/874) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [feat(oci): set repository_url to registry and name, not full image statement](https://github.com/CycloneDX/cdxgen/pull/873) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [feat(notifications): show publisher name on expanded row](https://github.com/DependencyTrack/frontend/pull/728) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [humanitec-architecture/reference-architecture-aws](https://github.com/humanitec-architecture/reference-architecture-aws) 135⭐
+- [humanitec-architecture/reference-architecture-aws](https://github.com/humanitec-architecture/reference-architecture-aws) 136⭐
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 6423⭐
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 6633⭐
 
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) 879⭐
 
-- [tj/commander.js](https://github.com/tj/commander.js) 25819⭐
+- [tj/commander.js](https://github.com/tj/commander.js) 25821⭐
 
-- [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) 1431⭐
+- [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) 1432⭐
 
 - [Mankee/starlink](https://github.com/Mankee/starlink) 1⭐
 
-- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) 4465⭐
+- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) 4467⭐
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) 4399⭐
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) 4405⭐
 
-- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) 115⭐
+- [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) 116⭐
 
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) 1668⭐
 
