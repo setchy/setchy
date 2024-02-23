@@ -70,69 +70,69 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 day ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
 
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com [1 day ago]
+- [setchy/github-action-demo](https://github.com/setchy/github-action-demo) - Used to help develop gitify features for github action notifications [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [3 days ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [6 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
 
-- [setchy/github-action-demo](https://github.com/setchy/github-action-demo) - Used to help develop gitify features for github action notifications [1 week ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [feat(project): policy violation badges](https://github.com/DependencyTrack/frontend/pull/744) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- OPEN - [feat: support icons/colors for checksuite / workflow notifications](https://github.com/gitify-app/gitify/pull/814) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: update Subject type](https://github.com/gitify-app/gitify/pull/809) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: support repository invitation links](https://github.com/gitify-app/gitify/pull/812) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: add security_advisory_credit reason](https://github.com/gitify-app/gitify/pull/807) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [fix: add type to urls](https://github.com/gitify-app/gitify/pull/811) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: add member_feature_requested reason](https://github.com/gitify-app/gitify/pull/806) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(project): policy violation badges](https://github.com/DependencyTrack/frontend/pull/744) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
-- MERGED - [test: fix typo in notification color test](https://github.com/gitify-app/gitify/pull/805) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: update Subject type](https://github.com/gitify-app/gitify/pull/809) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [test: cover scenarios where no data object is provided to api call](https://github.com/gitify-app/gitify/pull/804) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: add security_advisory_credit reason](https://github.com/gitify-app/gitify/pull/807) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [test(helper): addDate and searchQueryString](https://github.com/gitify-app/gitify/pull/803) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: add member_feature_requested reason](https://github.com/gitify-app/gitify/pull/806) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [refactor: simplify notification html url logic](https://github.com/gitify-app/gitify/pull/793) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [test: fix typo in notification color test](https://github.com/gitify-app/gitify/pull/805) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [test: api request coverage](https://github.com/gitify-app/gitify/pull/792) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [test: cover scenarios where no data object is provided to api call](https://github.com/gitify-app/gitify/pull/804) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: is enterprise host fn](https://github.com/gitify-app/gitify/pull/791) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [test(helper): addDate and searchQueryString](https://github.com/gitify-app/gitify/pull/803) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [test: add notification color coverage](https://github.com/gitify-app/gitify/pull/790) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: simplify notification html url logic](https://github.com/gitify-app/gitify/pull/793) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [docs(notifications): add missing `member_feature_requested` reason](https://github.com/github/docs/pull/31698) to [github/docs](https://github.com/github/docs) [5 days ago]
+- MERGED - [test: api request coverage](https://github.com/gitify-app/gitify/pull/792) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [docs(notifications): add missing `security_advisory_credit` reason](https://github.com/github/docs/pull/31695) to [github/docs](https://github.com/github/docs) [5 days ago]
+- MERGED - [refactor: is enterprise host fn](https://github.com/gitify-app/gitify/pull/791) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [docs(notifications) add approval_requested reason type](https://github.com/github/docs/pull/31681) to [github/docs](https://github.com/github/docs) [6 days ago]
+- MERGED - [test: add notification color coverage](https://github.com/gitify-app/gitify/pull/790) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [docs: add example for git authentication](https://github.com/CycloneDX/cdxgen/pull/893) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [docs(notifications): add missing `member_feature_requested` reason](https://github.com/github/docs/pull/31698) to [github/docs](https://github.com/github/docs) [6 days ago]
 
-- MERGED - [chore: bump pnpm/action-setup](https://github.com/gitify-app/gitify/pull/779) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [docs(notifications): add missing `security_advisory_credit` reason](https://github.com/github/docs/pull/31695) to [github/docs](https://github.com/github/docs) [6 days ago]
 
-- MERGED - [feat: prevent local files from opening](https://github.com/gitify-app/gitify/pull/777) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [docs(notifications) add approval_requested reason type](https://github.com/github/docs/pull/31681) to [github/docs](https://github.com/github/docs) [1 week ago]
 
-- MERGED - [docs: add myself as contributor](https://github.com/gitify-app/gitify/pull/775) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [docs: add example for git authentication](https://github.com/CycloneDX/cdxgen/pull/893) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [test: add coverage for repository invitation icon](https://github.com/gitify-app/gitify/pull/769) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [chore: bump pnpm/action-setup](https://github.com/gitify-app/gitify/pull/779) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: correct typos](https://github.com/gitify-app/gitify/pull/768) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: prevent local files from opening](https://github.com/gitify-app/gitify/pull/777) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -140,22 +140,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [humanitec-architecture/reference-architecture-aws](https://github.com/humanitec-architecture/reference-architecture-aws) 139⭐
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 7732⭐
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 7865⭐
 
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) 880⭐
 
-- [tj/commander.js](https://github.com/tj/commander.js) 25846⭐
+- [tj/commander.js](https://github.com/tj/commander.js) 25856⭐
 
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) 1432⭐
 
 - [Mankee/starlink](https://github.com/Mankee/starlink) 1⭐
 
-- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) 4476⭐
+- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) 4478⭐
 
-- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) 4412⭐
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) 4414⭐
 
 - [gravitee-io/gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) 119⭐
 
-- [krakend/krakend-ce](https://github.com/krakend/krakend-ce) 1676⭐
+- [krakend/krakend-ce](https://github.com/krakend/krakend-ce) 1678⭐
 
 
