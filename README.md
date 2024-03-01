@@ -72,17 +72,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
-
 - [setchy/gitify-notifications-sandbox](https://github.com/setchy/gitify-notifications-sandbox) - A repository used to help develop and test gitify-app/gitify features [1 day ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
@@ -94,27 +94,31 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: add eslint and prettier](https://github.com/DependencyTrack/frontend/pull/752) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- OPEN - [refactor: extract state notification logic](https://github.com/gitify-app/gitify/pull/845) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [chore: update engine ranges](https://github.com/DependencyTrack/frontend/pull/751) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- OPEN - [feat: lint on master](https://github.com/DependencyTrack/frontend/pull/759) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
 
-- MERGED - [chore: bump cyclonedx-npm package for npm10 support](https://github.com/DependencyTrack/frontend/pull/750) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- MERGED - [feat: add eslint and prettier](https://github.com/DependencyTrack/frontend/pull/752) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
 
-- OPEN - [feat: support discussion state types](https://github.com/gitify-app/gitify/pull/827) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [chore: update engine ranges](https://github.com/DependencyTrack/frontend/pull/751) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
 
-- OPEN - [refactor: split issue state types and document pullrequest state type](https://github.com/gitify-app/gitify/pull/826) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [chore: bump cyclonedx-npm package for npm10 support](https://github.com/DependencyTrack/frontend/pull/750) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
 
-- MERGED - [refactor: order state types alphabetically](https://github.com/gitify-app/gitify/pull/825) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: support discussion state types](https://github.com/gitify-app/gitify/pull/827) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: order reasons alphabetically](https://github.com/gitify-app/gitify/pull/824) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [refactor: split issue state types and document pullrequest state type](https://github.com/gitify-app/gitify/pull/826) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: issue not planned icon](https://github.com/gitify-app/gitify/pull/822) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: order state types alphabetically](https://github.com/gitify-app/gitify/pull/825) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [feat: support github action / ci workflow links](https://github.com/gitify-app/gitify/pull/821) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: order reasons alphabetically](https://github.com/gitify-app/gitify/pull/824) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: add support for `WorkflowRun` subject](https://github.com/gitify-app/gitify/pull/820) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: issue not planned icon](https://github.com/gitify-app/gitify/pull/822) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: add support for `approval_requested` reason](https://github.com/gitify-app/gitify/pull/819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [feat: support github action / ci workflow links](https://github.com/gitify-app/gitify/pull/821) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- MERGED - [feat: add support for `WorkflowRun` subject](https://github.com/gitify-app/gitify/pull/820) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [feat: add support for `approval_requested` reason](https://github.com/gitify-app/gitify/pull/819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat: support icons/colors for checksuite / workflow notifications](https://github.com/gitify-app/gitify/pull/814) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -130,32 +134,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add member_feature_requested reason](https://github.com/gitify-app/gitify/pull/806) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [test: fix typo in notification color test](https://github.com/gitify-app/gitify/pull/805) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- OPEN - [test: cover scenarios where no data object is provided to api call](https://github.com/gitify-app/gitify/pull/804) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74254⭐
+
 - [remorses/genql](https://github.com/remorses/genql) 812⭐
 
-- [0no-co/gql.tada](https://github.com/0no-co/gql.tada) 1977⭐
+- [0no-co/gql.tada](https://github.com/0no-co/gql.tada) 2006⭐
 
 - [primer/octicons](https://github.com/primer/octicons) 8065⭐
 
-- [humanitec-architecture/reference-architecture-aws](https://github.com/humanitec-architecture/reference-architecture-aws) 143⭐
+- [humanitec-architecture/reference-architecture-aws](https://github.com/humanitec-architecture/reference-architecture-aws) 144⭐
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 8385⭐
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 8444⭐
 
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) 880⭐
 
-- [tj/commander.js](https://github.com/tj/commander.js) 25882⭐
+- [tj/commander.js](https://github.com/tj/commander.js) 25881⭐
 
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) 1435⭐
 
 - [Mankee/starlink](https://github.com/Mankee/starlink) 1⭐
-
-- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) 4500⭐
 
 
