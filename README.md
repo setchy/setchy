@@ -4,8 +4,6 @@
 Senior Executive (VP) // Architect // Developer
 -----------------------------------------------
 
-[![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d)
-
 ### 🔭 Interests
 
 - GraphQL // Apollo // REST // AsyncAPI
@@ -72,7 +70,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [today]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
@@ -140,21 +138,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74340⭐
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74349⭐
 
 - [remorses/genql](https://github.com/remorses/genql) 815⭐
 
-- [0no-co/gql.tada](https://github.com/0no-co/gql.tada) 2064⭐
+- [0no-co/gql.tada](https://github.com/0no-co/gql.tada) 2067⭐
 
 - [primer/octicons](https://github.com/primer/octicons) 8064⭐
 
 - [humanitec-architecture/reference-architecture-aws](https://github.com/humanitec-architecture/reference-architecture-aws) 144⭐
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 8754⭐
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 8823⭐
 
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) 880⭐
 
-- [tj/commander.js](https://github.com/tj/commander.js) 25900⭐
+- [tj/commander.js](https://github.com/tj/commander.js) 25904⭐
 
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) 1435⭐
 
