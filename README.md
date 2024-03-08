@@ -72,13 +72,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
+
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
 
@@ -94,25 +94,31 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: link workflow run notifications to actions](https://github.com/gitify-app/gitify/pull/859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: add hover title text to icons](https://github.com/gitify-app/gitify/pull/866) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: configure prettier and husky](https://github.com/gitify-app/website/pull/61) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- OPEN - [refactor(discussions): optimize graphql queries](https://github.com/gitify-app/gitify/pull/861) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: add codeowners](https://github.com/gitify-app/website/pull/59) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [refactor: use nodes shorthand in graphql queries](https://github.com/gitify-app/gitify/pull/860) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: simplify icon colors and improve accessibility when in light-mode](https://github.com/gitify-app/gitify/pull/857) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: link workflow run notifications to actions](https://github.com/gitify-app/gitify/pull/859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: update issues url](https://github.com/gitify-app/gitify/pull/856) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: configure prettier and husky](https://github.com/gitify-app/website/pull/61) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [build: add clean script](https://github.com/gitify-app/gitify/pull/855) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: add codeowners](https://github.com/gitify-app/website/pull/59) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- OPEN - [feat: link checksuite notifications to actions](https://github.com/gitify-app/gitify/pull/851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: simplify icon colors and improve accessibility when in light-mode](https://github.com/gitify-app/gitify/pull/857) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: use regex to extract workflow-run attributes](https://github.com/gitify-app/gitify/pull/850) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: update issues url](https://github.com/gitify-app/gitify/pull/856) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: use regex to extract all checksuite attributes](https://github.com/gitify-app/gitify/pull/849) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: add clean script](https://github.com/gitify-app/gitify/pull/855) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: use `state` for inferred checksuite status](https://github.com/gitify-app/gitify/pull/848) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: link checksuite notifications to actions](https://github.com/gitify-app/gitify/pull/851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [feat: use regex to extract workflow-run attributes](https://github.com/gitify-app/gitify/pull/850) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [feat: use regex to extract all checksuite attributes](https://github.com/gitify-app/gitify/pull/849) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [refactor: use `state` for inferred checksuite status](https://github.com/gitify-app/gitify/pull/848) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: extract state notification logic](https://github.com/gitify-app/gitify/pull/845) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -128,31 +134,25 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: split issue state types and document pullrequest state type](https://github.com/gitify-app/gitify/pull/826) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: order state types alphabetically](https://github.com/gitify-app/gitify/pull/825) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: order reasons alphabetically](https://github.com/gitify-app/gitify/pull/824) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [feat: issue not planned icon](https://github.com/gitify-app/gitify/pull/822) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74389⭐
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74423⭐
 
-- [remorses/genql](https://github.com/remorses/genql) 815⭐
+- [remorses/genql](https://github.com/remorses/genql) 816⭐
 
-- [0no-co/gql.tada](https://github.com/0no-co/gql.tada) 2088⭐
+- [0no-co/gql.tada](https://github.com/0no-co/gql.tada) 2100⭐
 
-- [primer/octicons](https://github.com/primer/octicons) 8067⭐
+- [primer/octicons](https://github.com/primer/octicons) 8070⭐
 
 - [humanitec-architecture/reference-architecture-aws](https://github.com/humanitec-architecture/reference-architecture-aws) 145⭐
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 8895⭐
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 8950⭐
 
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) 880⭐
 
-- [tj/commander.js](https://github.com/tj/commander.js) 25910⭐
+- [tj/commander.js](https://github.com/tj/commander.js) 25915⭐
 
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) 1436⭐
 
