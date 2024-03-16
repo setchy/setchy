@@ -70,9 +70,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 days ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 days ago]
 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box [1 week ago]
 
@@ -94,27 +94,29 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build(jest): enable coverage by default](https://github.com/gitify-app/gitify/pull/881) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor(icons): use standard octicons](https://github.com/gitify-app/gitify/pull/885) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat(component): add namespace/group to component label/breadcrumb](https://github.com/DependencyTrack/frontend/pull/777) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
+- MERGED - [build(jest): enable coverage by default](https://github.com/gitify-app/gitify/pull/881) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat(component): add badge to show internal / external details](https://github.com/DependencyTrack/frontend/pull/776) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
+- MERGED - [feat(component): add namespace/group to component label/breadcrumb](https://github.com/DependencyTrack/frontend/pull/777) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
 
-- MERGED - [feat(component): add internal column to component search list view](https://github.com/DependencyTrack/frontend/pull/775) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
+- OPEN - [feat(component): add badge to show internal / external details](https://github.com/DependencyTrack/frontend/pull/776) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
 
-- MERGED - [build(semantic-prs): allow special chars in scope](https://github.com/gitify-app/gitify/pull/880) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(component): add internal column to component search list view](https://github.com/DependencyTrack/frontend/pull/775) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
 
-- MERGED - [build: override @babel/traverse version](https://github.com/gitify-app/gitify/pull/879) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build(semantic-prs): allow special chars in scope](https://github.com/gitify-app/gitify/pull/880) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [refactor(icons): replace refresh icon with octicons prime version](https://github.com/gitify-app/gitify/pull/876) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: override @babel/traverse version](https://github.com/gitify-app/gitify/pull/879) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [refactor(icons): replace cog icon with octicons prime version](https://github.com/gitify-app/gitify/pull/875) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- CLOSED - [refactor(icons): replace refresh icon with octicons prime version](https://github.com/gitify-app/gitify/pull/876) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [refactor(icons): replace logout icon with octicons prime version](https://github.com/gitify-app/gitify/pull/874) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- CLOSED - [refactor(icons): replace cog icon with octicons prime version](https://github.com/gitify-app/gitify/pull/875) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [refactor(icons): replace add account icon with octicons prime version](https://github.com/gitify-app/gitify/pull/873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- CLOSED - [refactor(icons): replace logout icon with octicons prime version](https://github.com/gitify-app/gitify/pull/874) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: add types for issue, pullrequest and issuecomments](https://github.com/gitify-app/gitify/pull/871) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- CLOSED - [refactor(icons): replace add account icon with octicons prime version](https://github.com/gitify-app/gitify/pull/873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [feat: add types for issue, pullrequest and issuecomments](https://github.com/gitify-app/gitify/pull/871) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [build: remove duplicated deps](https://github.com/gitify-app/gitify/pull/870) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -132,29 +134,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: configure prettier and husky](https://github.com/gitify-app/website/pull/61) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [build: add codeowners](https://github.com/gitify-app/website/pull/59) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [refinedev/refine](https://github.com/refinedev/refine) 23015⭐
+- [refinedev/refine](https://github.com/refinedev/refine) 23041⭐
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74605⭐
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74634⭐
 
-- [remorses/genql](https://github.com/remorses/genql) 819⭐
+- [remorses/genql](https://github.com/remorses/genql) 820⭐
 
-- [0no-co/gql.tada](https://github.com/0no-co/gql.tada) 2157⭐
+- [0no-co/gql.tada](https://github.com/0no-co/gql.tada) 2164⭐
 
 - [primer/octicons](https://github.com/primer/octicons) 8079⭐
 
 - [humanitec-architecture/reference-architecture-aws](https://github.com/humanitec-architecture/reference-architecture-aws) 146⭐
 
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 9231⭐
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) 9277⭐
 
 - [theopolisme/location-history-visualizer](https://github.com/theopolisme/location-history-visualizer) 881⭐
 
-- [tj/commander.js](https://github.com/tj/commander.js) 25941⭐
+- [tj/commander.js](https://github.com/tj/commander.js) 25945⭐
 
 - [trakt/Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) 1436⭐
 
