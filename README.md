@@ -70,47 +70,59 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. [1 day ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box [1 week ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [6 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 week ago]
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box [1 week ago]
+
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 weeks ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 weeks ago]
 
 - [setchy/gitify-notifications-sandbox](https://github.com/setchy/gitify-notifications-sandbox) - A repository used to help develop and test gitify-app/gitify features [2 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: show read notifications](https://github.com/gitify-app/gitify/pull/889) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [docs: fix typo](https://github.com/open-policy-agent/opa/pull/6637) to [open-policy-agent/opa](https://github.com/open-policy-agent/opa) [1 day ago]
 
-- OPEN - [refactor: replace world fuel services with world kinect corporation](https://github.com/graphql/graphql-landscape/pull/372) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [2 days ago]
+- OPEN - [feat: show notification last update user](https://github.com/gitify-app/gitify/pull/898) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor(icons): use standard octicons](https://github.com/gitify-app/gitify/pull/885) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat: add title to notification heading](https://github.com/gitify-app/gitify/pull/897) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build(jest): enable coverage by default](https://github.com/gitify-app/gitify/pull/881) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: add title to unread notifications button](https://github.com/gitify-app/gitify/pull/896) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat(component): add namespace/group to component label/breadcrumb](https://github.com/DependencyTrack/frontend/pull/777) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
+- MERGED - [refactor(sidebar): wrap gitify icon with button](https://github.com/gitify-app/gitify/pull/892) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat(component): add badge to show internal / external details](https://github.com/DependencyTrack/frontend/pull/776) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
+- MERGED - [refactor: ensure all buttons have label and accessibility text](https://github.com/gitify-app/gitify/pull/891) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat(component): add internal column to component search list view](https://github.com/DependencyTrack/frontend/pull/775) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
+- OPEN - [feat: show read notifications](https://github.com/gitify-app/gitify/pull/889) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build(semantic-prs): allow special chars in scope](https://github.com/gitify-app/gitify/pull/880) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [refactor: replace world fuel services with world kinect corporation](https://github.com/graphql/graphql-landscape/pull/372) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [3 days ago]
 
-- MERGED - [build: override @babel/traverse version](https://github.com/gitify-app/gitify/pull/879) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [refactor(icons): use standard octicons](https://github.com/gitify-app/gitify/pull/885) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [build(jest): enable coverage by default](https://github.com/gitify-app/gitify/pull/881) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [feat(component): add namespace/group to component label/breadcrumb](https://github.com/DependencyTrack/frontend/pull/777) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
+
+- OPEN - [feat(component): add badge to show internal / external details](https://github.com/DependencyTrack/frontend/pull/776) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
+
+- MERGED - [feat(component): add internal column to component search list view](https://github.com/DependencyTrack/frontend/pull/775) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
+
+- MERGED - [build(semantic-prs): allow special chars in scope](https://github.com/gitify-app/gitify/pull/880) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [build: override @babel/traverse version](https://github.com/gitify-app/gitify/pull/879) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - CLOSED - [refactor(icons): replace refresh icon with octicons prime version](https://github.com/gitify-app/gitify/pull/876) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -122,40 +134,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add types for issue, pullrequest and issuecomments](https://github.com/gitify-app/gitify/pull/871) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: remove duplicated deps](https://github.com/gitify-app/gitify/pull/870) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [feat: show action buttons only on hover](https://github.com/gitify-app/gitify/pull/869) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [docs: remove zulip references](https://github.com/electron-userland/electron-builder/pull/8109) to [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) [1 week ago]
-
-- MERGED - [feat: add hover title text to icons](https://github.com/gitify-app/gitify/pull/866) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- OPEN - [refactor(discussions): optimize graphql queries](https://github.com/gitify-app/gitify/pull/861) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: use nodes shorthand in graphql queries](https://github.com/gitify-app/gitify/pull/860) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 178⭐
 
-- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 8355⭐
+- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 8392⭐
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 5572⭐
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 5632⭐
 
-- [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) 7193⭐
+- [DataEngineer-io/data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) 7226⭐
 
-- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) 1300⭐
+- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) 1343⭐
 
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) 22818⭐
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) 22823⭐
 
 - [cncf/landscapeapp](https://github.com/cncf/landscapeapp) 249⭐
 
-- [refinedev/refine](https://github.com/refinedev/refine) 23077⭐
+- [refinedev/refine](https://github.com/refinedev/refine) 23100⭐
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74668⭐
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74693⭐
 
-- [remorses/genql](https://github.com/remorses/genql) 821⭐
+- [remorses/genql](https://github.com/remorses/genql) 823⭐
 
 
