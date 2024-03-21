@@ -65,14 +65,20 @@ Senior Executive (VP) // Architect // Developer
 - [GraphQL Summit 2023 - it's all about the people](https://www.youtube.com/watch?v=090IWEcHbJc)
 - [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph](https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph)
 
+### ✏️ Case Studies
+
+- [LaunchDarkly: World Kinect increases release velocity by 400%](https://launchdarkly.com/case-studies/world-kinect/)
+
 ### 🎯 OSS Activity
 #### 🚀 My recent contributions
 
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
+
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [today]
 
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. [3 days ago]
 
@@ -81,8 +87,6 @@ Senior Executive (VP) // Architect // Developer
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Current and archived datasets for thoughtworks.com/radar  [1 week ago]
-
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 weeks ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 weeks ago]
 
@@ -94,7 +98,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [fix(avatar): add default icon when no repository avatar available](https://github.com/gitify-app/gitify/pull/913) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- OPEN - [docs: update screenshots for v5 release](https://github.com/gitify-app/website/pull/74) to [gitify-app/website](https://github.com/gitify-app/website) [today]
+
+- OPEN - [feat: hide scrollbar](https://github.com/gitify-app/gitify/pull/919) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+
+- MERGED - [fix: hide default orange outline around gitify logo on first start](https://github.com/gitify-app/gitify/pull/917) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+
+- MERGED - [feat: fallback to issue/pr user](https://github.com/gitify-app/gitify/pull/916) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+
+- OPEN - [feat: notification user avatar](https://github.com/gitify-app/gitify/pull/915) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+
+- MERGED - [build(prettier): include html, json, md files](https://github.com/gitify-app/gitify/pull/914) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+
+- MERGED - [fix(avatar): add default icon when no repository avatar available](https://github.com/gitify-app/gitify/pull/913) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
 - MERGED - [5.0.0](https://github.com/gitify-app/website/pull/73) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
 
@@ -122,39 +138,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: add title to unread notifications button](https://github.com/gitify-app/gitify/pull/896) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor(sidebar): wrap gitify icon with button](https://github.com/gitify-app/gitify/pull/892) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-
-- MERGED - [refactor: ensure all buttons have label and accessibility text](https://github.com/gitify-app/gitify/pull/891) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-
-- OPEN - [feat: show read notifications](https://github.com/gitify-app/gitify/pull/889) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-
-- OPEN - [refactor: replace world fuel services with world kinect corporation](https://github.com/graphql/graphql-landscape/pull/372) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [5 days ago]
-
-- MERGED - [refactor(icons): use standard octicons](https://github.com/gitify-app/gitify/pull/885) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
-
-- MERGED - [build(jest): enable coverage by default](https://github.com/gitify-app/gitify/pull/881) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 179⭐
 
-- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 8422⭐
+- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 8427⭐
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 5734⭐
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 5754⭐
 
-- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) 7354⭐
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) 7512⭐
 
-- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) 1374⭐
+- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) 1385⭐
 
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) 22834⭐
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) 22839⭐
 
 - [cncf/landscapeapp](https://github.com/cncf/landscapeapp) 250⭐
 
-- [refinedev/refine](https://github.com/refinedev/refine) 23170⭐
+- [refinedev/refine](https://github.com/refinedev/refine) 23196⭐
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74795⭐
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74845⭐
 
 - [remorses/genql](https://github.com/remorses/genql) 823⭐
 
