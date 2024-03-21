@@ -65,6 +65,10 @@ Senior Executive (VP) // Architect // Developer
 - [GraphQL Summit 2023 - it's all about the people](https://www.youtube.com/watch?v=090IWEcHbJc)
 - [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph](https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph)
 
+### ✏️ Case Studies
+
+- [LaunchDarkly: World Kinect increases release velocity by 400%](https://launchdarkly.com/case-studies/world-kinect/)
+
 ### 🎯 OSS Activity
 #### 🚀 My recent contributions
 
