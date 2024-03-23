@@ -74,21 +74,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
 
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine. [5 days ago]
 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box [2 weeks ago]
 
@@ -98,68 +98,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: add electron](https://github.com/gitify-app/website/pull/75) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [docs: add electron](https://github.com/gitify-app/website/pull/75) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [docs: update screenshots for v5 release](https://github.com/gitify-app/website/pull/74) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [docs: update screenshots for v5 release](https://github.com/gitify-app/website/pull/74) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- CLOSED - [feat: hide scrollbar](https://github.com/gitify-app/gitify/pull/919) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- CLOSED - [feat: hide scrollbar](https://github.com/gitify-app/gitify/pull/919) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: hide default orange outline around gitify logo on first start](https://github.com/gitify-app/gitify/pull/917) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: hide default orange outline around gitify logo on first start](https://github.com/gitify-app/gitify/pull/917) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: fallback to issue/pr user](https://github.com/gitify-app/gitify/pull/916) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: fallback to issue/pr user](https://github.com/gitify-app/gitify/pull/916) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat: notification user avatar](https://github.com/gitify-app/gitify/pull/915) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: notification user avatar](https://github.com/gitify-app/gitify/pull/915) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build(prettier): include html, json, md files](https://github.com/gitify-app/gitify/pull/914) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build(prettier): include html, json, md files](https://github.com/gitify-app/gitify/pull/914) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix(avatar): add default icon when no repository avatar available](https://github.com/gitify-app/gitify/pull/913) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix(avatar): add default icon when no repository avatar available](https://github.com/gitify-app/gitify/pull/913) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [5.0.0](https://github.com/gitify-app/website/pull/73) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [5.0.0](https://github.com/gitify-app/website/pull/73) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
 
-- MERGED - [build: prepare for v5 release](https://github.com/gitify-app/gitify/pull/912) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare for v5 release](https://github.com/gitify-app/gitify/pull/912) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix(deps): downgrade to electron@19 to resolve macos code signing and startup crash](https://github.com/gitify-app/gitify/pull/910) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix(deps): downgrade to electron@19 to resolve macos code signing and startup crash](https://github.com/gitify-app/gitify/pull/910) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build(release): add artifact steps to release jobs](https://github.com/gitify-app/gitify/pull/904) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build(release): add artifact steps to release jobs](https://github.com/gitify-app/gitify/pull/904) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build: allow release workflow to be run manually](https://github.com/gitify-app/gitify/pull/903) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: allow release workflow to be run manually](https://github.com/gitify-app/gitify/pull/903) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor(jest): align test suite names to match code under test](https://github.com/gitify-app/gitify/pull/902) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(jest): align test suite names to match code under test](https://github.com/gitify-app/gitify/pull/902) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: improve error handling](https://github.com/gitify-app/gitify/pull/901) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: improve error handling](https://github.com/gitify-app/gitify/pull/901) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: subject exports and tests](https://github.com/gitify-app/gitify/pull/900) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: subject exports and tests](https://github.com/gitify-app/gitify/pull/900) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: add release user](https://github.com/gitify-app/gitify/pull/899) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: add release user](https://github.com/gitify-app/gitify/pull/899) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [docs: fix typo](https://github.com/open-policy-agent/opa/pull/6637) to [open-policy-agent/opa](https://github.com/open-policy-agent/opa) [4 days ago]
+- MERGED - [docs: fix typo](https://github.com/open-policy-agent/opa/pull/6637) to [open-policy-agent/opa](https://github.com/open-policy-agent/opa) [5 days ago]
 
-- MERGED - [feat: show notification last update user](https://github.com/gitify-app/gitify/pull/898) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: show notification last update user](https://github.com/gitify-app/gitify/pull/898) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: add title to notification heading](https://github.com/gitify-app/gitify/pull/897) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: add title to notification heading](https://github.com/gitify-app/gitify/pull/897) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [probot/probot](https://github.com/probot/probot) 8692⭐
+- [probot/probot](https://github.com/probot/probot) 8695⭐
 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 180⭐
 
-- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 8431⭐
+- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 8445⭐
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 5757⭐
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 5778⭐
 
-- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) 7529⭐
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) 7650⭐
 
-- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) 1388⭐
+- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) 1395⭐
 
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) 22840⭐
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) 22860⭐
 
 - [cncf/landscapeapp](https://github.com/cncf/landscapeapp) 250⭐
 
-- [refinedev/refine](https://github.com/refinedev/refine) 23207⭐
+- [refinedev/refine](https://github.com/refinedev/refine) 23242⭐
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74850⭐
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) 74886⭐
 
 
