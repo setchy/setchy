@@ -74,92 +74,92 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
-
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 day ago]
-
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 day ago]
-
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
-
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [1 day ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [2 days ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [2 days ago]
 
-- [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [3 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
+
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 days ago]
+
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [3 days ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: add deb, rpm, snap linux packages](https://github.com/gitify-app/website/pull/91) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- OPEN - [[Snyk] Security upgrade github-pages from 228 to 229](https://github.com/setchy/setchy.github.io/pull/31) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [today]
 
-- MERGED - [refactor(useNotifications): add types to callbacks](https://github.com/gitify-app/gitify/pull/960) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: add deb, rpm, snap linux packages](https://github.com/gitify-app/website/pull/91) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [refactor: rename markNotification to markNotificationRead](https://github.com/gitify-app/gitify/pull/959) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor(useNotifications): add types to callbacks](https://github.com/gitify-app/gitify/pull/960) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: widen electron support](https://github.com/max-mapper/menubar/pull/473) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 day ago]
+- MERGED - [refactor: rename markNotification to markNotificationRead](https://github.com/gitify-app/gitify/pull/959) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: add linux snap support](https://github.com/gitify-app/gitify/pull/958) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: widen electron support](https://github.com/max-mapper/menubar/pull/473) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 days ago]
 
-- MERGED - [feat: add linux rpm support](https://github.com/gitify-app/gitify/pull/957) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: add linux snap support](https://github.com/gitify-app/gitify/pull/958) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [docs(faq): macOS microphone permission](https://github.com/gitify-app/website/pull/90) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [feat: add linux rpm support](https://github.com/gitify-app/gitify/pull/957) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [docs: update faq section to point to website](https://github.com/gitify-app/gitify/pull/956) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs(faq): macOS microphone permission](https://github.com/gitify-app/website/pull/90) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [docs(faq): GHE Server oauth setup](https://github.com/gitify-app/website/pull/89) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [docs: update faq section to point to website](https://github.com/gitify-app/gitify/pull/956) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: ensure homebrew-cask repo is in-sync with upstream](https://github.com/gitify-app/gitify/pull/955) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs(faq): GHE Server oauth setup](https://github.com/gitify-app/website/pull/89) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [build: automate pr to website](https://github.com/gitify-app/gitify/pull/954) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: ensure homebrew-cask repo is in-sync with upstream](https://github.com/gitify-app/gitify/pull/955) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: temporarily disable oauth login method](https://github.com/gitify-app/gitify/pull/952) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: automate pr to website](https://github.com/gitify-app/gitify/pull/954) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [gitify 5.2.0](https://github.com/Homebrew/homebrew-cask/pull/170467) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [2 days ago]
+- MERGED - [refactor: temporarily disable oauth login method](https://github.com/gitify-app/gitify/pull/952) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [5.2.0](https://github.com/gitify-app/website/pull/87) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [gitify 5.2.0](https://github.com/Homebrew/homebrew-cask/pull/170467) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [3 days ago]
 
-- CLOSED - [ignore - gitify 5.2.0](https://github.com/Homebrew/homebrew-cask/pull/170456) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [2 days ago]
+- MERGED - [5.2.0](https://github.com/gitify-app/website/pull/87) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
 
-- MERGED - [build: prepare v5.2.0 release](https://github.com/gitify-app/gitify/pull/951) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- CLOSED - [ignore - gitify 5.2.0](https://github.com/Homebrew/homebrew-cask/pull/170456) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [3 days ago]
 
-- MERGED - [refactor: clarify show notifications setting](https://github.com/gitify-app/gitify/pull/948) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare v5.2.0 release](https://github.com/gitify-app/gitify/pull/951) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: redesign settings ux](https://github.com/gitify-app/gitify/pull/947) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: clarify show notifications setting](https://github.com/gitify-app/gitify/pull/948) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: ensure correct token is used](https://github.com/gitify-app/gitify/pull/946) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: redesign settings ux](https://github.com/gitify-app/gitify/pull/947) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat(settings): show notification count in tray](https://github.com/gitify-app/gitify/pull/945) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: ensure correct token is used](https://github.com/gitify-app/gitify/pull/946) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [badges/shields](https://github.com/badges/shields) 22336⭐
+- [octobox/octobox](https://github.com/octobox/octobox) 4300⭐
 
-- [utmapp/UTM](https://github.com/utmapp/UTM) 23897⭐
+- [badges/shields](https://github.com/badges/shields) 22345⭐
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) 5964⭐
+- [utmapp/UTM](https://github.com/utmapp/UTM) 23911⭐
 
-- [probot/probot](https://github.com/probot/probot) 8704⭐
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) 5980⭐
+
+- [probot/probot](https://github.com/probot/probot) 8705⭐
 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 182⭐
 
-- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 8860⭐
+- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 8890⭐
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 6477⭐
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 6481⭐
 
-- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) 8325⭐
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) 8395⭐
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) 1486⭐
-
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) 22923⭐
 
 
