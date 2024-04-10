@@ -78,19 +78,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
-
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
 
-- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [6 days ago]
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [6 days ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [6 days ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 week ago]
+
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
 
@@ -98,68 +98,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: update oops useMemo](https://github.com/gitify-app/gitify/pull/987) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: release version font size](https://github.com/gitify-app/gitify/pull/994) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [docs: badges](https://github.com/CycloneDX/cdxgen/pull/966) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [docs: update downloads badge](https://github.com/CycloneDX/cdxgen/pull/968) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [feat: automate gsheet publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/299) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
+- MERGED - [fix: google-sheets workflow](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/301) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
 
-- MERGED - [build: adopt biome](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/298) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
+- MERGED - [fix: update oops useMemo](https://github.com/gitify-app/gitify/pull/987) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: logout from](https://github.com/gitify-app/gitify/pull/983) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: badges](https://github.com/CycloneDX/cdxgen/pull/966) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [refactor(helper): extract isGitHubLoggedIn helper](https://github.com/gitify-app/gitify/pull/982) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: automate gsheet publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/299) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 days ago]
 
-- MERGED - [refactor(useNotifications): extract getNotifications into function](https://github.com/gitify-app/gitify/pull/981) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: adopt biome](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/298) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 days ago]
 
-- MERGED - [chore: update to latest jekyll / beautiful-jekyll](https://github.com/setchy/setchy.github.io/pull/32) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [2 days ago]
+- MERGED - [refactor: logout from](https://github.com/gitify-app/gitify/pull/983) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat(social): add untappd](https://github.com/daattali/beautiful-jekyll/pull/1307) to [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) [2 days ago]
+- MERGED - [refactor(helper): extract isGitHubLoggedIn helper](https://github.com/gitify-app/gitify/pull/982) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: override unnecessary permissions](https://github.com/gitify-app/gitify/pull/970) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(useNotifications): extract getNotifications into function](https://github.com/gitify-app/gitify/pull/981) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat(settings): display username on logout hover](https://github.com/gitify-app/gitify/pull/969) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [chore: update to latest jekyll / beautiful-jekyll](https://github.com/setchy/setchy.github.io/pull/32) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [3 days ago]
 
-- MERGED - [feat: bring back ability to click full notification row](https://github.com/gitify-app/gitify/pull/968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat(social): add untappd](https://github.com/daattali/beautiful-jekyll/pull/1307) to [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) [3 days ago]
 
-- MERGED - [refactor: default to repo url](https://github.com/gitify-app/gitify/pull/967) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: override unnecessary permissions](https://github.com/gitify-app/gitify/pull/970) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat(settings): show account hostname](https://github.com/gitify-app/gitify/pull/966) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(settings): display username on logout hover](https://github.com/gitify-app/gitify/pull/969) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: detailed error handling](https://github.com/gitify-app/gitify/pull/965) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: bring back ability to click full notification row](https://github.com/gitify-app/gitify/pull/968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat(discussions): default to discussion author](https://github.com/gitify-app/gitify/pull/964) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: default to repo url](https://github.com/gitify-app/gitify/pull/967) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: simplify default icon color](https://github.com/gitify-app/gitify/pull/963) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat(settings): show account hostname](https://github.com/gitify-app/gitify/pull/966) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [fix: google tag manager](https://github.com/thoughtworks/build-your-own-radar/pull/368) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 days ago]
+- MERGED - [feat: detailed error handling](https://github.com/gitify-app/gitify/pull/965) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- CLOSED - [[Snyk] Security upgrade github-pages from 228 to 229](https://github.com/setchy/setchy.github.io/pull/31) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [4 days ago]
+- MERGED - [feat(discussions): default to discussion author](https://github.com/gitify-app/gitify/pull/964) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: add deb, rpm, snap linux packages](https://github.com/gitify-app/website/pull/91) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [refactor: simplify default icon color](https://github.com/gitify-app/gitify/pull/963) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [biomejs/biome](https://github.com/biomejs/biome) 9820⭐
+- [biomejs/biome](https://github.com/biomejs/biome) 9847⭐
 
 - [octobox/octobox](https://github.com/octobox/octobox) 4301⭐
 
-- [badges/shields](https://github.com/badges/shields) 22370⭐
+- [badges/shields](https://github.com/badges/shields) 22375⭐
 
-- [utmapp/UTM](https://github.com/utmapp/UTM) 23957⭐
+- [utmapp/UTM](https://github.com/utmapp/UTM) 23971⭐
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) 6037⭐
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) 6056⭐
 
-- [probot/probot](https://github.com/probot/probot) 8707⭐
+- [probot/probot](https://github.com/probot/probot) 8709⭐
 
-- [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 183⭐
+- [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 182⭐
 
-- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 9149⭐
+- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 9183⭐
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 6764⭐
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 7037⭐
 
-- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) 8443⭐
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) 8460⭐
 
 
