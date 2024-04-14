@@ -74,21 +74,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
 
-- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com [3 days ago]
+- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com [4 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [4 days ago]
 
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [3 days ago]
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [4 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [4 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [5 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -98,45 +98,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(branch-status): use targeted doc links for merge confidence and minimum release age](https://github.com/renovatebot/renovate/pull/28378) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [feat: dynamic policy violation badges based on show suppressed flag](https://github.com/DependencyTrack/frontend/pull/810) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
 
-- MERGED - [build(vscode): add tailwind extension](https://github.com/gitify-app/gitify/pull/1001) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(metrics): audited/unaudited by policy violation state](https://github.com/DependencyTrack/dependency-track/pull/3615) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [1 day ago]
 
-- OPEN - [build: switch from prettier/eslint to biomejs](https://github.com/thoughtworks/build-your-own-radar/pull/371) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 days ago]
+- OPEN - [feat(branch-status): use targeted doc links for merge confidence and minimum release age](https://github.com/renovatebot/renovate/pull/28378) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [build: husky run all tests](https://github.com/gitify-app/gitify/pull/1000) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build(vscode): add tailwind extension](https://github.com/gitify-app/gitify/pull/1001) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: improve PAT login experience](https://github.com/gitify-app/gitify/pull/999) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [build: switch from prettier/eslint to biomejs](https://github.com/thoughtworks/build-your-own-radar/pull/371) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 days ago]
 
-- MERGED - [fix: logout from](https://github.com/gitify-app/gitify/pull/998) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: husky run all tests](https://github.com/gitify-app/gitify/pull/1000) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: field components](https://github.com/gitify-app/gitify/pull/997) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: improve PAT login experience](https://github.com/gitify-app/gitify/pull/999) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [chore: update dependencies ](https://github.com/thoughtworks/build-your-own-radar/pull/370) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 days ago]
+- MERGED - [fix: logout from](https://github.com/gitify-app/gitify/pull/998) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: codeowners](https://github.com/thoughtworks/build-your-own-radar/pull/369) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 days ago]
+- MERGED - [refactor: field components](https://github.com/gitify-app/gitify/pull/997) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: fix typo](https://github.com/gitify-app/gitify/pull/996) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [chore: update dependencies ](https://github.com/thoughtworks/build-your-own-radar/pull/370) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [3 days ago]
 
-- MERGED - [fix: release version font size](https://github.com/gitify-app/gitify/pull/994) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: codeowners](https://github.com/thoughtworks/build-your-own-radar/pull/369) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [4 days ago]
 
-- MERGED - [docs: update downloads badge](https://github.com/CycloneDX/cdxgen/pull/968) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [refactor: fix typo](https://github.com/gitify-app/gitify/pull/996) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: google-sheets workflow](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/301) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [4 days ago]
+- MERGED - [fix: release version font size](https://github.com/gitify-app/gitify/pull/994) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [fix: update oops useMemo](https://github.com/gitify-app/gitify/pull/987) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [docs: update downloads badge](https://github.com/CycloneDX/cdxgen/pull/968) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [docs: badges](https://github.com/CycloneDX/cdxgen/pull/966) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [fix: google-sheets workflow](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/301) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [5 days ago]
 
-- MERGED - [feat: automate gsheet publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/299) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [5 days ago]
+- MERGED - [fix: update oops useMemo](https://github.com/gitify-app/gitify/pull/987) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [build: adopt biome](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/298) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [5 days ago]
+- MERGED - [docs: badges](https://github.com/CycloneDX/cdxgen/pull/966) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [refactor: logout from](https://github.com/gitify-app/gitify/pull/983) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: automate gsheet publication](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/299) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [6 days ago]
 
-- MERGED - [refactor(helper): extract isGitHubLoggedIn helper](https://github.com/gitify-app/gitify/pull/982) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: adopt biome](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/298) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [6 days ago]
 
-- MERGED - [refactor(useNotifications): extract getNotifications into function](https://github.com/gitify-app/gitify/pull/981) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: logout from](https://github.com/gitify-app/gitify/pull/983) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -144,22 +144,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [50ButtonsEach/flic2-documentation](https://github.com/50ButtonsEach/flic2-documentation) 49⭐
 
-- [biomejs/biome](https://github.com/biomejs/biome) 9925⭐
+- [biomejs/biome](https://github.com/biomejs/biome) 9939⭐
 
-- [octobox/octobox](https://github.com/octobox/octobox) 4302⭐
+- [octobox/octobox](https://github.com/octobox/octobox) 4304⭐
 
-- [badges/shields](https://github.com/badges/shields) 22395⭐
+- [badges/shields](https://github.com/badges/shields) 22397⭐
 
-- [utmapp/UTM](https://github.com/utmapp/UTM) 24015⭐
+- [utmapp/UTM](https://github.com/utmapp/UTM) 24022⭐
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) 6098⭐
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) 6111⭐
 
-- [probot/probot](https://github.com/probot/probot) 8711⭐
+- [probot/probot](https://github.com/probot/probot) 8713⭐
 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 183⭐
 
-- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 9256⭐
+- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 9264⭐
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 7633⭐
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) 7654⭐
 
 
