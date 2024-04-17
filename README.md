@@ -74,69 +74,69 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [1 day ago]
+
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
-- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com [6 days ago]
+- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com [1 week ago]
 
-- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [6 days ago]
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/. [1 week ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [6 days ago]
-
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
-
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [chore(biome): fix useless else cases](https://github.com/CycloneDX/cdxgen/pull/988) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- OPEN - [chore(biome): fix no delete operator](https://github.com/CycloneDX/cdxgen/pull/990) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [test(settings): organize by section](https://github.com/gitify-app/gitify/pull/1010) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(biome): fix unused template literals](https://github.com/CycloneDX/cdxgen/pull/989) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [fix: update-native-theme listeners](https://github.com/gitify-app/gitify/pull/1009) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [gitify 5.3.0](https://github.com/Homebrew/homebrew-cask/pull/171509) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [1 day ago]
 
-- MERGED - [chore(biome): fix optional chaining cases](https://github.com/CycloneDX/cdxgen/pull/987) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [build(renovate): use presets and increase frequency](https://github.com/gitify-app/gitify/pull/1018) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: add tooltip for show participating setting](https://github.com/gitify-app/gitify/pull/1008) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(subject): support enriched commit notification details](https://github.com/gitify-app/gitify/pull/1017) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix(settings): allow showBots only when detailedNotifications is selected](https://github.com/gitify-app/gitify/pull/1007) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(refresh): reset interval on manual refresh](https://github.com/gitify-app/gitify/pull/1014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [chore(biome): remove unused rule overrides](https://github.com/CycloneDX/cdxgen/pull/986) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [refactor(sidebar): combine useContext](https://github.com/gitify-app/gitify/pull/1013) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: remove pre UIRefresh2022 code](https://github.com/thoughtworks/build-your-own-radar/pull/374) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 day ago]
+- MERGED - [fix: combine fetchNotifications effect](https://github.com/gitify-app/gitify/pull/1012) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [chore: update gitignore](https://github.com/thoughtworks/build-your-own-radar/pull/373) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 day ago]
+- MERGED - [fix: relocate set request status succeeded ](https://github.com/gitify-app/gitify/pull/1011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [build(vscode): update code actions on save](https://github.com/thoughtworks/build-your-own-radar/pull/372) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [1 day ago]
+- MERGED - [chore(biome): fix useless else cases](https://github.com/CycloneDX/cdxgen/pull/988) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [chore(biome): fix use template](https://github.com/CycloneDX/cdxgen/pull/985) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [test(settings): organize by section](https://github.com/gitify-app/gitify/pull/1010) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [chore(biome): fix use single var declarator](https://github.com/CycloneDX/cdxgen/pull/984) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [fix: move `update-native-theme` into ipcRenderer `useEffect`](https://github.com/gitify-app/gitify/pull/1009) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: switch to biomejs formatter &#43; linter](https://github.com/CycloneDX/cdxgen/pull/977) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- MERGED - [chore(biome): fix optional chaining cases](https://github.com/CycloneDX/cdxgen/pull/987) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [feat: tooltips component with example](https://github.com/gitify-app/gitify/pull/1006) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: add tooltip for show participating setting](https://github.com/gitify-app/gitify/pull/1008) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: generalize color setting and skip detailed subject fetching when disabled](https://github.com/gitify-app/gitify/pull/1005) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix(settings): allow showBots only when detailedNotifications is selected](https://github.com/gitify-app/gitify/pull/1007) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: remove erroneous helpText](https://github.com/gitify-app/gitify/pull/1004) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [chore(biome): remove unused rule overrides](https://github.com/CycloneDX/cdxgen/pull/986) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [fix: suppress biome useEffect warnings with justification](https://github.com/gitify-app/gitify/pull/1003) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [refactor: remove pre UIRefresh2022 code](https://github.com/thoughtworks/build-your-own-radar/pull/374) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 days ago]
 
-- MERGED - [refactor: improve PAT login experience](https://github.com/gitify-app/gitify/pull/1002) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [chore: update gitignore](https://github.com/thoughtworks/build-your-own-radar/pull/373) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 days ago]
 
-- OPEN - [feat: dynamic policy violation badges based on show suppressed flag](https://github.com/DependencyTrack/frontend/pull/810) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- OPEN - [build(vscode): update code actions on save](https://github.com/thoughtworks/build-your-own-radar/pull/372) to [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) [2 days ago]
 
-- OPEN - [feat(metrics): audited/unaudited by policy violation state](https://github.com/DependencyTrack/dependency-track/pull/3615) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [3 days ago]
+- MERGED - [chore(biome): fix use template](https://github.com/CycloneDX/cdxgen/pull/985) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -146,20 +146,20 @@ Senior Executive (VP) // Architect // Developer
 
 - [50ButtonsEach/flic2-documentation](https://github.com/50ButtonsEach/flic2-documentation) 49⭐
 
-- [biomejs/biome](https://github.com/biomejs/biome) 9968⭐
+- [biomejs/biome](https://github.com/biomejs/biome) 10003⭐
 
 - [octobox/octobox](https://github.com/octobox/octobox) 4305⭐
 
-- [badges/shields](https://github.com/badges/shields) 22414⭐
+- [badges/shields](https://github.com/badges/shields) 22427⭐
 
-- [utmapp/UTM](https://github.com/utmapp/UTM) 24045⭐
+- [utmapp/UTM](https://github.com/utmapp/UTM) 24053⭐
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) 6139⭐
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) 6170⭐
 
-- [probot/probot](https://github.com/probot/probot) 8711⭐
+- [probot/probot](https://github.com/probot/probot) 8715⭐
 
-- [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 184⭐
+- [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 183⭐
 
-- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 9305⭐
+- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 9321⭐
 
 
