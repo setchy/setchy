@@ -74,92 +74,92 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com [1 day ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
+
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com [2 days ago]
 
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [2 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [2 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com [1 week ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [docs: update images to match 5.3.0&#43; design](https://github.com/gitify-app/website/pull/99) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [chore: update biome](https://github.com/CycloneDX/cdxgen/pull/998) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [docs: update press image to match 5.3.0&#43; design](https://github.com/gitify-app/gitify/pull/1044) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [test(utils/subject): improve mocks and test cases](https://github.com/gitify-app/gitify/pull/1047) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: icons util with color enum](https://github.com/gitify-app/gitify/pull/1042) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor(api/errors): move error function and tests out](https://github.com/gitify-app/gitify/pull/1046) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: duplicate system notifications](https://github.com/gitify-app/gitify/pull/1038) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [gitify: update desc](https://github.com/Homebrew/homebrew-cask/pull/171621) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [1 day ago]
 
-- MERGED - [fix: inconsistent notification state](https://github.com/gitify-app/gitify/pull/1037) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: update images to match 5.3.0&#43; design](https://github.com/gitify-app/website/pull/99) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [refactor(reason): separate into own file and use Record for mappings](https://github.com/gitify-app/gitify/pull/1036) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: update press image to match 5.3.0&#43; design](https://github.com/gitify-app/gitify/pull/1044) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [docs: correct case for Copilot](https://github.com/github/docs/pull/32562) to [github/docs](https://github.com/github/docs) [1 day ago]
+- MERGED - [refactor: icons util with color enum](https://github.com/gitify-app/gitify/pull/1042) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [refactor: introduce GitifyNotification type](https://github.com/gitify-app/gitify/pull/1033) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: duplicate system notifications](https://github.com/gitify-app/gitify/pull/1038) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat(error): handle network connection errors](https://github.com/gitify-app/gitify/pull/1030) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: inconsistent notification state](https://github.com/gitify-app/gitify/pull/1037) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [chore(biome): fix no double equals](https://github.com/CycloneDX/cdxgen/pull/991) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [refactor(reason): separate into own file and use Record for mappings](https://github.com/gitify-app/gitify/pull/1036) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [chore(biome): fix no delete operator](https://github.com/CycloneDX/cdxgen/pull/990) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- MERGED - [docs: correct case for Copilot](https://github.com/github/docs/pull/32562) to [github/docs](https://github.com/github/docs) [2 days ago]
 
-- MERGED - [chore(biome): fix unused template literals](https://github.com/CycloneDX/cdxgen/pull/989) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- OPEN - [refactor: introduce GitifyNotification type](https://github.com/gitify-app/gitify/pull/1033) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [gitify 5.3.0](https://github.com/Homebrew/homebrew-cask/pull/171509) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [2 days ago]
+- MERGED - [feat(error): handle network connection errors](https://github.com/gitify-app/gitify/pull/1030) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build(renovate): use presets and increase frequency](https://github.com/gitify-app/gitify/pull/1018) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [chore(biome): fix no double equals](https://github.com/CycloneDX/cdxgen/pull/991) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [feat(subject): support enriched commit notification details](https://github.com/gitify-app/gitify/pull/1017) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [chore(biome): fix no delete operator](https://github.com/CycloneDX/cdxgen/pull/990) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
 
-- MERGED - [feat(refresh): reset interval on manual refresh](https://github.com/gitify-app/gitify/pull/1014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [chore(biome): fix unused template literals](https://github.com/CycloneDX/cdxgen/pull/989) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
 
-- MERGED - [refactor(sidebar): combine useContext](https://github.com/gitify-app/gitify/pull/1013) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [gitify 5.3.0](https://github.com/Homebrew/homebrew-cask/pull/171509) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [3 days ago]
 
-- MERGED - [fix: combine fetchNotifications effect](https://github.com/gitify-app/gitify/pull/1012) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build(renovate): use presets and increase frequency](https://github.com/gitify-app/gitify/pull/1018) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: relocate set request status succeeded ](https://github.com/gitify-app/gitify/pull/1011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(subject): support enriched commit notification details](https://github.com/gitify-app/gitify/pull/1017) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [chore(biome): fix useless else cases](https://github.com/CycloneDX/cdxgen/pull/988) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [feat(refresh): reset interval on manual refresh](https://github.com/gitify-app/gitify/pull/1014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [mergestat/mergestat](https://github.com/mergestat/mergestat) 423⭐
+- [usebruno/bruno](https://github.com/usebruno/bruno) 18721⭐
+
+- [mergestat/mergestat](https://github.com/mergestat/mergestat) 424⭐
 
 - [50ButtonsEach/flic2-documentation](https://github.com/50ButtonsEach/flic2-documentation) 49⭐
 
-- [biomejs/biome](https://github.com/biomejs/biome) 10047⭐
+- [biomejs/biome](https://github.com/biomejs/biome) 10097⭐
 
-- [octobox/octobox](https://github.com/octobox/octobox) 4307⭐
+- [octobox/octobox](https://github.com/octobox/octobox) 4308⭐
 
-- [badges/shields](https://github.com/badges/shields) 22431⭐
+- [badges/shields](https://github.com/badges/shields) 22437⭐
 
-- [utmapp/UTM](https://github.com/utmapp/UTM) 24062⭐
+- [utmapp/UTM](https://github.com/utmapp/UTM) 24080⭐
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) 6205⭐
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) 6228⭐
 
-- [probot/probot](https://github.com/probot/probot) 8716⭐
+- [probot/probot](https://github.com/probot/probot) 8717⭐
 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 184⭐
-
-- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) 9329⭐
 
 
