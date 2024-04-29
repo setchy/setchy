@@ -76,21 +76,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [3 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [6 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [1 week ago]
 
@@ -100,31 +100,33 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: replace axios.all and axios.spread](https://github.com/gitify-app/gitify/pull/1063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: return static github api path](https://github.com/gitify-app/gitify/pull/1064) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [docs: add renovate recipe](https://github.com/biomejs/website/pull/140) to [biomejs/website](https://github.com/biomejs/website) [4 days ago]
+- OPEN - [refactor: replace axios.all and axios.spread](https://github.com/gitify-app/gitify/pull/1063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor(settings): use async await](https://github.com/gitify-app/gitify/pull/1062) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [docs: add renovate recipe](https://github.com/biomejs/website/pull/140) to [biomejs/website](https://github.com/biomejs/website) [5 days ago]
 
-- MERGED - [refactor: use status type (loading, error, success)](https://github.com/gitify-app/gitify/pull/1061) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor(settings): use async await](https://github.com/gitify-app/gitify/pull/1062) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [test: rename suite](https://github.com/gitify-app/gitify/pull/1060) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: use status type (loading, error, success)](https://github.com/gitify-app/gitify/pull/1061) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [build(renovate): use biome versions preset](https://github.com/gitify-app/gitify/pull/1058) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [test: rename suite](https://github.com/gitify-app/gitify/pull/1060) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- CLOSED - [chore(deps): remove unused sharp dependency](https://github.com/gitify-app/website/pull/115) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [build(renovate): use biome versions preset](https://github.com/gitify-app/gitify/pull/1058) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [chore(deps): remove deprecated @types/marked stub](https://github.com/gitify-app/website/pull/114) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- CLOSED - [chore(deps): remove unused sharp dependency](https://github.com/gitify-app/website/pull/115) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [build: switch to biomejs linter &#43; formatter](https://github.com/gitify-app/website/pull/113) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [chore(deps): remove deprecated @types/marked stub](https://github.com/gitify-app/website/pull/114) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [build: update renovate config](https://github.com/gitify-app/website/pull/112) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [build: switch to biomejs linter &#43; formatter](https://github.com/gitify-app/website/pull/113) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [refactor: clarify unsubscribe behavior](https://github.com/gitify-app/gitify/pull/1057) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: update renovate config](https://github.com/gitify-app/website/pull/112) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [docs: add unsubscribe from thread faq](https://github.com/gitify-app/website/pull/111) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [refactor: clarify unsubscribe behavior](https://github.com/gitify-app/gitify/pull/1057) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: extract api calls into client with types](https://github.com/gitify-app/gitify/pull/1056) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [docs: add unsubscribe from thread faq](https://github.com/gitify-app/website/pull/111) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+
+- MERGED - [refactor: extract api calls into client with types](https://github.com/gitify-app/gitify/pull/1056) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: improve return type](https://github.com/gitify-app/gitify/pull/1054) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -138,30 +140,28 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [docs: update to latest release version 5.4.1](https://github.com/gitify-app/website/pull/108) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- CLOSED - [docs: update to latest release version 5.4.1](https://github.com/gitify-app/website/pull/107) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 4764⭐
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) 4831⭐
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22131⭐
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22159⭐
 
-- [jenv/jenv](https://github.com/jenv/jenv) 5484⭐
+- [jenv/jenv](https://github.com/jenv/jenv) 5485⭐
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 64805⭐
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 64830⭐
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) 19069⭐
+- [usebruno/bruno](https://github.com/usebruno/bruno) 19125⭐
 
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) 424⭐
 
 - [50ButtonsEach/flic2-documentation](https://github.com/50ButtonsEach/flic2-documentation) 49⭐
 
-- [biomejs/biome](https://github.com/biomejs/biome) 10477⭐
+- [biomejs/biome](https://github.com/biomejs/biome) 10490⭐
 
 - [octobox/octobox](https://github.com/octobox/octobox) 4310⭐
 
-- [badges/shields](https://github.com/badges/shields) 22518⭐
+- [badges/shields](https://github.com/badges/shields) 22530⭐
 
 
