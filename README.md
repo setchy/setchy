@@ -78,11 +78,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
 
-- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [5 days ago]
+- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [6 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -100,15 +100,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: simplify useNotifications](https://github.com/gitify-app/gitify/pull/1070) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: extract notification retrieval logic](https://github.com/gitify-app/gitify/pull/1073) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: return static github api path](https://github.com/gitify-app/gitify/pull/1064) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: get token for host](https://github.com/gitify-app/gitify/pull/1072) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: replace axios.all and axios.spread](https://github.com/gitify-app/gitify/pull/1063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: simplify useNotifications](https://github.com/gitify-app/gitify/pull/1070) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [docs: add renovate recipe](https://github.com/biomejs/website/pull/140) to [biomejs/website](https://github.com/biomejs/website) [6 days ago]
+- MERGED - [refactor: return static github api path](https://github.com/gitify-app/gitify/pull/1064) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor(settings): use async await](https://github.com/gitify-app/gitify/pull/1062) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: replace axios.all and axios.spread](https://github.com/gitify-app/gitify/pull/1063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [docs: add renovate recipe](https://github.com/biomejs/website/pull/140) to [biomejs/website](https://github.com/biomejs/website) [1 week ago]
+
+- MERGED - [refactor(settings): use async await](https://github.com/gitify-app/gitify/pull/1062) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: use status type (loading, error, success)](https://github.com/gitify-app/gitify/pull/1061) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -136,32 +140,28 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat: show all notifications](https://github.com/gitify-app/gitify/pull/1052) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat(preset/regex): add biome $schema](https://github.com/renovatebot/renovate/pull/28537) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
-
-- MERGED - [Update getting-started.mdx](https://github.com/biomejs/website/pull/92) to [biomejs/website](https://github.com/biomejs/website) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 4916⭐
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5005⭐
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22186⭐
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22216⭐
 
 - [jenv/jenv](https://github.com/jenv/jenv) 5489⭐
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 64854⭐
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 64873⭐
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) 19180⭐
+- [usebruno/bruno](https://github.com/usebruno/bruno) 19270⭐
 
-- [mergestat/mergestat](https://github.com/mergestat/mergestat) 424⭐
+- [mergestat/mergestat](https://github.com/mergestat/mergestat) 425⭐
 
 - [50ButtonsEach/flic2-documentation](https://github.com/50ButtonsEach/flic2-documentation) 49⭐
 
-- [biomejs/biome](https://github.com/biomejs/biome) 10511⭐
+- [biomejs/biome](https://github.com/biomejs/biome) 10528⭐
 
 - [octobox/octobox](https://github.com/octobox/octobox) 4311⭐
 
-- [badges/shields](https://github.com/badges/shields) 22537⭐
+- [badges/shields](https://github.com/badges/shields) 22542⭐
 
 
