@@ -78,11 +78,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
 
-- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [6 days ago]
+- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -94,21 +94,27 @@ Senior Executive (VP) // Architect // Developer
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [1 week ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill of Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [refactor: extract notification retrieval logic](https://github.com/gitify-app/gitify/pull/1073) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: add user type](https://github.com/gitify-app/gitify/pull/1077) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: get token for host](https://github.com/gitify-app/gitify/pull/1072) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [test: update mock datasets](https://github.com/gitify-app/gitify/pull/1076) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: simplify useNotifications](https://github.com/gitify-app/gitify/pull/1070) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat: skip fetching PR comments when none exist](https://github.com/gitify-app/gitify/pull/1075) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: return static github api path](https://github.com/gitify-app/gitify/pull/1064) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [refactor: extract notification retrieval logic](https://github.com/gitify-app/gitify/pull/1073) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: replace axios.all and axios.spread](https://github.com/gitify-app/gitify/pull/1063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: get token for host](https://github.com/gitify-app/gitify/pull/1072) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [refactor: simplify useNotifications](https://github.com/gitify-app/gitify/pull/1070) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- MERGED - [refactor: return static github api path](https://github.com/gitify-app/gitify/pull/1064) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [refactor: replace axios.all and axios.spread](https://github.com/gitify-app/gitify/pull/1063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 - MERGED - [docs: add renovate recipe](https://github.com/biomejs/website/pull/140) to [biomejs/website](https://github.com/biomejs/website) [1 week ago]
 
@@ -134,34 +140,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: extract api calls into client with types](https://github.com/gitify-app/gitify/pull/1056) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: improve return type](https://github.com/gitify-app/gitify/pull/1054) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: use correct case for GitHub](https://github.com/gitify-app/gitify/pull/1053) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- OPEN - [feat: show all notifications](https://github.com/gitify-app/gitify/pull/1052) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5005⭐
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5030⭐
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22216⭐
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22246⭐
 
 - [jenv/jenv](https://github.com/jenv/jenv) 5489⭐
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 64873⭐
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 64896⭐
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) 19270⭐
+- [usebruno/bruno](https://github.com/usebruno/bruno) 19327⭐
 
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) 425⭐
 
 - [50ButtonsEach/flic2-documentation](https://github.com/50ButtonsEach/flic2-documentation) 49⭐
 
-- [biomejs/biome](https://github.com/biomejs/biome) 10528⭐
+- [biomejs/biome](https://github.com/biomejs/biome) 10551⭐
 
 - [octobox/octobox](https://github.com/octobox/octobox) 4311⭐
 
-- [badges/shields](https://github.com/badges/shields) 22542⭐
+- [badges/shields](https://github.com/badges/shields) 22551⭐
 
 
