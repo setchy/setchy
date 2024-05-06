@@ -76,13 +76,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [4 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -90,7 +90,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [2 weeks ago]
 
@@ -100,29 +100,33 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [test(getHtmlUrl): add coverage for error state](https://github.com/gitify-app/gitify/pull/1083) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [refactor: extract discussions api calls into client](https://github.com/gitify-app/gitify/pull/1085) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [test(sidebar): increase coverage](https://github.com/gitify-app/gitify/pull/1082) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [test: add hostname to partial mocks](https://github.com/gitify-app/gitify/pull/1084) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [test(notification): add coverage for keyDown event](https://github.com/gitify-app/gitify/pull/1081) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [test(getHtmlUrl): add coverage for error state](https://github.com/gitify-app/gitify/pull/1083) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: broaden try/catch and add coverage](https://github.com/gitify-app/gitify/pull/1080) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [test(sidebar): increase coverage](https://github.com/gitify-app/gitify/pull/1082) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [test(theme): increase coverage](https://github.com/gitify-app/gitify/pull/1079) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [test(notification): add coverage for keyDown event](https://github.com/gitify-app/gitify/pull/1081) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [feat: add pr review icons (approved, requested changes, commented, dismissed)](https://github.com/gitify-app/gitify/pull/1078) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: broaden try/catch and add coverage](https://github.com/gitify-app/gitify/pull/1080) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: add user type](https://github.com/gitify-app/gitify/pull/1077) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [test(theme): increase coverage](https://github.com/gitify-app/gitify/pull/1079) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [test: update mock datasets](https://github.com/gitify-app/gitify/pull/1076) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat: add pr review icons (approved, requested changes, commented, dismissed)](https://github.com/gitify-app/gitify/pull/1078) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: skip fetching PR comments when none exist](https://github.com/gitify-app/gitify/pull/1075) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: add user type](https://github.com/gitify-app/gitify/pull/1077) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: extract notification retrieval logic](https://github.com/gitify-app/gitify/pull/1073) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [test: update mock datasets](https://github.com/gitify-app/gitify/pull/1076) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: get token for host](https://github.com/gitify-app/gitify/pull/1072) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: skip fetching PR comments when none exist](https://github.com/gitify-app/gitify/pull/1075) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: simplify useNotifications](https://github.com/gitify-app/gitify/pull/1070) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: extract notification retrieval logic](https://github.com/gitify-app/gitify/pull/1073) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- MERGED - [refactor: get token for host](https://github.com/gitify-app/gitify/pull/1072) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- MERGED - [refactor: simplify useNotifications](https://github.com/gitify-app/gitify/pull/1070) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: return static github api path](https://github.com/gitify-app/gitify/pull/1064) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -136,32 +140,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [test: rename suite](https://github.com/gitify-app/gitify/pull/1060) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build(renovate): use biome versions preset](https://github.com/gitify-app/gitify/pull/1058) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- CLOSED - [chore(deps): remove unused sharp dependency](https://github.com/gitify-app/website/pull/115) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5084⭐
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5100⭐
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22326⭐
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22345⭐
 
-- [jenv/jenv](https://github.com/jenv/jenv) 5493⭐
+- [jenv/jenv](https://github.com/jenv/jenv) 5495⭐
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 64981⭐
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 65002⭐
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) 19468⭐
+- [usebruno/bruno](https://github.com/usebruno/bruno) 19518⭐
 
 - [mergestat/mergestat](https://github.com/mergestat/mergestat) 426⭐
 
 - [50ButtonsEach/flic2-documentation](https://github.com/50ButtonsEach/flic2-documentation) 49⭐
 
-- [biomejs/biome](https://github.com/biomejs/biome) 10648⭐
+- [biomejs/biome](https://github.com/biomejs/biome) 10665⭐
 
-- [octobox/octobox](https://github.com/octobox/octobox) 4311⭐
+- [octobox/octobox](https://github.com/octobox/octobox) 4313⭐
 
-- [badges/shields](https://github.com/badges/shields) 22585⭐
+- [badges/shields](https://github.com/badges/shields) 22590⭐
 
 
