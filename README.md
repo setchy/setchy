@@ -76,23 +76,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [1 day ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
 - [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [2 weeks ago]
-
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [3 weeks ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [3 weeks ago]
 
@@ -100,68 +100,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [test(preset): add tests for biomeVersions](https://github.com/renovatebot/renovate/pull/28965) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [refactor(discussions): search syntax](https://github.com/gitify-app/gitify/pull/1104) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat(preset): support _VERSION updates within bitbucket pipelines](https://github.com/renovatebot/renovate/pull/28964) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [feat: use `last_read_at` timestamp when available](https://github.com/gitify-app/gitify/pull/1103) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat(preset): update dockerfileVersions match string](https://github.com/renovatebot/renovate/pull/28963) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [refactor(preset): update regexManagers: to customManagers:](https://github.com/renovatebot/renovate/pull/28979) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- MERGED - [refactor: remove async from ipc handlers](https://github.com/gitify-app/gitify/pull/1099) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [test(preset): add tests for biomeVersions](https://github.com/renovatebot/renovate/pull/28965) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- OPEN - [refactor: main script](https://github.com/gitify-app/gitify/pull/1098) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(preset): support _VERSION updates within bitbucket pipelines](https://github.com/renovatebot/renovate/pull/28964) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- OPEN - [feat: ensure app is launched minimized](https://github.com/gitify-app/gitify/pull/1097) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(preset): update dockerfileVersions match string](https://github.com/renovatebot/renovate/pull/28963) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [refactor: update enterprise host test data](https://github.com/gitify-app/gitify/pull/1096) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: remove async from ipc handlers](https://github.com/gitify-app/gitify/pull/1099) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: use URL object instead of strings](https://github.com/gitify-app/gitify/pull/1095) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [refactor: main script](https://github.com/gitify-app/gitify/pull/1098) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor(discussions): use API to get latest comment and reply](https://github.com/gitify-app/gitify/pull/1094) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat: ensure app is launched minimized](https://github.com/gitify-app/gitify/pull/1097) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: add types to helper fns](https://github.com/gitify-app/gitify/pull/1093) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: update enterprise host test data](https://github.com/gitify-app/gitify/pull/1096) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: delay notification removal](https://github.com/gitify-app/gitify/pull/1092) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: use URL object instead of strings](https://github.com/gitify-app/gitify/pull/1095) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [feat(components): quick search for projects also using component](https://github.com/DependencyTrack/frontend/pull/848) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+- MERGED - [refactor(discussions): use API to get latest comment and reply](https://github.com/gitify-app/gitify/pull/1094) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [fix(gitify): add preflight steps to reduce errors during `brew upgrade`](https://github.com/Homebrew/homebrew-cask/pull/173061) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [3 days ago]
+- MERGED - [refactor: add types to helper fns](https://github.com/gitify-app/gitify/pull/1093) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [chore: prepare 5.5.0 release](https://github.com/gitify-app/gitify/pull/1091) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: delay notification removal](https://github.com/gitify-app/gitify/pull/1092) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: extract discussions api calls into client](https://github.com/gitify-app/gitify/pull/1085) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- OPEN - [feat(components): quick search for projects also using component](https://github.com/DependencyTrack/frontend/pull/848) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 days ago]
 
-- MERGED - [test: add hostname to partial mocks](https://github.com/gitify-app/gitify/pull/1084) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- OPEN - [fix(gitify): add preflight steps to reduce errors during `brew upgrade`](https://github.com/Homebrew/homebrew-cask/pull/173061) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [4 days ago]
+
+- MERGED - [chore: prepare 5.5.0 release](https://github.com/gitify-app/gitify/pull/1091) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [refactor: extract discussions api calls into client](https://github.com/gitify-app/gitify/pull/1085) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- MERGED - [test: add hostname to partial mocks](https://github.com/gitify-app/gitify/pull/1084) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [test(getHtmlUrl): add coverage for error state](https://github.com/gitify-app/gitify/pull/1083) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [test(sidebar): increase coverage](https://github.com/gitify-app/gitify/pull/1082) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [test(notification): add coverage for keyDown event](https://github.com/gitify-app/gitify/pull/1081) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: broaden try/catch and add coverage](https://github.com/gitify-app/gitify/pull/1080) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
+- [CycloneDX/sbom-utility](https://github.com/CycloneDX/sbom-utility) 68⭐
+
+- [DependencyTrack/community](https://github.com/DependencyTrack/community) 1⭐
+
 - [jetstack/dependency-track-exporter](https://github.com/jetstack/dependency-track-exporter) 18⭐
 
-- [lra/mackup](https://github.com/lra/mackup) 14265⭐
+- [lra/mackup](https://github.com/lra/mackup) 14267⭐
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) 87⭐
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5256⭐
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5276⭐
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22460⭐
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22489⭐
 
-- [jenv/jenv](https://github.com/jenv/jenv) 5508⭐
+- [jenv/jenv](https://github.com/jenv/jenv) 5510⭐
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 65109⭐
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 65132⭐
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) 19768⭐
-
-- [mergestat/mergestat](https://github.com/mergestat/mergestat) 426⭐
-
-- [50ButtonsEach/flic2-documentation](https://github.com/50ButtonsEach/flic2-documentation) 49⭐
+- [usebruno/bruno](https://github.com/usebruno/bruno) 19799⭐
 
 
