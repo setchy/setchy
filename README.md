@@ -80,65 +80,65 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - Complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [3 days ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. [4 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [6 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [5 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [6 days ago]
+
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [1 week ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat(server): switch middleware from connect to express](https://github.com/CycloneDX/cdxgen/pull/1076) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- OPEN - [refactor: major code reorganization](https://github.com/CycloneDX/cdxgen/pull/1084) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [feat(docker): default to docker.io registry](https://github.com/CycloneDX/cdxgen/pull/1073) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [docs: fix broken `queries.json` link](https://github.com/CycloneDX/cdxgen/pull/1083) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [docs: enterprise and community support](https://github.com/CycloneDX/cdxgen/pull/1071) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [docs: nodejs permissions](https://github.com/CycloneDX/cdxgen/pull/1082) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [docs: remove unused media.  should be in `_media/` folder](https://github.com/CycloneDX/cdxgen/pull/1070) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [docs: use link labels](https://github.com/CycloneDX/cdxgen/pull/1081) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [docs: env variables](https://github.com/CycloneDX/cdxgen/pull/1069) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [docs: update h1](https://github.com/CycloneDX/cdxgen/pull/1080) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [docs: type args ref to docs](https://github.com/CycloneDX/cdxgen/pull/1068) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [docs: add documentation section](https://github.com/CycloneDX/cdxgen/pull/1079) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [docs: ref to new project types page](https://github.com/CycloneDX/cdxgen/pull/1067) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [build: update contributors](https://github.com/CycloneDX/cdxgen/pull/1078) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [docs: update regex to custom managers](https://github.com/renovatebot/renovate/pull/29044) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- OPEN - [feat(server): switch middleware from connect to express](https://github.com/CycloneDX/cdxgen/pull/1076) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [build(vscode): always sign off](https://github.com/DependencyTrack/frontend/pull/865) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
+- MERGED - [feat(docker): default to docker.io registry](https://github.com/CycloneDX/cdxgen/pull/1073) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [build(vscode) enable always signoff](https://github.com/CycloneDX/cdxgen/pull/1063) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- MERGED - [docs: enterprise and community support](https://github.com/CycloneDX/cdxgen/pull/1071) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [fix(biome): noUselessTernary](https://github.com/CycloneDX/cdxgen/pull/1062) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- MERGED - [docs: remove unused media.  should be in `_media/` folder](https://github.com/CycloneDX/cdxgen/pull/1070) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [docs: link to contribute labels](https://github.com/CycloneDX/cdxgen/pull/1060) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- MERGED - [docs: env variables](https://github.com/CycloneDX/cdxgen/pull/1069) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [docs: update community support](https://github.com/CycloneDX/cdxgen/pull/1059) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- MERGED - [docs: type args ref to docs](https://github.com/CycloneDX/cdxgen/pull/1068) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [build: add codeowners file](https://github.com/CycloneDX/cdxgen/pull/1058) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- MERGED - [docs: ref to new project types page](https://github.com/CycloneDX/cdxgen/pull/1067) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [docs: add project types](https://github.com/CycloneDX/cdxgen/pull/1057) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- OPEN - [docs: update regex to custom managers](https://github.com/renovatebot/renovate/pull/29044) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- MERGED - [docs: add NODE_OPTIONS](https://github.com/CycloneDX/cdxgen/pull/1056) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [build(vscode): always sign off](https://github.com/DependencyTrack/frontend/pull/865) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
 
-- MERGED - [feat: add comment count icon](https://github.com/gitify-app/gitify/pull/1108) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build(vscode) enable always signoff](https://github.com/CycloneDX/cdxgen/pull/1063) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
 
-- MERGED - [fix(discussions): simplify search syntax and avoid over filtering for edge cases](https://github.com/gitify-app/gitify/pull/1104) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix(biome): noUselessTernary](https://github.com/CycloneDX/cdxgen/pull/1062) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
 
-- MERGED - [feat: use `last_read_at` timestamp when available](https://github.com/gitify-app/gitify/pull/1103) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [docs: link to contribute labels](https://github.com/CycloneDX/cdxgen/pull/1060) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
 
-- MERGED - [refactor(preset): update regexManagers: to customManagers:](https://github.com/renovatebot/renovate/pull/28979) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- MERGED - [docs: update community support](https://github.com/CycloneDX/cdxgen/pull/1059) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -150,18 +150,18 @@ Senior Executive (VP) // Architect // Developer
 
 - [jetstack/dependency-track-exporter](https://github.com/jetstack/dependency-track-exporter) 18⭐
 
-- [lra/mackup](https://github.com/lra/mackup) 14282⭐
+- [lra/mackup](https://github.com/lra/mackup) 14284⭐
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) 87⭐
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) 88⭐
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5369⭐
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5390⭐
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22575⭐
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22594⭐
 
-- [jenv/jenv](https://github.com/jenv/jenv) 5513⭐
+- [jenv/jenv](https://github.com/jenv/jenv) 5517⭐
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 65224⭐
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 65257⭐
 
-- [usebruno/bruno](https://github.com/usebruno/bruno) 19992⭐
+- [usebruno/bruno](https://github.com/usebruno/bruno) 20034⭐
 
 
