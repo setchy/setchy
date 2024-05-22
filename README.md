@@ -76,21 +76,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [4 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [6 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [5 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [6 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [5 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
 
@@ -100,49 +100,51 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor(auth): remove repo scopes check](https://github.com/gitify-app/gitify/pull/1127) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: auth validation logic](https://github.com/gitify-app/gitify/pull/1129) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [chore(deps): remove axios](https://github.com/gitify-app/website/pull/133) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [feat(settings): enable `detailed notifications` by default](https://github.com/gitify-app/gitify/pull/1128) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor(auth): update ux and terminology](https://github.com/gitify-app/gitify/pull/1122) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(auth): remove repo scopes check](https://github.com/gitify-app/gitify/pull/1127) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat(login): add help docs to login flows](https://github.com/gitify-app/gitify/pull/1121) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [chore(deps): remove axios](https://github.com/gitify-app/website/pull/133) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- CLOSED - [fix: deno failures](https://github.com/CycloneDX/cdxgen/pull/1092) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [refactor(auth): update ux and terminology](https://github.com/gitify-app/gitify/pull/1122) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat(auth): disable `generate a pat` if no hostname](https://github.com/gitify-app/gitify/pull/1120) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat(login): add help docs to login flows](https://github.com/gitify-app/gitify/pull/1121) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat(auth): add `create oauth app` link to enterprise route](https://github.com/gitify-app/gitify/pull/1119) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- CLOSED - [fix: deno failures](https://github.com/CycloneDX/cdxgen/pull/1092) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [feat: increase yargs terminal width](https://github.com/CycloneDX/cdxgen/pull/1091) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [feat(auth): disable `generate a pat` if no hostname](https://github.com/gitify-app/gitify/pull/1120) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: support discussions for github server](https://github.com/gitify-app/gitify/pull/1118) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat(auth): add `create oauth app` link to enterprise route](https://github.com/gitify-app/gitify/pull/1119) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: increase yargs terminal width](https://github.com/CycloneDX/cdxgen/pull/1087) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [feat: increase yargs terminal width](https://github.com/CycloneDX/cdxgen/pull/1091) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- CLOSED - [refactor: major code reorganization](https://github.com/CycloneDX/cdxgen/pull/1084) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [feat: support discussions for github server](https://github.com/gitify-app/gitify/pull/1118) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [docs: fix broken `queries.json` link](https://github.com/CycloneDX/cdxgen/pull/1083) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [feat: increase yargs terminal width](https://github.com/CycloneDX/cdxgen/pull/1087) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [docs: nodejs permissions](https://github.com/CycloneDX/cdxgen/pull/1082) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- CLOSED - [refactor: major code reorganization](https://github.com/CycloneDX/cdxgen/pull/1084) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [docs: use link labels](https://github.com/CycloneDX/cdxgen/pull/1081) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [docs: fix broken `queries.json` link](https://github.com/CycloneDX/cdxgen/pull/1083) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [docs: update h1](https://github.com/CycloneDX/cdxgen/pull/1080) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [docs: nodejs permissions](https://github.com/CycloneDX/cdxgen/pull/1082) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [docs: add documentation section](https://github.com/CycloneDX/cdxgen/pull/1079) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [docs: use link labels](https://github.com/CycloneDX/cdxgen/pull/1081) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [build: update contributors](https://github.com/CycloneDX/cdxgen/pull/1078) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [docs: update h1](https://github.com/CycloneDX/cdxgen/pull/1080) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+
+- MERGED - [docs: add documentation section](https://github.com/CycloneDX/cdxgen/pull/1079) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+
+- MERGED - [build: update contributors](https://github.com/CycloneDX/cdxgen/pull/1078) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - CLOSED - [feat(server): switch middleware from connect to express](https://github.com/CycloneDX/cdxgen/pull/1076) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [feat(docker): default to docker.io registry](https://github.com/CycloneDX/cdxgen/pull/1073) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [docs: enterprise and community support](https://github.com/CycloneDX/cdxgen/pull/1071) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
 
+
+- [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
 
 - [CycloneDX/sbom-utility](https://github.com/CycloneDX/sbom-utility) 72⭐
 
@@ -150,18 +152,16 @@ Senior Executive (VP) // Architect // Developer
 
 - [jetstack/dependency-track-exporter](https://github.com/jetstack/dependency-track-exporter) 18⭐
 
-- [lra/mackup](https://github.com/lra/mackup) 14294⭐
+- [lra/mackup](https://github.com/lra/mackup) 14297⭐
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) 89⭐
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5487⭐
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5500⭐
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22710⭐
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22734⭐
 
-- [jenv/jenv](https://github.com/jenv/jenv) 5528⭐
+- [jenv/jenv](https://github.com/jenv/jenv) 5527⭐
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 65364⭐
-
-- [usebruno/bruno](https://github.com/usebruno/bruno) 20249⭐
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 65396⭐
 
 
