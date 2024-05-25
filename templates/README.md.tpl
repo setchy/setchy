@@ -6,11 +6,11 @@ Senior Executive (VP) // Architect // Developer
 
 ### 🔭 Interests
 
-- *DX*: Developer Experience // Developer Productivity 
-- *Career Pathways*: Building strong engineering communities of practice (guilds, chapters, etc)
-- *APIs & Integration*: GraphQL // Apollo // REST // AsyncAPI
-- *Dependency Management & Technical Health*: LeanIX // Renovate // SBOM
-- *Innovation*: Communicating emerging technology trends via Tech Radars
+- **DX**: *Developer Experience // Developer Productivity*
+- **Career Pathways**: *Building strong engineering communities of practice (guilds, chapters, etc)*
+- **APIs & Integration**: *GraphQL // Apollo // REST // AsyncAPI*
+- **Dependency Management & Technical Health**: *LeanIX // Renovate // SBOM*
+- **Innovation**: *Communicating emerging technology trends via Tech Radars*
 
 ### 💪 Skills
 
