@@ -59,6 +59,8 @@ Senior Executive (VP) // Architect // Developer
 
 ### 📛 Badges
 
+[![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/setchy"><img src="https://github-readme-stats.vercel.app/api?username=setchy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="setchy's GitHub stats" /></a>
