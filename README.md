@@ -82,21 +82,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [4 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [5 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
@@ -106,33 +106,39 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: continued renaming of accounts to auth](https://github.com/gitify-app/gitify/pull/1156) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [docs: generate redocly view of api spec](https://github.com/CycloneDX/cdxgen/pull/1129) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [test: markRepoNotificationsDone](https://github.com/gitify-app/gitify/pull/1155) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [fix: account name header height](https://github.com/gitify-app/gitify/pull/1159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: replace accounts with auth for AuthState](https://github.com/gitify-app/gitify/pull/1154) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: login methods and options](https://github.com/gitify-app/gitify/pull/1158) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: process platform](https://github.com/gitify-app/gitify/pull/1153) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: continued renaming of accounts to auth](https://github.com/gitify-app/gitify/pull/1156) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [test(settings): add account hostname test](https://github.com/gitify-app/gitify/pull/1152) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test: markRepoNotificationsDone](https://github.com/gitify-app/gitify/pull/1155) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- CLOSED - [refactor: remove ipc for fetching platform type](https://github.com/gitify-app/gitify/pull/1151) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: replace accounts with auth for AuthState](https://github.com/gitify-app/gitify/pull/1154) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor(state): update state storage](https://github.com/gitify-app/gitify/pull/1150) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: process platform](https://github.com/gitify-app/gitify/pull/1153) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [test: add missing mock](https://github.com/gitify-app/gitify/pull/1147) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [test(settings): add account hostname test](https://github.com/gitify-app/gitify/pull/1152) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: update import statements](https://github.com/gitify-app/gitify/pull/1143) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- CLOSED - [refactor: remove ipc for fetching platform type](https://github.com/gitify-app/gitify/pull/1151) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor(mocks): use consistent naming](https://github.com/gitify-app/gitify/pull/1142) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor(state): update state storage](https://github.com/gitify-app/gitify/pull/1150) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [docs: fix repo link](https://github.com/CycloneDX/cdxgen/pull/1114) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [test: add missing mock](https://github.com/gitify-app/gitify/pull/1147) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [docs(server): add openapi specification](https://github.com/CycloneDX/cdxgen/pull/1113) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [refactor: update import statements](https://github.com/gitify-app/gitify/pull/1143) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build(biome): apply safe changes.  add script to filter summary for errors only](https://github.com/CycloneDX/cdxgen/pull/1111) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [refactor(mocks): use consistent naming](https://github.com/gitify-app/gitify/pull/1142) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [build(biome): update formatter options to ignore types/**](https://github.com/CycloneDX/cdxgen/pull/1110) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [docs: fix repo link](https://github.com/CycloneDX/cdxgen/pull/1114) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+
+- MERGED - [docs(server): add openapi specification](https://github.com/CycloneDX/cdxgen/pull/1113) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+
+- MERGED - [build(biome): apply safe changes.  add script to filter summary for errors only](https://github.com/CycloneDX/cdxgen/pull/1111) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+
+- MERGED - [build(biome): update formatter options to ignore types/**](https://github.com/CycloneDX/cdxgen/pull/1110) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [test(settings): remove unused mock](https://github.com/gitify-app/gitify/pull/1140) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -140,17 +146,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: set version](https://github.com/gitify-app/gitify/pull/1138) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: changelog automation](https://github.com/gitify-app/gitify/pull/1137) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [build: prepare 5.6.0 release](https://github.com/gitify-app/gitify/pull/1135) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- CLOSED - [fix: logout](https://github.com/gitify-app/gitify/pull/1131) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3312⭐
+- [Redocly/redoc](https://github.com/Redocly/redoc) 22717⭐
+
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3313⭐
 
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
 
@@ -160,14 +162,12 @@ Senior Executive (VP) // Architect // Developer
 
 - [jetstack/dependency-track-exporter](https://github.com/jetstack/dependency-track-exporter) 18⭐
 
-- [lra/mackup](https://github.com/lra/mackup) 14320⭐
+- [lra/mackup](https://github.com/lra/mackup) 14324⭐
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) 89⭐
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5609⭐
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5626⭐
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22851⭐
-
-- [jenv/jenv](https://github.com/jenv/jenv) 5535⭐
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22873⭐
 
 
