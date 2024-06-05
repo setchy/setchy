@@ -84,17 +84,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
+
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
-
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
@@ -106,55 +106,55 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: user&#39;s name can be null](https://github.com/gitify-app/gitify/pull/1173) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [feat: milestone indicator](https://github.com/gitify-app/gitify/pull/1178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: new account management view](https://github.com/gitify-app/gitify/pull/1172) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: update notification footer styles](https://github.com/gitify-app/gitify/pull/1177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: use tailwind classes in place of spaces](https://github.com/gitify-app/gitify/pull/1170) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [test: add coverage for null conditions](https://github.com/gitify-app/gitify/pull/1176) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: format notification metrics within &#34;pills&#34;](https://github.com/gitify-app/gitify/pull/1169) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: user&#39;s name can be null](https://github.com/gitify-app/gitify/pull/1173) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: add datetime error handling](https://github.com/gitify-app/gitify/pull/1167) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat: new account management view](https://github.com/gitify-app/gitify/pull/1172) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: labels indicator](https://github.com/gitify-app/gitify/pull/1161) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: use tailwind classes in place of spaces](https://github.com/gitify-app/gitify/pull/1170) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: linked issue indicator](https://github.com/gitify-app/gitify/pull/1160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: format notification metrics within &#34;pills&#34;](https://github.com/gitify-app/gitify/pull/1169) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- CLOSED - [docs: generate redocly view of api spec](https://github.com/CycloneDX/cdxgen/pull/1129) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [fix: add datetime error handling](https://github.com/gitify-app/gitify/pull/1167) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: account name header height](https://github.com/gitify-app/gitify/pull/1159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: labels indicator](https://github.com/gitify-app/gitify/pull/1161) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: login methods and options](https://github.com/gitify-app/gitify/pull/1158) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: linked issue indicator](https://github.com/gitify-app/gitify/pull/1160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: continued renaming of accounts to auth](https://github.com/gitify-app/gitify/pull/1156) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- CLOSED - [docs: generate redocly view of api spec](https://github.com/CycloneDX/cdxgen/pull/1129) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [test: markRepoNotificationsDone](https://github.com/gitify-app/gitify/pull/1155) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: account name header height](https://github.com/gitify-app/gitify/pull/1159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [refactor: replace accounts with auth for AuthState](https://github.com/gitify-app/gitify/pull/1154) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: login methods and options](https://github.com/gitify-app/gitify/pull/1158) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [refactor: process platform](https://github.com/gitify-app/gitify/pull/1153) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: continued renaming of accounts to auth](https://github.com/gitify-app/gitify/pull/1156) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [test(settings): add account hostname test](https://github.com/gitify-app/gitify/pull/1152) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [test: markRepoNotificationsDone](https://github.com/gitify-app/gitify/pull/1155) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- CLOSED - [refactor: remove ipc for fetching platform type](https://github.com/gitify-app/gitify/pull/1151) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: replace accounts with auth for AuthState](https://github.com/gitify-app/gitify/pull/1154) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [refactor: process platform](https://github.com/gitify-app/gitify/pull/1153) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [test(settings): add account hostname test](https://github.com/gitify-app/gitify/pull/1152) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- CLOSED - [refactor: remove ipc for fetching platform type](https://github.com/gitify-app/gitify/pull/1151) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor(state): update state storage](https://github.com/gitify-app/gitify/pull/1150) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [test: add missing mock](https://github.com/gitify-app/gitify/pull/1147) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: update import statements](https://github.com/gitify-app/gitify/pull/1143) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor(mocks): use consistent naming](https://github.com/gitify-app/gitify/pull/1142) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 20800⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 20840⭐
 
-- [Redocly/redoc](https://github.com/Redocly/redoc) 22736⭐
+- [Redocly/redoc](https://github.com/Redocly/redoc) 22740⭐
 
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3322⭐
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3328⭐
 
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
 
@@ -164,10 +164,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [jetstack/dependency-track-exporter](https://github.com/jetstack/dependency-track-exporter) 18⭐
 
-- [lra/mackup](https://github.com/lra/mackup) 14327⭐
+- [lra/mackup](https://github.com/lra/mackup) 14328⭐
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) 89⭐
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5671⭐
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5687⭐
 
 
