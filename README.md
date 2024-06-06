@@ -82,79 +82,79 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
-
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
-
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [feat: milestone indicator](https://github.com/gitify-app/gitify/pull/1178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: tooltip z index to prevent items showing through](https://github.com/gitify-app/gitify/pull/1186) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: update notification footer styles](https://github.com/gitify-app/gitify/pull/1177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: tooltips](https://github.com/gitify-app/gitify/pull/1185) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [test: add coverage for null conditions](https://github.com/gitify-app/gitify/pull/1176) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: add pill display settings](https://github.com/gitify-app/gitify/pull/1184) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: user&#39;s name can be null](https://github.com/gitify-app/gitify/pull/1173) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: more pill css changes](https://github.com/gitify-app/gitify/pull/1183) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: new account management view](https://github.com/gitify-app/gitify/pull/1172) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: update biomejs](https://github.com/CycloneDX/cdxgen/pull/1138) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [refactor: use tailwind classes in place of spaces](https://github.com/gitify-app/gitify/pull/1170) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: milestone indicator](https://github.com/gitify-app/gitify/pull/1178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: format notification metrics within &#34;pills&#34;](https://github.com/gitify-app/gitify/pull/1169) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: update notification footer styles](https://github.com/gitify-app/gitify/pull/1177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: add datetime error handling](https://github.com/gitify-app/gitify/pull/1167) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [test: add coverage for null conditions](https://github.com/gitify-app/gitify/pull/1176) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: labels indicator](https://github.com/gitify-app/gitify/pull/1161) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: user&#39;s name can be null](https://github.com/gitify-app/gitify/pull/1173) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: linked issue indicator](https://github.com/gitify-app/gitify/pull/1160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: new account management view](https://github.com/gitify-app/gitify/pull/1172) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- CLOSED - [docs: generate redocly view of api spec](https://github.com/CycloneDX/cdxgen/pull/1129) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [refactor: use tailwind classes in place of spaces](https://github.com/gitify-app/gitify/pull/1170) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: account name header height](https://github.com/gitify-app/gitify/pull/1159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: format notification metrics within &#34;pills&#34;](https://github.com/gitify-app/gitify/pull/1169) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: login methods and options](https://github.com/gitify-app/gitify/pull/1158) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: add datetime error handling](https://github.com/gitify-app/gitify/pull/1167) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [feat: labels indicator](https://github.com/gitify-app/gitify/pull/1161) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- MERGED - [feat: linked issue indicator](https://github.com/gitify-app/gitify/pull/1160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- CLOSED - [docs: generate redocly view of api spec](https://github.com/CycloneDX/cdxgen/pull/1129) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+
+- MERGED - [fix: account name header height](https://github.com/gitify-app/gitify/pull/1159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [refactor: login methods and options](https://github.com/gitify-app/gitify/pull/1158) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: continued renaming of accounts to auth](https://github.com/gitify-app/gitify/pull/1156) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [test: markRepoNotificationsDone](https://github.com/gitify-app/gitify/pull/1155) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: replace accounts with auth for AuthState](https://github.com/gitify-app/gitify/pull/1154) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: process platform](https://github.com/gitify-app/gitify/pull/1153) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [test(settings): add account hostname test](https://github.com/gitify-app/gitify/pull/1152) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- CLOSED - [refactor: remove ipc for fetching platform type](https://github.com/gitify-app/gitify/pull/1151) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor(state): update state storage](https://github.com/gitify-app/gitify/pull/1150) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 20840⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 20876⭐
 
 - [Redocly/redoc](https://github.com/Redocly/redoc) 22740⭐
 
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3328⭐
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3333⭐
 
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
 
@@ -164,10 +164,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [jetstack/dependency-track-exporter](https://github.com/jetstack/dependency-track-exporter) 18⭐
 
-- [lra/mackup](https://github.com/lra/mackup) 14328⭐
+- [lra/mackup](https://github.com/lra/mackup) 14332⭐
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) 89⭐
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5687⭐
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5703⭐
 
 
