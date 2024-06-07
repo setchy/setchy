@@ -82,13 +82,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -106,55 +106,59 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: tooltip z index to prevent items showing through](https://github.com/gitify-app/gitify/pull/1186) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: launch minimized](https://github.com/gitify-app/gitify/pull/1193) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: tooltips](https://github.com/gitify-app/gitify/pull/1185) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [build: remove website version bump on tag](https://github.com/gitify-app/gitify/pull/1192) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: add pill display settings](https://github.com/gitify-app/gitify/pull/1184) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [build: replace version number with latest tag](https://github.com/gitify-app/website/pull/144) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
 
-- OPEN - [refactor: more pill css changes](https://github.com/gitify-app/gitify/pull/1183) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare v5.7.0 release](https://github.com/gitify-app/gitify/pull/1191) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: update biomejs](https://github.com/CycloneDX/cdxgen/pull/1138) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- CLOSED - [build: prepare v5.7.0 release](https://github.com/gitify-app/gitify/pull/1190) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: milestone indicator](https://github.com/gitify-app/gitify/pull/1178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: use gitify state](https://github.com/gitify-app/gitify/pull/1189) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: update notification footer styles](https://github.com/gitify-app/gitify/pull/1177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: tooltip z index to prevent items showing through](https://github.com/gitify-app/gitify/pull/1186) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [test: add coverage for null conditions](https://github.com/gitify-app/gitify/pull/1176) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: tooltips](https://github.com/gitify-app/gitify/pull/1185) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: user&#39;s name can be null](https://github.com/gitify-app/gitify/pull/1173) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: add pill display settings](https://github.com/gitify-app/gitify/pull/1184) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: new account management view](https://github.com/gitify-app/gitify/pull/1172) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: more pill css changes](https://github.com/gitify-app/gitify/pull/1183) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: use tailwind classes in place of spaces](https://github.com/gitify-app/gitify/pull/1170) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: update biomejs](https://github.com/CycloneDX/cdxgen/pull/1138) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [feat: format notification metrics within &#34;pills&#34;](https://github.com/gitify-app/gitify/pull/1169) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: milestone indicator](https://github.com/gitify-app/gitify/pull/1178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: add datetime error handling](https://github.com/gitify-app/gitify/pull/1167) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: update notification footer styles](https://github.com/gitify-app/gitify/pull/1177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: labels indicator](https://github.com/gitify-app/gitify/pull/1161) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [test: add coverage for null conditions](https://github.com/gitify-app/gitify/pull/1176) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: linked issue indicator](https://github.com/gitify-app/gitify/pull/1160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: user&#39;s name can be null](https://github.com/gitify-app/gitify/pull/1173) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- CLOSED - [docs: generate redocly view of api spec](https://github.com/CycloneDX/cdxgen/pull/1129) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [feat: new account management view](https://github.com/gitify-app/gitify/pull/1172) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: account name header height](https://github.com/gitify-app/gitify/pull/1159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: use tailwind classes in place of spaces](https://github.com/gitify-app/gitify/pull/1170) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: login methods and options](https://github.com/gitify-app/gitify/pull/1158) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: format notification metrics within &#34;pills&#34;](https://github.com/gitify-app/gitify/pull/1169) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: continued renaming of accounts to auth](https://github.com/gitify-app/gitify/pull/1156) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: add datetime error handling](https://github.com/gitify-app/gitify/pull/1167) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [test: markRepoNotificationsDone](https://github.com/gitify-app/gitify/pull/1155) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: labels indicator](https://github.com/gitify-app/gitify/pull/1161) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 20876⭐
+- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 390⭐
 
-- [Redocly/redoc](https://github.com/Redocly/redoc) 22740⭐
+- [cncf/landscape](https://github.com/cncf/landscape) 9184⭐
 
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3333⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 20901⭐
+
+- [Redocly/redoc](https://github.com/Redocly/redoc) 22749⭐
+
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3338⭐
 
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
 
@@ -164,10 +168,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [jetstack/dependency-track-exporter](https://github.com/jetstack/dependency-track-exporter) 18⭐
 
-- [lra/mackup](https://github.com/lra/mackup) 14332⭐
-
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) 89⭐
-
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5703⭐
+- [lra/mackup](https://github.com/lra/mackup) 14337⭐
 
 
