@@ -82,23 +82,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
-
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 weeks ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
+
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 weeks ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 weeks ago]
 
@@ -106,59 +106,61 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: remove deprecated overlay scrollbar option](https://github.com/gitify-app/gitify/pull/1220) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: new pill component](https://github.com/gitify-app/gitify/pull/1222) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: only extract linked issues for User PRs](https://github.com/gitify-app/gitify/pull/1219) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: remove deprecated overlay scrollbar option](https://github.com/gitify-app/gitify/pull/1220) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat: account notifications toggle via chevron](https://github.com/gitify-app/gitify/pull/1218) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: only extract linked issues for User PRs](https://github.com/gitify-app/gitify/pull/1219) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [docs: add libraries io badge](https://github.com/CycloneDX/cdxgen/pull/1160) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- OPEN - [feat: account notifications toggle via chevron](https://github.com/gitify-app/gitify/pull/1218) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [chore: update biomejs v1.8.1](https://github.com/CycloneDX/cdxgen/pull/1159) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [docs: add libraries io badge](https://github.com/CycloneDX/cdxgen/pull/1160) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [refactor(tailwind): remove unused colors](https://github.com/gitify-app/gitify/pull/1215) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore: update biomejs v1.8.1](https://github.com/CycloneDX/cdxgen/pull/1159) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [refactor: move custom styles into class](https://github.com/gitify-app/gitify/pull/1214) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor(tailwind): remove unused colors](https://github.com/gitify-app/gitify/pull/1215) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build(release): remove gh_token env](https://github.com/gitify-app/gitify/pull/1213) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: move custom styles into class](https://github.com/gitify-app/gitify/pull/1214) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: tray context menu](https://github.com/gitify-app/gitify/pull/1212) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build(release): remove gh_token env](https://github.com/gitify-app/gitify/pull/1213) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [docs: update badges](https://github.com/max-mapper/menubar/pull/475) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 days ago]
+- MERGED - [feat: tray context menu](https://github.com/gitify-app/gitify/pull/1212) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: consolidate open links fns](https://github.com/gitify-app/gitify/pull/1211) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [docs: update badges](https://github.com/max-mapper/menubar/pull/475) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 days ago]
 
-- MERGED - [refactor: mock openExternalLink comms fn](https://github.com/gitify-app/gitify/pull/1210) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: consolidate open links fns](https://github.com/gitify-app/gitify/pull/1211) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [docs: update readme](https://github.com/gitify-app/gitify/pull/1209) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: mock openExternalLink comms fn](https://github.com/gitify-app/gitify/pull/1210) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: tray idle icon](https://github.com/gitify-app/gitify/pull/1208) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [docs: update readme](https://github.com/gitify-app/gitify/pull/1209) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: main js](https://github.com/gitify-app/gitify/pull/1207) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: tray idle icon](https://github.com/gitify-app/gitify/pull/1208) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: theme state](https://github.com/gitify-app/gitify/pull/1206) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: main js](https://github.com/gitify-app/gitify/pull/1207) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: theme casting not required](https://github.com/gitify-app/gitify/pull/1205) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: theme state](https://github.com/gitify-app/gitify/pull/1206) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: remove unused restoreSetting fn](https://github.com/gitify-app/gitify/pull/1204) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: theme casting not required](https://github.com/gitify-app/gitify/pull/1205) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: prefix all gitify custom ipc events. consolidate under comms](https://github.com/gitify-app/gitify/pull/1203) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: remove unused restoreSetting fn](https://github.com/gitify-app/gitify/pull/1204) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: rename to markRepoNotificationsRead](https://github.com/gitify-app/gitify/pull/1202) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: prefix all gitify custom ipc events. consolidate under comms](https://github.com/gitify-app/gitify/pull/1203) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 633⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 12973⭐
 
-- [cncf/landscape](https://github.com/cncf/landscape) 9189⭐
+- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 644⭐
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21030⭐
+- [cncf/landscape](https://github.com/cncf/landscape) 9192⭐
 
-- [Redocly/redoc](https://github.com/Redocly/redoc) 22763⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21062⭐
 
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3347⭐
+- [Redocly/redoc](https://github.com/Redocly/redoc) 22768⭐
+
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3352⭐
 
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
 
@@ -166,8 +168,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [DependencyTrack/community](https://github.com/DependencyTrack/community) 2⭐
 
-- [jetstack/dependency-track-exporter](https://github.com/jetstack/dependency-track-exporter) 18⭐
-
-- [lra/mackup](https://github.com/lra/mackup) 14346⭐
+- [jetstack/dependency-track-exporter](https://github.com/jetstack/dependency-track-exporter) 19⭐
 
 
