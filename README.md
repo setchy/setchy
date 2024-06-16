@@ -84,19 +84,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [4 days ago]
 
-- [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) - A Chrome extension that makes your Bitbucket Cloud life easier! [3 days ago]
+- [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) - A Chrome extension that makes your Bitbucket Cloud life easier! [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [5 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [6 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [5 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [6 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
@@ -106,45 +106,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: regression in all read ui](https://github.com/gitify-app/gitify/pull/1242) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [build: use macos-latest runners](https://github.com/gitify-app/gitify/pull/1247) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [fix: regression in delay notification state behavior](https://github.com/gitify-app/gitify/pull/1241) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [build: move lint into separate workflow ](https://github.com/gitify-app/gitify/pull/1246) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: set app version as `dev` when building locally](https://github.com/gitify-app/gitify/pull/1237) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: toggle repository notification](https://github.com/gitify-app/gitify/pull/1245) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare v5.8.1 release](https://github.com/gitify-app/gitify/pull/1236) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [build: fix ci](https://github.com/max-mapper/menubar/pull/480) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 day ago]
 
-- MERGED - [fix: idle icon not visible on macos when full screen](https://github.com/gitify-app/gitify/pull/1235) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [fix: win32 launch position](https://github.com/max-mapper/menubar/pull/479) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 day ago]
 
-- MERGED - [refactor: remove unused styles](https://github.com/gitify-app/gitify/pull/1234) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [build: use biomejs as linter &#43; formatter](https://github.com/max-mapper/menubar/pull/478) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 day ago]
 
-- MERGED - [fix: revert updated_at formatting](https://github.com/gitify-app/gitify/pull/1230) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [docs: add macos sonoma](https://github.com/max-mapper/menubar/pull/477) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 day ago]
 
-- MERGED - [build: prepare v5.8.0 release](https://github.com/gitify-app/gitify/pull/1228) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [chore: update electron versions](https://github.com/max-mapper/menubar/pull/476) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 day ago]
 
-- MERGED - [refactor: biome linter updates](https://github.com/gitify-app/gitify/pull/1226) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: regression in all read ui](https://github.com/gitify-app/gitify/pull/1242) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: add codeowners](https://github.com/aravindparappil46/bitbucket-buddy/pull/3) to [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) [3 days ago]
+- OPEN - [fix: regression in delay notification state behavior](https://github.com/gitify-app/gitify/pull/1241) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: incorporate biomejs feedback](https://github.com/aravindparappil46/bitbucket-buddy/pull/2) to [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) [3 days ago]
+- MERGED - [feat: set app version as `dev` when building locally](https://github.com/gitify-app/gitify/pull/1237) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: new pill component](https://github.com/gitify-app/gitify/pull/1222) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare v5.8.1 release](https://github.com/gitify-app/gitify/pull/1236) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: remove deprecated overlay scrollbar option](https://github.com/gitify-app/gitify/pull/1220) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: idle icon not visible on macos when full screen](https://github.com/gitify-app/gitify/pull/1235) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: only extract linked issues for User PRs](https://github.com/gitify-app/gitify/pull/1219) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: remove unused styles](https://github.com/gitify-app/gitify/pull/1234) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: account notifications toggle via chevron](https://github.com/gitify-app/gitify/pull/1218) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: revert updated_at formatting](https://github.com/gitify-app/gitify/pull/1230) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [docs: add libraries io badge](https://github.com/CycloneDX/cdxgen/pull/1160) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [build: prepare v5.8.0 release](https://github.com/gitify-app/gitify/pull/1228) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [chore: update biomejs v1.8.1](https://github.com/CycloneDX/cdxgen/pull/1159) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [refactor: biome linter updates](https://github.com/gitify-app/gitify/pull/1226) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor(tailwind): remove unused colors](https://github.com/gitify-app/gitify/pull/1215) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: add codeowners](https://github.com/aravindparappil46/bitbucket-buddy/pull/3) to [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) [4 days ago]
 
-- MERGED - [refactor: move custom styles into class](https://github.com/gitify-app/gitify/pull/1214) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: incorporate biomejs feedback](https://github.com/aravindparappil46/bitbucket-buddy/pull/2) to [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) [4 days ago]
 
-- MERGED - [build(release): remove gh_token env](https://github.com/gitify-app/gitify/pull/1213) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: new pill component](https://github.com/gitify-app/gitify/pull/1222) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -152,17 +152,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 12990⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 12998⭐
 
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 661⭐
 
-- [cncf/landscape](https://github.com/cncf/landscape) 9193⭐
+- [cncf/landscape](https://github.com/cncf/landscape) 9194⭐
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21131⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21152⭐
 
-- [Redocly/redoc](https://github.com/Redocly/redoc) 22788⭐
+- [Redocly/redoc](https://github.com/Redocly/redoc) 22787⭐
 
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3366⭐
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3367⭐
 
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
 
