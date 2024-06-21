@@ -84,15 +84,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
 
-- [setchy/renovate-heroku-runtime](https://github.com/setchy/renovate-heroku-runtime) -  [2 days ago]
+- [setchy/renovate-heroku-runtime](https://github.com/setchy/renovate-heroku-runtime) -  [3 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [2 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
@@ -106,68 +106,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: regression in login layout](https://github.com/gitify-app/gitify/pull/1280) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: extract pill section into it&#39;s own component](https://github.com/gitify-app/gitify/pull/1296) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- CLOSED - [fix: account header alignment](https://github.com/gitify-app/gitify/pull/1279) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: subtle ui tweaks](https://github.com/gitify-app/gitify/pull/1295) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- CLOSED - [feat: add notification count at account and repository level](https://github.com/gitify-app/gitify/pull/1278) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: introduce size enum to control all icon/buttons consistently](https://github.com/gitify-app/gitify/pull/1294) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: rename custom text size to xxs](https://github.com/gitify-app/gitify/pull/1277) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore: cleanup gitignore file](https://github.com/gitify-app/gitify/pull/1293) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: show notification number for issues, prs, discussions](https://github.com/gitify-app/gitify/pull/1276) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: opacity enum](https://github.com/gitify-app/gitify/pull/1292) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: gitify logo icon](https://github.com/gitify-app/gitify/pull/1275) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: fix event prop on click and subtle ui tweaks](https://github.com/gitify-app/gitify/pull/1291) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: avatar component](https://github.com/gitify-app/gitify/pull/1274) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: invert groupBy to avoid negative conditions](https://github.com/gitify-app/gitify/pull/1290) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: group notifications by repository or date](https://github.com/gitify-app/gitify/pull/1273) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: interaction button and hover group components](https://github.com/gitify-app/gitify/pull/1289) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: extract sidebar button component](https://github.com/gitify-app/gitify/pull/1270) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: account header toggle](https://github.com/gitify-app/gitify/pull/1288) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: move `Button` component into component/buttons](https://github.com/gitify-app/gitify/pull/1269) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor(avatar): remove cursor style](https://github.com/gitify-app/gitify/pull/1287) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build(biome): enable noConsoleLog rule](https://github.com/gitify-app/gitify/pull/1268) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: regression in login layout](https://github.com/gitify-app/gitify/pull/1280) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat(manager): heroku runtime](https://github.com/renovatebot/renovate/pull/29745) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- CLOSED - [fix: account header alignment](https://github.com/gitify-app/gitify/pull/1279) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [Update python Docker tag to v3.12.4](https://github.com/setchy/renovate-heroku-runtime/pull/3) to [setchy/renovate-heroku-runtime](https://github.com/setchy/renovate-heroku-runtime) [2 days ago]
+- CLOSED - [feat: add notification count at account and repository level](https://github.com/gitify-app/gitify/pull/1278) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [Configure Renovate](https://github.com/setchy/renovate-heroku-runtime/pull/2) to [setchy/renovate-heroku-runtime](https://github.com/setchy/renovate-heroku-runtime) [2 days ago]
+- MERGED - [refactor: rename custom text size to xxs](https://github.com/gitify-app/gitify/pull/1277) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: make icon size responsive](https://github.com/gitify-app/website/pull/157) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- OPEN - [feat: show notification number for issues, prs, discussions](https://github.com/gitify-app/gitify/pull/1276) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: rename repository component](https://github.com/gitify-app/gitify/pull/1267) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: gitify logo icon](https://github.com/gitify-app/gitify/pull/1275) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [test: remove test-util](https://github.com/gitify-app/gitify/pull/1266) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: avatar component](https://github.com/gitify-app/gitify/pull/1274) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: component props](https://github.com/gitify-app/gitify/pull/1265) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: group notifications by repository or date](https://github.com/gitify-app/gitify/pull/1273) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: functions over arrow fns](https://github.com/gitify-app/gitify/pull/1264) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: extract sidebar button component](https://github.com/gitify-app/gitify/pull/1270) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [docs: update platform verbiage ](https://github.com/gitify-app/website/pull/156) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [refactor: move `Button` component into component/buttons](https://github.com/gitify-app/gitify/pull/1269) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 84⭐
+- [electron/notarize](https://github.com/electron/notarize) 118⭐
+
+- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 85⭐
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13036⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13041⭐
 
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 668⭐
 
-- [cncf/landscape](https://github.com/cncf/landscape) 9202⭐
+- [cncf/landscape](https://github.com/cncf/landscape) 9203⭐
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21247⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21265⭐
 
-- [Redocly/redoc](https://github.com/Redocly/redoc) 22819⭐
+- [Redocly/redoc](https://github.com/Redocly/redoc) 22829⭐
 
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3379⭐
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3384⭐
 
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
-
-- [CycloneDX/sbom-utility](https://github.com/CycloneDX/sbom-utility) 79⭐
 
 
