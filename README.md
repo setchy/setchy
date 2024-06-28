@@ -82,53 +82,53 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
+
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [2 days ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
+
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
+
+- [setchy/renovate-heroku-runtime](https://github.com/setchy/renovate-heroku-runtime) -  [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
 - [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
 
-- [setchy/renovate-heroku-runtime](https://github.com/setchy/renovate-heroku-runtime) -  [1 week ago]
-
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
-
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
-
-- [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) - A Chrome extension that makes your Bitbucket Cloud life easier! [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [build: run workflows on master](https://github.com/max-mapper/menubar/pull/482) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 day ago]
+- OPEN - [build: run workflows on master](https://github.com/max-mapper/menubar/pull/482) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 days ago]
 
-- OPEN - [chore(deps): upgrade all deps](https://github.com/max-mapper/menubar/pull/481) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 days ago]
+- OPEN - [chore(deps): upgrade all deps](https://github.com/max-mapper/menubar/pull/481) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 days ago]
 
-- OPEN - [refactor: increase tooltip width](https://github.com/gitify-app/gitify/pull/1313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: increase tooltip width](https://github.com/gitify-app/gitify/pull/1313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: emoji updates](https://github.com/gitify-app/gitify/pull/1310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: emoji updates](https://github.com/gitify-app/gitify/pull/1310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: use URL to build href](https://github.com/gitify-app/gitify/pull/1309) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: use URL to build href](https://github.com/gitify-app/gitify/pull/1309) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [test: consistent use of jest](https://github.com/gitify-app/gitify/pull/1308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [test: consistent use of jest](https://github.com/gitify-app/gitify/pull/1308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [refactor: remove null ternaries](https://github.com/gitify-app/gitify/pull/1306) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: remove null ternaries](https://github.com/gitify-app/gitify/pull/1306) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: fetch notifications on navigation](https://github.com/gitify-app/gitify/pull/1305) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: fetch notifications on navigation](https://github.com/gitify-app/gitify/pull/1305) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [feat: new filters route](https://github.com/gitify-app/gitify/pull/1304) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [feat: notification filters](https://github.com/gitify-app/gitify/pull/1304) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: notification footer component](https://github.com/gitify-app/gitify/pull/1303) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: notification footer component](https://github.com/gitify-app/gitify/pull/1303) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: notification row header component](https://github.com/gitify-app/gitify/pull/1302) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: notification row header component](https://github.com/gitify-app/gitify/pull/1302) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: further margin and size tweaks](https://github.com/gitify-app/gitify/pull/1301) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: further margin and size tweaks](https://github.com/gitify-app/gitify/pull/1301) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: extract pill section into it&#39;s own component](https://github.com/gitify-app/gitify/pull/1296) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -152,21 +152,21 @@ Senior Executive (VP) // Architect // Developer
 
 - [electron/notarize](https://github.com/electron/notarize) 119⭐
 
-- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 96⭐
+- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 99⭐
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13091⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13093⭐
 
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 674⭐
 
-- [cncf/landscape](https://github.com/cncf/landscape) 9209⭐
+- [cncf/landscape](https://github.com/cncf/landscape) 9210⭐
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21386⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21410⭐
 
-- [Redocly/redoc](https://github.com/Redocly/redoc) 22862⭐
+- [Redocly/redoc](https://github.com/Redocly/redoc) 22866⭐
 
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3403⭐
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3407⭐
 
 - [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
 
