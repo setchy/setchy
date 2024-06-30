@@ -82,41 +82,41 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 day ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [3 days ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [4 days ago]
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
-
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/renovate-heroku-runtime](https://github.com/setchy/renovate-heroku-runtime) -  [1 week ago]
-
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
+
+- [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) - A Chrome extension that makes your Bitbucket Cloud life easier! [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: reset to default settings](https://github.com/gitify-app/gitify/pull/1321) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: reset to default settings](https://github.com/gitify-app/gitify/pull/1321) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [refactor: split settings into smaller components](https://github.com/gitify-app/gitify/pull/1320) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: split settings into smaller components](https://github.com/gitify-app/gitify/pull/1320) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [build: run workflows on master](https://github.com/max-mapper/menubar/pull/482) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 days ago]
+- OPEN - [build: run workflows on master](https://github.com/max-mapper/menubar/pull/482) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [4 days ago]
 
-- OPEN - [chore(deps): upgrade all deps](https://github.com/max-mapper/menubar/pull/481) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [4 days ago]
+- OPEN - [chore(deps): upgrade all deps](https://github.com/max-mapper/menubar/pull/481) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [5 days ago]
 
-- MERGED - [feat: increase tooltip width](https://github.com/gitify-app/gitify/pull/1313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: increase tooltip width](https://github.com/gitify-app/gitify/pull/1313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: emoji updates](https://github.com/gitify-app/gitify/pull/1310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: emoji updates](https://github.com/gitify-app/gitify/pull/1310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: use URL to build href](https://github.com/gitify-app/gitify/pull/1309) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -150,24 +150,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 61915⭐
+
 - [electron/notarize](https://github.com/electron/notarize) 119⭐
 
-- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 101⭐
+- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 102⭐
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13099⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13105⭐
 
-- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 674⭐
+- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 675⭐
 
 - [cncf/landscape](https://github.com/cncf/landscape) 9213⭐
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21427⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21440⭐
 
-- [Redocly/redoc](https://github.com/Redocly/redoc) 22873⭐
+- [Redocly/redoc](https://github.com/Redocly/redoc) 22875⭐
 
-- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3408⭐
-
-- [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
+- [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) 3409⭐
 
 
