@@ -84,21 +84,21 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 days ago]
+- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [4 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 days ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [5 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [6 days ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
@@ -106,13 +106,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: add badge logos](https://github.com/gitify-app/gitify/pull/1323) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [docs: add badge logos](https://github.com/gitify-app/gitify/pull/1323) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [feat: reset to default settings](https://github.com/gitify-app/gitify/pull/1321) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat: reset to default settings](https://github.com/gitify-app/gitify/pull/1321) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: split settings into smaller components](https://github.com/gitify-app/gitify/pull/1320) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: split settings into smaller components](https://github.com/gitify-app/gitify/pull/1320) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [build: run workflows on master](https://github.com/max-mapper/menubar/pull/482) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [6 days ago]
+- OPEN - [build: run workflows on master](https://github.com/max-mapper/menubar/pull/482) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 week ago]
 
 - OPEN - [chore(deps): upgrade all deps](https://github.com/max-mapper/menubar/pull/481) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 week ago]
 
@@ -128,7 +128,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: fetch notifications on navigation](https://github.com/gitify-app/gitify/pull/1305) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [feat: notification filters](https://github.com/gitify-app/gitify/pull/1304) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: notification filters](https://github.com/gitify-app/gitify/pull/1304) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: notification footer component](https://github.com/gitify-app/gitify/pull/1303) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -152,22 +152,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18626⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18633⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 61969⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 61991⭐
 
 - [electron/notarize](https://github.com/electron/notarize) 119⭐
 
-- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 104⭐
+- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 108⭐
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13129⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13141⭐
 
-- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 676⭐
+- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 677⭐
 
-- [cncf/landscape](https://github.com/cncf/landscape) 9213⭐
+- [cncf/landscape](https://github.com/cncf/landscape) 9215⭐
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21478⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21505⭐
 
 
