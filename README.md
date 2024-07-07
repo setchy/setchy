@@ -82,17 +82,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [6 days ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [6 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -106,11 +106,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(sidebar): highlight selected route](https://github.com/gitify-app/gitify/pull/1330) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat(sidebar): highlight selected route](https://github.com/gitify-app/gitify/pull/1330) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [feat: add icons to header sections](https://github.com/gitify-app/gitify/pull/1329) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat: add icons to header sections](https://github.com/gitify-app/gitify/pull/1329) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [docs: add badge logos](https://github.com/gitify-app/gitify/pull/1323) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [docs: add badge logos](https://github.com/gitify-app/gitify/pull/1323) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat: reset to default settings](https://github.com/gitify-app/gitify/pull/1321) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -122,7 +122,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: increase tooltip width](https://github.com/gitify-app/gitify/pull/1313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: emoji updates](https://github.com/gitify-app/gitify/pull/1310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: emoji updates](https://github.com/gitify-app/gitify/pull/1310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [refactor: use URL to build href](https://github.com/gitify-app/gitify/pull/1309) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -152,22 +152,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18657⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18668⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62060⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62079⭐
 
 - [electron/notarize](https://github.com/electron/notarize) 122⭐
 
-- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 111⭐
+- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 113⭐
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13164⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13173⭐
 
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 677⭐
 
-- [cncf/landscape](https://github.com/cncf/landscape) 9215⭐
+- [cncf/landscape](https://github.com/cncf/landscape) 9216⭐
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21567⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21582⭐
 
 
