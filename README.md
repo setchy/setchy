@@ -82,13 +82,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -106,9 +106,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(sidebar): highlight selected route](https://github.com/gitify-app/gitify/pull/1330) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: align filters by using legend component](https://github.com/gitify-app/gitify/pull/1344) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: add icons to header sections](https://github.com/gitify-app/gitify/pull/1329) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: settings header icon](https://github.com/gitify-app/gitify/pull/1343) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [build: check for PR labels](https://github.com/gitify-app/gitify/pull/1342) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- OPEN - [feat(sidebar): highlight selected route](https://github.com/gitify-app/gitify/pull/1330) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [feat: add icons to header sections](https://github.com/gitify-app/gitify/pull/1329) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 - MERGED - [docs: add badge logos](https://github.com/gitify-app/gitify/pull/1323) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -118,9 +124,9 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [build: run workflows on master](https://github.com/max-mapper/menubar/pull/482) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 week ago]
 
-- OPEN - [chore(deps): upgrade all deps](https://github.com/max-mapper/menubar/pull/481) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 week ago]
+- OPEN - [chore(deps): upgrade all deps](https://github.com/max-mapper/menubar/pull/481) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 weeks ago]
 
-- MERGED - [feat: increase tooltip width](https://github.com/gitify-app/gitify/pull/1313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: increase tooltip width](https://github.com/gitify-app/gitify/pull/1313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [refactor: emoji updates](https://github.com/gitify-app/gitify/pull/1310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -140,34 +146,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: further margin and size tweaks](https://github.com/gitify-app/gitify/pull/1301) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: extract pill section into it&#39;s own component](https://github.com/gitify-app/gitify/pull/1296) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [refactor: subtle ui tweaks](https://github.com/gitify-app/gitify/pull/1295) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [refactor: introduce size enum to control all icon/buttons consistently](https://github.com/gitify-app/gitify/pull/1294) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18677⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18685⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62097⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62127⭐
 
 - [electron/notarize](https://github.com/electron/notarize) 122⭐
 
-- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 114⭐
+- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 115⭐
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13180⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13186⭐
 
-- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 679⭐
+- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 678⭐
 
-- [cncf/landscape](https://github.com/cncf/landscape) 9217⭐
+- [cncf/landscape](https://github.com/cncf/landscape) 9218⭐
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21616⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 21642⭐
 
 
