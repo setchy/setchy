@@ -86,17 +86,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 days ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 week ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
@@ -106,21 +106,31 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [build(husky): restore pre-commit](https://github.com/gitify-app/gitify/pull/1353) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: revert to use pnpx](https://github.com/gitify-app/gitify/pull/1362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
-- MERGED - [build(release): a fresh attempt to use default github_token](https://github.com/gitify-app/gitify/pull/1348) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: alignment of notification title and number](https://github.com/gitify-app/gitify/pull/1361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
-- MERGED - [build: auto label prs](https://github.com/gitify-app/gitify/pull/1347) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: update release regex patterns to support multiple digits](https://github.com/gitify-app/website/pull/173) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
 
-- MERGED - [feat: align filters by using legend component](https://github.com/gitify-app/gitify/pull/1344) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: add support for RepositoryDependabotAlertsThread](https://github.com/gitify-app/gitify/pull/1356) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: settings header icon](https://github.com/gitify-app/gitify/pull/1343) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: default asset url](https://github.com/gitify-app/website/pull/172) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
 
-- MERGED - [build: check for PR labels](https://github.com/gitify-app/gitify/pull/1342) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build(husky): restore pre-commit](https://github.com/gitify-app/gitify/pull/1353) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat(sidebar): highlight selected route](https://github.com/gitify-app/gitify/pull/1330) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build(release): a fresh attempt to use default github_token](https://github.com/gitify-app/gitify/pull/1348) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: add icons to header sections](https://github.com/gitify-app/gitify/pull/1329) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: auto label prs](https://github.com/gitify-app/gitify/pull/1347) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [feat: align filters by using legend component](https://github.com/gitify-app/gitify/pull/1344) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- MERGED - [feat: settings header icon](https://github.com/gitify-app/gitify/pull/1343) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- MERGED - [build: check for PR labels](https://github.com/gitify-app/gitify/pull/1342) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- OPEN - [feat(sidebar): highlight selected route](https://github.com/gitify-app/gitify/pull/1330) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [feat: add icons to header sections](https://github.com/gitify-app/gitify/pull/1329) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [docs: add badge logos](https://github.com/gitify-app/gitify/pull/1323) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -136,16 +146,6 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: emoji updates](https://github.com/gitify-app/gitify/pull/1310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: use URL to build href](https://github.com/gitify-app/gitify/pull/1309) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [test: consistent use of jest](https://github.com/gitify-app/gitify/pull/1308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [refactor: remove null ternaries](https://github.com/gitify-app/gitify/pull/1306) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [feat: fetch notifications on navigation](https://github.com/gitify-app/gitify/pull/1305) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [feat: notification filters](https://github.com/gitify-app/gitify/pull/1304) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
@@ -154,9 +154,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18698⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18711⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62152⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62181⭐
 
 - [electron/notarize](https://github.com/electron/notarize) 122⭐
 
@@ -164,10 +164,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13196⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13202⭐
 
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 678⭐
 
-- [cncf/landscape](https://github.com/cncf/landscape) 9219⭐
+- [cncf/landscape](https://github.com/cncf/landscape) 9222⭐
 
 
