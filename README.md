@@ -82,17 +82,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
+
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -100,33 +100,35 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: revert to use pnpx](https://github.com/gitify-app/gitify/pull/1362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [refactor: slim down zoom controls](https://github.com/gitify-app/gitify/pull/1363) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: alignment of notification title and number](https://github.com/gitify-app/gitify/pull/1361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [build: revert to use pnpx](https://github.com/gitify-app/gitify/pull/1362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: update release regex patterns to support multiple digits](https://github.com/gitify-app/website/pull/173) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [fix: alignment of notification title and number](https://github.com/gitify-app/gitify/pull/1361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: add support for RepositoryDependabotAlertsThread](https://github.com/gitify-app/gitify/pull/1356) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: update release regex patterns to support multiple digits](https://github.com/gitify-app/website/pull/173) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [fix: default asset url](https://github.com/gitify-app/website/pull/172) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [feat: add support for RepositoryDependabotAlertsThread](https://github.com/gitify-app/gitify/pull/1356) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build(husky): restore pre-commit](https://github.com/gitify-app/gitify/pull/1353) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: default asset url](https://github.com/gitify-app/website/pull/172) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [build(release): a fresh attempt to use default github_token](https://github.com/gitify-app/gitify/pull/1348) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build(husky): restore pre-commit](https://github.com/gitify-app/gitify/pull/1353) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build: auto label prs](https://github.com/gitify-app/gitify/pull/1347) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build(release): a fresh attempt to use default github_token](https://github.com/gitify-app/gitify/pull/1348) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: align filters by using legend component](https://github.com/gitify-app/gitify/pull/1344) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: auto label prs](https://github.com/gitify-app/gitify/pull/1347) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: settings header icon](https://github.com/gitify-app/gitify/pull/1343) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: align filters by using legend component](https://github.com/gitify-app/gitify/pull/1344) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: check for PR labels](https://github.com/gitify-app/gitify/pull/1342) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: settings header icon](https://github.com/gitify-app/gitify/pull/1343) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [build: check for PR labels](https://github.com/gitify-app/gitify/pull/1342) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
 - OPEN - [feat(sidebar): highlight selected route](https://github.com/gitify-app/gitify/pull/1330) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -134,17 +136,15 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: add badge logos](https://github.com/gitify-app/gitify/pull/1323) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: reset to default settings](https://github.com/gitify-app/gitify/pull/1321) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: reset to default settings](https://github.com/gitify-app/gitify/pull/1321) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: split settings into smaller components](https://github.com/gitify-app/gitify/pull/1320) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: split settings into smaller components](https://github.com/gitify-app/gitify/pull/1320) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - OPEN - [build: run workflows on master](https://github.com/max-mapper/menubar/pull/482) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 weeks ago]
 
 - OPEN - [chore(deps): upgrade all deps](https://github.com/max-mapper/menubar/pull/481) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 weeks ago]
 
 - MERGED - [feat: increase tooltip width](https://github.com/gitify-app/gitify/pull/1313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [refactor: emoji updates](https://github.com/gitify-app/gitify/pull/1310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -154,17 +154,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18711⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18718⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62181⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62209⭐
 
 - [electron/notarize](https://github.com/electron/notarize) 122⭐
 
-- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 116⭐
+- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 118⭐
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13202⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13209⭐
 
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 678⭐
 
