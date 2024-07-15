@@ -82,13 +82,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [6 days ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
@@ -106,45 +106,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: add tooltip support to radio group](https://github.com/gitify-app/gitify/pull/1378) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: replace http with https](https://github.com/gitify-app/gitify/pull/1380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: split default and mock settings into sections](https://github.com/gitify-app/gitify/pull/1377) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: only open https external links](https://github.com/gitify-app/gitify/pull/1379) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat(settings): open links in foreground or background](https://github.com/gitify-app/gitify/pull/1376) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: add tooltip support to radio group](https://github.com/gitify-app/gitify/pull/1378) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [docs: update images](https://github.com/gitify-app/website/pull/174) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- OPEN - [refactor: split default and mock settings into sections](https://github.com/gitify-app/gitify/pull/1377) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [fix: overflow ellipsis](https://github.com/gitify-app/gitify/pull/1375) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(settings): open links in foreground or background](https://github.com/gitify-app/gitify/pull/1376) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat: add pointer to setting inputs](https://github.com/gitify-app/gitify/pull/1374) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: update images](https://github.com/gitify-app/website/pull/174) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- OPEN - [test: remove unused mocks](https://github.com/gitify-app/gitify/pull/1373) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [fix: overflow ellipsis](https://github.com/gitify-app/gitify/pull/1375) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat(notification): support cmd/ctrl click opening in background](https://github.com/gitify-app/gitify/pull/1366) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat: add pointer to setting inputs](https://github.com/gitify-app/gitify/pull/1374) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat: repo-level transition and delayed notifications](https://github.com/gitify-app/gitify/pull/1365) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [test: remove unused mocks](https://github.com/gitify-app/gitify/pull/1373) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: slim down zoom controls](https://github.com/gitify-app/gitify/pull/1363) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat(notification): support cmd/ctrl click opening in background](https://github.com/gitify-app/gitify/pull/1366) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build: revert to use pnpx](https://github.com/gitify-app/gitify/pull/1362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat: repo-level transition and delayed notifications](https://github.com/gitify-app/gitify/pull/1365) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: alignment of notification title and number](https://github.com/gitify-app/gitify/pull/1361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: slim down zoom controls](https://github.com/gitify-app/gitify/pull/1363) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: update release regex patterns to support multiple digits](https://github.com/gitify-app/website/pull/173) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [build: revert to use pnpx](https://github.com/gitify-app/gitify/pull/1362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: add support for RepositoryDependabotAlertsThread](https://github.com/gitify-app/gitify/pull/1356) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: alignment of notification title and number](https://github.com/gitify-app/gitify/pull/1361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: default asset url](https://github.com/gitify-app/website/pull/172) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [fix: update release regex patterns to support multiple digits](https://github.com/gitify-app/website/pull/173) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
 
-- MERGED - [build(husky): restore pre-commit](https://github.com/gitify-app/gitify/pull/1353) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: add support for RepositoryDependabotAlertsThread](https://github.com/gitify-app/gitify/pull/1356) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build(release): a fresh attempt to use default github_token](https://github.com/gitify-app/gitify/pull/1348) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: default asset url](https://github.com/gitify-app/website/pull/172) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
 
-- MERGED - [build: auto label prs](https://github.com/gitify-app/gitify/pull/1347) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build(husky): restore pre-commit](https://github.com/gitify-app/gitify/pull/1353) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat: align filters by using legend component](https://github.com/gitify-app/gitify/pull/1344) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build(release): a fresh attempt to use default github_token](https://github.com/gitify-app/gitify/pull/1348) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat: settings header icon](https://github.com/gitify-app/gitify/pull/1343) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: auto label prs](https://github.com/gitify-app/gitify/pull/1347) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -154,9 +154,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18738⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18740⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62267⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62289⭐
 
 - [electron/notarize](https://github.com/electron/notarize) 122⭐
 
@@ -164,10 +164,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13225⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13231⭐
 
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 678⭐
 
-- [cncf/landscape](https://github.com/cncf/landscape) 9225⭐
+- [cncf/landscape](https://github.com/cncf/landscape) 9226⭐
 
 
