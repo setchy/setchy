@@ -82,11 +82,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
@@ -106,68 +106,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: animate all notifications upon repository interaction](https://github.com/gitify-app/gitify/pull/1383) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: link to homebrew-cask autobump workflow](https://github.com/gitify-app/gitify/pull/1391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: global click handler for cmd&#43;ctrl click background launching](https://github.com/gitify-app/gitify/pull/1382) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v5.11.0` release](https://github.com/gitify-app/gitify/pull/1390) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [chore: replace http with https](https://github.com/gitify-app/gitify/pull/1380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: mark notification as read to allow transition effects time](https://github.com/gitify-app/gitify/pull/1389) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: only open https external links](https://github.com/gitify-app/gitify/pull/1379) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [deps: update electron-updater](https://github.com/gitify-app/gitify/pull/1388) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: add tooltip support to radio group](https://github.com/gitify-app/gitify/pull/1378) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: animate all notifications upon repository interaction](https://github.com/gitify-app/gitify/pull/1383) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: split default and mock settings into sections](https://github.com/gitify-app/gitify/pull/1377) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat: global click handler for cmd&#43;ctrl click background launching](https://github.com/gitify-app/gitify/pull/1382) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat(settings): open links in foreground or background](https://github.com/gitify-app/gitify/pull/1376) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [chore: replace http with https](https://github.com/gitify-app/gitify/pull/1380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [docs: update images](https://github.com/gitify-app/website/pull/174) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [refactor: only open https external links](https://github.com/gitify-app/gitify/pull/1379) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: overflow ellipsis](https://github.com/gitify-app/gitify/pull/1375) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: add tooltip support to radio group](https://github.com/gitify-app/gitify/pull/1378) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [fix: add pointer to setting inputs](https://github.com/gitify-app/gitify/pull/1374) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: split default and mock settings into sections](https://github.com/gitify-app/gitify/pull/1377) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [test: remove unused mocks](https://github.com/gitify-app/gitify/pull/1373) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat(settings): open links in foreground or background](https://github.com/gitify-app/gitify/pull/1376) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [feat(links): support background opening via cmd/ctrl click](https://github.com/gitify-app/gitify/pull/1366) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [docs: update images](https://github.com/gitify-app/website/pull/174) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
 
-- MERGED - [feat: repo-level transition and delayed notifications](https://github.com/gitify-app/gitify/pull/1365) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: overflow ellipsis](https://github.com/gitify-app/gitify/pull/1375) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: slim down zoom controls](https://github.com/gitify-app/gitify/pull/1363) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: add pointer to setting inputs](https://github.com/gitify-app/gitify/pull/1374) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build: revert to use pnpx](https://github.com/gitify-app/gitify/pull/1362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [test: remove unused mocks](https://github.com/gitify-app/gitify/pull/1373) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [fix: alignment of notification title and number](https://github.com/gitify-app/gitify/pull/1361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- CLOSED - [feat(links): support background opening via cmd/ctrl click](https://github.com/gitify-app/gitify/pull/1366) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [fix: update release regex patterns to support multiple digits](https://github.com/gitify-app/website/pull/173) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+- MERGED - [feat: repo-level transition and delayed notifications](https://github.com/gitify-app/gitify/pull/1365) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat: add support for RepositoryDependabotAlertsThread](https://github.com/gitify-app/gitify/pull/1356) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: slim down zoom controls](https://github.com/gitify-app/gitify/pull/1363) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: default asset url](https://github.com/gitify-app/website/pull/172) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+- MERGED - [build: revert to use pnpx](https://github.com/gitify-app/gitify/pull/1362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build(husky): restore pre-commit](https://github.com/gitify-app/gitify/pull/1353) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: alignment of notification title and number](https://github.com/gitify-app/gitify/pull/1361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8677⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8684⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18768⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18772⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62356⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62378⭐
 
-- [electron/notarize](https://github.com/electron/notarize) 122⭐
+- [electron/notarize](https://github.com/electron/notarize) 123⭐
 
-- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 120⭐
+- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 121⭐
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13230⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13236⭐
 
-- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 679⭐
+- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 680⭐
 
 
