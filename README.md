@@ -82,7 +82,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -90,13 +90,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 weeks ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 weeks ago]
+- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [3 weeks ago]
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 weeks ago]
 
@@ -106,21 +106,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: link to homebrew-cask autobump workflow](https://github.com/gitify-app/gitify/pull/1391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [docs: link to homebrew-cask autobump workflow](https://github.com/gitify-app/gitify/pull/1391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v5.11.0` release](https://github.com/gitify-app/gitify/pull/1390) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v5.11.0` release](https://github.com/gitify-app/gitify/pull/1390) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: mark notification as read to allow transition effects time](https://github.com/gitify-app/gitify/pull/1389) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: mark notification as read to allow transition effects time](https://github.com/gitify-app/gitify/pull/1389) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [deps: update electron-updater](https://github.com/gitify-app/gitify/pull/1388) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [deps: update electron-updater](https://github.com/gitify-app/gitify/pull/1388) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: animate all notifications upon repository interaction](https://github.com/gitify-app/gitify/pull/1383) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: animate all notifications upon repository interaction](https://github.com/gitify-app/gitify/pull/1383) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [feat: global click handler for cmd&#43;ctrl click background launching](https://github.com/gitify-app/gitify/pull/1382) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat: global click handler for cmd&#43;ctrl click background launching](https://github.com/gitify-app/gitify/pull/1382) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [chore: replace http with https](https://github.com/gitify-app/gitify/pull/1380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [chore: replace http with https](https://github.com/gitify-app/gitify/pull/1380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: only open https external links](https://github.com/gitify-app/gitify/pull/1379) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: only open https external links](https://github.com/gitify-app/gitify/pull/1379) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat: add tooltip support to radio group](https://github.com/gitify-app/gitify/pull/1378) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -150,15 +150,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8704⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8713⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18786⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18792⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62407⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62432⭐
 
 - [electron/notarize](https://github.com/electron/notarize) 124⭐
 
@@ -166,7 +166,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13253⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13260⭐
 
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 682⭐
 
