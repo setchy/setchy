@@ -82,7 +82,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -106,17 +106,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: link to homebrew-cask autobump workflow](https://github.com/gitify-app/gitify/pull/1391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat: check for updates](https://github.com/gitify-app/gitify/pull/1397) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v5.11.0` release](https://github.com/gitify-app/gitify/pull/1390) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat: add accelerator shortcuts](https://github.com/gitify-app/gitify/pull/1396) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: mark notification as read to allow transition effects time](https://github.com/gitify-app/gitify/pull/1389) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [docs: link to homebrew-cask autobump workflow](https://github.com/gitify-app/gitify/pull/1391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [deps: update electron-updater](https://github.com/gitify-app/gitify/pull/1388) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare `v5.11.0` release](https://github.com/gitify-app/gitify/pull/1390) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: animate all notifications upon repository interaction](https://github.com/gitify-app/gitify/pull/1383) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: mark notification as read to allow transition effects time](https://github.com/gitify-app/gitify/pull/1389) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [feat: global click handler for cmd&#43;ctrl click background launching](https://github.com/gitify-app/gitify/pull/1382) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [deps: update electron-updater](https://github.com/gitify-app/gitify/pull/1388) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [feat: animate all notifications upon repository interaction](https://github.com/gitify-app/gitify/pull/1383) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- OPEN - [feat: global click handler for cmd&#43;ctrl click background launching](https://github.com/gitify-app/gitify/pull/1382) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [chore: replace http with https](https://github.com/gitify-app/gitify/pull/1380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -142,23 +146,19 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: slim down zoom controls](https://github.com/gitify-app/gitify/pull/1363) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: revert to use pnpx](https://github.com/gitify-app/gitify/pull/1362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [fix: alignment of notification title and number](https://github.com/gitify-app/gitify/pull/1361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8713⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8725⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18792⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18797⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62432⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62461⭐
 
 - [electron/notarize](https://github.com/electron/notarize) 124⭐
 
@@ -166,8 +166,8 @@ Senior Executive (VP) // Architect // Developer
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
 
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13260⭐
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13264⭐
 
-- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 682⭐
+- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 683⭐
 
 
