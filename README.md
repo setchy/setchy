@@ -82,11 +82,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -106,25 +106,31 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: set tray tooltip](https://github.com/gitify-app/gitify/pull/1401) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: change first run error log level](https://github.com/gitify-app/gitify/pull/1406) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: add electron-log](https://github.com/gitify-app/gitify/pull/1400) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(developer): reset application](https://github.com/gitify-app/gitify/pull/1405) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: developer context menu](https://github.com/gitify-app/gitify/pull/1399) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(developer): take screenshot](https://github.com/gitify-app/gitify/pull/1404) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [docs: update debug keyboard shortcuts](https://github.com/gitify-app/website/pull/178) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [feat: set tray tooltip](https://github.com/gitify-app/gitify/pull/1401) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat: check for updates](https://github.com/gitify-app/gitify/pull/1397) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: add electron-log](https://github.com/gitify-app/gitify/pull/1400) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: add accelerator shortcuts](https://github.com/gitify-app/gitify/pull/1396) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: developer context menu](https://github.com/gitify-app/gitify/pull/1399) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [docs: link to homebrew-cask autobump workflow](https://github.com/gitify-app/gitify/pull/1391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [docs: update debug keyboard shortcuts](https://github.com/gitify-app/website/pull/178) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [build: prepare `v5.11.0` release](https://github.com/gitify-app/gitify/pull/1390) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [feat: check for updates](https://github.com/gitify-app/gitify/pull/1397) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: mark notification as read to allow transition effects time](https://github.com/gitify-app/gitify/pull/1389) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: add accelerator shortcuts](https://github.com/gitify-app/gitify/pull/1396) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [deps: update electron-updater](https://github.com/gitify-app/gitify/pull/1388) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [docs: link to homebrew-cask autobump workflow](https://github.com/gitify-app/gitify/pull/1391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [build: prepare `v5.11.0` release](https://github.com/gitify-app/gitify/pull/1390) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [feat: mark notification as read to allow transition effects time](https://github.com/gitify-app/gitify/pull/1389) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [deps: update electron-updater](https://github.com/gitify-app/gitify/pull/1388) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat: animate all notifications upon repository interaction](https://github.com/gitify-app/gitify/pull/1383) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -140,34 +146,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(settings): open links in foreground or background](https://github.com/gitify-app/gitify/pull/1376) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [docs: update images](https://github.com/gitify-app/website/pull/174) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
-
-- MERGED - [fix: overflow ellipsis](https://github.com/gitify-app/gitify/pull/1375) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [fix: add pointer to setting inputs](https://github.com/gitify-app/gitify/pull/1374) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8732⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5738⭐
+
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5621⭐
+
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8739⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18798⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18799⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62482⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62515⭐
 
-- [electron/notarize](https://github.com/electron/notarize) 125⭐
+- [electron/notarize](https://github.com/electron/notarize) 127⭐
 
 - [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 123⭐
 
 - [aravindparappil46/bitbucket-buddy](https://github.com/aravindparappil46/bitbucket-buddy) 1⭐
-
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) 13274⭐
-
-- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) 683⭐
 
 
