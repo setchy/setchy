@@ -84,9 +84,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -100,29 +100,39 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [3 weeks ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [3 weeks ago]
+- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [4 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [refactor: change first run error log level](https://github.com/gitify-app/gitify/pull/1406) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [docs(server): update to highlight that comma separated types are supported](https://github.com/CycloneDX/cdxgen/pull/1277) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [feat(developer): reset application](https://github.com/gitify-app/gitify/pull/1405) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [fix: restore vscode settings](https://github.com/CycloneDX/cdxgen/pull/1275) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [feat(developer): take screenshot](https://github.com/gitify-app/gitify/pull/1404) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat(server): improve logging](https://github.com/CycloneDX/cdxgen/pull/1274) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [feat: set tray tooltip](https://github.com/gitify-app/gitify/pull/1401) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [refactor: rename isEnterpriseHost helper](https://github.com/gitify-app/gitify/pull/1413) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: add electron-log](https://github.com/gitify-app/gitify/pull/1400) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat: use first account for quick link hostname](https://github.com/gitify-app/gitify/pull/1411) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: developer context menu](https://github.com/gitify-app/gitify/pull/1399) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: change first run error log level](https://github.com/gitify-app/gitify/pull/1406) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [docs: update debug keyboard shortcuts](https://github.com/gitify-app/website/pull/178) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
+- OPEN - [feat(developer): reset application](https://github.com/gitify-app/gitify/pull/1405) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [feat: check for updates](https://github.com/gitify-app/gitify/pull/1397) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat(developer): take screenshot](https://github.com/gitify-app/gitify/pull/1404) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: add accelerator shortcuts](https://github.com/gitify-app/gitify/pull/1396) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: set tray tooltip](https://github.com/gitify-app/gitify/pull/1401) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [feat: add electron-log](https://github.com/gitify-app/gitify/pull/1400) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [feat: developer context menu](https://github.com/gitify-app/gitify/pull/1399) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [docs: update debug keyboard shortcuts](https://github.com/gitify-app/website/pull/178) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+
+- OPEN - [feat: check for updates](https://github.com/gitify-app/gitify/pull/1397) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [feat: add accelerator shortcuts](https://github.com/gitify-app/gitify/pull/1396) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 - MERGED - [docs: link to homebrew-cask autobump workflow](https://github.com/gitify-app/gitify/pull/1391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -136,38 +146,28 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat: global click handler for cmd&#43;ctrl click background launching](https://github.com/gitify-app/gitify/pull/1382) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [chore: replace http with https](https://github.com/gitify-app/gitify/pull/1380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: only open https external links](https://github.com/gitify-app/gitify/pull/1379) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [feat: add tooltip support to radio group](https://github.com/gitify-app/gitify/pull/1378) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: split default and mock settings into sections](https://github.com/gitify-app/gitify/pull/1377) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [feat(settings): open links in foreground or background](https://github.com/gitify-app/gitify/pull/1376) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [craftamap/bb](https://github.com/craftamap/bb) 28⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5742⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5743⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5623⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5624⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8744⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8756⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18805⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18813⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62543⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62577⭐
 
 - [electron/notarize](https://github.com/electron/notarize) 127⭐
 
-- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 124⭐
+- [miskcoo/ugreen_dx4600_leds_controller](https://github.com/miskcoo/ugreen_dx4600_leds_controller) 125⭐
 
 
