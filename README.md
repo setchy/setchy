@@ -82,9 +82,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [6 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -106,15 +106,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: hide hover groups on transition](https://github.com/gitify-app/gitify/pull/1427) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(server): support passing `fetchLicense`](https://github.com/CycloneDX/cdxgen/pull/1286) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [feat: use platform version for github enterprise server feature availability (mark as done)](https://github.com/gitify-app/gitify/pull/1424) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat: hide hover groups on transition](https://github.com/gitify-app/gitify/pull/1427) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: fix biomejs lint warning](https://github.com/gitify-app/gitify/pull/1420) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat: use platform version for github enterprise server feature availability (mark as done)](https://github.com/gitify-app/gitify/pull/1424) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [feat: gracefully handle partial failure for multiple accounts](https://github.com/gitify-app/gitify/pull/1419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: fix biomejs lint warning](https://github.com/gitify-app/gitify/pull/1420) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [feat(api): use conditional requests and fetch all inbox notifications](https://github.com/gitify-app/gitify/pull/1414) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [feat: gracefully handle partial failure for multiple accounts](https://github.com/gitify-app/gitify/pull/1419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- OPEN - [feat(api): use conditional requests and fetch all inbox notifications](https://github.com/gitify-app/gitify/pull/1414) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [docs(server): update to highlight that comma separated types are supported](https://github.com/CycloneDX/cdxgen/pull/1277) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -144,30 +146,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add accelerator shortcuts](https://github.com/gitify-app/gitify/pull/1396) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [docs: link to homebrew-cask autobump workflow](https://github.com/gitify-app/gitify/pull/1391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) 2042⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36325⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36339⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 28⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5757⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5758⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5632⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5636⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8818⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8829⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18853⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18861⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62746⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62764⭐
 
 
