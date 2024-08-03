@@ -82,7 +82,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
@@ -90,11 +90,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [3 weeks ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 weeks ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 weeks ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 month ago]
 
@@ -106,15 +106,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(server): support passing `fetchLicense`](https://github.com/CycloneDX/cdxgen/pull/1286) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- OPEN - [feat(server): support passing `fetchLicense`](https://github.com/CycloneDX/cdxgen/pull/1286) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- OPEN - [feat: hide hover groups on transition](https://github.com/gitify-app/gitify/pull/1427) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: hide hover groups on transition](https://github.com/gitify-app/gitify/pull/1427) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [feat: use platform version for github enterprise server feature availability (mark as done)](https://github.com/gitify-app/gitify/pull/1424) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat: use platform version for github enterprise server feature availability (mark as done)](https://github.com/gitify-app/gitify/pull/1424) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: fix biomejs lint warning](https://github.com/gitify-app/gitify/pull/1420) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: fix biomejs lint warning](https://github.com/gitify-app/gitify/pull/1420) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- OPEN - [feat: gracefully handle partial failure for multiple accounts](https://github.com/gitify-app/gitify/pull/1419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: gracefully handle partial failure for multiple accounts](https://github.com/gitify-app/gitify/pull/1419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - OPEN - [feat(api): use conditional requests and fetch all inbox notifications](https://github.com/gitify-app/gitify/pull/1414) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -126,7 +126,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: rename isEnterpriseHost helper](https://github.com/gitify-app/gitify/pull/1413) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [feat: use first account for quick link hostname](https://github.com/gitify-app/gitify/pull/1411) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: use first account for quick link hostname](https://github.com/gitify-app/gitify/pull/1411) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: change first run error log level](https://github.com/gitify-app/gitify/pull/1406) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -150,24 +150,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) 2042⭐
+- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) 2043⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36339⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36364⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 28⭐
 
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5758⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5636⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5637⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8829⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8838⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18861⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18867⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62764⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62776⭐
 
 
