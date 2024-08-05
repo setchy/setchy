@@ -82,7 +82,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 week ago]
 
@@ -94,7 +94,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 weeks ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 weeks ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 month ago]
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 month ago]
 
@@ -106,11 +106,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(server): support passing `fetchLicense`](https://github.com/CycloneDX/cdxgen/pull/1286) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- OPEN - [feat(server): support passing `fetchLicense`](https://github.com/CycloneDX/cdxgen/pull/1286) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
-- MERGED - [feat: hide hover groups on transition](https://github.com/gitify-app/gitify/pull/1427) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: hide hover groups on transition](https://github.com/gitify-app/gitify/pull/1427) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [feat: use platform version for github enterprise server feature availability (mark as done)](https://github.com/gitify-app/gitify/pull/1424) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- OPEN - [feat: use platform version for github enterprise server feature availability (mark as done)](https://github.com/gitify-app/gitify/pull/1424) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [refactor: fix biomejs lint warning](https://github.com/gitify-app/gitify/pull/1420) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -134,13 +134,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(developer): take screenshot](https://github.com/gitify-app/gitify/pull/1404) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: set tray tooltip](https://github.com/gitify-app/gitify/pull/1401) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: set tray tooltip](https://github.com/gitify-app/gitify/pull/1401) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: add electron-log](https://github.com/gitify-app/gitify/pull/1400) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: add electron-log](https://github.com/gitify-app/gitify/pull/1400) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: developer context menu](https://github.com/gitify-app/gitify/pull/1399) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: developer context menu](https://github.com/gitify-app/gitify/pull/1399) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [docs: update debug keyboard shortcuts](https://github.com/gitify-app/website/pull/178) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+- MERGED - [docs: update debug keyboard shortcuts](https://github.com/gitify-app/website/pull/178) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
 
 - OPEN - [feat: check for updates](https://github.com/gitify-app/gitify/pull/1397) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -150,24 +150,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) 2043⭐
+- [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) 2044⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36378⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36389⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 28⭐
 
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5759⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5638⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5640⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8844⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8854⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18867⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18872⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62791⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62809⭐
 
 
