@@ -82,13 +82,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 weeks ago]
 
@@ -106,23 +106,27 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: use update-electron-app to control update experience](https://github.com/gitify-app/gitify/pull/1450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [fix: cross-platform emoji compatibility](https://github.com/gitify-app/gitify/pull/1449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: clear global error state on fetch](https://github.com/gitify-app/gitify/pull/1443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat(settings): disable `show accounts` when multiple accounts are authenticated](https://github.com/gitify-app/gitify/pull/1439) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat(accounts): add avatar, account-level quick links and account refresh support](https://github.com/gitify-app/gitify/pull/1438) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: clear global error state on fetch](https://github.com/gitify-app/gitify/pull/1443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat(accounts): set primary account](https://github.com/gitify-app/gitify/pull/1436) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat(settings): disable `show accounts` when multiple accounts are authenticated](https://github.com/gitify-app/gitify/pull/1439) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [build: remove unused vscode settings](https://github.com/gitify-app/gitify/pull/1435) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat(accounts): add avatar, account-level quick links and account refresh support](https://github.com/gitify-app/gitify/pull/1438) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build: add lint-staged](https://github.com/CycloneDX/cdxgen/pull/1292) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- OPEN - [feat(accounts): set primary account](https://github.com/gitify-app/gitify/pull/1436) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v5.12.0` release](https://github.com/gitify-app/gitify/pull/1434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [build: remove unused vscode settings](https://github.com/gitify-app/gitify/pull/1435) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [build: add lint-staged](https://github.com/CycloneDX/cdxgen/pull/1292) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+
+- MERGED - [build: prepare `v5.12.0` release](https://github.com/gitify-app/gitify/pull/1434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
 - OPEN - [feat(server): support passing `fetchLicense`](https://github.com/CycloneDX/cdxgen/pull/1286) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -134,7 +138,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: gracefully handle partial failure for multiple accounts](https://github.com/gitify-app/gitify/pull/1419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [feat(api): use conditional requests and fetch all inbox notifications](https://github.com/gitify-app/gitify/pull/1414) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- OPEN - [feat(api): use conditional requests and fetch all inbox notifications](https://github.com/gitify-app/gitify/pull/1414) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [docs(server): update to highlight that comma separated types are supported](https://github.com/CycloneDX/cdxgen/pull/1277) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
@@ -142,32 +146,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(server): improve logging](https://github.com/CycloneDX/cdxgen/pull/1274) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [refactor: rename isEnterpriseHost helper](https://github.com/gitify-app/gitify/pull/1413) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [feat: use first account for quick link hostname](https://github.com/gitify-app/gitify/pull/1411) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) 2046⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36447⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36459⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 28⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5762⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5765⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5648⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5652⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8880⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8883⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
 - [EtonDoze/sonar-openapi](https://github.com/EtonDoze/sonar-openapi) 1⭐
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18892⭐
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 18895⭐
 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62878⭐
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) 62901⭐
 
 
