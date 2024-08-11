@@ -84,11 +84,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [3 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [4 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 weeks ago]
 
@@ -106,33 +106,33 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: improve error logging](https://github.com/gitify-app/gitify/pull/1455) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: improve error logging](https://github.com/gitify-app/gitify/pull/1455) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [refactor: login pages](https://github.com/gitify-app/gitify/pull/1454) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: login pages](https://github.com/gitify-app/gitify/pull/1454) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: only perform reset app on reset button interaction](https://github.com/gitify-app/gitify/pull/1453) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: only perform reset app on reset button interaction](https://github.com/gitify-app/gitify/pull/1453) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: improve app update experience](https://github.com/gitify-app/gitify/pull/1450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: improve app update experience](https://github.com/gitify-app/gitify/pull/1450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [fix: cross-platform emoji compatibility](https://github.com/gitify-app/gitify/pull/1449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [fix: cross-platform emoji compatibility](https://github.com/gitify-app/gitify/pull/1449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: clear global error state on fetch](https://github.com/gitify-app/gitify/pull/1443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: clear global error state on fetch](https://github.com/gitify-app/gitify/pull/1443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [feat(settings): disable `show accounts` when multiple accounts are authenticated](https://github.com/gitify-app/gitify/pull/1439) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat(settings): disable `show accounts` when multiple accounts are authenticated](https://github.com/gitify-app/gitify/pull/1439) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [feat(accounts): add avatar, account-level quick links and account refresh support](https://github.com/gitify-app/gitify/pull/1438) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat(accounts): add avatar, account-level quick links and account refresh support](https://github.com/gitify-app/gitify/pull/1438) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [feat(accounts): set primary account](https://github.com/gitify-app/gitify/pull/1436) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- OPEN - [feat(accounts): set primary account](https://github.com/gitify-app/gitify/pull/1436) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- OPEN - [build: remove unused vscode settings](https://github.com/gitify-app/gitify/pull/1435) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: remove unused vscode settings](https://github.com/gitify-app/gitify/pull/1435) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [build: add lint-staged](https://github.com/CycloneDX/cdxgen/pull/1292) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [build: add lint-staged](https://github.com/CycloneDX/cdxgen/pull/1292) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [build: prepare `v5.12.0` release](https://github.com/gitify-app/gitify/pull/1434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: prepare `v5.12.0` release](https://github.com/gitify-app/gitify/pull/1434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - OPEN - [feat(server): support passing `fetchLicense`](https://github.com/CycloneDX/cdxgen/pull/1286) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -140,7 +140,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: use platform version for github enterprise server feature availability (mark as done)](https://github.com/gitify-app/gitify/pull/1424) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: fix biomejs lint warning](https://github.com/gitify-app/gitify/pull/1420) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: fix biomejs lint warning](https://github.com/gitify-app/gitify/pull/1420) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [feat: gracefully handle partial failure for multiple accounts](https://github.com/gitify-app/gitify/pull/1419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -156,15 +156,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2046⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36468⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36470⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 28⭐
 
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5767⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5655⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5656⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8891⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8897⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
