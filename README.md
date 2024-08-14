@@ -82,11 +82,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [6 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -106,29 +106,29 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: rename `showAccountHostname` to `showAccountHeader`](https://github.com/gitify-app/gitify/pull/1464) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: rename `showAccountHostname` to `showAccountHeader`](https://github.com/gitify-app/gitify/pull/1464) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [test(util): extract global.random to util](https://github.com/gitify-app/gitify/pull/1458) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [test(util): extract global.random to util](https://github.com/gitify-app/gitify/pull/1458) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: remove account notifications on logout](https://github.com/gitify-app/gitify/pull/1457) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: remove account notifications on logout](https://github.com/gitify-app/gitify/pull/1457) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [fix(auth): restore oauth2 flow functionality](https://github.com/gitify-app/gitify/pull/1456) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [fix(auth): restore oauth2 flow functionality](https://github.com/gitify-app/gitify/pull/1456) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: improve error logging](https://github.com/gitify-app/gitify/pull/1455) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: improve error logging](https://github.com/gitify-app/gitify/pull/1455) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: login pages ui](https://github.com/gitify-app/gitify/pull/1454) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: login pages ui](https://github.com/gitify-app/gitify/pull/1454) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [fix: only perform reset app on reset button interaction](https://github.com/gitify-app/gitify/pull/1453) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: only perform reset app on reset button interaction](https://github.com/gitify-app/gitify/pull/1453) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: improve app update experience](https://github.com/gitify-app/gitify/pull/1450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: improve app update experience](https://github.com/gitify-app/gitify/pull/1450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- OPEN - [fix: cross-platform emoji compatibility](https://github.com/gitify-app/gitify/pull/1449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- OPEN - [fix: cross-platform emoji compatibility](https://github.com/gitify-app/gitify/pull/1449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: clear global error state on fetch](https://github.com/gitify-app/gitify/pull/1443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: clear global error state on fetch](https://github.com/gitify-app/gitify/pull/1443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - OPEN - [feat(settings): disable `show accounts` when multiple accounts are authenticated](https://github.com/gitify-app/gitify/pull/1439) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -144,7 +144,7 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat(server): support passing `fetchLicense`](https://github.com/CycloneDX/cdxgen/pull/1286) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [feat: hide hover groups on transition](https://github.com/gitify-app/gitify/pull/1427) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: hide hover groups on transition](https://github.com/gitify-app/gitify/pull/1427) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -152,19 +152,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [snyk/parlay](https://github.com/snyk/parlay) 101⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 825⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 826⭐
 
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2045⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36484⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36490⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 28⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5769⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5770⭐
 
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5657⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8917⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8929⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
