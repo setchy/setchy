@@ -82,11 +82,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [3 days ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -100,21 +102,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [1 month ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 month ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: use labels for changleog release section generation](https://github.com/CycloneDX/cdxgen/pull/1312) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
+- MERGED - [build: use labels for changleog release section generation](https://github.com/CycloneDX/cdxgen/pull/1312) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
 
-- MERGED - [refactor: rename `showAccountHostname` to `showAccountHeader`](https://github.com/gitify-app/gitify/pull/1464) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: rename `showAccountHostname` to `showAccountHeader`](https://github.com/gitify-app/gitify/pull/1464) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [test(util): extract global.random to util](https://github.com/gitify-app/gitify/pull/1458) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [test(util): extract global.random to util](https://github.com/gitify-app/gitify/pull/1458) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [fix: remove account notifications on logout](https://github.com/gitify-app/gitify/pull/1457) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: remove account notifications on logout](https://github.com/gitify-app/gitify/pull/1457) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [fix(auth): restore oauth2 flow functionality](https://github.com/gitify-app/gitify/pull/1456) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix(auth): restore oauth2 flow functionality](https://github.com/gitify-app/gitify/pull/1456) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [feat: improve error logging](https://github.com/gitify-app/gitify/pull/1455) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -154,17 +154,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) 834⭐
 
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2045⭐
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2046⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36505⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36525⭐
 
-- [craftamap/bb](https://github.com/craftamap/bb) 28⭐
+- [craftamap/bb](https://github.com/craftamap/bb) 29⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5772⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5775⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5662⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5670⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8965⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 8988⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
