@@ -82,19 +82,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [5 days ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [4 days ago]
+
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [6 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
-
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 weeks ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [4 weeks ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 month ago]
 
@@ -106,7 +106,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: use labels for changleog release section generation](https://github.com/CycloneDX/cdxgen/pull/1312) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [build: prepare `v5.13.0` release](https://github.com/gitify-app/gitify/pull/1476) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [build: use labels for changleog release section generation](https://github.com/CycloneDX/cdxgen/pull/1312) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
 - MERGED - [refactor: rename `showAccountHostname` to `showAccountHeader`](https://github.com/gitify-app/gitify/pull/1464) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -124,7 +126,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: improve app update experience](https://github.com/gitify-app/gitify/pull/1450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [fix: cross-platform emoji compatibility](https://github.com/gitify-app/gitify/pull/1449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: cross-platform emoji compatibility](https://github.com/gitify-app/gitify/pull/1449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -132,9 +134,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: clear global error state on fetch](https://github.com/gitify-app/gitify/pull/1443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat(settings): disable `show accounts` when multiple accounts are authenticated](https://github.com/gitify-app/gitify/pull/1439) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat(settings): disable `show accounts` when multiple accounts are authenticated](https://github.com/gitify-app/gitify/pull/1439) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat(accounts): add avatar, account-level quick links and account refresh support](https://github.com/gitify-app/gitify/pull/1438) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat(accounts): add avatar, account-level quick links and account refresh support](https://github.com/gitify-app/gitify/pull/1438) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [feat(accounts): set primary account](https://github.com/gitify-app/gitify/pull/1436) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -144,27 +146,25 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v5.12.0` release](https://github.com/gitify-app/gitify/pull/1434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- OPEN - [feat(server): support passing `fetchLicense`](https://github.com/CycloneDX/cdxgen/pull/1286) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [snyk/parlay](https://github.com/snyk/parlay) 101⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 835⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 836⭐
 
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2045⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36556⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36574⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 29⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5778⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5783⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5676⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5681⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 9010⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 9020⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
