@@ -82,9 +82,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 week ago]
 
@@ -106,11 +106,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v5.13.1` release](https://github.com/gitify-app/gitify/pull/1478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v5.13.1` release](https://github.com/gitify-app/gitify/pull/1478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: remove foo debug](https://github.com/gitify-app/gitify/pull/1477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: remove foo debug](https://github.com/gitify-app/gitify/pull/1477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v5.13.0` release](https://github.com/gitify-app/gitify/pull/1476) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare `v5.13.0` release](https://github.com/gitify-app/gitify/pull/1476) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 - MERGED - [build: use labels for changleog release section generation](https://github.com/CycloneDX/cdxgen/pull/1312) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -156,15 +156,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2048⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36658⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36674⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 29⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5786⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5793⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5692⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5697⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 9045⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 9064⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
