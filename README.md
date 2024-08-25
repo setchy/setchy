@@ -82,15 +82,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 week ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
@@ -106,21 +106,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v5.13.1` release](https://github.com/gitify-app/gitify/pull/1478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare `v5.13.1` release](https://github.com/gitify-app/gitify/pull/1478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [fix: remove foo debug](https://github.com/gitify-app/gitify/pull/1477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: remove foo debug](https://github.com/gitify-app/gitify/pull/1477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build: prepare `v5.13.0` release](https://github.com/gitify-app/gitify/pull/1476) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: prepare `v5.13.0` release](https://github.com/gitify-app/gitify/pull/1476) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [build: use labels for changleog release section generation](https://github.com/CycloneDX/cdxgen/pull/1312) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [refactor: rename `showAccountHostname` to `showAccountHeader`](https://github.com/gitify-app/gitify/pull/1464) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [test(util): extract global.random to util](https://github.com/gitify-app/gitify/pull/1458) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [test(util): extract global.random to util](https://github.com/gitify-app/gitify/pull/1458) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [fix: remove account notifications on logout](https://github.com/gitify-app/gitify/pull/1457) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: remove account notifications on logout](https://github.com/gitify-app/gitify/pull/1457) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [fix(auth): restore oauth2 flow functionality](https://github.com/gitify-app/gitify/pull/1456) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix(auth): restore oauth2 flow functionality](https://github.com/gitify-app/gitify/pull/1456) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [feat: improve error logging](https://github.com/gitify-app/gitify/pull/1455) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -152,19 +152,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [snyk/parlay](https://github.com/snyk/parlay) 102⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 847⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 850⭐
 
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2048⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36674⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36696⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 29⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5793⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5794⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5697⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5700⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 9064⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 9069⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
