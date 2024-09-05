@@ -82,9 +82,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [1 week ago]
 
@@ -98,7 +98,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 month ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 month ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 months ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 months ago]
 
@@ -106,13 +106,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: default avatar icon size](https://github.com/gitify-app/gitify/pull/1507) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: account header quick links](https://github.com/gitify-app/gitify/pull/1511) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: extract error constants](https://github.com/gitify-app/gitify/pull/1506) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: default avatar icon size](https://github.com/gitify-app/gitify/pull/1507) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [fix: alternate idle images for linux](https://github.com/gitify-app/gitify/pull/1501) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: extract error constants](https://github.com/gitify-app/gitify/pull/1506) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: mark as done on unsubscribe](https://github.com/gitify-app/gitify/pull/1498) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- OPEN - [feat(settings): alternate idle tray icon](https://github.com/gitify-app/gitify/pull/1501) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [feat: mark as done on unsubscribe](https://github.com/gitify-app/gitify/pull/1498) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - CLOSED - [feat(auth): support fine-grained personal access tokens](https://github.com/gitify-app/gitify/pull/1494) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -140,33 +142,31 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: only perform reset app on reset button interaction](https://github.com/gitify-app/gitify/pull/1453) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [refactor: improve app update experience](https://github.com/gitify-app/gitify/pull/1450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
+- MERGED - [refactor: improve app update experience](https://github.com/gitify-app/gitify/pull/1450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
-- MERGED - [fix: cross-platform emoji compatibility](https://github.com/gitify-app/gitify/pull/1449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
-- MERGED - [build: prepare `v5.12.1` release](https://github.com/gitify-app/gitify/pull/1445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [fix: cross-platform emoji compatibility](https://github.com/gitify-app/gitify/pull/1449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4218⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4249⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 102⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 870⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 873⭐
 
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2057⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36770⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36772⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 29⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5812⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5815⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5725⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5730⭐
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 9159⭐
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) 9167⭐
 
 - [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) 32⭐
 
