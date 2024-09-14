@@ -82,13 +82,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/atlasify](https://github.com/setchy/atlasify) -  Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [2 weeks ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
 
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [4 weeks ago]
 
@@ -100,17 +102,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 months ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 months ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [feat: improve robustness of subject user handling](https://github.com/gitify-app/gitify/pull/1517) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v5.14.0` release](https://github.com/gitify-app/gitify/pull/1526) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [test: ensure all *.test.js files are being run](https://github.com/CycloneDX/cdxgen/pull/1361) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [feat: improve robustness of subject user handling](https://github.com/gitify-app/gitify/pull/1517) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [refactor: project structure](https://github.com/CycloneDX/cdxgen/pull/1360) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- OPEN - [test: ensure all *.test.js files are being run](https://github.com/CycloneDX/cdxgen/pull/1361) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+
+- OPEN - [refactor: project structure](https://github.com/CycloneDX/cdxgen/pull/1360) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [fix: account header quick links](https://github.com/gitify-app/gitify/pull/1511) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -144,30 +146,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: improve error logging](https://github.com/gitify-app/gitify/pull/1455) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
-- MERGED - [refactor: login pages ui](https://github.com/gitify-app/gitify/pull/1454) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11400⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11401⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1159⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1266⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4349⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4354⭐
 
-- [snyk/parlay](https://github.com/snyk/parlay) 107⭐
+- [snyk/parlay](https://github.com/snyk/parlay) 108⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 892⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 896⭐
 
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2065⭐
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2067⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36827⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36840⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 29⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5838⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5844⭐
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5738⭐
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5739⭐
 
 
