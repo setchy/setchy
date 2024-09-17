@@ -82,11 +82,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
 - [setchy/atlasify](https://github.com/setchy/atlasify) -  Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
@@ -106,13 +106,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: improve error handling](https://github.com/setchy/atlasify/pull/14) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
+- OPEN - [feat: add atlasify cask](https://github.com/Homebrew/homebrew-cask/pull/185603) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [1 day ago]
 
-- OPEN - [fix: restore settings order](https://github.com/gitify-app/gitify/pull/1527) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare `v0.1.0` alpha release](https://github.com/setchy/atlasify/pull/17) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [build: prepare `v5.14.0` release](https://github.com/gitify-app/gitify/pull/1526) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: improve error handling](https://github.com/setchy/atlasify/pull/14) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
 
-- MERGED - [feat: improve robustness of subject user handling](https://github.com/gitify-app/gitify/pull/1517) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: restore settings order](https://github.com/gitify-app/gitify/pull/1527) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- MERGED - [build: prepare `v5.14.0` release](https://github.com/gitify-app/gitify/pull/1526) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [feat: improve robustness of subject user handling](https://github.com/gitify-app/gitify/pull/1517) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - OPEN - [test: ensure all *.test.js files are being run](https://github.com/CycloneDX/cdxgen/pull/1361) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -128,13 +132,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: mark as done on unsubscribe](https://github.com/gitify-app/gitify/pull/1498) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- CLOSED - [feat(auth): support fine-grained personal access tokens](https://github.com/gitify-app/gitify/pull/1494) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- CLOSED - [feat(auth): support fine-grained personal access tokens](https://github.com/gitify-app/gitify/pull/1494) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [feat: login with github app](https://github.com/gitify-app/gitify/pull/1493) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [build: prepare `v5.13.1` release](https://github.com/gitify-app/gitify/pull/1478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
+- MERGED - [build: prepare `v5.13.1` release](https://github.com/gitify-app/gitify/pull/1478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
-- MERGED - [fix: remove foo debug](https://github.com/gitify-app/gitify/pull/1477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
+- MERGED - [fix: remove foo debug](https://github.com/gitify-app/gitify/pull/1477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
 - MERGED - [build: prepare `v5.13.0` release](https://github.com/gitify-app/gitify/pull/1476) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
@@ -142,32 +146,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: rename `showAccountHostname` to `showAccountHeader`](https://github.com/gitify-app/gitify/pull/1464) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
-- MERGED - [test(util): extract global.random to util](https://github.com/gitify-app/gitify/pull/1458) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
-- MERGED - [fix: remove account notifications on logout](https://github.com/gitify-app/gitify/pull/1457) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11407⭐
+- [setchy/atlasify](https://github.com/setchy/atlasify) 4⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1347⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11409⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4368⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1407⭐
+
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4382⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 108⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 901⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 903⭐
 
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2068⭐
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2069⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36844⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36850⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 29⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5844⭐
-
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) 5741⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5851⭐
 
 
