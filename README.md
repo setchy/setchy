@@ -82,11 +82,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-
 - [setchy/atlasify](https://github.com/setchy/atlasify) -  Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [1 day ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
@@ -100,74 +102,72 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 month ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 months ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: add atlasify cask](https://github.com/Homebrew/homebrew-cask/pull/185603) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [1 day ago]
+- MERGED - [refactor: revert sidebar button size](https://github.com/setchy/atlasify/pull/46) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [build: prepare `v0.1.0` alpha release](https://github.com/setchy/atlasify/pull/17) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
+- MERGED - [feat: improve product title alignment](https://github.com/setchy/atlasify/pull/45) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [refactor: improve error handling](https://github.com/setchy/atlasify/pull/14) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
+- OPEN - [refactor: update sidebar labels](https://github.com/gitify-app/gitify/pull/1538) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: restore settings order](https://github.com/gitify-app/gitify/pull/1527) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [refactor: change chevron type for closed sections](https://github.com/gitify-app/gitify/pull/1537) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v5.14.0` release](https://github.com/gitify-app/gitify/pull/1526) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: improve sidebar design](https://github.com/setchy/atlasify/pull/43) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [feat: improve robustness of subject user handling](https://github.com/gitify-app/gitify/pull/1517) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: change icon to navigate home](https://github.com/setchy/atlasify/pull/40) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- OPEN - [test: ensure all *.test.js files are being run](https://github.com/CycloneDX/cdxgen/pull/1361) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- OPEN - [feat: change icon navigation to go `home`](https://github.com/gitify-app/gitify/pull/1533) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: project structure](https://github.com/CycloneDX/cdxgen/pull/1360) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [gitify: update description](https://github.com/Homebrew/homebrew-cask/pull/185738) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [1 day ago]
 
-- MERGED - [fix: account header quick links](https://github.com/gitify-app/gitify/pull/1511) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: extract subtitle helper](https://github.com/setchy/atlasify/pull/35) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [fix: default avatar icon size](https://github.com/gitify-app/gitify/pull/1507) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat: mark account notifications as read](https://github.com/setchy/atlasify/pull/34) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [refactor: extract error constants](https://github.com/gitify-app/gitify/pull/1506) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat: product quick link to home](https://github.com/setchy/atlasify/pull/33) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [feat(settings): alternate idle tray icon](https://github.com/gitify-app/gitify/pull/1501) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat: add trello product](https://github.com/setchy/atlasify/pull/32) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [feat: mark as done on unsubscribe](https://github.com/gitify-app/gitify/pull/1498) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat: use subtle appearance for filter icons](https://github.com/setchy/atlasify/pull/31) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- CLOSED - [feat(auth): support fine-grained personal access tokens](https://github.com/gitify-app/gitify/pull/1494) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
+- MERGED - [feat: add team central / atlas product mapping](https://github.com/setchy/atlasify/pull/30) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [feat: login with github app](https://github.com/gitify-app/gitify/pull/1493) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
+- MERGED - [fix: fetch only unread notifications](https://github.com/setchy/atlasify/pull/29) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [build: prepare `v5.13.1` release](https://github.com/gitify-app/gitify/pull/1478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [fix: icon color](https://github.com/setchy/atlasify/pull/28) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [fix: remove foo debug](https://github.com/gitify-app/gitify/pull/1477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [refactor: use atlaskit modal dialog for reset flow](https://github.com/setchy/atlasify/pull/27) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
 
-- MERGED - [build: prepare `v5.13.0` release](https://github.com/gitify-app/gitify/pull/1476) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- CLOSED - [atlasify 0.1.0 (new cask)](https://github.com/Homebrew/homebrew-cask/pull/185603) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [2 days ago]
 
-- MERGED - [build: use labels for changleog release section generation](https://github.com/CycloneDX/cdxgen/pull/1312) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
+- MERGED - [build: prepare `v0.1.0` alpha release](https://github.com/setchy/atlasify/pull/17) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
 
-- MERGED - [refactor: rename `showAccountHostname` to `showAccountHeader`](https://github.com/gitify-app/gitify/pull/1464) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
+- MERGED - [refactor: improve error handling](https://github.com/setchy/atlasify/pull/14) to [setchy/atlasify](https://github.com/setchy/atlasify) [3 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [setchy/atlasify](https://github.com/setchy/atlasify) 4⭐
+- [setchy/atlasify](https://github.com/setchy/atlasify) 6⭐
 
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11409⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1407⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1451⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4382⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4396⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 108⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 903⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 907⭐
 
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2069⭐
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2072⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36850⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36849⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 29⭐
 
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5851⭐
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5854⭐
 
 
