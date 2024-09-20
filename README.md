@@ -84,15 +84,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlasify](https://github.com/setchy/atlasify) -  Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) -  Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/homebrew-atlasify](https://github.com/setchy/homebrew-atlasify) - Homebrew tap for https://github.com/setchy/atlasify [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [2 days ago]
+- [setchy/homebrew-atlassify](https://github.com/setchy/homebrew-atlassify) - Homebrew tap for https://github.com/setchy/atlassify [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [3 weeks ago]
 
@@ -106,68 +106,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: update homebrew install instructions](https://github.com/gitify-app/gitify/pull/1542) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v1.0.0` release](https://github.com/setchy/atlassify/pull/73) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
 
-- MERGED - [feat: remove app name from native notification title](https://github.com/setchy/atlasify/pull/54) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
+- CLOSED - [build: prepare `v1.0.0` release](https://github.com/setchy/atlassify/pull/71) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: order product grouping alphabetically](https://github.com/setchy/atlasify/pull/53) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
+- MERGED - [test: increase coverage](https://github.com/setchy/atlassify/pull/68) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [docs: add simple design guidelines section](https://github.com/gitify-app/gitify/pull/1540) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: set badge maximums](https://github.com/setchy/atlassify/pull/67) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [build: prepare `v0.2.0` release](https://github.com/setchy/atlasify/pull/50) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
+- MERGED - [feat: add filter badges](https://github.com/setchy/atlassify/pull/66) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: center align filters sidebar icon](https://github.com/setchy/atlasify/pull/49) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
+- MERGED - [refactor: remove unused hover group](https://github.com/setchy/atlassify/pull/65) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: explicitly set tooltip positions](https://github.com/setchy/atlasify/pull/48) to [setchy/atlasify](https://github.com/setchy/atlasify) [1 day ago]
+- MERGED - [feat: loading notifications animation](https://github.com/setchy/atlassify/pull/64) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: revert sidebar button size](https://github.com/setchy/atlasify/pull/46) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
+- MERGED - [refactor: native notification body](https://github.com/setchy/atlassify/pull/63) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: improve product title alignment](https://github.com/setchy/atlasify/pull/45) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
+- MERGED - [feat: implement `mark as unread` for individual notifications](https://github.com/setchy/atlassify/pull/62) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: update sidebar labels](https://github.com/gitify-app/gitify/pull/1538) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: update native notification title and body](https://github.com/setchy/atlassify/pull/61) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: change chevron type for closed sections](https://github.com/gitify-app/gitify/pull/1537) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: full implementation of `mark as read` for account, product and individual notifications](https://github.com/setchy/atlassify/pull/60) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: improve sidebar design](https://github.com/setchy/atlasify/pull/43) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
+- MERGED - [refactor: update workflow secrets](https://github.com/setchy/atlassify/pull/59) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: change icon to navigate home](https://github.com/setchy/atlasify/pull/40) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
+- MERGED - [build: autobump cask workflow](https://github.com/setchy/atlassify/pull/58) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: change icon navigation to go `home`](https://github.com/gitify-app/gitify/pull/1533) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: native notification title](https://github.com/gitify-app/gitify/pull/1543) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [gitify: update description](https://github.com/Homebrew/homebrew-cask/pull/185738) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [2 days ago]
+- MERGED - [docs: update homepage](https://github.com/setchy/atlassify/pull/56) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: extract subtitle helper](https://github.com/setchy/atlasify/pull/35) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
+- MERGED - [refactor: rename app to atlassify](https://github.com/setchy/atlassify/pull/55) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: mark account notifications as read](https://github.com/setchy/atlasify/pull/34) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
+- MERGED - [docs: update homebrew install instructions](https://github.com/gitify-app/gitify/pull/1542) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: product quick link to home](https://github.com/setchy/atlasify/pull/33) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
+- MERGED - [feat: remove app name from native notification title](https://github.com/setchy/atlassify/pull/54) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: add trello product](https://github.com/setchy/atlasify/pull/32) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
+- MERGED - [feat: order product grouping alphabetically](https://github.com/setchy/atlassify/pull/53) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: use subtle appearance for filter icons](https://github.com/setchy/atlasify/pull/31) to [setchy/atlasify](https://github.com/setchy/atlasify) [2 days ago]
+- MERGED - [docs: add simple design guidelines section](https://github.com/gitify-app/gitify/pull/1540) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [setchy/atlasify](https://github.com/setchy/atlasify) 6⭐
+- [primer/design](https://github.com/primer/design) 624⭐
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11411⭐
+- [setchy/atlassify](https://github.com/setchy/atlassify) 6⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1481⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11413⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4421⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1502⭐
+
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4453⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 108⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 909⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 914⭐
 
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2072⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36851⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36862⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 29⭐
-
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) 5856⭐
 
 
