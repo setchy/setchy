@@ -84,19 +84,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) -  Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [5 days ago]
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [6 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [3 weeks ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [4 weeks ago]
 
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 month ago]
 
@@ -106,45 +106,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: overhaul login ux](https://github.com/setchy/atlassify/pull/104) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: secure auth](https://github.com/setchy/atlassify/pull/105) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [deps: remove @electron/remote](https://github.com/setchy/atlassify/pull/103) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: overhaul login ux](https://github.com/setchy/atlassify/pull/104) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: remove loading component (nprogress)](https://github.com/setchy/atlassify/pull/102) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [deps: remove @electron/remote](https://github.com/setchy/atlassify/pull/103) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: remove update icon logic](https://github.com/setchy/atlassify/pull/101) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: remove loading component (nprogress)](https://github.com/setchy/atlassify/pull/102) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: disable electron remote api](https://github.com/setchy/atlassify/pull/100) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: remove update icon logic](https://github.com/setchy/atlassify/pull/101) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: use ads for notification row component](https://github.com/setchy/atlassify/pull/99) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: disable electron remote api](https://github.com/setchy/atlassify/pull/100) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [test: more coverage](https://github.com/setchy/atlassify/pull/89) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: use ads for notification row component](https://github.com/setchy/atlassify/pull/99) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: map content type attribute](https://github.com/setchy/atlassify/pull/87) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [test: more coverage](https://github.com/setchy/atlassify/pull/89) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [test: add coverage](https://github.com/setchy/atlassify/pull/86) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: map content type attribute](https://github.com/setchy/atlassify/pull/87) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: clean up mappings](https://github.com/setchy/atlassify/pull/85) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [test: add coverage](https://github.com/setchy/atlassify/pull/86) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: use atlaskit token color](https://github.com/setchy/atlassify/pull/84) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: clean up mappings](https://github.com/setchy/atlassify/pull/85) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [chore: remove unused deps](https://github.com/setchy/atlassify/pull/83) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: use atlaskit token color](https://github.com/setchy/atlassify/pull/84) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: login to use ads](https://github.com/setchy/atlassify/pull/82) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [chore: remove unused deps](https://github.com/setchy/atlassify/pull/83) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: settings layout](https://github.com/setchy/atlassify/pull/78) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: login to use ads](https://github.com/setchy/atlassify/pull/82) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: remove tailwind gray styles and update zoom controls](https://github.com/setchy/atlassify/pull/77) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: settings layout](https://github.com/setchy/atlassify/pull/78) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: remove unused tailwind font size](https://github.com/setchy/atlassify/pull/76) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: remove tailwind gray styles and update zoom controls](https://github.com/setchy/atlassify/pull/77) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [test: update mocks](https://github.com/setchy/atlassify/pull/75) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: remove unused tailwind font size](https://github.com/setchy/atlassify/pull/76) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v1.0.0` release](https://github.com/setchy/atlassify/pull/73) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [test: update mocks](https://github.com/setchy/atlassify/pull/75) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- CLOSED - [build: prepare `v1.0.0` release](https://github.com/setchy/atlassify/pull/71) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v1.0.0` release](https://github.com/setchy/atlassify/pull/73) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [test: increase coverage](https://github.com/setchy/atlassify/pull/68) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- CLOSED - [build: prepare `v1.0.0` release](https://github.com/setchy/atlassify/pull/71) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -156,17 +156,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11416⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1542⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1563⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4489⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4504⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 108⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 917⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 919⭐
 
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2073⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36873⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36879⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 29⭐
 
