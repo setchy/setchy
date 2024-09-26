@@ -82,19 +82,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) -  Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) -  Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [6 days ago]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [1 week ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [1 month ago]
 
@@ -106,67 +106,67 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: add jsdocs to types](https://github.com/setchy/atlassify/pull/128) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [fix: handle exceptions when fetching specific html url](https://github.com/gitify-app/gitify/pull/1552) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: login routes](https://github.com/gitify-app/gitify/pull/1549) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test: login with github](https://github.com/gitify-app/gitify/pull/1551) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: hide windows taskbar](https://github.com/setchy/atlassify/pull/127) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: add jsdocs to types](https://github.com/setchy/atlassify/pull/128) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v1.1.0` release](https://github.com/setchy/atlassify/pull/121) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: login routes](https://github.com/gitify-app/gitify/pull/1549) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: prepare `v1.1.0` release](https://github.com/setchy/atlassify/pull/120) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: hide windows taskbar](https://github.com/setchy/atlassify/pull/127) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v1.1.0` release](https://github.com/setchy/atlassify/pull/119) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.1.0` release](https://github.com/setchy/atlassify/pull/121) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix: error handling safe storage](https://github.com/setchy/atlassify/pull/118) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.1.0` release](https://github.com/setchy/atlassify/pull/120) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v1.1.0` release](https://github.com/setchy/atlassify/pull/117) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.1.0` release](https://github.com/setchy/atlassify/pull/119) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v1.1.0` release](https://github.com/setchy/atlassify/pull/116) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: error handling safe storage](https://github.com/setchy/atlassify/pull/118) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix: notification state on interactions](https://github.com/setchy/atlassify/pull/115) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.1.0` release](https://github.com/setchy/atlassify/pull/117) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: layout components](https://github.com/setchy/atlassify/pull/114) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.1.0` release](https://github.com/setchy/atlassify/pull/116) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: notification components](https://github.com/setchy/atlassify/pull/113) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: notification state on interactions](https://github.com/setchy/atlassify/pull/115) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix: lint issues](https://github.com/setchy/atlassify/pull/112) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: layout components](https://github.com/setchy/atlassify/pull/114) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: use fragment](https://github.com/setchy/atlassify/pull/111) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: notification components](https://github.com/setchy/atlassify/pull/113) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: update types](https://github.com/setchy/atlassify/pull/110) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: lint issues](https://github.com/setchy/atlassify/pull/112) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: remove primary/secondary account concept](https://github.com/setchy/atlassify/pull/108) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: use fragment](https://github.com/setchy/atlassify/pull/111) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: secure auth](https://github.com/setchy/atlassify/pull/105) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: update types](https://github.com/setchy/atlassify/pull/110) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: overhaul login ux](https://github.com/setchy/atlassify/pull/104) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: remove primary/secondary account concept](https://github.com/setchy/atlassify/pull/108) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [deps: remove @electron/remote](https://github.com/setchy/atlassify/pull/103) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: secure auth](https://github.com/setchy/atlassify/pull/105) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: remove loading component (nprogress)](https://github.com/setchy/atlassify/pull/102) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: overhaul login ux](https://github.com/setchy/atlassify/pull/104) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [primer/design](https://github.com/primer/design) 627⭐
+- [primer/design](https://github.com/primer/design) 629⭐
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) 8⭐
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11426⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11428⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1609⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1622⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4526⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4533⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 108⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 923⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 926⭐
 
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2075⭐
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2076⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36906⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 36918⭐
 
 - [craftamap/bb](https://github.com/craftamap/bb) 29⭐
 
