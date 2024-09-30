@@ -82,17 +82,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
-
 - [setchy/atlassify](https://github.com/setchy/atlassify) -  Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [3 days ago]
+
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
@@ -106,45 +106,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: group by product alphabetic tooltip](https://github.com/setchy/atlassify/pull/166) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [refactor: convert `main` to typescript](https://github.com/setchy/atlassify/pull/174) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [docs: update assets](https://github.com/gitify-app/website/pull/231) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [build: prepare ts main](https://github.com/setchy/atlassify/pull/173) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [docs: update website](https://github.com/setchy/atlassify/pull/165) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: macos arch types](https://github.com/setchy/atlassify/pull/172) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: hide windows taskbar](https://github.com/gitify-app/gitify/pull/1561) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: restructure project](https://github.com/setchy/atlassify/pull/171) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [build: prepare `v1.2.0` release](https://github.com/setchy/atlassify/pull/164) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: restructure project](https://github.com/setchy/atlassify/pull/170) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: filter layout](https://github.com/setchy/atlassify/pull/157) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: group by product alphabetic tooltip](https://github.com/setchy/atlassify/pull/166) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: combine mark as fns to support a list of notifications](https://github.com/gitify-app/gitify/pull/1560) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [docs: update assets](https://github.com/gitify-app/website/pull/231) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
 
-- MERGED - [refactor: icon path fn](https://github.com/setchy/atlassify/pull/156) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [docs: update website](https://github.com/setchy/atlassify/pull/165) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: icon path fn](https://github.com/gitify-app/gitify/pull/1559) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: hide windows taskbar](https://github.com/gitify-app/gitify/pull/1561) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: use sentence case for interaction](https://github.com/gitify-app/gitify/pull/1558) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare `v1.2.0` release](https://github.com/setchy/atlassify/pull/164) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: ts and styles folder](https://github.com/gitify-app/website/pull/230) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [refactor: filter layout](https://github.com/setchy/atlassify/pull/157) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: tailwind config ts](https://github.com/gitify-app/gitify/pull/1557) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: combine mark as fns to support a list of notifications](https://github.com/gitify-app/gitify/pull/1560) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [docs: ts](https://github.com/setchy/atlassify/pull/155) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: icon path fn](https://github.com/setchy/atlassify/pull/156) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [docs: tailwind typescript config](https://github.com/setchy/atlassify/pull/154) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: icon path fn](https://github.com/gitify-app/gitify/pull/1559) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat(settings): sort grouped notifications alphabetically ](https://github.com/setchy/atlassify/pull/153) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: use sentence case for interaction](https://github.com/gitify-app/gitify/pull/1558) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat(settings): default `open at startup`](https://github.com/setchy/atlassify/pull/152) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: ts and styles folder](https://github.com/gitify-app/website/pull/230) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
 
-- MERGED - [refactor: primitive components](https://github.com/setchy/atlassify/pull/137) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: tailwind config ts](https://github.com/gitify-app/gitify/pull/1557) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: handle exceptions when fetching specific html url](https://github.com/gitify-app/gitify/pull/1552) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [docs: ts](https://github.com/setchy/atlassify/pull/155) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [test: login with github](https://github.com/gitify-app/gitify/pull/1551) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [docs: tailwind typescript config](https://github.com/setchy/atlassify/pull/154) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: add jsdocs to types](https://github.com/setchy/atlassify/pull/128) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat(settings): sort grouped notifications alphabetically ](https://github.com/setchy/atlassify/pull/153) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -156,18 +156,18 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) 9⭐
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11431⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11433⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1659⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1669⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4697⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4743⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 108⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 929⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 928⭐
 
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2080⭐
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2082⭐
 
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 37185⭐
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) 37263⭐
 
 
