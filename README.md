@@ -84,90 +84,90 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [2 weeks ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. [1 month ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Discord: https://discord.gg/DP657ACYEZ [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [fix: address sonarcloud issues](https://github.com/setchy/atlassify/pull/198) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: address sonarcloud issues](https://github.com/setchy/atlassify/pull/198) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v1.4.0` release](https://github.com/setchy/atlassify/pull/197) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.4.0` release](https://github.com/setchy/atlassify/pull/197) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat: filters highlight selected](https://github.com/setchy/atlassify/pull/191) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: filters highlight selected](https://github.com/setchy/atlassify/pull/191) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: remove resize-observer-polyfill](https://github.com/setchy/atlassify/pull/190) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: remove resize-observer-polyfill](https://github.com/setchy/atlassify/pull/190) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: asset paths](https://github.com/setchy/atlassify/pull/189) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: asset paths](https://github.com/setchy/atlassify/pull/189) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v1.3.1` release](https://github.com/setchy/atlassify/pull/187) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v1.3.1` release](https://github.com/setchy/atlassify/pull/187) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: asset loading](https://github.com/setchy/atlassify/pull/186) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix: asset loading](https://github.com/setchy/atlassify/pull/186) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [build: prepare `v1.3.1` release](https://github.com/setchy/atlassify/pull/185) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v1.3.1` release](https://github.com/setchy/atlassify/pull/185) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: notification sound](https://github.com/setchy/atlassify/pull/184) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix: notification sound](https://github.com/setchy/atlassify/pull/184) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- OPEN - [refactor: major project structure update](https://github.com/gitify-app/gitify/pull/1564) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [refactor: major project structure update](https://github.com/gitify-app/gitify/pull/1564) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: download links primary vs alternate](https://github.com/gitify-app/website/pull/235) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
+- MERGED - [feat: download links primary vs alternate](https://github.com/gitify-app/website/pull/235) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
 
-- MERGED - [build: prepare `v1.3.0` release](https://github.com/setchy/atlassify/pull/183) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v1.3.0` release](https://github.com/setchy/atlassify/pull/183) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: move dependencies to dev dependencies](https://github.com/setchy/atlassify/pull/182) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: move dependencies to dev dependencies](https://github.com/setchy/atlassify/pull/182) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [build: upload first level artifacts](https://github.com/setchy/atlassify/pull/181) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: upload first level artifacts](https://github.com/setchy/atlassify/pull/181) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: extract menu, icons, updater logic from main.ts](https://github.com/setchy/atlassify/pull/180) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: extract menu, icons, updater logic from main.ts](https://github.com/setchy/atlassify/pull/180) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [test: update test suite names](https://github.com/setchy/atlassify/pull/179) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [test: update test suite names](https://github.com/setchy/atlassify/pull/179) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: extract css and copy discord svgs to build](https://github.com/setchy/atlassify/pull/176) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: extract css and copy discord svgs to build](https://github.com/setchy/atlassify/pull/176) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: rename to root](https://github.com/setchy/atlassify/pull/175) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: rename to root](https://github.com/setchy/atlassify/pull/175) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: convert `main` to typescript](https://github.com/setchy/atlassify/pull/174) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: convert `main` to typescript](https://github.com/setchy/atlassify/pull/174) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [build: prepare ts main](https://github.com/setchy/atlassify/pull/173) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: prepare ts main](https://github.com/setchy/atlassify/pull/173) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21853⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21855⭐
 
-- [sst/ion](https://github.com/sst/ion) 1940⭐
+- [sst/ion](https://github.com/sst/ion) 1951⭐
 
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23186⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23189⭐
 
-- [primer/design](https://github.com/primer/design) 632⭐
+- [primer/design](https://github.com/primer/design) 631⭐
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) 14⭐
+- [setchy/atlassify](https://github.com/setchy/atlassify) 15⭐
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11438⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11441⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1696⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1705⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4853⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4879⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 109⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 933⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 935⭐
 
 
