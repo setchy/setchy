@@ -86,9 +86,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [4 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [5 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -106,65 +106,65 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: chevron helper](https://github.com/gitify-app/gitify/pull/1574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v1.5.0` release](https://github.com/setchy/atlassify/pull/224) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [build: remove unused language locale resources](https://github.com/gitify-app/gitify/pull/1573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v5.15.0` release](https://github.com/gitify-app/gitify/pull/1575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: remove unused locales](https://github.com/setchy/atlassify/pull/223) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: chevron helper](https://github.com/gitify-app/gitify/pull/1574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: electron languages](https://github.com/setchy/atlassify/pull/222) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: remove unused language locale resources](https://github.com/gitify-app/gitify/pull/1573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: chevron helper](https://github.com/setchy/atlassify/pull/221) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: remove unused locales](https://github.com/setchy/atlassify/pull/223) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- OPEN - [fix: continue if notification enrichment fails](https://github.com/gitify-app/gitify/pull/1572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: electron languages](https://github.com/setchy/atlassify/pull/222) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [fix: address sonarcloud issues](https://github.com/setchy/atlassify/pull/198) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: chevron helper](https://github.com/setchy/atlassify/pull/221) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v1.4.0` release](https://github.com/setchy/atlassify/pull/197) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [fix: continue if notification enrichment fails](https://github.com/gitify-app/gitify/pull/1572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: filters highlight selected](https://github.com/setchy/atlassify/pull/191) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [fix: address sonarcloud issues](https://github.com/setchy/atlassify/pull/198) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor: remove resize-observer-polyfill](https://github.com/setchy/atlassify/pull/190) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v1.4.0` release](https://github.com/setchy/atlassify/pull/197) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor: asset paths](https://github.com/setchy/atlassify/pull/189) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: filters highlight selected](https://github.com/setchy/atlassify/pull/191) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [build: prepare `v1.3.1` release](https://github.com/setchy/atlassify/pull/187) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: remove resize-observer-polyfill](https://github.com/setchy/atlassify/pull/190) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [fix: asset loading](https://github.com/setchy/atlassify/pull/186) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: asset paths](https://github.com/setchy/atlassify/pull/189) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [build: prepare `v1.3.1` release](https://github.com/setchy/atlassify/pull/185) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v1.3.1` release](https://github.com/setchy/atlassify/pull/187) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix: notification sound](https://github.com/setchy/atlassify/pull/184) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [fix: asset loading](https://github.com/setchy/atlassify/pull/186) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: major project structure update](https://github.com/gitify-app/gitify/pull/1564) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v1.3.1` release](https://github.com/setchy/atlassify/pull/185) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: download links primary vs alternate](https://github.com/gitify-app/website/pull/235) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [fix: notification sound](https://github.com/setchy/atlassify/pull/184) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [build: prepare `v1.3.0` release](https://github.com/setchy/atlassify/pull/183) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: major project structure update](https://github.com/gitify-app/gitify/pull/1564) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: move dependencies to dev dependencies](https://github.com/setchy/atlassify/pull/182) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat: download links primary vs alternate](https://github.com/gitify-app/website/pull/235) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [build: upload first level artifacts](https://github.com/setchy/atlassify/pull/181) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v1.3.0` release](https://github.com/setchy/atlassify/pull/183) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21858⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21859⭐
 
-- [sst/ion](https://github.com/sst/ion) 1978⭐
+- [sst/ion](https://github.com/sst/ion) 1990⭐
 
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23193⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23195⭐
 
-- [primer/design](https://github.com/primer/design) 633⭐
+- [primer/design](https://github.com/primer/design) 635⭐
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) 15⭐
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11445⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11446⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1715⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1721⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4915⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4933⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 109⭐
 
