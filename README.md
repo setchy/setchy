@@ -82,17 +82,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
-
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 weeks ago]
 
@@ -106,25 +106,25 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [chore: support electron 32.x.x](https://github.com/max-mapper/menubar/pull/484) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 day ago]
+- OPEN - [chore: support electron 32.x.x](https://github.com/max-mapper/menubar/pull/484) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 days ago]
 
-- OPEN - [feat: update macOS asset regex matching (electron-builder, universal builds, exclude non zips)](https://github.com/electron/update.electronjs.org/pull/169) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 day ago]
+- OPEN - [feat: update macOS asset regex matching (electron-builder, universal builds, exclude non zips)](https://github.com/electron/update.electronjs.org/pull/169) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [2 days ago]
 
-- MERGED - [build: prepare `v1.5.0` release](https://github.com/setchy/atlassify/pull/224) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.5.0` release](https://github.com/setchy/atlassify/pull/224) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v5.15.0` release](https://github.com/gitify-app/gitify/pull/1575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare `v5.15.0` release](https://github.com/gitify-app/gitify/pull/1575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: chevron helper](https://github.com/gitify-app/gitify/pull/1574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: chevron helper](https://github.com/gitify-app/gitify/pull/1574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: remove unused language locale resources](https://github.com/gitify-app/gitify/pull/1573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: remove unused language locale resources](https://github.com/gitify-app/gitify/pull/1573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: remove unused locales](https://github.com/setchy/atlassify/pull/223) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: remove unused locales](https://github.com/setchy/atlassify/pull/223) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [build: electron languages](https://github.com/setchy/atlassify/pull/222) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: electron languages](https://github.com/setchy/atlassify/pull/222) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: chevron helper](https://github.com/setchy/atlassify/pull/221) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: chevron helper](https://github.com/setchy/atlassify/pull/221) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: continue if notification enrichment fails](https://github.com/gitify-app/gitify/pull/1572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: continue if notification enrichment fails](https://github.com/gitify-app/gitify/pull/1572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
 - MERGED - [fix: address sonarcloud issues](https://github.com/setchy/atlassify/pull/198) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -150,24 +150,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21861⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21862⭐
 
-- [sst/ion](https://github.com/sst/ion) 1997⭐
+- [sst/ion](https://github.com/sst/ion) 2009⭐
 
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23196⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23200⭐
 
 - [primer/design](https://github.com/primer/design) 636⭐
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) 16⭐
+- [setchy/atlassify](https://github.com/setchy/atlassify) 17⭐
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11452⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11455⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1731⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1741⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4961⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 4993⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 109⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 940⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 941⭐
 
 
