@@ -84,11 +84,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [3 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [4 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -96,35 +98,35 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 weeks ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries [3 weeks ago]
-
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Discord: https://discord.gg/DP657ACYEZ [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [chore: support electron 32.x.x](https://github.com/max-mapper/menubar/pull/484) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 days ago]
+- MERGED - [feat: add atlaskit package preset and group](https://github.com/renovatebot/renovate/pull/31872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- OPEN - [feat: update macOS asset regex matching (electron-builder, universal builds, exclude non zips)](https://github.com/electron/update.electronjs.org/pull/169) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [2 days ago]
+- OPEN - [chore: support electron 32.x.x](https://github.com/max-mapper/menubar/pull/484) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 days ago]
 
-- MERGED - [build: prepare `v1.5.0` release](https://github.com/setchy/atlassify/pull/224) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- OPEN - [feat: update macOS asset regex matching (electron-builder, universal builds, exclude non zips)](https://github.com/electron/update.electronjs.org/pull/169) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [3 days ago]
 
-- MERGED - [build: prepare `v5.15.0` release](https://github.com/gitify-app/gitify/pull/1575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v1.5.0` release](https://github.com/setchy/atlassify/pull/224) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: chevron helper](https://github.com/gitify-app/gitify/pull/1574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare `v5.15.0` release](https://github.com/gitify-app/gitify/pull/1575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: remove unused language locale resources](https://github.com/gitify-app/gitify/pull/1573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: chevron helper](https://github.com/gitify-app/gitify/pull/1574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build: remove unused locales](https://github.com/setchy/atlassify/pull/223) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: remove unused language locale resources](https://github.com/gitify-app/gitify/pull/1573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build: electron languages](https://github.com/setchy/atlassify/pull/222) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: remove unused locales](https://github.com/setchy/atlassify/pull/223) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: chevron helper](https://github.com/setchy/atlassify/pull/221) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: electron languages](https://github.com/setchy/atlassify/pull/222) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [fix: continue if notification enrichment fails](https://github.com/gitify-app/gitify/pull/1572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: chevron helper](https://github.com/setchy/atlassify/pull/221) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+
+- MERGED - [fix: continue if notification enrichment fails](https://github.com/gitify-app/gitify/pull/1572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 - MERGED - [fix: address sonarcloud issues](https://github.com/setchy/atlassify/pull/198) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -144,30 +146,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: notification sound](https://github.com/setchy/atlassify/pull/184) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: major project structure update](https://github.com/gitify-app/gitify/pull/1564) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21862⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21864⭐
 
-- [sst/ion](https://github.com/sst/ion) 2009⭐
+- [sst/ion](https://github.com/sst/ion) 2026⭐
 
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23200⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23207⭐
 
 - [primer/design](https://github.com/primer/design) 636⭐
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) 17⭐
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11455⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11458⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1741⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1752⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 4993⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 5016⭐
 
 - [snyk/parlay](https://github.com/snyk/parlay) 109⭐
 
-- [jdecked/twemoji](https://github.com/jdecked/twemoji) 941⭐
+- [jdecked/twemoji](https://github.com/jdecked/twemoji) 945⭐
 
 
