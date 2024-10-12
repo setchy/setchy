@@ -29,6 +29,7 @@ Senior Executive (VP) // Architect // Developer
   <a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGcwBnoTNg212cvEclMX-_qRw_P-_odFp3aafVal77Hg&s" width="36" height="36" alt="pnpm" /></a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" width="36" height="36" alt="npm" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+  <a href="https://docs.renovatebot.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/renovatebot/renovate/refs/heads/main/docs/usage/assets/images/logo.png" width="36" height="36" alt="Renovate" /></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
   <a href="https://netflix.github.io/dgs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Netflix/dgs/main/docs/images/dgs-framework-brand/Icon/dgs-icon--blue.svg" width="36" height="36" alt="Netflix DGS" /></a>
   <a href="https://apollographql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" width="36" height="36" alt="Apollo GraphQL" /></a>
@@ -82,17 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [today]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [today]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
 
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 day ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
-
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [6 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -105,6 +106,14 @@ Senior Executive (VP) // Architect // Developer
 #### 🎉 My recent pull requests
 
 
+
+- MERGED - [build: prepare `v1.6.1` release](https://github.com/setchy/atlassify/pull/260) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+
+- MERGED - [build: prepare `v5.16.1` release](https://github.com/gitify-app/gitify/pull/1588) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+
+- MERGED - [fix: emoji parse for 🏖️](https://github.com/setchy/atlassify/pull/259) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+
+- MERGED - [fix: emoji parse for 🏖️](https://github.com/gitify-app/gitify/pull/1587) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
 - MERGED - [build: prepare `v1.6.0` release](https://github.com/setchy/atlassify/pull/255) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
@@ -138,36 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: chevron helper](https://github.com/setchy/atlassify/pull/221) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix: continue if notification enrichment fails](https://github.com/gitify-app/gitify/pull/1572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [fix: address sonarcloud issues](https://github.com/setchy/atlassify/pull/198) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [build: prepare `v1.4.0` release](https://github.com/setchy/atlassify/pull/197) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [feat: filters highlight selected](https://github.com/setchy/atlassify/pull/191) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) 3046⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3047⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 3⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21874⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21876⭐
 
-- [sst/ion](https://github.com/sst/ion) 2060⭐
+- [sst/ion](https://github.com/sst/ion) 2069⭐
 
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23213⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23217⭐
 
 - [primer/design](https://github.com/primer/design) 636⭐
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) 17⭐
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11458⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11459⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1767⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1771⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 5045⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 5049⭐
 
 
