@@ -6,11 +6,11 @@ Senior Executive (VP) // Architect // Developer
 
 ### 🔭 Interests
 
-- *DX*: Developer Experience // Developer Productivity 
-- *Career Pathways*: Building strong engineering communities of practice (guilds, chapters, etc)
-- *APIs & Integration*: GraphQL // Apollo // REST // AsyncAPI
-- *Dependency Management & Technical Health*: LeanIX // Renovate // SBOM
-- *Innovation*: Communicating emerging technology trends via Tech Radars
+- **DX**: *Developer Experience // Developer Productivity*
+- **Career Pathways**: *Building strong engineering communities of practice (guilds, chapters, etc)*
+- **APIs & Integration**: *GraphQL // Apollo // REST // AsyncAPI*
+- **Dependency Management & Technical Health**: *LeanIX // Renovate // SBOM*
+- **Innovation**: *Communicating emerging technology trends via Tech Radars*
 
 ### 💪 Skills
 
@@ -84,90 +84,90 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. Slack: https://cyclonedx.slack.com/archives/C04NFFE1962 [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example, ported from netflix/dgs-federation-example. [2 days ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
 
-- [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of using Apollo Server 4 with a mock managed federation gateway [1 week ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [6 days ago]
 
-- [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) - An example of using Apollo Server 3 with a mock managed federation gateway [1 week ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 weeks ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [docs: fix repo link](https://github.com/CycloneDX/cdxgen/pull/1114) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [build: prepare `v1.6.0` release](https://github.com/setchy/atlassify/pull/255) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [docs(server): add openapi specification](https://github.com/CycloneDX/cdxgen/pull/1113) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [build: prepare `v5.16.0` release](https://github.com/gitify-app/gitify/pull/1585) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build(biome): apply safe changes.  add script to filter summary for errors only](https://github.com/CycloneDX/cdxgen/pull/1111) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [fix: discussions url](https://github.com/gitify-app/gitify/pull/1582) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build(biome): update formatter options to ignore types/**](https://github.com/CycloneDX/cdxgen/pull/1110) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [test: coverage icons](https://github.com/setchy/atlassify/pull/251) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [test(settings): remove unused mock](https://github.com/gitify-app/gitify/pull/1140) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: copy used emoji svgs](https://github.com/gitify-app/gitify/pull/1580) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat(accounts): enhance auth account data structure](https://github.com/gitify-app/gitify/pull/1139) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: only copy used emoji svgs](https://github.com/setchy/atlassify/pull/250) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: set version](https://github.com/gitify-app/gitify/pull/1138) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: add atlaskit package preset and group](https://github.com/renovatebot/renovate/pull/31872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- MERGED - [build: changelog automation](https://github.com/gitify-app/gitify/pull/1137) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [chore: support electron 32.x.x](https://github.com/max-mapper/menubar/pull/484) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [5 days ago]
 
-- MERGED - [build: prepare 5.6.0 release](https://github.com/gitify-app/gitify/pull/1135) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat: update macOS asset matching](https://github.com/electron/update.electronjs.org/pull/169) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [5 days ago]
 
-- CLOSED - [fix: logout](https://github.com/gitify-app/gitify/pull/1131) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v1.5.0` release](https://github.com/setchy/atlassify/pull/224) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor: auth validation logic](https://github.com/gitify-app/gitify/pull/1129) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare `v5.15.0` release](https://github.com/gitify-app/gitify/pull/1575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat(settings): enable `detailed notifications` by default](https://github.com/gitify-app/gitify/pull/1128) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: chevron helper](https://github.com/gitify-app/gitify/pull/1574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor(auth): remove repo scopes check](https://github.com/gitify-app/gitify/pull/1127) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: remove unused language locale resources](https://github.com/gitify-app/gitify/pull/1573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [chore(deps): remove axios](https://github.com/gitify-app/website/pull/133) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
+- MERGED - [build: remove unused locales](https://github.com/setchy/atlassify/pull/223) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor(auth): update ux and terminology](https://github.com/gitify-app/gitify/pull/1122) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [build: electron languages](https://github.com/setchy/atlassify/pull/222) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat(login): add help docs to login flows](https://github.com/gitify-app/gitify/pull/1121) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: chevron helper](https://github.com/setchy/atlassify/pull/221) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- CLOSED - [fix: deno failures](https://github.com/CycloneDX/cdxgen/pull/1092) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [fix: continue if notification enrichment fails](https://github.com/gitify-app/gitify/pull/1572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat(auth): disable `generate a pat` if no hostname](https://github.com/gitify-app/gitify/pull/1120) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: address sonarcloud issues](https://github.com/setchy/atlassify/pull/198) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat(auth): add `create oauth app` link to enterprise route](https://github.com/gitify-app/gitify/pull/1119) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [build: prepare `v1.4.0` release](https://github.com/setchy/atlassify/pull/197) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: increase yargs terminal width](https://github.com/CycloneDX/cdxgen/pull/1091) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [feat: filters highlight selected](https://github.com/setchy/atlassify/pull/191) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [syncfast/clockwise](https://github.com/syncfast/clockwise) 503⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3046⭐
 
-- [CycloneDX/sbom-utility](https://github.com/CycloneDX/sbom-utility) 74⭐
+- [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 3⭐
 
-- [DependencyTrack/community](https://github.com/DependencyTrack/community) 1⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21874⭐
 
-- [jetstack/dependency-track-exporter](https://github.com/jetstack/dependency-track-exporter) 18⭐
+- [sst/ion](https://github.com/sst/ion) 2060⭐
 
-- [lra/mackup](https://github.com/lra/mackup) 14308⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23213⭐
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) 89⭐
+- [primer/design](https://github.com/primer/design) 636⭐
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) 5545⭐
+- [setchy/atlassify](https://github.com/setchy/atlassify) 17⭐
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) 22785⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11458⭐
 
-- [jenv/jenv](https://github.com/jenv/jenv) 5528⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1767⭐
 
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 65475⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 5045⭐
 
 
