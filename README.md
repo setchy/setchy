@@ -85,17 +85,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [2 days ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [3 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -107,33 +107,33 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: adopt primer design system ui components](https://github.com/gitify-app/gitify/pull/1589) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: adopt primer design system ui components](https://github.com/gitify-app/gitify/pull/1589) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: prepare `v1.6.1` release](https://github.com/setchy/atlassify/pull/260) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v1.6.1` release](https://github.com/setchy/atlassify/pull/260) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v5.16.1` release](https://github.com/gitify-app/gitify/pull/1588) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v5.16.1` release](https://github.com/gitify-app/gitify/pull/1588) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: emoji parse for 🏖️](https://github.com/setchy/atlassify/pull/259) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix: emoji parse for 🏖️](https://github.com/setchy/atlassify/pull/259) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [fix: emoji parse for 🏖️](https://github.com/gitify-app/gitify/pull/1587) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: emoji parse for 🏖️](https://github.com/gitify-app/gitify/pull/1587) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: prepare `v1.6.0` release](https://github.com/setchy/atlassify/pull/255) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.6.0` release](https://github.com/setchy/atlassify/pull/255) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v5.16.0` release](https://github.com/gitify-app/gitify/pull/1585) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare `v5.16.0` release](https://github.com/gitify-app/gitify/pull/1585) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: discussions url](https://github.com/gitify-app/gitify/pull/1582) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: discussions url](https://github.com/gitify-app/gitify/pull/1582) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [test: coverage icons](https://github.com/setchy/atlassify/pull/251) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [test: coverage icons](https://github.com/setchy/atlassify/pull/251) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat: copy used emoji svgs](https://github.com/gitify-app/gitify/pull/1580) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: copy used emoji svgs](https://github.com/gitify-app/gitify/pull/1580) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: only copy used emoji svgs](https://github.com/setchy/atlassify/pull/250) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: only copy used emoji svgs](https://github.com/setchy/atlassify/pull/250) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat: add atlaskit package preset and group](https://github.com/renovatebot/renovate/pull/31872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [feat: add atlaskit package preset and group](https://github.com/renovatebot/renovate/pull/31872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [chore: support electron 32.x.x](https://github.com/max-mapper/menubar/pull/484) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [6 days ago]
+- MERGED - [chore: support electron 32.x.x](https://github.com/max-mapper/menubar/pull/484) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 week ago]
 
-- OPEN - [feat: update macOS asset matching](https://github.com/electron/update.electronjs.org/pull/169) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [6 days ago]
+- OPEN - [feat: update macOS asset matching](https://github.com/electron/update.electronjs.org/pull/169) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 week ago]
 
 - MERGED - [build: prepare `v1.5.0` release](https://github.com/setchy/atlassify/pull/224) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -151,13 +151,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) 3048⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3050⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 3⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21876⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21877⭐
 
-- [sst/ion](https://github.com/sst/ion) 2072⭐
+- [sst/ion](https://github.com/sst/ion) 2077⭐
 
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23217⭐
 
@@ -165,10 +165,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) 17⭐
 
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11459⭐
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11463⭐
 
-- [yaakapp/app](https://github.com/yaakapp/app) 1773⭐
+- [yaakapp/app](https://github.com/yaakapp/app) 1776⭐
 
-- [basecamp/omakub](https://github.com/basecamp/omakub) 5049⭐
+- [basecamp/omakub](https://github.com/basecamp/omakub) 5060⭐
 
 
