@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 week ago]
 
@@ -99,7 +99,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [4 weeks ago]
 
@@ -107,23 +107,25 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [chore(deps): update to electron 33.x.x](https://github.com/max-mapper/menubar/pull/486) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 days ago]
+- OPEN - [docs: fix code example vanilla-typescript.mdx](https://github.com/dotansimha/graphql-code-generator/pull/10174) to [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) [1 day ago]
 
-- MERGED - [feat: improve ux for all read with filters](https://github.com/setchy/atlassify/pull/270) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- OPEN - [chore(deps): update to electron 33.x.x](https://github.com/max-mapper/menubar/pull/486) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [4 days ago]
 
-- MERGED - [feat: tweak sidebar width](https://github.com/setchy/atlassify/pull/265) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat: improve ux for all read with filters](https://github.com/setchy/atlassify/pull/270) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: landing sidebar](https://github.com/setchy/atlassify/pull/264) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat: tweak sidebar width](https://github.com/setchy/atlassify/pull/265) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- OPEN - [refactor: adopt primer design system ui components](https://github.com/gitify-app/gitify/pull/1589) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: landing sidebar](https://github.com/setchy/atlassify/pull/264) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [build: prepare `v1.6.1` release](https://github.com/setchy/atlassify/pull/260) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [refactor: adopt primer design system ui components](https://github.com/gitify-app/gitify/pull/1589) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: prepare `v5.16.1` release](https://github.com/gitify-app/gitify/pull/1588) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v1.6.1` release](https://github.com/setchy/atlassify/pull/260) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix: emoji parse for 🏖️](https://github.com/setchy/atlassify/pull/259) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v5.16.1` release](https://github.com/gitify-app/gitify/pull/1588) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: emoji parse for 🏖️](https://github.com/gitify-app/gitify/pull/1587) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: emoji parse for 🏖️](https://github.com/setchy/atlassify/pull/259) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- MERGED - [fix: emoji parse for 🏖️](https://github.com/gitify-app/gitify/pull/1587) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [build: prepare `v1.6.0` release](https://github.com/setchy/atlassify/pull/255) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v1.5.0` release](https://github.com/setchy/atlassify/pull/224) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [build: prepare `v5.15.0` release](https://github.com/gitify-app/gitify/pull/1575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10825⭐
+
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 4⭐
 
-- [electron/electron](https://github.com/electron/electron) 114049⭐
+- [electron/electron](https://github.com/electron/electron) 114119⭐
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) 3066⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3072⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 4⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21895⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21900⭐
 
-- [sst/ion](https://github.com/sst/ion) 2123⭐
+- [sst/ion](https://github.com/sst/ion) 2130⭐
 
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23231⭐
 
 - [primer/design](https://github.com/primer/design) 641⭐
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) 17⭐
-
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) 11465⭐
 
 
