@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [3 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -107,17 +107,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [Feat/graphql codegen](https://github.com/setchy/atlassify/pull/282) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [feat: add graphql codegen](https://github.com/setchy/atlassify/pull/282) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- OPEN - [docs: fix code example vanilla-typescript.mdx](https://github.com/dotansimha/graphql-code-generator/pull/10174) to [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) [2 days ago]
+- OPEN - [docs: fix code example vanilla-typescript.mdx](https://github.com/dotansimha/graphql-code-generator/pull/10174) to [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) [3 days ago]
 
-- OPEN - [chore(deps): update to electron 33.x.x](https://github.com/max-mapper/menubar/pull/486) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [5 days ago]
+- OPEN - [chore(deps): update to electron 33.x.x](https://github.com/max-mapper/menubar/pull/486) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [6 days ago]
 
-- MERGED - [feat: improve ux for all read with filters](https://github.com/setchy/atlassify/pull/270) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: improve ux for all read with filters](https://github.com/setchy/atlassify/pull/270) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [feat: tweak sidebar width](https://github.com/setchy/atlassify/pull/265) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat: tweak sidebar width](https://github.com/setchy/atlassify/pull/265) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: landing sidebar](https://github.com/setchy/atlassify/pull/264) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: landing sidebar](https://github.com/setchy/atlassify/pull/264) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - OPEN - [refactor: adopt primer design system ui components](https://github.com/gitify-app/gitify/pull/1589) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -143,31 +143,31 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add atlaskit package preset and group](https://github.com/renovatebot/renovate/pull/31872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [chore: support electron 32.x.x](https://github.com/max-mapper/menubar/pull/484) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 week ago]
+- MERGED - [chore: support electron 32.x.x](https://github.com/max-mapper/menubar/pull/484) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 weeks ago]
 
-- OPEN - [feat: update macOS asset matching](https://github.com/electron/update.electronjs.org/pull/169) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 week ago]
+- OPEN - [feat: update macOS asset matching](https://github.com/electron/update.electronjs.org/pull/169) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10828⭐
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10829⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 4⭐
 
-- [electron/electron](https://github.com/electron/electron) 114130⭐
+- [electron/electron](https://github.com/electron/electron) 114141⭐
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) 3075⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3078⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 4⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21902⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21905⭐
 
-- [sst/ion](https://github.com/sst/ion) 2134⭐
+- [sst/ion](https://github.com/sst/ion) 2139⭐
 
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23230⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23231⭐
 
-- [primer/design](https://github.com/primer/design) 641⭐
+- [primer/design](https://github.com/primer/design) 642⭐
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) 17⭐
 
