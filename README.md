@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.  [1 day ago]
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.  [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [4 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [5 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -95,11 +95,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 week ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
@@ -107,11 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: enable theme selection](https://github.com/setchy/atlassify/pull/285) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [feat: enable theme selection](https://github.com/setchy/atlassify/pull/285) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: add graphql codegen and improve bad query error handling](https://github.com/setchy/atlassify/pull/282) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: add graphql codegen and improve bad query error handling](https://github.com/setchy/atlassify/pull/282) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [docs: fix code example vanilla-typescript.mdx](https://github.com/dotansimha/graphql-code-generator/pull/10174) to [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) [4 days ago]
+- MERGED - [docs: fix code example vanilla-typescript.mdx](https://github.com/dotansimha/graphql-code-generator/pull/10174) to [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) [5 days ago]
 
 - OPEN - [chore(deps): update to electron 33.x.x](https://github.com/max-mapper/menubar/pull/486) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 week ago]
 
@@ -143,7 +143,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: only copy used emoji svgs](https://github.com/setchy/atlassify/pull/250) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: add atlaskit package preset and group](https://github.com/renovatebot/renovate/pull/31872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [feat: add atlaskit package preset and group](https://github.com/renovatebot/renovate/pull/31872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [chore: support electron 32.x.x](https://github.com/max-mapper/menubar/pull/484) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 weeks ago]
 
@@ -151,21 +151,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10832⭐
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10834⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 4⭐
 
-- [electron/electron](https://github.com/electron/electron) 114164⭐
+- [electron/electron](https://github.com/electron/electron) 114179⭐
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) 3085⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3089⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 4⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21907⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21912⭐
 
-- [sst/ion](https://github.com/sst/ion) 2149⭐
+- [sst/ion](https://github.com/sst/ion) 2146⭐
 
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23235⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23238⭐
 
 - [primer/design](https://github.com/primer/design) 642⭐
 
