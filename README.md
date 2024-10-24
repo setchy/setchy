@@ -83,13 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.  [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.  [3 days ago]
+
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [6 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -97,21 +101,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
-
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
-
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: enable theme selection](https://github.com/setchy/atlassify/pull/285) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [feat: enable theme selection](https://github.com/setchy/atlassify/pull/285) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat: add graphql codegen and improve bad query error handling](https://github.com/setchy/atlassify/pull/282) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat: add graphql codegen and improve bad query error handling](https://github.com/setchy/atlassify/pull/282) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [docs: fix code example vanilla-typescript.mdx](https://github.com/dotansimha/graphql-code-generator/pull/10174) to [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) [5 days ago]
+- MERGED - [docs: fix code example vanilla-typescript.mdx](https://github.com/dotansimha/graphql-code-generator/pull/10174) to [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) [6 days ago]
 
 - OPEN - [chore(deps): update to electron 33.x.x](https://github.com/max-mapper/menubar/pull/486) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 week ago]
 
@@ -135,13 +135,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v5.16.0` release](https://github.com/gitify-app/gitify/pull/1585) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: discussions url](https://github.com/gitify-app/gitify/pull/1582) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: discussions url](https://github.com/gitify-app/gitify/pull/1582) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [test: coverage icons](https://github.com/setchy/atlassify/pull/251) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [test: coverage icons](https://github.com/setchy/atlassify/pull/251) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [feat: copy used emoji svgs](https://github.com/gitify-app/gitify/pull/1580) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: copy used emoji svgs](https://github.com/gitify-app/gitify/pull/1580) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: only copy used emoji svgs](https://github.com/setchy/atlassify/pull/250) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat: only copy used emoji svgs](https://github.com/setchy/atlassify/pull/250) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [feat: add atlaskit package preset and group](https://github.com/renovatebot/renovate/pull/31872) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
@@ -155,19 +155,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 4⭐
 
-- [electron/electron](https://github.com/electron/electron) 114179⭐
+- [electron/electron](https://github.com/electron/electron) 114189⭐
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) 3089⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3093⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 4⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21912⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21913⭐
 
-- [sst/ion](https://github.com/sst/ion) 2146⭐
+- [sst/ion](https://github.com/sst/ion) 2143⭐
 
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23238⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23241⭐
 
-- [primer/design](https://github.com/primer/design) 642⭐
+- [primer/design](https://github.com/primer/design) 645⭐
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) 17⭐
 
