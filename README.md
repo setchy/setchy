@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -107,17 +107,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(bitbucket): main branch status for mend app dashboard](https://github.com/renovatebot/renovate/pull/32165) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- OPEN - [feat(bitbucket): main branch status for mend app dashboard](https://github.com/renovatebot/renovate/pull/32165) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
-- MERGED - [build: prepare `v1.7.1` release](https://github.com/setchy/atlassify/pull/299) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v1.7.1` release](https://github.com/setchy/atlassify/pull/299) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix: scrollbar](https://github.com/setchy/atlassify/pull/298) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [fix: scrollbar](https://github.com/setchy/atlassify/pull/298) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [Revert &#34;feat: stable scrollbars&#34;](https://github.com/gitify-app/gitify/pull/1608) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [Revert &#34;feat: stable scrollbars&#34;](https://github.com/gitify-app/gitify/pull/1608) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: prepare `v1.7.0` release](https://github.com/setchy/atlassify/pull/296) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v1.7.0` release](https://github.com/setchy/atlassify/pull/296) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: stable scrollbars](https://github.com/gitify-app/gitify/pull/1603) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: stable scrollbars](https://github.com/gitify-app/gitify/pull/1603) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat: enable theme selection](https://github.com/setchy/atlassify/pull/285) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -151,23 +151,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 16357⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 16442⭐
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10835⭐
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10836⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 4⭐
 
-- [electron/electron](https://github.com/electron/electron) 114230⭐
+- [electron/electron](https://github.com/electron/electron) 114242⭐
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) 3115⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3123⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 4⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21925⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21928⭐
 
-- [sst/ion](https://github.com/sst/ion) 2137⭐
+- [sst/ion](https://github.com/sst/ion) 2136⭐
 
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23261⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23265⭐
 
 - [primer/design](https://github.com/primer/design) 648⭐
 
