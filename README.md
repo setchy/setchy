@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [1 week ago]
 
@@ -125,9 +125,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: fix code example vanilla-typescript.mdx](https://github.com/dotansimha/graphql-code-generator/pull/10174) to [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) [2 weeks ago]
 
-- OPEN - [chore(deps): update to electron 33.x.x](https://github.com/max-mapper/menubar/pull/486) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 weeks ago]
+- OPEN - [chore(deps): update to electron 33.x.x](https://github.com/max-mapper/menubar/pull/486) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 weeks ago]
 
-- MERGED - [feat: improve ux for all read with filters](https://github.com/setchy/atlassify/pull/270) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [feat: improve ux for all read with filters](https://github.com/setchy/atlassify/pull/270) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - MERGED - [feat: tweak sidebar width](https://github.com/setchy/atlassify/pull/265) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -151,21 +151,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21761⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21768⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 16723⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 16795⭐
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10837⭐
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10839⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 4⭐
 
-- [electron/electron](https://github.com/electron/electron) 114290⭐
+- [electron/electron](https://github.com/electron/electron) 114297⭐
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) 3130⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3132⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 4⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21938⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21942⭐
 
 - [sst/ion](https://github.com/sst/ion) 2132⭐
 
