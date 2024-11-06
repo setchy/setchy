@@ -87,17 +87,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [1 week ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
-
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.  [2 weeks ago]
 
@@ -106,6 +106,8 @@ Senior Executive (VP) // Architect // Developer
 #### 🎉 My recent pull requests
 
 
+
+- MERGED - [build: prepare `v5.16.2` release](https://github.com/gitify-app/gitify/pull/1623) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
 - OPEN - [feat(bitbucket): main branch status for mend app dashboard](https://github.com/renovatebot/renovate/pull/32165) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v1.6.0` release](https://github.com/setchy/atlassify/pull/255) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [build: prepare `v5.16.0` release](https://github.com/gitify-app/gitify/pull/1585) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21768⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21774⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 16795⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 16855⭐
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10839⭐
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10840⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 4⭐
 
-- [electron/electron](https://github.com/electron/electron) 114297⭐
+- [electron/electron](https://github.com/electron/electron) 114302⭐
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) 3132⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3135⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 4⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21942⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21945⭐
 
-- [sst/ion](https://github.com/sst/ion) 2132⭐
+- [sst/ion](https://github.com/sst/ion) 2131⭐
 
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23268⭐
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23273⭐
 
 
