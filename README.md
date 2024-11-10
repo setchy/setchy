@@ -83,39 +83,43 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [2 days ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [3 days ago]
 
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [2 days ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
-
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [1 week ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: add github status and astro-icons](https://github.com/setchy/atlassify/pull/333) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [refactor: astro icon local](https://github.com/setchy/atlassify/pull/339) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
 
-- MERGED - [docs: update debugging faq](https://github.com/setchy/atlassify/pull/326) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [chore(deps): update @atlaskit primitives and tooltip](https://github.com/setchy/atlassify/pull/338) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: use constants (shared, renderer, main) for common vars](https://github.com/setchy/atlassify/pull/325) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: add github status and astro-icons](https://github.com/setchy/atlassify/pull/333) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v5.16.2` release](https://github.com/gitify-app/gitify/pull/1623) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [docs: update debugging faq](https://github.com/setchy/atlassify/pull/326) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- OPEN - [feat(bitbucket): main branch status for mend app dashboard](https://github.com/renovatebot/renovate/pull/32165) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor: use constants (shared, renderer, main) for common vars](https://github.com/setchy/atlassify/pull/325) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- MERGED - [build: prepare `v5.16.2` release](https://github.com/gitify-app/gitify/pull/1623) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- OPEN - [feat(bitbucket): main branch status for mend app dashboard](https://github.com/renovatebot/renovate/pull/32165) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [build: prepare `v1.7.1` release](https://github.com/setchy/atlassify/pull/299) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -143,32 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [refactor: adopt primer design system ui components](https://github.com/gitify-app/gitify/pull/1589) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
-- MERGED - [build: prepare `v1.6.1` release](https://github.com/setchy/atlassify/pull/260) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
-
-- MERGED - [build: prepare `v5.16.1` release](https://github.com/gitify-app/gitify/pull/1588) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21792⭐
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 1⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 17047⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21797⭐
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10846⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 17086⭐
+
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10847⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 5⭐
 
-- [electron/electron](https://github.com/electron/electron) 114331⭐
+- [electron/electron](https://github.com/electron/electron) 114342⭐
 
-- [getgrit/gritql](https://github.com/getgrit/gritql) 3144⭐
+- [getgrit/gritql](https://github.com/getgrit/gritql) 3146⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 6⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21955⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21957⭐
 
 - [sst/ion](https://github.com/sst/ion) 2130⭐
-
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) 23275⭐
 
 
