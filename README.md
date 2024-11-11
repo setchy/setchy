@@ -85,17 +85,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [3 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [3 days ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -107,17 +107,25 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: astro icon local](https://github.com/setchy/atlassify/pull/339) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+- MERGED - [fix: hide repo stats on small screens](https://github.com/gitify-app/website/pull/261) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
 
-- MERGED - [chore(deps): update @atlaskit primitives and tooltip](https://github.com/setchy/atlassify/pull/338) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [refactor: octokit openapi types](https://github.com/gitify-app/gitify/pull/1626) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: add github status and astro-icons](https://github.com/setchy/atlassify/pull/333) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: docs](https://github.com/setchy/atlassify/pull/340) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [docs: update debugging faq](https://github.com/setchy/atlassify/pull/326) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat: github stats, astro icons and octokit](https://github.com/gitify-app/website/pull/260) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
 
-- MERGED - [refactor: use constants (shared, renderer, main) for common vars](https://github.com/setchy/atlassify/pull/325) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: astro icon local](https://github.com/setchy/atlassify/pull/339) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [build: prepare `v5.16.2` release](https://github.com/gitify-app/gitify/pull/1623) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [chore(deps): update @atlaskit primitives and tooltip](https://github.com/setchy/atlassify/pull/338) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+
+- MERGED - [feat: add github status and astro-icons](https://github.com/setchy/atlassify/pull/333) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+
+- MERGED - [docs: update debugging faq](https://github.com/setchy/atlassify/pull/326) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+
+- MERGED - [refactor: use constants (shared, renderer, main) for common vars](https://github.com/setchy/atlassify/pull/325) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+
+- MERGED - [build: prepare `v5.16.2` release](https://github.com/gitify-app/gitify/pull/1623) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - OPEN - [feat(bitbucket): main branch status for mend app dashboard](https://github.com/renovatebot/renovate/pull/32165) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
@@ -131,7 +139,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: stable scrollbars](https://github.com/gitify-app/gitify/pull/1603) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: enable theme selection](https://github.com/setchy/atlassify/pull/285) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [feat: enable theme selection](https://github.com/setchy/atlassify/pull/285) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - MERGED - [feat: add graphql codegen and improve bad query error handling](https://github.com/setchy/atlassify/pull/282) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -139,36 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [chore(deps): update to electron 33.x.x](https://github.com/max-mapper/menubar/pull/486) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 weeks ago]
 
-- MERGED - [feat: improve ux for all read with filters](https://github.com/setchy/atlassify/pull/270) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
-
-- MERGED - [feat: tweak sidebar width](https://github.com/setchy/atlassify/pull/265) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
-
-- MERGED - [refactor: landing sidebar](https://github.com/setchy/atlassify/pull/264) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
-
-- OPEN - [refactor: adopt primer design system ui components](https://github.com/gitify-app/gitify/pull/1589) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 1⭐
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21797⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21801⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 17086⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 17140⭐
 
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10847⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 5⭐
 
-- [electron/electron](https://github.com/electron/electron) 114342⭐
+- [electron/electron](https://github.com/electron/electron) 114354⭐
 
 - [getgrit/gritql](https://github.com/getgrit/gritql) 3146⭐
 
 - [jucr-io/pathfinder](https://github.com/jucr-io/pathfinder) 6⭐
 
-- [chalk/chalk](https://github.com/chalk/chalk) 21957⭐
+- [chalk/chalk](https://github.com/chalk/chalk) 21959⭐
 
-- [sst/ion](https://github.com/sst/ion) 2130⭐
+- [sst/ion](https://github.com/sst/ion) 2129⭐
 
 
