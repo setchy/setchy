@@ -85,9 +85,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
@@ -97,41 +97,43 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [2 weeks ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [feat(icons): use line-md download icon](https://github.com/gitify-app/website/pull/268) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- OPEN - [refactor: migrate site to astro](https://github.com/setchy/meme-driven.dev/pull/1) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 day ago]
 
-- MERGED - [feat(icons): use line-md download icon](https://github.com/setchy/atlassify/pull/352) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat(icons): use line-md download icon](https://github.com/gitify-app/website/pull/268) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- CLOSED - [test: netlify deploy ignore](https://github.com/setchy/atlassify/pull/346) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat(icons): use line-md download icon](https://github.com/setchy/atlassify/pull/352) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- CLOSED - [docs: readme test](https://github.com/setchy/atlassify/pull/345) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- CLOSED - [test: netlify deploy ignore](https://github.com/setchy/atlassify/pull/346) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- CLOSED - [docs: test preview branch builds](https://github.com/setchy/atlassify/pull/344) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- CLOSED - [docs: readme test](https://github.com/setchy/atlassify/pull/345) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [docs(faq): view app log menu](https://github.com/gitify-app/website/pull/264) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
+- CLOSED - [docs: test preview branch builds](https://github.com/setchy/atlassify/pull/344) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: tray icons](https://github.com/gitify-app/gitify/pull/1633) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [docs(faq): view app log menu](https://github.com/gitify-app/website/pull/264) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
 
-- MERGED - [feat(menu): view application logs](https://github.com/gitify-app/gitify/pull/1632) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: tray icons](https://github.com/gitify-app/gitify/pull/1633) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [fix: hide repo stats on small screens](https://github.com/gitify-app/website/pull/261) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [feat(menu): view application logs](https://github.com/gitify-app/gitify/pull/1632) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- OPEN - [refactor: octokit openapi types](https://github.com/gitify-app/gitify/pull/1626) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: hide repo stats on small screens](https://github.com/gitify-app/website/pull/261) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [refactor: docs](https://github.com/setchy/atlassify/pull/340) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [refactor: octokit openapi types](https://github.com/gitify-app/gitify/pull/1626) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: github stats, astro icons and octokit](https://github.com/gitify-app/website/pull/260) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [refactor: docs](https://github.com/setchy/atlassify/pull/340) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: astro icon local](https://github.com/setchy/atlassify/pull/339) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat: github stats, astro icons and octokit](https://github.com/gitify-app/website/pull/260) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+
+- MERGED - [refactor: astro icon local](https://github.com/setchy/atlassify/pull/339) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [chore(deps): update @atlaskit primitives and tooltip](https://github.com/setchy/atlassify/pull/338) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -143,17 +145,15 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v5.16.2` release](https://github.com/gitify-app/gitify/pull/1623) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [feat(bitbucket): main branch status for mend app dashboard](https://github.com/renovatebot/renovate/pull/32165) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
-
-- MERGED - [build: prepare `v1.7.1` release](https://github.com/setchy/atlassify/pull/299) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- OPEN - [feat(bitbucket): main branch status for mend app dashboard](https://github.com/renovatebot/renovate/pull/32165) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [dockur/macos](https://github.com/dockur/macos) 7697⭐
+- [dockur/macos](https://github.com/dockur/macos) 8058⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 28658⭐
+- [dockur/windows](https://github.com/dockur/windows) 28771⭐
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 47⭐
 
@@ -163,12 +163,12 @@ Senior Executive (VP) // Architect // Developer
 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) 21834⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 17264⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 17280⭐
 
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10856⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 5⭐
 
-- [electron/electron](https://github.com/electron/electron) 114414⭐
+- [electron/electron](https://github.com/electron/electron) 114424⭐
 
 
