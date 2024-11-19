@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
-
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -97,31 +97,31 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - My homebrews [3 weeks ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: netlify deploy main](https://github.com/setchy/atlassify/pull/355) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: netlify deploy main](https://github.com/setchy/atlassify/pull/355) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [docs: refactor formatting](https://github.com/setchy/atlassify/pull/354) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [docs: refactor formatting](https://github.com/setchy/atlassify/pull/354) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: migrate site to astro](https://github.com/setchy/meme-driven.dev/pull/1) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 days ago]
+- MERGED - [refactor: migrate site to astro](https://github.com/setchy/meme-driven.dev/pull/1) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [3 days ago]
 
-- MERGED - [feat(icons): use line-md download icon](https://github.com/gitify-app/website/pull/268) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
+- MERGED - [feat(icons): use line-md download icon](https://github.com/gitify-app/website/pull/268) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
 
-- MERGED - [feat(icons): use line-md download icon](https://github.com/setchy/atlassify/pull/352) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat(icons): use line-md download icon](https://github.com/setchy/atlassify/pull/352) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- CLOSED - [test: netlify deploy ignore](https://github.com/setchy/atlassify/pull/346) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- CLOSED - [test: netlify deploy ignore](https://github.com/setchy/atlassify/pull/346) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- CLOSED - [docs: readme test](https://github.com/setchy/atlassify/pull/345) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- CLOSED - [docs: readme test](https://github.com/setchy/atlassify/pull/345) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- CLOSED - [docs: test preview branch builds](https://github.com/setchy/atlassify/pull/344) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- CLOSED - [docs: test preview branch builds](https://github.com/setchy/atlassify/pull/344) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - MERGED - [docs(faq): view app log menu](https://github.com/gitify-app/website/pull/264) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [dockur/macos](https://github.com/dockur/macos) 8226⭐
+- [dockur/macos](https://github.com/dockur/macos) 8390⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 28965⭐
+- [dockur/windows](https://github.com/dockur/windows) 29125⭐
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 47⭐
 
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 281⭐
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 2⭐
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 4⭐
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21841⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21850⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 17288⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 17305⭐
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10856⭐
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10855⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 5⭐
 
-- [electron/electron](https://github.com/electron/electron) 114428⭐
+- [electron/electron](https://github.com/electron/electron) 114437⭐
 
 
