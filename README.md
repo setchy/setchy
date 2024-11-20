@@ -85,11 +85,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -107,21 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: netlify deploy main](https://github.com/setchy/atlassify/pull/355) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [feat: add time-sensitive notification filters](https://github.com/setchy/atlassify/pull/358) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [docs: refactor formatting](https://github.com/setchy/atlassify/pull/354) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: netlify deploy main](https://github.com/setchy/atlassify/pull/355) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: migrate site to astro](https://github.com/setchy/meme-driven.dev/pull/1) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [3 days ago]
+- MERGED - [docs: refactor formatting](https://github.com/setchy/atlassify/pull/354) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat(icons): use line-md download icon](https://github.com/gitify-app/website/pull/268) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [refactor: migrate site to astro](https://github.com/setchy/meme-driven.dev/pull/1) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [4 days ago]
 
-- MERGED - [feat(icons): use line-md download icon](https://github.com/setchy/atlassify/pull/352) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat(icons): use line-md download icon](https://github.com/gitify-app/website/pull/268) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
 
-- CLOSED - [test: netlify deploy ignore](https://github.com/setchy/atlassify/pull/346) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat(icons): use line-md download icon](https://github.com/setchy/atlassify/pull/352) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- CLOSED - [docs: readme test](https://github.com/setchy/atlassify/pull/345) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- CLOSED - [test: netlify deploy ignore](https://github.com/setchy/atlassify/pull/346) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- CLOSED - [docs: test preview branch builds](https://github.com/setchy/atlassify/pull/344) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- CLOSED - [docs: readme test](https://github.com/setchy/atlassify/pull/345) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- CLOSED - [docs: test preview branch builds](https://github.com/setchy/atlassify/pull/344) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [docs(faq): view app log menu](https://github.com/gitify-app/website/pull/264) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
@@ -143,32 +145,30 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add github status and astro-icons](https://github.com/setchy/atlassify/pull/333) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [docs: update debugging faq](https://github.com/setchy/atlassify/pull/326) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [refactor: use constants (shared, renderer, main) for common vars](https://github.com/setchy/atlassify/pull/325) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [docs: update debugging faq](https://github.com/setchy/atlassify/pull/326) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [dockur/macos](https://github.com/dockur/macos) 8390⭐
+- [dockur/macos](https://github.com/dockur/macos) 8592⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 29125⭐
+- [dockur/windows](https://github.com/dockur/windows) 29272⭐
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 47⭐
 
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 281⭐
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 4⭐
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 5⭐
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21850⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21857⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 17305⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 17318⭐
 
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10855⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 5⭐
 
-- [electron/electron](https://github.com/electron/electron) 114437⭐
+- [electron/electron](https://github.com/electron/electron) 114449⭐
 
 
