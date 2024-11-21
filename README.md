@@ -85,39 +85,53 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) -  [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 week ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [2 weeks ago]
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 week ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [2 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: add time-sensitive notification filters](https://github.com/setchy/atlassify/pull/358) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [feat: migrate to atlaskit new visual icons](https://github.com/setchy/atlassify/pull/363) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: netlify deploy main](https://github.com/setchy/atlassify/pull/355) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- OPEN - [Update dependency @atlaskit/heading to v3](https://github.com/setchy/renovate-atlaskit-changelog/pull/7) to [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) [1 day ago]
 
-- MERGED - [docs: refactor formatting](https://github.com/setchy/atlassify/pull/354) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- OPEN - [Update Atlassian Atlaskit packages](https://github.com/setchy/renovate-atlaskit-changelog/pull/6) to [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) [1 day ago]
 
-- MERGED - [refactor: migrate site to astro](https://github.com/setchy/meme-driven.dev/pull/1) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [4 days ago]
+- CLOSED - [Update dependency @atlaskit/avatar to v21.17.2 - autoclosed](https://github.com/setchy/renovate-atlaskit-changelog/pull/5) to [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) [1 day ago]
 
-- MERGED - [feat(icons): use line-md download icon](https://github.com/gitify-app/website/pull/268) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
+- OPEN - [Update pnpm to v9.14.2](https://github.com/setchy/renovate-atlaskit-changelog/pull/4) to [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) [1 day ago]
 
-- MERGED - [feat(icons): use line-md download icon](https://github.com/setchy/atlassify/pull/352) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- CLOSED - [Update dependency @atlaskit/heading to v3 - autoclosed](https://github.com/setchy/renovate-atlaskit-changelog/pull/3) to [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) [1 day ago]
+
+- CLOSED - [foo](https://github.com/setchy/renovate-atlaskit-changelog/pull/2) to [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) [1 day ago]
+
+- MERGED - [feat: add time-sensitive notification filters](https://github.com/setchy/atlassify/pull/358) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+
+- MERGED - [feat: netlify deploy main](https://github.com/setchy/atlassify/pull/355) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- MERGED - [docs: refactor formatting](https://github.com/setchy/atlassify/pull/354) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- MERGED - [refactor: migrate site to astro](https://github.com/setchy/meme-driven.dev/pull/1) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [5 days ago]
+
+- MERGED - [feat(icons): use line-md download icon](https://github.com/gitify-app/website/pull/268) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+
+- MERGED - [feat(icons): use line-md download icon](https://github.com/setchy/atlassify/pull/352) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - CLOSED - [test: netlify deploy ignore](https://github.com/setchy/atlassify/pull/346) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -133,27 +147,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: hide repo stats on small screens](https://github.com/gitify-app/website/pull/261) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- OPEN - [refactor: octokit openapi types](https://github.com/gitify-app/gitify/pull/1626) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: docs](https://github.com/setchy/atlassify/pull/340) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [feat: github stats, astro icons and octokit](https://github.com/gitify-app/website/pull/260) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
-
-- MERGED - [refactor: astro icon local](https://github.com/setchy/atlassify/pull/339) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [chore(deps): update @atlaskit primitives and tooltip](https://github.com/setchy/atlassify/pull/338) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [feat: add github status and astro-icons](https://github.com/setchy/atlassify/pull/333) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [docs: update debugging faq](https://github.com/setchy/atlassify/pull/326) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [dockur/macos](https://github.com/dockur/macos) 8592⭐
+- [dockur/macos](https://github.com/dockur/macos) 8710⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 29272⭐
+- [dockur/windows](https://github.com/dockur/windows) 29384⭐
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 47⭐
 
@@ -161,14 +161,14 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 5⭐
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21857⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21869⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 17318⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 17367⭐
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10855⭐
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10858⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 5⭐
 
-- [electron/electron](https://github.com/electron/electron) 114449⭐
+- [electron/electron](https://github.com/electron/electron) 114466⭐
 
 
