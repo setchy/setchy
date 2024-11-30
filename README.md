@@ -83,51 +83,53 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
+- [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [1 day ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 days ago]
+- [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
 
-- [setchy/renovate-atlaskit-changelog-two](https://github.com/setchy/renovate-atlaskit-changelog-two) -  [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) -  [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [setchy/renovate-atlaskit-changelog-two](https://github.com/setchy/renovate-atlaskit-changelog-two) -  [6 days ago]
+
+- [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) -  [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [fix: win32 asset matching pattern](https://github.com/electron/update.electronjs.org/pull/175) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [4 days ago]
+- MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [1 day ago]
 
-- OPEN - [Update dependency @atlaskit/heading to v3](https://github.com/setchy/renovate-atlaskit-changelog-two/pull/3) to [setchy/renovate-atlaskit-changelog-two](https://github.com/setchy/renovate-atlaskit-changelog-two) [5 days ago]
+- OPEN - [fix: win32 asset matching pattern](https://github.com/electron/update.electronjs.org/pull/175) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [5 days ago]
 
-- OPEN - [Update Atlassian Atlaskit packages](https://github.com/setchy/renovate-atlaskit-changelog-two/pull/2) to [setchy/renovate-atlaskit-changelog-two](https://github.com/setchy/renovate-atlaskit-changelog-two) [5 days ago]
+- OPEN - [Update dependency @atlaskit/heading to v3](https://github.com/setchy/renovate-atlaskit-changelog-two/pull/3) to [setchy/renovate-atlaskit-changelog-two](https://github.com/setchy/renovate-atlaskit-changelog-two) [6 days ago]
 
-- OPEN - [Update pnpm to v9.14.2](https://github.com/setchy/renovate-atlaskit-changelog-two/pull/1) to [setchy/renovate-atlaskit-changelog-two](https://github.com/setchy/renovate-atlaskit-changelog-two) [5 days ago]
+- OPEN - [Update Atlassian Atlaskit packages](https://github.com/setchy/renovate-atlaskit-changelog-two/pull/2) to [setchy/renovate-atlaskit-changelog-two](https://github.com/setchy/renovate-atlaskit-changelog-two) [6 days ago]
 
-- MERGED - [feat: convert `sourceDirectory` to a template eligible config](https://github.com/renovatebot/renovate/pull/32701) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [Update pnpm to v9.14.2](https://github.com/setchy/renovate-atlaskit-changelog-two/pull/1) to [setchy/renovate-atlaskit-changelog-two](https://github.com/setchy/renovate-atlaskit-changelog-two) [6 days ago]
 
-- MERGED - [refactor: update filters match expressions to include space](https://github.com/setchy/atlassify/pull/379) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: convert `sourceDirectory` to a template eligible config](https://github.com/renovatebot/renovate/pull/32701) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- MERGED - [fix(bitbucket): release notes heading link](https://github.com/renovatebot/renovate/pull/32693) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [refactor: update filters match expressions to include space](https://github.com/setchy/atlassify/pull/379) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- CLOSED - [Configure Renovate - autoclosed](https://github.com/setchy/renovate-atlaskit-changelog/pull/10) to [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) [6 days ago]
+- MERGED - [fix(bitbucket): release notes heading link](https://github.com/renovatebot/renovate/pull/32693) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat(bitbucket): support fetching changelogs with source directory](https://github.com/renovatebot/renovate/pull/32691) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- CLOSED - [Configure Renovate - autoclosed](https://github.com/setchy/renovate-atlaskit-changelog/pull/10) to [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) [1 week ago]
 
-- CLOSED - [feat: update atlaskit package preset for changelog retrieval](https://github.com/renovatebot/renovate/pull/32690) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [feat(bitbucket): support fetching changelogs with source directory](https://github.com/renovatebot/renovate/pull/32691) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [fix(bitbucket): source link root path](https://github.com/renovatebot/renovate/pull/32689) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- CLOSED - [feat: update atlaskit package preset for changelog retrieval](https://github.com/renovatebot/renovate/pull/32690) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+
+- MERGED - [fix(bitbucket): source link root path](https://github.com/renovatebot/renovate/pull/32689) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [fix: Revert &#34;fix(bitbucket): source link root path&#34;](https://github.com/renovatebot/renovate/pull/32680) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -145,17 +147,15 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [foo](https://github.com/setchy/renovate-atlaskit-changelog/pull/7) to [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) [1 week ago]
 
-- CLOSED - [foo](https://github.com/setchy/renovate-atlaskit-changelog/pull/6) to [setchy/renovate-atlaskit-changelog](https://github.com/setchy/renovate-atlaskit-changelog) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [desktop/desktop](https://github.com/desktop/desktop) 19916⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 19918⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9117⭐
+- [dockur/macos](https://github.com/dockur/macos) 9145⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 29954⭐
+- [dockur/windows](https://github.com/dockur/windows) 30029⭐
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 48⭐
 
@@ -163,11 +163,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 6⭐
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21926⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21933⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 17531⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 17547⭐
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10866⭐
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10871⭐
 
 - [apollosolutions/schema-shaker](https://github.com/apollosolutions/schema-shaker) 5⭐
 
