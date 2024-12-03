@@ -83,35 +83,35 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
+- [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [4 days ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [5 days ago]
+- [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [6 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: add codeowners file for PR auto-reviewer](https://github.com/max-mapper/menubar/pull/488) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 day ago]
+- OPEN - [feat: add codeowners file for PR auto-reviewer](https://github.com/max-mapper/menubar/pull/488) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 days ago]
 
-- MERGED - [feat: x twitter](https://github.com/setchy/setchy.github.io/pull/38) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [2 days ago]
+- MERGED - [feat: x twitter](https://github.com/setchy/setchy.github.io/pull/38) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [3 days ago]
 
-- MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [3 days ago]
+- MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [4 days ago]
 
 - OPEN - [fix: win32 asset matching pattern](https://github.com/electron/update.electronjs.org/pull/175) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 week ago]
 
@@ -137,7 +137,7 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat: migrate to atlaskit new visual icons](https://github.com/setchy/atlassify/pull/363) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: add time-sensitive notification filters](https://github.com/setchy/atlassify/pull/358) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat: add time-sensitive notification filters](https://github.com/setchy/atlassify/pull/358) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [feat: netlify deploy main](https://github.com/setchy/atlassify/pull/355) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -151,23 +151,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 212⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 246⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 19925⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 19930⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9183⭐
+- [dockur/macos](https://github.com/dockur/macos) 9206⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 30123⭐
+- [dockur/windows](https://github.com/dockur/windows) 30186⭐
 
-- [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 48⭐
+- [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 49⭐
 
-- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 284⭐
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 285⭐
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 6⭐
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21939⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21945⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 17575⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 17589⭐
 
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10877⭐
 
