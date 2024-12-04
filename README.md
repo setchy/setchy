@@ -87,31 +87,37 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
-- [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [4 days ago]
+- [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [5 days ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [6 days ago]
+- [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [5 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 week ago]
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
-
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: add codeowners file for PR auto-reviewer](https://github.com/max-mapper/menubar/pull/488) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 days ago]
+- MERGED - [refactor: use `split button` component for zoom appearance controls](https://github.com/setchy/atlassify/pull/400) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: x twitter](https://github.com/setchy/setchy.github.io/pull/38) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [3 days ago]
+- MERGED - [refactor: switch reset appearance icon](https://github.com/setchy/atlassify/pull/399) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [4 days ago]
+- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/396) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- OPEN - [feat: add codeowners file for PR auto-reviewer](https://github.com/max-mapper/menubar/pull/488) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 days ago]
+
+- MERGED - [feat: x twitter](https://github.com/setchy/setchy.github.io/pull/38) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [4 days ago]
+
+- MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [5 days ago]
 
 - OPEN - [fix: win32 asset matching pattern](https://github.com/electron/update.electronjs.org/pull/175) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 week ago]
 
@@ -135,29 +141,23 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v1.8.0` release](https://github.com/setchy/atlassify/pull/368) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [feat: migrate to atlaskit new visual icons](https://github.com/setchy/atlassify/pull/363) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- OPEN - [feat: migrate to atlaskit new visual icons](https://github.com/setchy/atlassify/pull/363) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [feat: add time-sensitive notification filters](https://github.com/setchy/atlassify/pull/358) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [feat: netlify deploy main](https://github.com/setchy/atlassify/pull/355) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [docs: refactor formatting](https://github.com/setchy/atlassify/pull/354) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-
-- MERGED - [refactor: migrate site to astro](https://github.com/setchy/meme-driven.dev/pull/1) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 weeks ago]
-
-- MERGED - [feat(icons): use line-md download icon](https://github.com/gitify-app/website/pull/268) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 246⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 268⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 19930⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 19940⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9206⭐
+- [dockur/macos](https://github.com/dockur/macos) 9244⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 30186⭐
+- [dockur/windows](https://github.com/dockur/windows) 30265⭐
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 49⭐
 
@@ -165,10 +165,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 6⭐
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21945⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21949⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 17589⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 17604⭐
 
-- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10877⭐
+- [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) 10879⭐
 
 
