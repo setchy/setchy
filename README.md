@@ -89,15 +89,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
-- [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [6 days ago]
+- [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [1 week ago]
 
-- [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [6 days ago]
+- [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [1 week ago]
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 week ago]
 
@@ -107,19 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: lighthouse seo anchors](https://github.com/setchy/meme-driven.dev/pull/21) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 day ago]
+- MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
 
-- MERGED - [refactor: use `split button` component for zoom appearance controls](https://github.com/setchy/atlassify/pull/400) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [update renovate color](https://github.com/simple-icons/simple-icons/pull/12290) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [1 day ago]
 
-- MERGED - [refactor: switch reset appearance icon](https://github.com/setchy/atlassify/pull/399) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: lighthouse seo anchors](https://github.com/setchy/meme-driven.dev/pull/21) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 days ago]
 
-- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/396) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: use `split button` component for zoom appearance controls](https://github.com/setchy/atlassify/pull/400) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- OPEN - [feat: add codeowners file for PR auto-reviewer](https://github.com/max-mapper/menubar/pull/488) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [4 days ago]
+- MERGED - [refactor: switch reset appearance icon](https://github.com/setchy/atlassify/pull/399) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat: x twitter](https://github.com/setchy/setchy.github.io/pull/38) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [5 days ago]
+- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/396) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [6 days ago]
+- OPEN - [feat: add codeowners file for PR auto-reviewer](https://github.com/max-mapper/menubar/pull/488) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [5 days ago]
+
+- MERGED - [feat: x twitter](https://github.com/setchy/setchy.github.io/pull/38) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [6 days ago]
+
+- MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [1 week ago]
 
 - OPEN - [fix: win32 asset matching pattern](https://github.com/electron/update.electronjs.org/pull/175) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 week ago]
 
@@ -135,17 +139,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix(bitbucket): source link root path](https://github.com/renovatebot/renovate/pull/32689) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [fix: Revert &#34;fix(bitbucket): source link root path&#34;](https://github.com/renovatebot/renovate/pull/32680) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [fix: Revert &#34;fix(bitbucket): source link root path&#34;](https://github.com/renovatebot/renovate/pull/32680) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [fix(bitbucket): source link root path](https://github.com/renovatebot/renovate/pull/32676) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [fix(bitbucket): source link root path](https://github.com/renovatebot/renovate/pull/32676) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [fix: padding on error page](https://github.com/setchy/atlassify/pull/373) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [fix: padding on error page](https://github.com/setchy/atlassify/pull/373) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [build: prepare `v1.8.0` release](https://github.com/setchy/atlassify/pull/368) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-
-- OPEN - [feat: migrate to atlaskit new visual icons](https://github.com/setchy/atlassify/pull/363) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-
-- MERGED - [feat: add time-sensitive notification filters](https://github.com/setchy/atlassify/pull/358) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -153,13 +153,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 10⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 282⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 286⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 19948⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 19951⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9306⭐
+- [dockur/macos](https://github.com/dockur/macos) 9370⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 30409⭐
+- [dockur/windows](https://github.com/dockur/windows) 30496⭐
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 49⭐
 
@@ -167,8 +167,8 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 6⭐
 
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21957⭐
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) 21964⭐
 
-- [hcengineering/platform](https://github.com/hcengineering/platform) 17613⭐
+- [hcengineering/platform](https://github.com/hcengineering/platform) 17632⭐
 
 
