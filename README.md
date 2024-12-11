@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [4 days ago]
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [5 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [5 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [6 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -101,19 +101,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [1 week ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 week ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
+- MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
 
-- MERGED - [Update Renovate color](https://github.com/simple-icons/simple-icons/pull/12290) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [5 days ago]
+- MERGED - [Update Renovate color](https://github.com/simple-icons/simple-icons/pull/12290) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [6 days ago]
 
-- MERGED - [fix: lighthouse seo anchors](https://github.com/setchy/meme-driven.dev/pull/21) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [6 days ago]
+- MERGED - [fix: lighthouse seo anchors](https://github.com/setchy/meme-driven.dev/pull/21) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 week ago]
 
 - MERGED - [refactor: use `split button` component for zoom appearance controls](https://github.com/setchy/atlassify/pull/400) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -151,23 +151,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 216⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 218⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 76278⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 76362⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 10⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 321⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 324⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 19965⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 19967⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9443⭐
+- [dockur/macos](https://github.com/dockur/macos) 9491⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 30673⭐
+- [dockur/windows](https://github.com/dockur/windows) 30717⭐
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 50⭐
 
-- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 286⭐
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 288⭐
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 6⭐
 
