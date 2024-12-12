@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [6 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [6 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -107,11 +107,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: prepare `v5.17.0` release](https://github.com/gitify-app/gitify/pull/1670) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [Update Renovate color](https://github.com/simple-icons/simple-icons/pull/12290) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [6 days ago]
+- MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+
+- MERGED - [Update Renovate color](https://github.com/simple-icons/simple-icons/pull/12290) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [1 week ago]
 
 - MERGED - [fix: lighthouse seo anchors](https://github.com/setchy/meme-driven.dev/pull/21) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 week ago]
 
@@ -145,29 +147,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix(bitbucket): source link root path](https://github.com/renovatebot/renovate/pull/32676) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [fix: padding on error page](https://github.com/setchy/atlassify/pull/373) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 218⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 220⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 76362⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 76434⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 10⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 324⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 330⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 19967⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 19971⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9491⭐
+- [dockur/macos](https://github.com/dockur/macos) 9571⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 30717⭐
+- [dockur/windows](https://github.com/dockur/windows) 30772⭐
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 50⭐
 
-- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 288⭐
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 289⭐
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 6⭐
 
