@@ -85,9 +85,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [6 days ago]
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [1 week ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -97,9 +97,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [1 week ago]
+- [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [2 weeks ago]
 
-- [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [1 week ago]
+- [WorldKinect/.github](https://github.com/WorldKinect/.github) -  [2 weeks ago]
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 weeks ago]
 
@@ -107,9 +107,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v5.17.0` release](https://github.com/gitify-app/gitify/pull/1670) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: use semver to parse header and perform comparisons](https://github.com/gitify-app/gitify/pull/1673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: extract feature based utils](https://github.com/gitify-app/gitify/pull/1672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [build: prepare `v5.17.0` release](https://github.com/gitify-app/gitify/pull/1670) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
@@ -127,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: x twitter](https://github.com/setchy/setchy.github.io/pull/38) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 week ago]
 
-- MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [1 week ago]
+- MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [2 weeks ago]
 
 - OPEN - [fix: win32 asset matching pattern](https://github.com/electron/update.electronjs.org/pull/175) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [2 weeks ago]
 
@@ -143,32 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix(bitbucket): source link root path](https://github.com/renovatebot/renovate/pull/32689) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [fix: Revert &#34;fix(bitbucket): source link root path&#34;](https://github.com/renovatebot/renovate/pull/32680) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
-
-- MERGED - [fix(bitbucket): source link root path](https://github.com/renovatebot/renovate/pull/32676) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 220⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 11419⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 76434⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 222⭐
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 76508⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 10⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 330⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 335⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 19971⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 19972⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9571⭐
+- [dockur/macos](https://github.com/dockur/macos) 9653⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 30772⭐
+- [dockur/windows](https://github.com/dockur/windows) 30812⭐
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 50⭐
 
-- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 289⭐
-
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) 6⭐
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 291⭐
 
 
