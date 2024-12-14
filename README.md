@@ -95,7 +95,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
 - [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [2 weeks ago]
 
@@ -107,11 +107,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: use semver to parse header and perform comparisons](https://github.com/gitify-app/gitify/pull/1673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: improve version handling robustness](https://github.com/gitify-app/gitify/pull/1674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: extract feature based utils](https://github.com/gitify-app/gitify/pull/1672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: use semver to parse header and perform comparisons](https://github.com/gitify-app/gitify/pull/1673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: prepare `v5.17.0` release](https://github.com/gitify-app/gitify/pull/1670) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: extract feature based utils](https://github.com/gitify-app/gitify/pull/1672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [build: prepare `v5.17.0` release](https://github.com/gitify-app/gitify/pull/1670) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
 - MERGED - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -129,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat: add codeowners file for PR auto-reviewer](https://github.com/max-mapper/menubar/pull/488) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 week ago]
 
-- MERGED - [feat: x twitter](https://github.com/setchy/setchy.github.io/pull/38) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 week ago]
+- MERGED - [feat: x twitter](https://github.com/setchy/setchy.github.io/pull/38) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [2 weeks ago]
 
 - MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [2 weeks ago]
 
@@ -139,36 +141,34 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: update filters match expressions to include space](https://github.com/setchy/atlassify/pull/379) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [fix(bitbucket): release notes heading link](https://github.com/renovatebot/renovate/pull/32693) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [fix(bitbucket): release notes heading link](https://github.com/renovatebot/renovate/pull/32693) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- MERGED - [feat(bitbucket): support fetching changelogs with source directory](https://github.com/renovatebot/renovate/pull/32691) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [feat(bitbucket): support fetching changelogs with source directory](https://github.com/renovatebot/renovate/pull/32691) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- CLOSED - [feat: update atlaskit package preset for changelog retrieval](https://github.com/renovatebot/renovate/pull/32690) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
-
-- MERGED - [fix(bitbucket): source link root path](https://github.com/renovatebot/renovate/pull/32689) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- CLOSED - [feat: update atlaskit package preset for changelog retrieval](https://github.com/renovatebot/renovate/pull/32690) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 11419⭐
+- [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 2⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 222⭐
+- [Platane/snk](https://github.com/Platane/snk) 4506⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 76508⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 11483⭐
+
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 224⭐
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 76571⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 10⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 335⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 337⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 19972⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 19977⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9653⭐
+- [dockur/macos](https://github.com/dockur/macos) 9699⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 30812⭐
-
-- [AOEpeople/techradar](https://github.com/AOEpeople/techradar) 50⭐
-
-- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) 291⭐
+- [dockur/windows](https://github.com/dockur/windows) 30836⭐
 
 
