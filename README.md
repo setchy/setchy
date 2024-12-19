@@ -83,47 +83,47 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
+
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
 
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [1 week ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
-
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
-- [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - A schema-first tool for graphql-java inspired by graphql-tools for JS [2 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: migrate to new sonar scan action](https://github.com/setchy/atlassify/pull/431) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: migrate to new sonar scan action](https://github.com/setchy/atlassify/pull/431) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: add padding to accounts footer](https://github.com/setchy/atlassify/pull/430) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: add padding to accounts footer](https://github.com/setchy/atlassify/pull/430) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: improve version handling robustness](https://github.com/gitify-app/gitify/pull/1674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: improve version handling robustness](https://github.com/gitify-app/gitify/pull/1674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [refactor: use semver to parse header and perform comparisons](https://github.com/gitify-app/gitify/pull/1673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: use semver to parse header and perform comparisons](https://github.com/gitify-app/gitify/pull/1673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: extract feature based utils](https://github.com/gitify-app/gitify/pull/1672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: extract feature based utils](https://github.com/gitify-app/gitify/pull/1672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [build: prepare `v5.17.0` release](https://github.com/gitify-app/gitify/pull/1670) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+- MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
 
-- MERGED - [Update Renovate color](https://github.com/simple-icons/simple-icons/pull/12290) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [1 week ago]
+- MERGED - [Update Renovate color](https://github.com/simple-icons/simple-icons/pull/12290) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [2 weeks ago]
 
 - MERGED - [fix: lighthouse seo anchors](https://github.com/setchy/meme-driven.dev/pull/21) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 2⭐
+- [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4514⭐
+- [Platane/snk](https://github.com/Platane/snk) 4518⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 12090⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 12396⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 228⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 232⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 76783⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 76838⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 11⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 346⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 352⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 19985⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 19998⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9755⭐
+- [dockur/macos](https://github.com/dockur/macos) 9773⭐
 
-- [dockur/windows](https://github.com/dockur/windows) 30930⭐
+- [dockur/windows](https://github.com/dockur/windows) 30960⭐
 
 
