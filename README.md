@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
@@ -107,9 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: migrate to new sonar scan action](https://github.com/setchy/atlassify/pull/431) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- OPEN - [refactor(logging): improve details in logs](https://github.com/gitify-app/gitify/pull/1681) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: add padding to accounts footer](https://github.com/setchy/atlassify/pull/430) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: migrate to new sonar scan action](https://github.com/setchy/atlassify/pull/431) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+
+- MERGED - [refactor: add padding to accounts footer](https://github.com/setchy/atlassify/pull/430) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - MERGED - [feat: improve version handling robustness](https://github.com/gitify-app/gitify/pull/1674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -139,36 +141,34 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: update website url](https://github.com/graphql-java-kickstart/graphql-java-tools/pull/793) to [graphql-java-kickstart/graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) [3 weeks ago]
 
-- OPEN - [fix: win32 asset matching pattern](https://github.com/electron/update.electronjs.org/pull/175) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [3 weeks ago]
+- OPEN - [fix: win32 asset matching pattern](https://github.com/electron/update.electronjs.org/pull/175) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [4 weeks ago]
 
 - MERGED - [feat: convert `sourceDirectory` to a template eligible config](https://github.com/renovatebot/renovate/pull/32701) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
 - MERGED - [refactor: update filters match expressions to include space](https://github.com/setchy/atlassify/pull/379) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
-- MERGED - [fix(bitbucket): release notes heading link](https://github.com/renovatebot/renovate/pull/32693) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 25822⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 26298⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4524⭐
+- [Platane/snk](https://github.com/Platane/snk) 4527⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 13768⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 14042⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 254⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 256⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 77021⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 77048⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 11⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 368⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 398⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 20029⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 20033⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9798⭐
+- [dockur/macos](https://github.com/dockur/macos) 9807⭐
 
 
