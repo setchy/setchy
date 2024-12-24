@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [5 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [6 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
@@ -99,7 +99,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [2 weeks ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
@@ -107,11 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor(logging): improve details in logs](https://github.com/gitify-app/gitify/pull/1681) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor(logging): improve details in logs](https://github.com/gitify-app/gitify/pull/1681) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: migrate to new sonar scan action](https://github.com/setchy/atlassify/pull/431) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: migrate to new sonar scan action](https://github.com/setchy/atlassify/pull/431) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: add padding to accounts footer](https://github.com/setchy/atlassify/pull/430) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: add padding to accounts footer](https://github.com/setchy/atlassify/pull/430) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [feat: improve version handling robustness](https://github.com/gitify-app/gitify/pull/1674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -129,11 +129,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: lighthouse seo anchors](https://github.com/setchy/meme-driven.dev/pull/21) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 weeks ago]
 
-- MERGED - [refactor: use `split button` component for zoom appearance controls](https://github.com/setchy/atlassify/pull/400) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [refactor: use `split button` component for zoom appearance controls](https://github.com/setchy/atlassify/pull/400) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [refactor: switch reset appearance icon](https://github.com/setchy/atlassify/pull/399) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [refactor: switch reset appearance icon](https://github.com/setchy/atlassify/pull/399) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/396) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/396) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - OPEN - [feat: add codeowners file for PR auto-reviewer](https://github.com/max-mapper/menubar/pull/488) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 weeks ago]
 
@@ -143,32 +143,32 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [fix: win32 asset matching pattern](https://github.com/electron/update.electronjs.org/pull/175) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [4 weeks ago]
 
-- MERGED - [feat: convert `sourceDirectory` to a template eligible config](https://github.com/renovatebot/renovate/pull/32701) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
+- MERGED - [feat: convert `sourceDirectory` to a template eligible config](https://github.com/renovatebot/renovate/pull/32701) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
-- MERGED - [refactor: update filters match expressions to include space](https://github.com/setchy/atlassify/pull/379) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [refactor: update filters match expressions to include space](https://github.com/setchy/atlassify/pull/379) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 26298⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 26767⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4527⭐
+- [Platane/snk](https://github.com/Platane/snk) 4528⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 14042⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 14228⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 256⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 260⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 77048⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 77103⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 11⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 398⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 413⭐
 
 - [desktop/desktop](https://github.com/desktop/desktop) 20033⭐
 
-- [dockur/macos](https://github.com/dockur/macos) 9807⭐
+- [dockur/macos](https://github.com/dockur/macos) 9817⭐
 
 
