@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [6 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
@@ -107,19 +107,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [fix: github app url](https://github.com/gitify-app/gitify/pull/1698) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [fix: github app url](https://github.com/gitify-app/gitify/pull/1698) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: limit auto updater](https://github.com/gitify-app/gitify/pull/1694) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: limit auto updater](https://github.com/gitify-app/gitify/pull/1694) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [refactor(shared): create `electron-log` wrapper](https://github.com/gitify-app/gitify/pull/1692) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [refactor(shared): create `electron-log` wrapper](https://github.com/gitify-app/gitify/pull/1692) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: animate account refresh](https://github.com/setchy/atlassify/pull/471) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat: animate account refresh](https://github.com/setchy/atlassify/pull/471) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix(deps): downgrade @primer/octicons-react due to UI regression](https://github.com/gitify-app/gitify/pull/1690) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix(deps): downgrade @primer/octicons-react due to UI regression](https://github.com/gitify-app/gitify/pull/1690) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [feat: combine unread/read toggle into standard filter option](https://github.com/setchy/atlassify/pull/470) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [feat: combine unread/read toggle into standard filter option](https://github.com/setchy/atlassify/pull/470) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: animate account refresh button](https://github.com/gitify-app/gitify/pull/1689) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: animate account refresh button](https://github.com/gitify-app/gitify/pull/1689) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat(accounts): warn when missing scopes](https://github.com/gitify-app/gitify/pull/1688) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -133,17 +133,17 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: improve version handling robustness](https://github.com/gitify-app/gitify/pull/1674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: use semver to parse header and perform comparisons](https://github.com/gitify-app/gitify/pull/1673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [refactor: use semver to parse header and perform comparisons](https://github.com/gitify-app/gitify/pull/1673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [refactor: extract feature based utils](https://github.com/gitify-app/gitify/pull/1672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [refactor: extract feature based utils](https://github.com/gitify-app/gitify/pull/1672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [build: prepare `v5.17.0` release](https://github.com/gitify-app/gitify/pull/1670) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [3 weeks ago]
+- MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [4 weeks ago]
 
-- MERGED - [Update Renovate color](https://github.com/simple-icons/simple-icons/pull/12290) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [3 weeks ago]
+- MERGED - [Update Renovate color](https://github.com/simple-icons/simple-icons/pull/12290) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [4 weeks ago]
 
 - MERGED - [fix: lighthouse seo anchors](https://github.com/setchy/meme-driven.dev/pull/21) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [4 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2262⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2275⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 29644⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 29896⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4554⭐
+- [Platane/snk](https://github.com/Platane/snk) 4557⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15340⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15473⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 308⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 309⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 77508⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 77536⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 13⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 431⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 432⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 20047⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 20051⭐
 
 
