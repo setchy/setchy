@@ -83,17 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves. [1 day ago]
+- [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves. [2 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
@@ -107,13 +107,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [chore: bump node to latest lts](https://github.com/electron/update.electronjs.org/pull/176) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 day ago]
+- OPEN - [docs(readme): update routes section](https://github.com/electron/update.electronjs.org/pull/177) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 day ago]
 
-- OPEN - [build: prepare `v5.18.0` release](https://github.com/gitify-app/gitify/pull/1705) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [chore: bump node to latest lts](https://github.com/electron/update.electronjs.org/pull/176) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [2 days ago]
 
-- MERGED - [fix: github app url](https://github.com/gitify-app/gitify/pull/1698) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [build: prepare `v5.18.0` release](https://github.com/gitify-app/gitify/pull/1705) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: limit auto updater](https://github.com/gitify-app/gitify/pull/1694) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: github app url](https://github.com/gitify-app/gitify/pull/1698) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [feat: limit auto updater](https://github.com/gitify-app/gitify/pull/1694) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor(shared): create `electron-log` wrapper](https://github.com/gitify-app/gitify/pull/1692) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -129,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: tailwind motion](https://github.com/setchy/meme-driven.dev/pull/31) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 week ago]
 
-- MERGED - [refactor(logging): improve details in logs](https://github.com/gitify-app/gitify/pull/1681) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor(logging): improve details in logs](https://github.com/gitify-app/gitify/pull/1681) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [build: migrate to new sonar scan action](https://github.com/setchy/atlassify/pull/431) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -143,32 +145,30 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v5.17.0` release](https://github.com/gitify-app/gitify/pull/1670) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
-
-- MERGED - [feat(lighthouse): increase alternate download tap targets](https://github.com/gitify-app/website/pull/286) to [gitify-app/website](https://github.com/gitify-app/website) [1 month ago]
+- MERGED - [fix(discussions): answered discussions only available in GHES 3.12 or higher](https://github.com/gitify-app/gitify/pull/1665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2339⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2384⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 31426⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 31832⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4567⭐
+- [Platane/snk](https://github.com/Platane/snk) 4569⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15587⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15611⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 319⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 320⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 77664⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 77708⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 13⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 433⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 432⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 20050⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 20056⭐
 
 
