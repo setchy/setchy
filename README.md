@@ -83,49 +83,49 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
 
-- [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) -  [1 day ago]
+- [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) -  [2 days ago]
 
-- [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves. [1 day ago]
+- [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves. [2 days ago]
 
-- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. [1 day ago]
+- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [5 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [6 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [Update dependency com.netflix.graphql.dgs:graphql-dgs-platform-dependencies to v10](https://github.com/setchy/test-dgs-replacement/pull/3) to [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) [1 day ago]
+- OPEN - [Update dependency com.netflix.graphql.dgs:graphql-dgs-platform-dependencies to v10](https://github.com/setchy/test-dgs-replacement/pull/3) to [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) [2 days ago]
 
-- OPEN - [Update dependency com.netflix.graphql.dgs:graphql-dgs-platform-dependencies to v9.2.2](https://github.com/setchy/test-dgs-replacement/pull/2) to [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) [1 day ago]
+- OPEN - [Update dependency com.netflix.graphql.dgs:graphql-dgs-platform-dependencies to v9.2.2](https://github.com/setchy/test-dgs-replacement/pull/2) to [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) [2 days ago]
 
-- MERGED - [Configure Renovate](https://github.com/setchy/test-dgs-replacement/pull/1) to [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) [1 day ago]
+- MERGED - [Configure Renovate](https://github.com/setchy/test-dgs-replacement/pull/1) to [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) [2 days ago]
 
-- OPEN - [feat(preset): netflix dgs spring starters](https://github.com/renovatebot/renovate/pull/33447) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [feat(preset): netflix dgs spring starters](https://github.com/renovatebot/renovate/pull/33447) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [feat: update to DGS 10.x](https://github.com/setchy/dgs-extended-formatters/pull/324) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- MERGED - [feat: update to DGS 10.x](https://github.com/setchy/dgs-extended-formatters/pull/324) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [2 days ago]
 
-- MERGED - [docs: update 10.x group name](https://github.com/Netflix/dgs-framework/pull/2103) to [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) [1 day ago]
+- MERGED - [docs: update 10.x group name](https://github.com/Netflix/dgs-framework/pull/2103) to [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) [2 days ago]
 
-- MERGED - [docs: asset naming convention](https://github.com/electron/update.electronjs.org/pull/178) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [3 days ago]
+- MERGED - [docs: asset naming convention](https://github.com/electron/update.electronjs.org/pull/178) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [4 days ago]
 
-- MERGED - [docs(readme): update routes section](https://github.com/electron/update.electronjs.org/pull/177) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [4 days ago]
+- MERGED - [docs(readme): update routes section](https://github.com/electron/update.electronjs.org/pull/177) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [5 days ago]
 
-- OPEN - [chore(deps): bump node to latest lts](https://github.com/electron/update.electronjs.org/pull/176) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [5 days ago]
+- OPEN - [chore(deps): bump node to latest lts](https://github.com/electron/update.electronjs.org/pull/176) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [6 days ago]
 
-- OPEN - [build: prepare `v5.18.0` release](https://github.com/gitify-app/gitify/pull/1705) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [build: prepare `v5.18.0` release](https://github.com/gitify-app/gitify/pull/1705) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [fix: github app url](https://github.com/gitify-app/gitify/pull/1698) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -133,13 +133,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor(shared): create `electron-log` wrapper](https://github.com/gitify-app/gitify/pull/1692) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: animate account refresh](https://github.com/setchy/atlassify/pull/471) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat: animate account refresh](https://github.com/setchy/atlassify/pull/471) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [fix(deps): downgrade @primer/octicons-react due to UI regression](https://github.com/gitify-app/gitify/pull/1690) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix(deps): downgrade @primer/octicons-react due to UI regression](https://github.com/gitify-app/gitify/pull/1690) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- OPEN - [feat: combine unread/read toggle into standard filter option](https://github.com/setchy/atlassify/pull/470) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- OPEN - [feat: combine unread/read toggle into standard filter option](https://github.com/setchy/atlassify/pull/470) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [feat: animate account refresh button](https://github.com/gitify-app/gitify/pull/1689) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: animate account refresh button](https://github.com/gitify-app/gitify/pull/1689) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [feat(accounts): warn when missing scopes](https://github.com/gitify-app/gitify/pull/1688) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2513⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2533⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 32813⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 33102⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4578⭐
+- [Platane/snk](https://github.com/Platane/snk) 4579⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15704⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15735⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 330⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 333⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 77954⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 78047⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 13⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 434⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 435⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 20058⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 20059⭐
 
 
