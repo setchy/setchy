@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
 
 - [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) -  [1 week ago]
 
@@ -107,15 +107,33 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: auto update progress and cancelled events](https://github.com/gitify-app/gitify/pull/1715) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: macos code signing](https://github.com/gitify-app/gitify/pull/1725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: add shared logger helper](https://github.com/setchy/atlassify/pull/516) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: github workflows](https://github.com/setchy/atlassify/pull/526) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat(updates): log download progress and cancelled](https://github.com/setchy/atlassify/pull/515) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: simplify action triggers](https://github.com/gitify-app/gitify/pull/1724) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: use url constants](https://github.com/gitify-app/website/pull/315) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [feat: add `failed at startup` checksuite handling](https://github.com/gitify-app/gitify/pull/1723) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v1.9.0` release](https://github.com/setchy/atlassify/pull/500) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: action trigger logic](https://github.com/gitify-app/gitify/pull/1722) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [feat: reusable github action workflows](https://github.com/gitify-app/gitify/pull/1721) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [feat: reusable actions workflows](https://github.com/setchy/atlassify/pull/525) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [feat: optimize github action workflows](https://github.com/gitify-app/gitify/pull/1720) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [feat: optimize github action workflows](https://github.com/setchy/atlassify/pull/518) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [feat: auto update progress and cancelled events](https://github.com/gitify-app/gitify/pull/1715) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [refactor: add shared logger helper](https://github.com/setchy/atlassify/pull/516) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- MERGED - [feat(updates): log download progress and cancelled](https://github.com/setchy/atlassify/pull/515) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- MERGED - [refactor: use url constants](https://github.com/gitify-app/website/pull/315) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
+
+- MERGED - [build: prepare `v1.9.0` release](https://github.com/setchy/atlassify/pull/500) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - OPEN - [Update dependency com.netflix.graphql.dgs:graphql-dgs-platform-dependencies to v10](https://github.com/setchy/test-dgs-replacement/pull/3) to [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) [1 week ago]
 
@@ -129,46 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: update 10.x group name](https://github.com/Netflix/dgs-framework/pull/2103) to [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) [1 week ago]
 
-- MERGED - [docs: asset naming convention](https://github.com/electron/update.electronjs.org/pull/178) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 week ago]
-
-- MERGED - [docs(readme): update routes section](https://github.com/electron/update.electronjs.org/pull/177) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 week ago]
-
-- OPEN - [chore(deps): bump node to latest lts](https://github.com/electron/update.electronjs.org/pull/176) to [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) [1 week ago]
-
-- OPEN - [build: prepare `v5.18.0` release](https://github.com/gitify-app/gitify/pull/1705) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [fix: github app url](https://github.com/gitify-app/gitify/pull/1698) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [feat: limit auto updater](https://github.com/gitify-app/gitify/pull/1694) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [refactor(shared): create `electron-log` wrapper](https://github.com/gitify-app/gitify/pull/1692) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [feat: animate account refresh](https://github.com/setchy/atlassify/pull/471) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-
-- MERGED - [fix(deps): downgrade @primer/octicons-react due to UI regression](https://github.com/gitify-app/gitify/pull/1690) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2597⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2610⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 33802⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 33924⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4593⭐
+- [Platane/snk](https://github.com/Platane/snk) 4594⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15823⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15837⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 340⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 341⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 78443⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 78538⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 14⭐
 
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 437⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 20083⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 20086⭐
 
 
