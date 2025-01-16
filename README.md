@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
 
 - [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) -  [1 week ago]
 
@@ -107,33 +107,33 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: macos code signing](https://github.com/gitify-app/gitify/pull/1725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: macos code signing](https://github.com/gitify-app/gitify/pull/1725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: github workflows](https://github.com/setchy/atlassify/pull/526) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: github workflows](https://github.com/setchy/atlassify/pull/526) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: simplify action triggers](https://github.com/gitify-app/gitify/pull/1724) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: simplify action triggers](https://github.com/gitify-app/gitify/pull/1724) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: add `failed at startup` checksuite handling](https://github.com/gitify-app/gitify/pull/1723) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: add `failed at startup` checksuite handling](https://github.com/gitify-app/gitify/pull/1723) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: action trigger logic](https://github.com/gitify-app/gitify/pull/1722) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: action trigger logic](https://github.com/gitify-app/gitify/pull/1722) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: reusable github action workflows](https://github.com/gitify-app/gitify/pull/1721) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: reusable github action workflows](https://github.com/gitify-app/gitify/pull/1721) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: reusable actions workflows](https://github.com/setchy/atlassify/pull/525) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: reusable actions workflows](https://github.com/setchy/atlassify/pull/525) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: optimize github action workflows](https://github.com/gitify-app/gitify/pull/1720) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: optimize github action workflows](https://github.com/gitify-app/gitify/pull/1720) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: optimize github action workflows](https://github.com/setchy/atlassify/pull/518) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: optimize github action workflows](https://github.com/setchy/atlassify/pull/518) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: auto update progress and cancelled events](https://github.com/gitify-app/gitify/pull/1715) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: auto update progress and cancelled events](https://github.com/gitify-app/gitify/pull/1715) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: add shared logger helper](https://github.com/setchy/atlassify/pull/516) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: add shared logger helper](https://github.com/setchy/atlassify/pull/516) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [feat(updates): log download progress and cancelled](https://github.com/setchy/atlassify/pull/515) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat(updates): log download progress and cancelled](https://github.com/setchy/atlassify/pull/515) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: use url constants](https://github.com/gitify-app/website/pull/315) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
+- MERGED - [refactor: use url constants](https://github.com/gitify-app/website/pull/315) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
 
-- MERGED - [build: prepare `v1.9.0` release](https://github.com/setchy/atlassify/pull/500) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v1.9.0` release](https://github.com/setchy/atlassify/pull/500) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - OPEN - [Update dependency com.netflix.graphql.dgs:graphql-dgs-platform-dependencies to v10](https://github.com/setchy/test-dgs-replacement/pull/3) to [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2610⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2624⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 33924⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 34051⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4594⭐
+- [Platane/snk](https://github.com/Platane/snk) 4596⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15837⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15847⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 341⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 340⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 78538⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 78640⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 14⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 437⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 438⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 20086⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 20092⭐
 
 
