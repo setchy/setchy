@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) -  [1 week ago]
 
@@ -101,37 +101,39 @@ Senior Executive (VP) // Architect // Developer
 
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [fix: macos code signing](https://github.com/gitify-app/gitify/pull/1725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [Update Renovate icon](https://github.com/simple-icons/simple-icons/pull/12584) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [1 day ago]
 
-- MERGED - [refactor: github workflows](https://github.com/setchy/atlassify/pull/526) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: macos code signing](https://github.com/gitify-app/gitify/pull/1725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: simplify action triggers](https://github.com/gitify-app/gitify/pull/1724) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: github workflows](https://github.com/setchy/atlassify/pull/526) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat: add `failed at startup` checksuite handling](https://github.com/gitify-app/gitify/pull/1723) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: simplify action triggers](https://github.com/gitify-app/gitify/pull/1724) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: action trigger logic](https://github.com/gitify-app/gitify/pull/1722) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: add `failed at startup` checksuite handling](https://github.com/gitify-app/gitify/pull/1723) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: reusable github action workflows](https://github.com/gitify-app/gitify/pull/1721) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: action trigger logic](https://github.com/gitify-app/gitify/pull/1722) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: reusable actions workflows](https://github.com/setchy/atlassify/pull/525) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: reusable github action workflows](https://github.com/gitify-app/gitify/pull/1721) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: optimize github action workflows](https://github.com/gitify-app/gitify/pull/1720) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: reusable actions workflows](https://github.com/setchy/atlassify/pull/525) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat: optimize github action workflows](https://github.com/setchy/atlassify/pull/518) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: optimize github action workflows](https://github.com/gitify-app/gitify/pull/1720) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: auto update progress and cancelled events](https://github.com/gitify-app/gitify/pull/1715) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: optimize github action workflows](https://github.com/setchy/atlassify/pull/518) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: add shared logger helper](https://github.com/setchy/atlassify/pull/516) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: auto update progress and cancelled events](https://github.com/gitify-app/gitify/pull/1715) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat(updates): log download progress and cancelled](https://github.com/setchy/atlassify/pull/515) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: add shared logger helper](https://github.com/setchy/atlassify/pull/516) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor: use url constants](https://github.com/gitify-app/website/pull/315) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [feat(updates): log download progress and cancelled](https://github.com/setchy/atlassify/pull/515) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+
+- MERGED - [refactor: use url constants](https://github.com/gitify-app/website/pull/315) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
 - MERGED - [build: prepare `v1.9.0` release](https://github.com/setchy/atlassify/pull/500) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: update to DGS 10.x](https://github.com/setchy/dgs-extended-formatters/pull/324) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 week ago]
 
-- MERGED - [docs: update 10.x group name](https://github.com/Netflix/dgs-framework/pull/2103) to [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2624⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2635⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 34051⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 34189⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4596⭐
+- [Platane/snk](https://github.com/Platane/snk) 4599⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15847⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15856⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 340⭐
+- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 342⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 78640⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 78754⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 14⭐
 
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 438⭐
 
-- [desktop/desktop](https://github.com/desktop/desktop) 20092⭐
+- [desktop/desktop](https://github.com/desktop/desktop) 20094⭐
 
 
