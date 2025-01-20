@@ -85,13 +85,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
-
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) -  [1 week ago]
 
@@ -107,63 +107,63 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v1.10.0` release](https://github.com/setchy/atlassify/pull/545) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: namespaced events](https://github.com/gitify-app/gitify/pull/1738) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [fix: only inspect errors when fetched notifications exist](https://github.com/gitify-app/gitify/pull/1732) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: linux check for updates](https://github.com/setchy/atlassify/pull/553) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: only set error state if there are accounts](https://github.com/setchy/atlassify/pull/544) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: linux check for updates](https://github.com/gitify-app/gitify/pull/1737) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: add no updates available menu item](https://github.com/setchy/atlassify/pull/543) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: platform shared util](https://github.com/gitify-app/gitify/pull/1736) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: error tray icon](https://github.com/setchy/atlassify/pull/535) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix: update context menus](https://github.com/gitify-app/gitify/pull/1735) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: layout components](https://github.com/setchy/atlassify/pull/534) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: move platform utils to shared](https://github.com/setchy/atlassify/pull/552) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [Update Renovate icon](https://github.com/simple-icons/simple-icons/pull/12584) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [3 days ago]
+- MERGED - [refactor: rename shared events utils](https://github.com/setchy/atlassify/pull/551) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: macos code signing](https://github.com/gitify-app/gitify/pull/1725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: disable updater for linux](https://github.com/setchy/atlassify/pull/550) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: github workflows](https://github.com/setchy/atlassify/pull/526) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: download progress precision](https://github.com/gitify-app/gitify/pull/1734) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: simplify action triggers](https://github.com/gitify-app/gitify/pull/1724) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: download progress precision](https://github.com/setchy/atlassify/pull/549) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: add `failed at startup` checksuite handling](https://github.com/gitify-app/gitify/pull/1723) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: prepare `v1.11.0` release](https://github.com/setchy/atlassify/pull/548) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: action trigger logic](https://github.com/gitify-app/gitify/pull/1722) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: tailwind colors](https://github.com/setchy/atlassify/pull/547) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: reusable github action workflows](https://github.com/gitify-app/gitify/pull/1721) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: prepare `v1.10.0` release](https://github.com/setchy/atlassify/pull/545) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: reusable actions workflows](https://github.com/setchy/atlassify/pull/525) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [fix: only inspect errors when fetched notifications exist](https://github.com/gitify-app/gitify/pull/1732) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: optimize github action workflows](https://github.com/gitify-app/gitify/pull/1720) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: only set error state if there are accounts](https://github.com/setchy/atlassify/pull/544) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: optimize github action workflows](https://github.com/setchy/atlassify/pull/518) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: add no updates available menu item](https://github.com/setchy/atlassify/pull/543) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: auto update progress and cancelled events](https://github.com/gitify-app/gitify/pull/1715) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: error tray icon](https://github.com/setchy/atlassify/pull/535) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: add shared logger helper](https://github.com/setchy/atlassify/pull/516) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [refactor: layout components](https://github.com/setchy/atlassify/pull/534) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat(updates): log download progress and cancelled](https://github.com/setchy/atlassify/pull/515) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- OPEN - [Update Renovate icon](https://github.com/simple-icons/simple-icons/pull/12584) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [4 days ago]
 
-- MERGED - [refactor: use url constants](https://github.com/gitify-app/website/pull/315) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+- MERGED - [fix: macos code signing](https://github.com/gitify-app/gitify/pull/1725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2643⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2648⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 34550⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 34739⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4605⭐
+- [Platane/snk](https://github.com/Platane/snk) 4608⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15868⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15869⭐
 
-- [haydenbleasel/roadmap-ui](https://github.com/haydenbleasel/roadmap-ui) 346⭐
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 349⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 78933⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 78986⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 14⭐
 
