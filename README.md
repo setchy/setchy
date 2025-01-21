@@ -83,92 +83,92 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [1 day ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) -  [2 weeks ago]
 
-- [setchy/test-dgs-replacement](https://github.com/setchy/test-dgs-replacement) -  [1 week ago]
+- [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves. [2 weeks ago]
 
-- [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves. [1 week ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 weeks ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
-
-- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. [1 week ago]
-
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
+- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [refactor: namespaced events](https://github.com/gitify-app/gitify/pull/1738) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: use Icon instead of deprecated Octicon component](https://github.com/gitify-app/gitify/pull/1747) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: linux check for updates](https://github.com/setchy/atlassify/pull/553) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [Update Dialog import](https://github.com/primer/react/pull/5574) to [primer/react](https://github.com/primer/react) [1 day ago]
 
-- MERGED - [feat: linux check for updates](https://github.com/gitify-app/gitify/pull/1737) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: x overflow always hidden](https://github.com/gitify-app/gitify/pull/1744) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: platform shared util](https://github.com/gitify-app/gitify/pull/1736) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: log when scopes missing](https://github.com/gitify-app/gitify/pull/1743) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: update context menus](https://github.com/gitify-app/gitify/pull/1735) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: error tray icon](https://github.com/gitify-app/gitify/pull/1742) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: move platform utils to shared](https://github.com/setchy/atlassify/pull/552) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: scrollbar styling](https://github.com/gitify-app/gitify/pull/1741) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: rename shared events utils](https://github.com/setchy/atlassify/pull/551) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix: update available](https://github.com/gitify-app/gitify/pull/1740) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: disable updater for linux](https://github.com/setchy/atlassify/pull/550) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: native and filter notification utils](https://github.com/gitify-app/gitify/pull/1739) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: download progress precision](https://github.com/gitify-app/gitify/pull/1734) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- CLOSED - [test: rename native tests](https://github.com/setchy/atlassify/pull/555) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: download progress precision](https://github.com/setchy/atlassify/pull/549) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [test: rename native tests](https://github.com/setchy/atlassify/pull/554) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [build: prepare `v1.11.0` release](https://github.com/setchy/atlassify/pull/548) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: namespaced events](https://github.com/gitify-app/gitify/pull/1738) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: tailwind colors](https://github.com/setchy/atlassify/pull/547) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: linux check for updates](https://github.com/setchy/atlassify/pull/553) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v1.10.0` release](https://github.com/setchy/atlassify/pull/545) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: linux check for updates](https://github.com/gitify-app/gitify/pull/1737) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: only inspect errors when fetched notifications exist](https://github.com/gitify-app/gitify/pull/1732) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: platform shared util](https://github.com/gitify-app/gitify/pull/1736) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: only set error state if there are accounts](https://github.com/setchy/atlassify/pull/544) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: update context menus](https://github.com/gitify-app/gitify/pull/1735) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: add no updates available menu item](https://github.com/setchy/atlassify/pull/543) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: move platform utils to shared](https://github.com/setchy/atlassify/pull/552) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: error tray icon](https://github.com/setchy/atlassify/pull/535) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: rename shared events utils](https://github.com/setchy/atlassify/pull/551) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: layout components](https://github.com/setchy/atlassify/pull/534) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: disable updater for linux](https://github.com/setchy/atlassify/pull/550) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- OPEN - [Update Renovate icon](https://github.com/simple-icons/simple-icons/pull/12584) to [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) [4 days ago]
+- MERGED - [feat: download progress precision](https://github.com/gitify-app/gitify/pull/1734) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: macos code signing](https://github.com/gitify-app/gitify/pull/1725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: download progress precision](https://github.com/setchy/atlassify/pull/549) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2648⭐
+- [primer/react](https://github.com/primer/react) 3343⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 34739⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2661⭐
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 34972⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 3⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4608⭐
+- [Platane/snk](https://github.com/Platane/snk) 4611⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15869⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15872⭐
 
-- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 349⭐
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 365⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 78986⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 79043⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 14⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 438⭐
-
-- [desktop/desktop](https://github.com/desktop/desktop) 20101⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 440⭐
 
 
