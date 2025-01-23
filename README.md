@@ -85,13 +85,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [2 days ago]
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -107,45 +107,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: adopt RelativeTime primer component](https://github.com/gitify-app/gitify/pull/1750) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: simplify field components](https://github.com/gitify-app/gitify/pull/1756) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: continue migration to primer design tokens](https://github.com/gitify-app/gitify/pull/1749) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: remove unused tooltip option](https://github.com/gitify-app/gitify/pull/1755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: use Icon instead of deprecated Octicon component](https://github.com/gitify-app/gitify/pull/1747) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: shrink sidebar width](https://github.com/gitify-app/gitify/pull/1754) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [Update Dialog import](https://github.com/primer/react/pull/5574) to [primer/react](https://github.com/primer/react) [2 days ago]
+- MERGED - [refactor: notification footer](https://github.com/gitify-app/gitify/pull/1753) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: x overflow always hidden](https://github.com/gitify-app/gitify/pull/1744) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat: primer color schemes](https://github.com/gitify-app/gitify/pull/1752) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: log when scopes missing](https://github.com/gitify-app/gitify/pull/1743) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: adopt RelativeTime primer component](https://github.com/gitify-app/gitify/pull/1750) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: error tray icon](https://github.com/gitify-app/gitify/pull/1742) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: continue primer component and design token migration](https://github.com/gitify-app/gitify/pull/1749) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: scrollbar styling](https://github.com/gitify-app/gitify/pull/1741) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: use Icon instead of deprecated Octicon component](https://github.com/gitify-app/gitify/pull/1747) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: update available](https://github.com/gitify-app/gitify/pull/1740) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [Update Dialog import](https://github.com/primer/react/pull/5574) to [primer/react](https://github.com/primer/react) [3 days ago]
 
-- MERGED - [refactor: native and filter notification utils](https://github.com/gitify-app/gitify/pull/1739) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: x overflow always hidden](https://github.com/gitify-app/gitify/pull/1744) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- CLOSED - [test: rename native tests](https://github.com/setchy/atlassify/pull/555) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: log when scopes missing](https://github.com/gitify-app/gitify/pull/1743) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [test: rename native tests](https://github.com/setchy/atlassify/pull/554) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: error tray icon](https://github.com/gitify-app/gitify/pull/1742) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: namespaced events](https://github.com/gitify-app/gitify/pull/1738) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: scrollbar styling](https://github.com/gitify-app/gitify/pull/1741) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: linux check for updates](https://github.com/setchy/atlassify/pull/553) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix: update available](https://github.com/gitify-app/gitify/pull/1740) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: linux check for updates](https://github.com/gitify-app/gitify/pull/1737) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: native and filter notification utils](https://github.com/gitify-app/gitify/pull/1739) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: platform shared util](https://github.com/gitify-app/gitify/pull/1736) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- CLOSED - [test: rename native tests](https://github.com/setchy/atlassify/pull/555) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix: update context menus](https://github.com/gitify-app/gitify/pull/1735) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [test: rename native tests](https://github.com/setchy/atlassify/pull/554) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: move platform utils to shared](https://github.com/setchy/atlassify/pull/552) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: namespaced events](https://github.com/gitify-app/gitify/pull/1738) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: rename shared events utils](https://github.com/setchy/atlassify/pull/551) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: linux check for updates](https://github.com/setchy/atlassify/pull/553) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat: disable updater for linux](https://github.com/setchy/atlassify/pull/550) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: linux check for updates](https://github.com/gitify-app/gitify/pull/1737) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [primer/react](https://github.com/primer/react) 3344⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2666⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2674⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 35169⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 35381⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 4⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4610⭐
+- [Platane/snk](https://github.com/Platane/snk) 4611⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15872⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15880⭐
 
-- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 383⭐
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 395⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 79112⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 79194⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 14⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 441⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 442⭐
 
 
