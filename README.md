@@ -83,89 +83,89 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [primer/react](https://github.com/primer/react) - An implementation of GitHub&#39;s Primer Design System using React [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
+- [primer/react](https://github.com/primer/react) - An implementation of GitHub&#39;s Primer Design System using React [5 days ago]
 
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [1 week ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
-- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. [2 weeks ago]
+- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. [3 weeks ago]
 
-- [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves. [2 weeks ago]
+- [electron/update.electronjs.org](https://github.com/electron/update.electronjs.org) - 📡 A free service that makes it easy for open-source Electron apps to update themselves. [3 weeks ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 weeks ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: user setting to wrap notification titles](https://github.com/gitify-app/gitify/pull/1779) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [fix: theme provider](https://github.com/gitify-app/gitify/pull/1782) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: account, repository and notification row layouts](https://github.com/gitify-app/gitify/pull/1777) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat(auth): use system browser for GitHub SSO / OAuth authentication](https://github.com/gitify-app/gitify/pull/1781) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: default tray count to on](https://github.com/gitify-app/gitify/pull/1776) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: checkbox component visible flag](https://github.com/gitify-app/gitify/pull/1780) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: rewrite login forms with primer](https://github.com/gitify-app/gitify/pull/1775) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: user setting to wrap notification titles](https://github.com/gitify-app/gitify/pull/1779) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: control sidebar width via tailwind config](https://github.com/gitify-app/gitify/pull/1774) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: account, repository and notification row layouts](https://github.com/gitify-app/gitify/pull/1777) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build: change triage workflow trigger type for fork repos](https://github.com/gitify-app/gitify/pull/1769) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: default tray count to on](https://github.com/gitify-app/gitify/pull/1776) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: page layouts](https://github.com/gitify-app/gitify/pull/1766) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: rewrite login forms with primer](https://github.com/gitify-app/gitify/pull/1775) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: error page fallback](https://github.com/gitify-app/gitify/pull/1765) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: control sidebar width via tailwind config](https://github.com/gitify-app/gitify/pull/1774) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: avatar with fallback icons component](https://github.com/gitify-app/gitify/pull/1763) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: change triage workflow trigger type for fork repos](https://github.com/gitify-app/gitify/pull/1769) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: notification number relo for groupByDate mode](https://github.com/gitify-app/gitify/pull/1762) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: page layouts](https://github.com/gitify-app/gitify/pull/1766) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: simplify field components](https://github.com/gitify-app/gitify/pull/1756) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: error page fallback](https://github.com/gitify-app/gitify/pull/1765) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: remove unused tooltip option](https://github.com/gitify-app/gitify/pull/1755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: avatar with fallback icons component](https://github.com/gitify-app/gitify/pull/1763) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: shrink sidebar width](https://github.com/gitify-app/gitify/pull/1754) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: notification number relo for groupByDate mode](https://github.com/gitify-app/gitify/pull/1762) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: notification footer](https://github.com/gitify-app/gitify/pull/1753) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: simplify field components](https://github.com/gitify-app/gitify/pull/1756) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat: primer color schemes](https://github.com/gitify-app/gitify/pull/1752) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: remove unused tooltip option](https://github.com/gitify-app/gitify/pull/1755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat: adopt RelativeTime primer component](https://github.com/gitify-app/gitify/pull/1750) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: shrink sidebar width](https://github.com/gitify-app/gitify/pull/1754) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat: continue primer component and design token migration](https://github.com/gitify-app/gitify/pull/1749) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: notification footer](https://github.com/gitify-app/gitify/pull/1753) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [refactor: use Icon instead of deprecated Octicon component](https://github.com/gitify-app/gitify/pull/1747) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: primer color schemes](https://github.com/gitify-app/gitify/pull/1752) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [Update Dialog import](https://github.com/primer/react/pull/5574) to [primer/react](https://github.com/primer/react) [1 week ago]
+- MERGED - [feat: adopt RelativeTime primer component](https://github.com/gitify-app/gitify/pull/1750) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: x overflow always hidden](https://github.com/gitify-app/gitify/pull/1744) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: continue primer component and design token migration](https://github.com/gitify-app/gitify/pull/1749) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [primer/react](https://github.com/primer/react) 3349⭐
+- [primer/react](https://github.com/primer/react) 3351⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2707⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2712⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 35714⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 35748⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 4⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4619⭐
+- [Platane/snk](https://github.com/Platane/snk) 4624⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15890⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15894⭐
 
-- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 418⭐
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 423⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 79487⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 79538⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 14⭐
 
