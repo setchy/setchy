@@ -83,15 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
-
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [3 days ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub&#39;s Primer Design System using React [1 week ago]
 
@@ -99,76 +101,74 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
-
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy. [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [feat(filters): actor filter](https://github.com/setchy/atlassify/pull/591) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+- MERGED - [build: prepare `v1.12.0` release](https://github.com/setchy/atlassify/pull/595) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [docs: tailwind upgrade](https://github.com/setchy/atlassify/pull/581) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: migrate to new atlaskit iconset](https://github.com/setchy/atlassify/pull/594) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: restructure filter module](https://github.com/setchy/atlassify/pull/580) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat(filters): actor filter](https://github.com/setchy/atlassify/pull/591) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: truncate long avatar names](https://github.com/gitify-app/gitify/pull/1792) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: tailwind upgrade](https://github.com/setchy/atlassify/pull/581) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: reset settings component](https://github.com/gitify-app/gitify/pull/1791) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: restructure filter module](https://github.com/setchy/atlassify/pull/580) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [test: update suite names](https://github.com/setchy/atlassify/pull/579) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: truncate long avatar names](https://github.com/gitify-app/gitify/pull/1792) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: remove nprogress loading indicator](https://github.com/gitify-app/gitify/pull/1790) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: reset settings component](https://github.com/gitify-app/gitify/pull/1791) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: filter counters](https://github.com/gitify-app/gitify/pull/1788) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [test: update suite names](https://github.com/setchy/atlassify/pull/579) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: filter logic](https://github.com/setchy/atlassify/pull/578) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: remove nprogress loading indicator](https://github.com/gitify-app/gitify/pull/1790) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: account mgmt padding](https://github.com/setchy/atlassify/pull/577) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: filter counters](https://github.com/gitify-app/gitify/pull/1788) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: remove legacy account model and migration util](https://github.com/gitify-app/gitify/pull/1787) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: filter logic](https://github.com/setchy/atlassify/pull/578) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: update settings parent groupings and tooltips](https://github.com/gitify-app/gitify/pull/1786) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: account mgmt padding](https://github.com/setchy/atlassify/pull/577) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: nest detailed notification sub-settings](https://github.com/gitify-app/gitify/pull/1785) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: remove legacy account model and migration util](https://github.com/gitify-app/gitify/pull/1787) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: hover group background color](https://github.com/gitify-app/gitify/pull/1783) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: update settings parent groupings and tooltips](https://github.com/gitify-app/gitify/pull/1786) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [docs: update for v6 release](https://github.com/gitify-app/website/pull/328) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
+- MERGED - [refactor: nest detailed notification sub-settings](https://github.com/gitify-app/gitify/pull/1785) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: theme provider](https://github.com/gitify-app/gitify/pull/1782) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: hover group background color](https://github.com/gitify-app/gitify/pull/1783) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat(auth): use system browser for GitHub SSO / OAuth authentication](https://github.com/gitify-app/gitify/pull/1781) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [docs: update for v6 release](https://github.com/gitify-app/website/pull/328) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
 
-- MERGED - [refactor: checkbox component visible flag](https://github.com/gitify-app/gitify/pull/1780) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: theme provider](https://github.com/gitify-app/gitify/pull/1782) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: user setting to wrap notification titles](https://github.com/gitify-app/gitify/pull/1779) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat(auth): use system browser for GitHub SSO / OAuth authentication](https://github.com/gitify-app/gitify/pull/1781) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: account, repository and notification row layouts](https://github.com/gitify-app/gitify/pull/1777) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: checkbox component visible flag](https://github.com/gitify-app/gitify/pull/1780) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [primer/react](https://github.com/primer/react) 3389⭐
+- [primer/react](https://github.com/primer/react) 3390⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2735⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2738⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 35935⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 35947⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 4⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4636⭐
+- [Platane/snk](https://github.com/Platane/snk) 4637⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15895⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15898⭐
 
-- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 435⭐
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 437⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 79813⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 79840⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 14⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 447⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 448⭐
 
 
