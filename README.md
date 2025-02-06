@@ -83,23 +83,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [6 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 week ago]
 
-- [primer/react](https://github.com/primer/react) - An implementation of GitHub&#39;s Primer Design System using React [1 week ago]
+- [primer/react](https://github.com/primer/react) - An implementation of GitHub&#39;s Primer Design System using React [2 weeks ago]
 
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [2 weeks ago]
 
@@ -107,31 +107,33 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: update image rotation](https://github.com/gitify-app/website/pull/337) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- OPEN - [feat: add user handle filters (include and exclude)](https://github.com/gitify-app/gitify/pull/1813) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [docs: update image rotation angle](https://github.com/setchy/atlassify/pull/609) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [docs: update image rotation](https://github.com/gitify-app/website/pull/337) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [build: prepare `v6.0.0` release](https://github.com/gitify-app/gitify/pull/1806) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [docs: update image rotation angle](https://github.com/setchy/atlassify/pull/609) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- CLOSED - [docs: fix firefox flicker](https://github.com/setchy/atlassify/pull/607) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: prepare `v6.0.0` release](https://github.com/gitify-app/gitify/pull/1806) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: sonarqube setup](https://github.com/gitify-app/gitify/pull/1805) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- CLOSED - [docs: fix firefox flicker](https://github.com/setchy/atlassify/pull/607) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [feat: gitify dev protocol](https://github.com/gitify-app/gitify/pull/1801) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: sonarqube setup](https://github.com/gitify-app/gitify/pull/1805) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: encrypt tokens using safe storage api](https://github.com/gitify-app/gitify/pull/1800) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: gitify dev protocol](https://github.com/gitify-app/gitify/pull/1801) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build: prepare `v1.12.0` release](https://github.com/setchy/atlassify/pull/595) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: encrypt tokens using safe storage api](https://github.com/gitify-app/gitify/pull/1800) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: migrate to new atlaskit iconset](https://github.com/setchy/atlassify/pull/594) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v1.12.0` release](https://github.com/setchy/atlassify/pull/595) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [feat(filters): actor filter](https://github.com/setchy/atlassify/pull/591) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: migrate to new atlaskit iconset](https://github.com/setchy/atlassify/pull/594) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [docs: tailwind upgrade](https://github.com/setchy/atlassify/pull/581) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat(filters): actor filter](https://github.com/setchy/atlassify/pull/591) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor: restructure filter module](https://github.com/setchy/atlassify/pull/580) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [docs: tailwind upgrade](https://github.com/setchy/atlassify/pull/581) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: truncate long avatar names](https://github.com/gitify-app/gitify/pull/1792) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: restructure filter module](https://github.com/setchy/atlassify/pull/580) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- MERGED - [feat: truncate long avatar names](https://github.com/gitify-app/gitify/pull/1792) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: reset settings component](https://github.com/gitify-app/gitify/pull/1791) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: account mgmt padding](https://github.com/setchy/atlassify/pull/577) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: remove legacy account model and migration util](https://github.com/gitify-app/gitify/pull/1787) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [primer/react](https://github.com/primer/react) 3396⭐
+- [primer/react](https://github.com/primer/react) 3398⭐
 
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2760⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 36139⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 36200⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 4⭐
 
 - [Platane/snk](https://github.com/Platane/snk) 4648⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15906⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15905⭐
 
-- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 444⭐
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 445⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 80083⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 80152⭐
 
-- [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 14⭐
+- [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 15⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 451⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 450⭐
 
 
