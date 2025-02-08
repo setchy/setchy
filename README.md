@@ -85,11 +85,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -107,27 +107,35 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [fix: further sonar issues](https://github.com/gitify-app/gitify/pull/1819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: resolve sonar feedback on regex patterns](https://github.com/gitify-app/gitify/pull/1825) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: issues identified by sonar](https://github.com/gitify-app/gitify/pull/1818) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: suppress math.random sonar warnings](https://github.com/gitify-app/gitify/pull/1824) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: use primer components for notification metric tooltip](https://github.com/gitify-app/gitify/pull/1814) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: resolve sonar feedback re login fn](https://github.com/gitify-app/gitify/pull/1823) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: add user handle filters (include and exclude)](https://github.com/gitify-app/gitify/pull/1813) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: user type utils](https://github.com/gitify-app/gitify/pull/1820) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [docs: update image rotation](https://github.com/gitify-app/website/pull/337) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
+- MERGED - [refactor: further sonar issue fixes](https://github.com/gitify-app/gitify/pull/1819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [docs: update image rotation angle](https://github.com/setchy/atlassify/pull/609) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: fix issues identified by sonar](https://github.com/gitify-app/gitify/pull/1818) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: prepare `v6.0.0` release](https://github.com/gitify-app/gitify/pull/1806) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: use primer components for notification metric tooltip](https://github.com/gitify-app/gitify/pull/1814) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- CLOSED - [docs: fix firefox flicker](https://github.com/setchy/atlassify/pull/607) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat: add user handle filters (include and exclude)](https://github.com/gitify-app/gitify/pull/1813) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: sonarqube setup](https://github.com/gitify-app/gitify/pull/1805) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [docs: update image rotation](https://github.com/gitify-app/website/pull/337) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
 
-- MERGED - [feat: gitify dev protocol](https://github.com/gitify-app/gitify/pull/1801) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [docs: update image rotation angle](https://github.com/setchy/atlassify/pull/609) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat: encrypt tokens using safe storage api](https://github.com/gitify-app/gitify/pull/1800) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v6.0.0` release](https://github.com/gitify-app/gitify/pull/1806) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- CLOSED - [docs: fix firefox flicker](https://github.com/setchy/atlassify/pull/607) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- MERGED - [feat: sonarqube setup](https://github.com/gitify-app/gitify/pull/1805) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [feat: gitify dev protocol](https://github.com/gitify-app/gitify/pull/1801) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [feat: encrypt tokens using safe storage api](https://github.com/gitify-app/gitify/pull/1800) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [build: prepare `v1.12.0` release](https://github.com/setchy/atlassify/pull/595) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -139,36 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: restructure filter module](https://github.com/setchy/atlassify/pull/580) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: truncate long avatar names](https://github.com/gitify-app/gitify/pull/1792) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: reset settings component](https://github.com/gitify-app/gitify/pull/1791) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [test: update suite names](https://github.com/setchy/atlassify/pull/579) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [refactor: remove nprogress loading indicator](https://github.com/gitify-app/gitify/pull/1790) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [primer/react](https://github.com/primer/react) 3400⭐
+- [primer/react](https://github.com/primer/react) 3403⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2763⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2768⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 36257⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 36323⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 4⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4651⭐
+- [Platane/snk](https://github.com/Platane/snk) 4653⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15909⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15912⭐
 
-- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 445⭐
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 449⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 80239⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 80331⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 16⭐
 
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 450⭐
+- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 452⭐
 
 
