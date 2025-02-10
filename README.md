@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -101,33 +101,33 @@ Senior Executive (VP) // Architect // Developer
 
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub&#39;s Primer Design System using React [2 weeks ago]
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [2 weeks ago]
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [refactor: context isolation via preload script](https://github.com/gitify-app/gitify/pull/1826) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: context isolation via preload script](https://github.com/gitify-app/gitify/pull/1826) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: resolve sonar feedback on regex patterns](https://github.com/gitify-app/gitify/pull/1825) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: resolve sonar feedback on regex patterns](https://github.com/gitify-app/gitify/pull/1825) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: suppress math.random sonar warnings](https://github.com/gitify-app/gitify/pull/1824) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: suppress math.random sonar warnings](https://github.com/gitify-app/gitify/pull/1824) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: resolve sonar feedback re login fn](https://github.com/gitify-app/gitify/pull/1823) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: resolve sonar feedback re login fn](https://github.com/gitify-app/gitify/pull/1823) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: user type utils](https://github.com/gitify-app/gitify/pull/1820) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: user type utils](https://github.com/gitify-app/gitify/pull/1820) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: further sonar issue fixes](https://github.com/gitify-app/gitify/pull/1819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: further sonar issue fixes](https://github.com/gitify-app/gitify/pull/1819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: fix issues identified by sonar](https://github.com/gitify-app/gitify/pull/1818) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: fix issues identified by sonar](https://github.com/gitify-app/gitify/pull/1818) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: use primer components for notification metric tooltip](https://github.com/gitify-app/gitify/pull/1814) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: use primer components for notification metric tooltip](https://github.com/gitify-app/gitify/pull/1814) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: add user handle filters (include and exclude)](https://github.com/gitify-app/gitify/pull/1813) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: add user handle filters (include and exclude)](https://github.com/gitify-app/gitify/pull/1813) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [docs: update image rotation](https://github.com/gitify-app/website/pull/337) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
+- MERGED - [docs: update image rotation](https://github.com/gitify-app/website/pull/337) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
 
-- MERGED - [docs: update image rotation angle](https://github.com/setchy/atlassify/pull/609) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [docs: update image rotation angle](https://github.com/setchy/atlassify/pull/609) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - MERGED - [build: prepare `v6.0.0` release](https://github.com/gitify-app/gitify/pull/1806) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 34⭐
+
 - [primer/react](https://github.com/primer/react) 3405⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2769⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2774⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 36423⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 36467⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 4⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4655⭐
+- [Platane/snk](https://github.com/Platane/snk) 4658⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15914⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15912⭐
 
-- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 451⭐
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 452⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 80410⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 80465⭐
 
 - [denitdao/o-rly-collection](https://github.com/denitdao/o-rly-collection) 16⭐
-
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) 452⭐
 
 
