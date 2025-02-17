@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more. [3 days ago]
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more. [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
 
@@ -107,21 +107,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- OPEN - [test: migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/1840) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [test: migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/1840) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [chore: rename `Gitlab` to `GitLab`](https://github.com/Mintplex-Labs/anything-llm/pull/3200) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [3 days ago]
+- MERGED - [chore: rename `Gitlab` to `GitLab`](https://github.com/Mintplex-Labs/anything-llm/pull/3200) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [4 days ago]
 
-- MERGED - [chore: rename Github to GitHub](https://github.com/Mintplex-Labs/anything-llm/pull/3199) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [3 days ago]
+- MERGED - [chore: rename Github to GitHub](https://github.com/Mintplex-Labs/anything-llm/pull/3199) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [4 days ago]
 
-- OPEN - [feat: add handle filter tokens on blur](https://github.com/gitify-app/gitify/pull/1837) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat: add handle filter tokens on blur](https://github.com/gitify-app/gitify/pull/1837) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: public_repo alternate scopes](https://github.com/gitify-app/gitify/pull/1831) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: public_repo alternate scopes](https://github.com/gitify-app/gitify/pull/1831) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: update faq `public_repo`](https://github.com/gitify-app/website/pull/344) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [feat: update faq `public_repo`](https://github.com/gitify-app/website/pull/344) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [build: prepare `v6.1.0` release](https://github.com/gitify-app/gitify/pull/1829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v6.1.0` release](https://github.com/gitify-app/gitify/pull/1829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - OPEN - [refactor: context isolation via preload script](https://github.com/gitify-app/gitify/pull/1826) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 36895⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 37057⭐
 
-- [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 37⭐
+- [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 38⭐
 
-- [primer/react](https://github.com/primer/react) 3413⭐
+- [primer/react](https://github.com/primer/react) 3415⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2800⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2804⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 37218⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 37452⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 5⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4670⭐
+- [Platane/snk](https://github.com/Platane/snk) 4673⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15917⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15918⭐
 
-- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 498⭐
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 503⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 80852⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 80934⭐
 
 
