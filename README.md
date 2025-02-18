@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more. [4 days ago]
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more. [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -107,15 +107,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [Update action.yml](https://github.com/SonarSource/sonarqube-scan-action/pull/176) to [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) [1 day ago]
 
-- OPEN - [test: migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/1840) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [chore: rename `Gitlab` to `GitLab`](https://github.com/Mintplex-Labs/anything-llm/pull/3200) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [4 days ago]
+- OPEN - [test: migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/1840) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [chore: rename Github to GitHub](https://github.com/Mintplex-Labs/anything-llm/pull/3199) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [4 days ago]
+- MERGED - [chore: rename `Gitlab` to `GitLab`](https://github.com/Mintplex-Labs/anything-llm/pull/3200) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [5 days ago]
 
-- OPEN - [feat: add handle filter tokens on blur](https://github.com/gitify-app/gitify/pull/1837) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [chore: rename Github to GitHub](https://github.com/Mintplex-Labs/anything-llm/pull/3199) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [5 days ago]
+
+- MERGED - [feat: add handle filter tokens on blur](https://github.com/gitify-app/gitify/pull/1837) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 - MERGED - [feat: public_repo alternate scopes](https://github.com/gitify-app/gitify/pull/1831) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -141,34 +143,32 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add user handle filters (include and exclude)](https://github.com/gitify-app/gitify/pull/1813) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [docs: update image rotation](https://github.com/gitify-app/website/pull/337) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+- MERGED - [docs: update image rotation](https://github.com/gitify-app/website/pull/337) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
 
-- MERGED - [docs: update image rotation angle](https://github.com/setchy/atlassify/pull/609) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [build: prepare `v6.0.0` release](https://github.com/gitify-app/gitify/pull/1806) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [docs: update image rotation angle](https://github.com/setchy/atlassify/pull/609) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 37057⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 37384⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 38⭐
 
-- [primer/react](https://github.com/primer/react) 3415⭐
+- [primer/react](https://github.com/primer/react) 3419⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2804⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2812⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 37452⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 37836⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 5⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4673⭐
+- [Platane/snk](https://github.com/Platane/snk) 4675⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15918⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15924⭐
 
-- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 503⭐
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) 522⭐
 
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 80934⭐
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) 81027⭐
 
 
