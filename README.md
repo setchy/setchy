@@ -83,11 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) -  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [2 days ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -97,25 +101,25 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
-
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
-
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [3 weeks ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [chore: fix typos in properties file](https://github.com/DependencyTrack/dependency-track/pull/4674) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [1 day ago]
+- MERGED - [fix: change filter logic to avoid early returning](https://github.com/setchy/atlassify/pull/653) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [build: remove unused codecov configuration](https://github.com/gitify-app/gitify/pull/1847) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [fix: change filter logic to avoid early returning](https://github.com/gitify-app/gitify/pull/1852) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [Update action.yml](https://github.com/SonarSource/sonarqube-scan-action/pull/176) to [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) [3 days ago]
+- MERGED - [chore: fix typos in properties file](https://github.com/DependencyTrack/dependency-track/pull/4674) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [2 days ago]
 
-- OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- OPEN - [build: remove unused codecov configuration](https://github.com/gitify-app/gitify/pull/1847) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [test: migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/1840) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [Update action.yml](https://github.com/SonarSource/sonarqube-scan-action/pull/176) to [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) [4 days ago]
+
+- OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+
+- OPEN - [test: migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/1840) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [chore: rename `Gitlab` to `GitLab`](https://github.com/Mintplex-Labs/anything-llm/pull/3200) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [1 week ago]
 
@@ -131,44 +135,40 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [refactor: context isolation via preload script](https://github.com/gitify-app/gitify/pull/1826) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: resolve sonar feedback on regex patterns](https://github.com/gitify-app/gitify/pull/1825) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: resolve sonar feedback on regex patterns](https://github.com/gitify-app/gitify/pull/1825) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: suppress math.random sonar warnings](https://github.com/gitify-app/gitify/pull/1824) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: suppress math.random sonar warnings](https://github.com/gitify-app/gitify/pull/1824) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: resolve sonar feedback re login fn](https://github.com/gitify-app/gitify/pull/1823) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: resolve sonar feedback re login fn](https://github.com/gitify-app/gitify/pull/1823) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: user type utils](https://github.com/gitify-app/gitify/pull/1820) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: user type utils](https://github.com/gitify-app/gitify/pull/1820) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [refactor: further sonar issue fixes](https://github.com/gitify-app/gitify/pull/1819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [refactor: fix issues identified by sonar](https://github.com/gitify-app/gitify/pull/1818) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: use primer components for notification metric tooltip](https://github.com/gitify-app/gitify/pull/1814) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [feat: add user handle filters (include and exclude)](https://github.com/gitify-app/gitify/pull/1813) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3871⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3874⭐
 
-- [cline/cline](https://github.com/cline/cline) 30091⭐
+- [cline/cline](https://github.com/cline/cline) 30290⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 37975⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 38155⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 38⭐
 
 - [primer/react](https://github.com/primer/react) 3423⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2826⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2827⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 38081⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 38238⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 6⭐
 
-- [Platane/snk](https://github.com/Platane/snk) 4681⭐
+- [Platane/snk](https://github.com/Platane/snk) 4685⭐
 
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15927⭐
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) 15930⭐
 
 
