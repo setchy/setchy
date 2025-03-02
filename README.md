@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
@@ -107,17 +107,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: layout components](https://github.com/gitify-app/gitify/pull/1868) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: layout components](https://github.com/gitify-app/gitify/pull/1868) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: reduce duplication within filter module](https://github.com/gitify-app/gitify/pull/1862) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: reduce duplication within filter module](https://github.com/gitify-app/gitify/pull/1862) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: filter by notification type](https://github.com/gitify-app/gitify/pull/1860) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: filter by notification type](https://github.com/gitify-app/gitify/pull/1860) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: add state filter](https://github.com/gitify-app/gitify/pull/1859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: add state filter](https://github.com/gitify-app/gitify/pull/1859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat: update template](https://github.com/setchy/setchy.github.io/pull/42) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [6 days ago]
+- MERGED - [feat: update template](https://github.com/setchy/setchy.github.io/pull/42) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 week ago]
 
 - MERGED - [build: prepare `v1.13.0` release](https://github.com/setchy/atlassify/pull/668) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -151,23 +151,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16429⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16430⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10930⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10935⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3919⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3921⭐
 
-- [cline/cline](https://github.com/cline/cline) 32198⭐
+- [cline/cline](https://github.com/cline/cline) 32307⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 39430⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 39513⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 39⭐
 
 - [primer/react](https://github.com/primer/react) 3430⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2861⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2866⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39229⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39265⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 7⭐
 
