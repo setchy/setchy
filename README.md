@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -107,15 +107,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- CLOSED - [build: extract electron-builder configuration](https://github.com/setchy/atlassify/pull/696) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: layout components](https://github.com/gitify-app/gitify/pull/1868) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: remove duplication in filters](https://github.com/setchy/atlassify/pull/694) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: reduce duplication within filter module](https://github.com/gitify-app/gitify/pull/1862) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: filter by notification type](https://github.com/gitify-app/gitify/pull/1860) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: layout components](https://github.com/gitify-app/gitify/pull/1868) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: add state filter](https://github.com/gitify-app/gitify/pull/1859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: reduce duplication within filter module](https://github.com/gitify-app/gitify/pull/1862) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [feat: filter by notification type](https://github.com/gitify-app/gitify/pull/1860) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- MERGED - [feat: add state filter](https://github.com/gitify-app/gitify/pull/1859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat: update template](https://github.com/setchy/setchy.github.io/pull/42) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 week ago]
 
@@ -131,7 +135,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: remove unused codecov configuration](https://github.com/gitify-app/gitify/pull/1847) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [Update action.yml](https://github.com/SonarSource/sonarqube-scan-action/pull/176) to [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) [1 week ago]
+- MERGED - [Update action.yml](https://github.com/SonarSource/sonarqube-scan-action/pull/176) to [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) [2 weeks ago]
 
 - OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -143,31 +147,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add handle filter tokens on blur](https://github.com/gitify-app/gitify/pull/1837) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: public_repo alternate scopes](https://github.com/gitify-app/gitify/pull/1831) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [feat: update faq `public_repo`](https://github.com/gitify-app/website/pull/344) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16430⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16434⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10935⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10945⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3921⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3924⭐
 
-- [cline/cline](https://github.com/cline/cline) 32307⭐
+- [cline/cline](https://github.com/cline/cline) 32459⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 39513⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 39610⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 39⭐
 
-- [primer/react](https://github.com/primer/react) 3430⭐
+- [primer/react](https://github.com/primer/react) 3432⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2866⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2869⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39265⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39319⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 7⭐
 
