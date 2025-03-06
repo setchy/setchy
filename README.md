@@ -83,11 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -97,23 +99,21 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
-- [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) -  [1 week ago]
+- [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) -  [2 weeks ago]
 
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [2 weeks ago]
-
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, and more. [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- CLOSED - [build: extract electron-builder configuration](https://github.com/setchy/atlassify/pull/696) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- CLOSED - [build: extract electron-builder configuration](https://github.com/setchy/atlassify/pull/696) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: remove duplication in filters](https://github.com/setchy/atlassify/pull/694) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: remove duplication in filters](https://github.com/setchy/atlassify/pull/694) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [refactor: layout components](https://github.com/gitify-app/gitify/pull/1868) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: layout components](https://github.com/gitify-app/gitify/pull/1868) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: reduce duplication within filter module](https://github.com/gitify-app/gitify/pull/1862) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -127,9 +127,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: remove @parcel/watcher](https://github.com/setchy/atlassify/pull/667) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix: change filter logic to avoid early returning](https://github.com/setchy/atlassify/pull/653) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [fix: change filter logic to avoid early returning](https://github.com/setchy/atlassify/pull/653) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [fix: change filter logic to avoid early returning](https://github.com/gitify-app/gitify/pull/1852) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: change filter logic to avoid early returning](https://github.com/gitify-app/gitify/pull/1852) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [chore: fix typos in properties file](https://github.com/DependencyTrack/dependency-track/pull/4674) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [2 weeks ago]
 
@@ -141,33 +141,33 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [test: migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/1840) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [chore: rename `Gitlab` to `GitLab`](https://github.com/Mintplex-Labs/anything-llm/pull/3200) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [2 weeks ago]
+- MERGED - [chore: rename `Gitlab` to `GitLab`](https://github.com/Mintplex-Labs/anything-llm/pull/3200) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [3 weeks ago]
 
-- MERGED - [chore: rename Github to GitHub](https://github.com/Mintplex-Labs/anything-llm/pull/3199) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [2 weeks ago]
+- MERGED - [chore: rename Github to GitHub](https://github.com/Mintplex-Labs/anything-llm/pull/3199) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [3 weeks ago]
 
-- MERGED - [feat: add handle filter tokens on blur](https://github.com/gitify-app/gitify/pull/1837) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat: add handle filter tokens on blur](https://github.com/gitify-app/gitify/pull/1837) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16439⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16445⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10968⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10976⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3939⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3945⭐
 
-- [cline/cline](https://github.com/cline/cline) 32875⭐
+- [cline/cline](https://github.com/cline/cline) 33055⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 39908⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 40073⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 39⭐
 
-- [primer/react](https://github.com/primer/react) 3438⭐
+- [primer/react](https://github.com/primer/react) 3439⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2872⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2876⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39460⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39521⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 7⭐
 
