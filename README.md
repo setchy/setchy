@@ -83,21 +83,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
 
 - [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) -  [2 weeks ago]
 
@@ -107,11 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- CLOSED - [build: extract electron-builder configuration](https://github.com/setchy/atlassify/pull/696) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- CLOSED - [build: extract electron-builder configuration](https://github.com/setchy/atlassify/pull/696) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: remove duplication in filters](https://github.com/setchy/atlassify/pull/694) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: remove duplication in filters](https://github.com/setchy/atlassify/pull/694) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: layout components](https://github.com/gitify-app/gitify/pull/1868) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -123,9 +123,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: update template](https://github.com/setchy/setchy.github.io/pull/42) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [1 week ago]
 
-- MERGED - [build: prepare `v1.13.0` release](https://github.com/setchy/atlassify/pull/668) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [build: prepare `v1.13.0` release](https://github.com/setchy/atlassify/pull/668) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [refactor: remove @parcel/watcher](https://github.com/setchy/atlassify/pull/667) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [refactor: remove @parcel/watcher](https://github.com/setchy/atlassify/pull/667) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [fix: change filter logic to avoid early returning](https://github.com/setchy/atlassify/pull/653) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -139,7 +139,7 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- OPEN - [test: migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/1840) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- OPEN - [test: migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/1840) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [chore: rename `Gitlab` to `GitLab`](https://github.com/Mintplex-Labs/anything-llm/pull/3200) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [3 weeks ago]
 
@@ -151,23 +151,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16445⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16450⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10976⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10983⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3945⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3947⭐
 
-- [cline/cline](https://github.com/cline/cline) 33055⭐
+- [cline/cline](https://github.com/cline/cline) 33260⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 40073⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 40235⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 39⭐
 
 - [primer/react](https://github.com/primer/react) 3439⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2876⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2881⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39521⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39584⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 7⭐
 
