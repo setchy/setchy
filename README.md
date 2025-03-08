@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -107,9 +107,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- CLOSED - [build: extract electron-builder configuration](https://github.com/setchy/atlassify/pull/696) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- CLOSED - [build: extract electron-builder configuration](https://github.com/setchy/atlassify/pull/696) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor: remove duplication in filters](https://github.com/setchy/atlassify/pull/694) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: remove duplication in filters](https://github.com/setchy/atlassify/pull/694) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - MERGED - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -137,7 +137,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [Update action.yml](https://github.com/SonarSource/sonarqube-scan-action/pull/176) to [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) [2 weeks ago]
 
-- OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - OPEN - [test: migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/1840) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
@@ -151,15 +151,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16450⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16458⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10983⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10989⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3947⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3951⭐
 
-- [cline/cline](https://github.com/cline/cline) 33260⭐
+- [cline/cline](https://github.com/cline/cline) 33437⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 40235⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 40355⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 39⭐
 
@@ -167,7 +167,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2881⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39584⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39638⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 7⭐
 
