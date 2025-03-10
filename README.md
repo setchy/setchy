@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -107,6 +107,8 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- OPEN - [feat: compiled css migration](https://github.com/setchy/atlassify/pull/718) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
 - CLOSED - [build: extract electron-builder configuration](https://github.com/setchy/atlassify/pull/696) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [refactor: remove duplication in filters](https://github.com/setchy/atlassify/pull/694) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
@@ -119,7 +121,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: filter by notification type](https://github.com/gitify-app/gitify/pull/1860) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: add state filter](https://github.com/gitify-app/gitify/pull/1859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: add state filter](https://github.com/gitify-app/gitify/pull/1859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [feat: update template](https://github.com/setchy/setchy.github.io/pull/42) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [2 weeks ago]
 
@@ -135,7 +137,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: remove unused codecov configuration](https://github.com/gitify-app/gitify/pull/1847) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [Update action.yml](https://github.com/SonarSource/sonarqube-scan-action/pull/176) to [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) [2 weeks ago]
+- MERGED - [Update action.yml](https://github.com/SonarSource/sonarqube-scan-action/pull/176) to [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) [3 weeks ago]
 
 - OPEN - [refactor: migrate from `jest` to `vitest`](https://github.com/setchy/atlassify/pull/649) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -145,29 +147,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [chore: rename Github to GitHub](https://github.com/Mintplex-Labs/anything-llm/pull/3199) to [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) [3 weeks ago]
 
-- MERGED - [feat: add handle filter tokens on blur](https://github.com/gitify-app/gitify/pull/1837) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16461⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16463⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10989⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 10994⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3956⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3958⭐
 
-- [cline/cline](https://github.com/cline/cline) 33563⭐
+- [cline/cline](https://github.com/cline/cline) 33692⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 40441⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 40529⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 39⭐
 
-- [primer/react](https://github.com/primer/react) 3441⭐
+- [primer/react](https://github.com/primer/react) 3443⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2881⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2882⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39675⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39726⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 7⭐
 
