@@ -107,13 +107,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/753) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [Revert &#34;chore(deps): update @electron/notarize to v3&#34;](https://github.com/setchy/atlassify/pull/755) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: windows login form workaround](https://github.com/setchy/atlassify/pull/741) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: renderer crash on windows devices when using required text fields](https://github.com/setchy/atlassify/pull/754) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: compass icon shape](https://github.com/setchy/atlassify/pull/735) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/753) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: preload context bridge](https://github.com/setchy/atlassify/pull/734) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [fix: windows login form workaround](https://github.com/setchy/atlassify/pull/741) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+
+- MERGED - [feat: compass icon shape](https://github.com/setchy/atlassify/pull/735) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+
+- MERGED - [refactor: preload context bridge](https://github.com/setchy/atlassify/pull/734) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - OPEN - [feat: compiled css migration](https://github.com/setchy/atlassify/pull/718) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -129,7 +133,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: filter by notification type](https://github.com/gitify-app/gitify/pull/1860) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: add state filter](https://github.com/gitify-app/gitify/pull/1859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat: add state filter](https://github.com/gitify-app/gitify/pull/1859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [feat: update template](https://github.com/setchy/setchy.github.io/pull/42) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [3 weeks ago]
 
@@ -143,31 +147,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [chore: fix typos in properties file](https://github.com/DependencyTrack/dependency-track/pull/4674) to [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) [3 weeks ago]
 
-- MERGED - [build: remove unused codecov configuration](https://github.com/gitify-app/gitify/pull/1847) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
-- MERGED - [Update action.yml](https://github.com/SonarSource/sonarqube-scan-action/pull/176) to [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) [3 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16484⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16488⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11034⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11040⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3987⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3988⭐
 
-- [cline/cline](https://github.com/cline/cline) 34823⭐
+- [cline/cline](https://github.com/cline/cline) 34970⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 41052⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 41107⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 39⭐
 
-- [primer/react](https://github.com/primer/react) 3456⭐
+- [primer/react](https://github.com/primer/react) 3457⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2898⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2900⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 40114⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 40155⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 8⭐
 
