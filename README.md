@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
@@ -101,23 +101,23 @@ Senior Executive (VP) // Architect // Developer
 
 - [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) -  [3 weeks ago]
 
-- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [3 weeks ago]
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [4 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/759) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/759) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [Revert &#34;chore(deps): update @electron/notarize to v3&#34;](https://github.com/setchy/atlassify/pull/755) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [Revert &#34;chore(deps): update @electron/notarize to v3&#34;](https://github.com/setchy/atlassify/pull/755) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix: renderer crash on windows devices when using required text fields](https://github.com/setchy/atlassify/pull/754) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: renderer crash on windows devices when using required text fields](https://github.com/setchy/atlassify/pull/754) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/753) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/753) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: windows login form workaround](https://github.com/setchy/atlassify/pull/741) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [fix: windows login form workaround](https://github.com/setchy/atlassify/pull/741) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [feat: compass icon shape](https://github.com/setchy/atlassify/pull/735) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat: compass icon shape](https://github.com/setchy/atlassify/pull/735) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [refactor: preload context bridge](https://github.com/setchy/atlassify/pull/734) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -131,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: layout components](https://github.com/gitify-app/gitify/pull/1868) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: reduce duplication within filter module](https://github.com/gitify-app/gitify/pull/1862) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [refactor: reduce duplication within filter module](https://github.com/gitify-app/gitify/pull/1862) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [feat: filter by notification type](https://github.com/gitify-app/gitify/pull/1860) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
@@ -151,23 +151,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16493⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16497⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11044⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11053⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 3995⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4002⭐
 
-- [cline/cline](https://github.com/cline/cline) 35184⭐
+- [cline/cline](https://github.com/cline/cline) 35384⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 41202⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 41290⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 39⭐
 
-- [primer/react](https://github.com/primer/react) 3459⭐
+- [primer/react](https://github.com/primer/react) 3460⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2902⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2903⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 40204⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 40264⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 8⭐
 
