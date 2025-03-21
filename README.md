@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
@@ -97,25 +97,25 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 weeks ago]
 
 - [SonarSource/sonarqube-scan-action](https://github.com/SonarSource/sonarqube-scan-action) -  [4 weeks ago]
 
-- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [4 weeks ago]
+- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/759) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/759) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [Revert &#34;chore(deps): update @electron/notarize to v3&#34;](https://github.com/setchy/atlassify/pull/755) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [Revert &#34;chore(deps): update @electron/notarize to v3&#34;](https://github.com/setchy/atlassify/pull/755) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [fix: renderer crash on windows devices when using required text fields](https://github.com/setchy/atlassify/pull/754) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [fix: renderer crash on windows devices when using required text fields](https://github.com/setchy/atlassify/pull/754) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/753) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/753) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [fix: windows login form workaround](https://github.com/setchy/atlassify/pull/741) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [fix: windows login form workaround](https://github.com/setchy/atlassify/pull/741) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [feat: compass icon shape](https://github.com/setchy/atlassify/pull/735) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -127,7 +127,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: remove duplication in filters](https://github.com/setchy/atlassify/pull/694) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [build: prepare `v6.2.0` release](https://github.com/gitify-app/gitify/pull/1873) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [refactor: layout components](https://github.com/gitify-app/gitify/pull/1868) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
@@ -139,9 +139,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: update template](https://github.com/setchy/setchy.github.io/pull/42) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [3 weeks ago]
 
-- MERGED - [build: prepare `v1.13.0` release](https://github.com/setchy/atlassify/pull/668) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [build: prepare `v1.13.0` release](https://github.com/setchy/atlassify/pull/668) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
-- MERGED - [refactor: remove @parcel/watcher](https://github.com/setchy/atlassify/pull/667) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [refactor: remove @parcel/watcher](https://github.com/setchy/atlassify/pull/667) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
 - MERGED - [fix: change filter logic to avoid early returning](https://github.com/setchy/atlassify/pull/653) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
@@ -151,23 +151,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16502⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16507⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11054⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11060⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4005⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4012⭐
 
-- [cline/cline](https://github.com/cline/cline) 35562⭐
+- [cline/cline](https://github.com/cline/cline) 35741⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 41360⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 41426⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 39⭐
 
-- [primer/react](https://github.com/primer/react) 3461⭐
+- [primer/react](https://github.com/primer/react) 3463⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2904⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2907⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 40400⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 40582⭐
 
 - [apollographql/connectors-community](https://github.com/apollographql/connectors-community) 8⭐
 
