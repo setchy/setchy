@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
@@ -107,7 +107,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/759) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/759) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [Revert &#34;chore(deps): update @electron/notarize to v3&#34;](https://github.com/setchy/atlassify/pull/755) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -135,7 +135,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: filter by notification type](https://github.com/gitify-app/gitify/pull/1860) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [feat: add state filter](https://github.com/gitify-app/gitify/pull/1859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
+- MERGED - [feat: add state filter](https://github.com/gitify-app/gitify/pull/1859) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
 - MERGED - [feat: update template](https://github.com/setchy/setchy.github.io/pull/42) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [4 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 69640⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 69891⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16513⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16516⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11071⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11079⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4025⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4029⭐
 
-- [cline/cline](https://github.com/cline/cline) 36045⭐
+- [cline/cline](https://github.com/cline/cline) 36185⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 41550⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 41592⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 40⭐
 
 - [primer/react](https://github.com/primer/react) 3464⭐
 
-- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2909⭐
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) 2914⭐
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 41164⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 41247⭐
 
 
