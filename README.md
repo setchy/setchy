@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
 
-- [setchy/renovate-reproduction-unknown-severity](https://github.com/setchy/renovate-reproduction-unknown-severity) -  [5 days ago]
+- [setchy/renovate-reproduction-unknown-severity](https://github.com/setchy/renovate-reproduction-unknown-severity) -  [6 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
@@ -107,21 +107,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [build: prepare `v1.15.0` release](https://github.com/setchy/atlassify/pull/803) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- OPEN - [build: prepare `v1.15.0` release](https://github.com/setchy/atlassify/pull/803) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- OPEN - [feat: volume 32](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/573) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [3 days ago]
+- OPEN - [feat: volume 32](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/573) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [4 days ago]
 
-- MERGED - [feat(filter): add read filter icons](https://github.com/setchy/atlassify/pull/784) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat(filter): add read filter icons](https://github.com/setchy/atlassify/pull/784) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: electron-builder configuration](https://github.com/gitify-app/gitify/pull/1917) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: electron-builder configuration](https://github.com/gitify-app/gitify/pull/1917) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [refactor: electron-builder configuration](https://github.com/setchy/atlassify/pull/783) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: electron-builder configuration](https://github.com/setchy/atlassify/pull/783) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [fix: CVSS4.0 vector parse exception - vulnerability severity fallback](https://github.com/renovatebot/renovate/pull/35003) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- MERGED - [fix: CVSS4.0 vector parse exception - vulnerability severity fallback](https://github.com/renovatebot/renovate/pull/35003) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- MERGED - [feat: update tsconfig/base from node20 to node22](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/568) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [6 days ago]
+- MERGED - [feat: update tsconfig/base from node20 to node22](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/568) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 week ago]
 
-- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/759) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/759) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [Revert &#34;chore(deps): update @electron/notarize to v3&#34;](https://github.com/setchy/atlassify/pull/755) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29424⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29436⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 7⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 72578⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 72894⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16538⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16540⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11113⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11117⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4075⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4079⭐
 
-- [cline/cline](https://github.com/cline/cline) 37544⭐
+- [cline/cline](https://github.com/cline/cline) 37699⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 41923⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 41965⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 40⭐
 
-- [primer/react](https://github.com/primer/react) 3468⭐
+- [primer/react](https://github.com/primer/react) 3470⭐
 
 
