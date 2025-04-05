@@ -83,21 +83,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
 - [setchy/renovate-reproduction-unknown-severity](https://github.com/setchy/renovate-reproduction-unknown-severity) -  [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
-
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 month ago]
 
@@ -107,7 +107,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
 - MERGED - [build: prepare `v1.15.0` release](https://github.com/setchy/atlassify/pull/803) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -129,7 +129,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: renderer crash on windows devices when using required text fields](https://github.com/setchy/atlassify/pull/754) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/753) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/753) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - MERGED - [fix: windows login form workaround](https://github.com/setchy/atlassify/pull/741) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29486⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29499⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 8⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 74517⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 74793⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16553⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16557⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11144⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11153⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4098⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4103⭐
 
-- [cline/cline](https://github.com/cline/cline) 38514⭐
+- [cline/cline](https://github.com/cline/cline) 38639⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 42213⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 42254⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 40⭐
 
-- [primer/react](https://github.com/primer/react) 3476⭐
+- [primer/react](https://github.com/primer/react) 3479⭐
 
 
