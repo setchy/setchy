@@ -85,13 +85,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 days ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -107,15 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: migrate @atlaskit components to latest compiled-css-in-js major versions](https://github.com/setchy/atlassify/pull/838) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v1.16.0` release](https://github.com/setchy/atlassify/pull/848) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [chore: Update versions in defect-report.yml](https://github.com/DependencyTrack/frontend/pull/1224) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
+- MERGED - [fix: emoji splash formatting](https://github.com/setchy/atlassify/pull/845) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- CLOSED - [fix: context menu visibility regression in electron](https://github.com/gitify-app/gitify/pull/1953) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v1.15.0` release](https://github.com/setchy/atlassify/pull/803) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [fix: context menu visibility regression in electron](https://github.com/setchy/atlassify/pull/844) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: volume 32](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/573) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 week ago]
+- MERGED - [feat: migrate @atlaskit components to latest compiled-css-in-js major versions](https://github.com/setchy/atlassify/pull/838) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+
+- MERGED - [chore: Update versions in defect-report.yml](https://github.com/DependencyTrack/frontend/pull/1224) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
+
+- MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [build: prepare `v1.15.0` release](https://github.com/setchy/atlassify/pull/803) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+
+- MERGED - [feat: volume 32](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/573) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 weeks ago]
 
 - MERGED - [feat(filter): add read filter icons](https://github.com/setchy/atlassify/pull/784) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -139,36 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: compass icon shape](https://github.com/setchy/atlassify/pull/735) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
-- MERGED - [refactor: preload context bridge](https://github.com/setchy/atlassify/pull/734) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
-
-- CLOSED - [feat: compiled css migration](https://github.com/setchy/atlassify/pull/718) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- CLOSED - [build: extract electron-builder configuration](https://github.com/setchy/atlassify/pull/696) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [refactor: remove duplication in filters](https://github.com/setchy/atlassify/pull/694) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29555⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29559⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 8⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 76800⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 77387⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16568⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16573⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11185⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11199⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4120⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4125⭐
 
-- [cline/cline](https://github.com/cline/cline) 39200⭐
+- [cline/cline](https://github.com/cline/cline) 39352⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 42482⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 42540⭐
 
 - [CycloneDX/Sunshine](https://github.com/CycloneDX/Sunshine) 40⭐
 
-- [primer/react](https://github.com/primer/react) 3483⭐
+- [primer/react](https://github.com/primer/react) 3486⭐
 
 
