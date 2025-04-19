@@ -85,13 +85,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,9 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: i18n variables](https://github.com/setchy/atlassify/pull/872) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v1.17.0` release](https://github.com/setchy/atlassify/pull/877) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [fix: i18n variables](https://github.com/setchy/atlassify/pull/872) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+
+- MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [build: prepare `v1.16.0` release](https://github.com/setchy/atlassify/pull/848) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: renderer crash on windows devices when using required text fields](https://github.com/setchy/atlassify/pull/754) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [build: prepare `v1.14.0` release](https://github.com/setchy/atlassify/pull/753) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18229⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18249⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 56492⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 56693⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29635⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29646⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 8⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 82396⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 82854⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16594⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16595⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11436⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11466⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4162⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4169⭐
 
-- [cline/cline](https://github.com/cline/cline) 40616⭐
+- [cline/cline](https://github.com/cline/cline) 40844⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 42964⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43004⭐
 
 
