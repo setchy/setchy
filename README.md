@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,9 +107,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: zoom in and out icons](https://github.com/gitify-app/gitify/pull/1968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: zoom in and out icons](https://github.com/gitify-app/gitify/pull/1968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
 - MERGED - [build: prepare `v1.17.0` release](https://github.com/setchy/atlassify/pull/877) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18463⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18477⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 57998⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58094⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29744⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29757⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 8⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 85997⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 86264⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16618⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16619⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11516⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11525⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4197⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4202⭐
 
-- [cline/cline](https://github.com/cline/cline) 41816⭐
+- [cline/cline](https://github.com/cline/cline) 41886⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43302⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43331⭐
 
 
