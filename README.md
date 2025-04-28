@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -95,9 +95,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 weeks ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
 
@@ -107,9 +107,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: zoom in and out icons](https://github.com/gitify-app/gitify/pull/1968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: zoom in and out icons](https://github.com/gitify-app/gitify/pull/1968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 - MERGED - [build: prepare `v1.17.0` release](https://github.com/setchy/atlassify/pull/877) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -127,7 +127,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: migrate @atlaskit components to latest compiled-css-in-js major versions](https://github.com/setchy/atlassify/pull/838) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [chore: Update versions in defect-report.yml](https://github.com/DependencyTrack/frontend/pull/1224) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 weeks ago]
+- MERGED - [chore: Update versions in defect-report.yml](https://github.com/DependencyTrack/frontend/pull/1224) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 weeks ago]
 
 - MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18477⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18509⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58094⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58237⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29757⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29765⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 8⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 86264⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 86559⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16619⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16623⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11525⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11531⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4202⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4207⭐
 
-- [cline/cline](https://github.com/cline/cline) 41886⭐
+- [cline/cline](https://github.com/cline/cline) 41976⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43331⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43374⭐
 
 
