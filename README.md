@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -99,7 +99,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 weeks ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 weeks ago]
 
 - [setchy/renovate-reproduction-unknown-severity](https://github.com/setchy/renovate-reproduction-unknown-severity) -  [1 month ago]
 
@@ -107,9 +107,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: zoom in and out icons](https://github.com/gitify-app/gitify/pull/1968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: zoom in and out icons](https://github.com/gitify-app/gitify/pull/1968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [build: prepare `v1.17.0` release](https://github.com/setchy/atlassify/pull/877) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -117,13 +117,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [build: prepare `v1.16.0` release](https://github.com/setchy/atlassify/pull/848) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [build: prepare `v1.16.0` release](https://github.com/setchy/atlassify/pull/848) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [fix: emoji splash formatting](https://github.com/setchy/atlassify/pull/845) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [fix: emoji splash formatting](https://github.com/setchy/atlassify/pull/845) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- CLOSED - [fix: context menu visibility regression in electron](https://github.com/gitify-app/gitify/pull/1953) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- CLOSED - [fix: context menu visibility regression in electron](https://github.com/gitify-app/gitify/pull/1953) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [fix: context menu visibility regression in electron](https://github.com/setchy/atlassify/pull/844) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [fix: context menu visibility regression in electron](https://github.com/setchy/atlassify/pull/844) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - MERGED - [feat: migrate @atlaskit components to latest compiled-css-in-js major versions](https://github.com/setchy/atlassify/pull/838) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18542⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18572⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58375⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58502⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29777⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29786⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 8⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 86906⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 87349⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16628⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16633⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11535⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11541⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4211⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4213⭐
 
-- [cline/cline](https://github.com/cline/cline) 42084⭐
+- [cline/cline](https://github.com/cline/cline) 42199⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43418⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43452⭐
 
 
