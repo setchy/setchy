@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -113,7 +113,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v1.17.0` release](https://github.com/setchy/atlassify/pull/877) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix: i18n variables](https://github.com/setchy/atlassify/pull/872) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [fix: i18n variables](https://github.com/setchy/atlassify/pull/872) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -129,7 +129,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [chore: Update versions in defect-report.yml](https://github.com/DependencyTrack/frontend/pull/1224) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 weeks ago]
 
-- MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
+- MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
 - MERGED - [build: prepare `v1.15.0` release](https://github.com/setchy/atlassify/pull/803) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18572⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18610⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58502⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58639⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29786⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29795⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 8⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 87349⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 87727⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16633⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16639⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11541⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11546⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4213⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4223⭐
 
-- [cline/cline](https://github.com/cline/cline) 42199⭐
+- [cline/cline](https://github.com/cline/cline) 42294⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43452⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43500⭐
 
 
