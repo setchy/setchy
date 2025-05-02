@@ -91,7 +91,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 weeks ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
 
@@ -99,7 +99,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 weeks ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 weeks ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 month ago]
 
 - [setchy/renovate-reproduction-unknown-severity](https://github.com/setchy/renovate-reproduction-unknown-severity) -  [1 month ago]
 
@@ -111,7 +111,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: zoom in and out icons](https://github.com/gitify-app/gitify/pull/1968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: prepare `v1.17.0` release](https://github.com/setchy/atlassify/pull/877) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [build: prepare `v1.17.0` release](https://github.com/setchy/atlassify/pull/877) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [fix: i18n variables](https://github.com/setchy/atlassify/pull/872) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18610⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18648⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58639⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58715⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29795⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29802⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 8⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 87727⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 87992⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16639⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16643⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11546⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11547⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4223⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4226⭐
 
-- [cline/cline](https://github.com/cline/cline) 42294⭐
+- [cline/cline](https://github.com/cline/cline) 42365⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43500⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43533⭐
 
 
