@@ -89,7 +89,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 weeks ago]
 
@@ -115,7 +115,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: i18n variables](https://github.com/setchy/atlassify/pull/872) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - MERGED - [build: prepare `v1.16.0` release](https://github.com/setchy/atlassify/pull/848) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -129,7 +129,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [chore: Update versions in defect-report.yml](https://github.com/DependencyTrack/frontend/pull/1224) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 weeks ago]
 
-- MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
 - MERGED - [build: prepare `v1.15.0` release](https://github.com/setchy/atlassify/pull/803) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18648⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18665⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58715⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58802⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29802⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29812⭐
 
-- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 8⭐
+- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 87992⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 88259⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16643⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16648⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11547⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11549⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4226⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4228⭐
 
-- [cline/cline](https://github.com/cline/cline) 42365⭐
+- [cline/cline](https://github.com/cline/cline) 42440⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43533⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43561⭐
 
 
