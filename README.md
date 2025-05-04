@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18665⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18686⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58802⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58889⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29812⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29823⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 88259⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 88532⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16648⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16647⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11549⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11551⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4228⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4230⭐
 
-- [cline/cline](https://github.com/cline/cline) 42440⭐
+- [cline/cline](https://github.com/cline/cline) 42499⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43561⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43589⭐
 
 
