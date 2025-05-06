@@ -93,7 +93,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 weeks ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
@@ -125,7 +125,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: context menu visibility regression in electron](https://github.com/setchy/atlassify/pull/844) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [feat: migrate @atlaskit components to latest compiled-css-in-js major versions](https://github.com/setchy/atlassify/pull/838) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [feat: migrate @atlaskit components to latest compiled-css-in-js major versions](https://github.com/setchy/atlassify/pull/838) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
 - MERGED - [chore: Update versions in defect-report.yml](https://github.com/DependencyTrack/frontend/pull/1224) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [4 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18714⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18738⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 58973⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 59056⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29833⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29845⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 88763⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 89096⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16648⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16650⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11554⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11565⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4232⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4236⭐
 
-- [cline/cline](https://github.com/cline/cline) 42559⭐
+- [cline/cline](https://github.com/cline/cline) 42608⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43618⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43661⭐
 
 
