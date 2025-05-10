@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 weeks ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
@@ -115,7 +115,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: i18n variables](https://github.com/setchy/atlassify/pull/872) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
 - MERGED - [build: prepare `v1.16.0` release](https://github.com/setchy/atlassify/pull/848) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18810⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18823⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 59440⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 59557⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29871⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29881⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 90695⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 91057⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16667⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16672⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11572⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11577⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4252⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4258⭐
 
-- [cline/cline](https://github.com/cline/cline) 43108⭐
+- [cline/cline](https://github.com/cline/cline) 43202⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43825⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 43860⭐
 
 
