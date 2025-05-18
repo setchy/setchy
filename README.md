@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -107,13 +107,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: group by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
 - MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [refactor: zoom in and out icons](https://github.com/gitify-app/gitify/pull/1968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [build: prepare `v1.17.0` release](https://github.com/setchy/atlassify/pull/877) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [build: prepare `v1.17.0` release](https://github.com/setchy/atlassify/pull/877) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
 - MERGED - [fix: i18n variables](https://github.com/setchy/atlassify/pull/872) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -143,32 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: electron-builder configuration](https://github.com/setchy/atlassify/pull/783) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [fix: CVSS4.0 vector parse exception - vulnerability severity fallback](https://github.com/renovatebot/renovate/pull/35003) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [feat: update tsconfig/base from node20 to node22](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/568) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 18972⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19001⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 60391⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 60493⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29929⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29936⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 94636⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 95161⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16697⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16699⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11609⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11611⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4306⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4307⭐
 
-- [cline/cline](https://github.com/cline/cline) 43805⭐
+- [cline/cline](https://github.com/cline/cline) 43850⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 44134⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 44160⭐
 
 
