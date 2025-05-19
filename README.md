@@ -83,17 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 weeks ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 month ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 month ago]
 
@@ -107,11 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: group by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [feat: group by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
 - MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19001⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19020⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 60493⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 60589⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29936⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29942⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 95161⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 95585⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16699⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16700⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11611⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11615⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4307⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4315⭐
 
-- [cline/cline](https://github.com/cline/cline) 43850⭐
+- [cline/cline](https://github.com/cline/cline) 43901⭐
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 44160⭐
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) 44186⭐
 
 
