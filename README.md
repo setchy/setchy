@@ -85,7 +85,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -107,15 +107,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: group by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- OPEN - [feat: group by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
-- MERGED - [refactor: zoom in and out icons](https://github.com/gitify-app/gitify/pull/1968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [refactor: zoom in and out icons](https://github.com/gitify-app/gitify/pull/1968) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
 - MERGED - [build: prepare `v1.17.0` release](https://github.com/setchy/atlassify/pull/877) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1639⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1669⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19106⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19122⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 61014⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 61124⭐
 
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29966⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 97070⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 97464⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16725⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16730⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11634⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11637⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4328⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4333⭐
 
-- [cline/cline](https://github.com/cline/cline) 44146⭐
+- [cline/cline](https://github.com/cline/cline) 44206⭐
 
 
