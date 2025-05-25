@@ -83,7 +83,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -141,7 +141,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: volume 32](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/573) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 month ago]
 
-- MERGED - [feat(filter): add read filter icons](https://github.com/setchy/atlassify/pull/784) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
+- MERGED - [feat(filter): add read filter icons](https://github.com/setchy/atlassify/pull/784) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
 
 - MERGED - [refactor: electron-builder configuration](https://github.com/gitify-app/gitify/pull/1917) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 months ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1698⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1710⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19149⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19168⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 61217⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 61308⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29977⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29984⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 97821⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 98154⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16736⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16737⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11639⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11640⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4342⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4347⭐
 
-- [cline/cline](https://github.com/cline/cline) 44278⭐
+- [cline/cline](https://github.com/cline/cline) 44336⭐
 
 
