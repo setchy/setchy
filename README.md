@@ -83,7 +83,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -137,9 +137,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
-- MERGED - [build: prepare `v1.15.0` release](https://github.com/setchy/atlassify/pull/803) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
+- MERGED - [build: prepare `v1.15.0` release](https://github.com/setchy/atlassify/pull/803) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
 
-- MERGED - [feat: volume 32](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/573) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 month ago]
+- MERGED - [feat: volume 32](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/573) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 months ago]
 
 - MERGED - [feat(filter): add read filter icons](https://github.com/setchy/atlassify/pull/784) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1710⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1723⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19168⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19188⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 61308⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 61442⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29984⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29992⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 98154⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 98458⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16737⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16743⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11640⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11643⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4347⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4351⭐
 
-- [cline/cline](https://github.com/cline/cline) 44336⭐
+- [cline/cline](https://github.com/cline/cline) 44384⭐
 
 
