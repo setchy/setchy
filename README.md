@@ -107,9 +107,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v6.4.0` release](https://github.com/gitify-app/gitify/pull/2024) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: system setting notification volume level](https://github.com/setchy/atlassify/pull/1003) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [feat: group by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [fix: adjust min volume level](https://github.com/gitify-app/gitify/pull/2033) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [build: prepare `v6.4.1` release](https://github.com/gitify-app/gitify/pull/2032) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [refactor: rename main to index](https://github.com/gitify-app/gitify/pull/2031) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [test: refactor to userEvents](https://github.com/setchy/atlassify/pull/1000) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [build: prepare `v6.4.0` release](https://github.com/gitify-app/gitify/pull/2024) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- OPEN - [feat: group notifications by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -137,38 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [chore: Update versions in defect-report.yml](https://github.com/DependencyTrack/frontend/pull/1224) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 month ago]
 
-- MERGED - [fix: notarize process](https://github.com/gitify-app/gitify/pull/1940) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
-- MERGED - [build: prepare `v1.15.0` release](https://github.com/setchy/atlassify/pull/803) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
-
-- MERGED - [feat: volume 32](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/573) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 months ago]
-
-- MERGED - [feat(filter): add read filter icons](https://github.com/setchy/atlassify/pull/784) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
-
-- MERGED - [refactor: electron-builder configuration](https://github.com/gitify-app/gitify/pull/1917) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1740⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1747⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19218⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19259⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 61559⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 61675⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 29998⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30007⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 98923⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 99581⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16748⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16752⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11653⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11662⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4360⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4362⭐
 
-- [cline/cline](https://github.com/cline/cline) 44462⭐
+- [cline/cline](https://github.com/cline/cline) 44588⭐
 
 
