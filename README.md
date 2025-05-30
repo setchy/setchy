@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
@@ -107,23 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: system setting notification volume level](https://github.com/setchy/atlassify/pull/1003) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: system setting notification volume level](https://github.com/setchy/atlassify/pull/1003) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix: adjust min volume level](https://github.com/gitify-app/gitify/pull/2033) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: adjust min volume level](https://github.com/gitify-app/gitify/pull/2033) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build: prepare `v6.4.1` release](https://github.com/gitify-app/gitify/pull/2032) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare `v6.4.1` release](https://github.com/gitify-app/gitify/pull/2032) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: rename main to index](https://github.com/gitify-app/gitify/pull/2031) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: rename main to index](https://github.com/gitify-app/gitify/pull/2031) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [test: refactor to userEvents](https://github.com/setchy/atlassify/pull/1000) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [test: refactor to userEvents](https://github.com/setchy/atlassify/pull/1000) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v6.4.0` release](https://github.com/gitify-app/gitify/pull/2024) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v6.4.0` release](https://github.com/gitify-app/gitify/pull/2024) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
 - MERGED - [feat: group notifications by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1754⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1766⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19287⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19329⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 61780⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 61876⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30013⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30016⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 100402⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 101070⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16756⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16760⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11668⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11670⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4365⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4369⭐
 
-- [cline/cline](https://github.com/cline/cline) 44692⭐
+- [cline/cline](https://github.com/cline/cline) 44785⭐
 
 
