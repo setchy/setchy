@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -107,9 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [1 day ago]
 
-- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+
+- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
 - MERGED - [feat: system setting notification volume level](https://github.com/setchy/atlassify/pull/1003) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [fix: context menu visibility regression in electron](https://github.com/gitify-app/gitify/pull/1953) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
-- MERGED - [fix: context menu visibility regression in electron](https://github.com/setchy/atlassify/pull/844) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1780⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1793⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19445⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19469⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62190⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62272⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30052⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30065⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 102599⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 103078⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16772⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16777⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11685⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11691⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4382⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4387⭐
 
-- [cline/cline](https://github.com/cline/cline) 45005⭐
+- [cline/cline](https://github.com/cline/cline) 45079⭐
 
 
