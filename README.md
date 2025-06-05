@@ -83,17 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [4 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 month ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 month ago]
 
@@ -101,17 +103,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 month ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 months ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [1 day ago]
+- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [2 days ago]
 
-- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
 - MERGED - [feat: system setting notification volume level](https://github.com/setchy/atlassify/pull/1003) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: emoji splash formatting](https://github.com/setchy/atlassify/pull/845) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- CLOSED - [fix: context menu visibility regression in electron](https://github.com/gitify-app/gitify/pull/1953) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1793⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1797⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19469⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19504⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62272⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62352⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30065⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30074⭐
 
-- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 9⭐
+- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 12⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 103078⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 103604⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16777⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16782⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11691⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11696⭐
 
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4387⭐
 
-- [cline/cline](https://github.com/cline/cline) 45079⭐
+- [cline/cline](https://github.com/cline/cline) 45151⭐
 
 
