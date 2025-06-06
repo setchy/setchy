@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 day ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [4 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [5 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -101,19 +101,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 month ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 month ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 months ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [2 days ago]
+- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [3 days ago]
 
-- MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
 - MERGED - [feat: system setting notification volume level](https://github.com/setchy/atlassify/pull/1003) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -131,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1797⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1803⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19504⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19523⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62352⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62461⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30074⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30086⭐
 
-- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 12⭐
+- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 14⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 103604⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 104063⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16782⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16788⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11696⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11700⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4387⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4390⭐
 
-- [cline/cline](https://github.com/cline/cline) 45151⭐
+- [cline/cline](https://github.com/cline/cline) 45214⭐
 
 
