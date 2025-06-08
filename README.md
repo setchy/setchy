@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [3 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [4 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [6 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -107,13 +107,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
-- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [4 days ago]
+- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [5 days ago]
 
-- MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [feat: system setting notification volume level](https://github.com/setchy/atlassify/pull/1003) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -143,32 +143,32 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [build: prepare `v1.16.0` release](https://github.com/setchy/atlassify/pull/848) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
+- MERGED - [build: prepare `v1.16.0` release](https://github.com/setchy/atlassify/pull/848) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
 
-- MERGED - [fix: emoji splash formatting](https://github.com/setchy/atlassify/pull/845) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
+- MERGED - [fix: emoji splash formatting](https://github.com/setchy/atlassify/pull/845) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1807⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1814⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19549⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19572⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62539⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62584⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30092⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30099⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 14⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 104465⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 104755⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16795⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16793⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11705⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11706⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4397⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4399⭐
 
-- [cline/cline](https://github.com/cline/cline) 45285⭐
+- [cline/cline](https://github.com/cline/cline) 45331⭐
 
 
