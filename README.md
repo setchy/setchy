@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [4 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [5 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
@@ -107,9 +107,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [5 days ago]
+- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [6 days ago]
 
 - MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -125,7 +125,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [test: refactor to userEvents](https://github.com/setchy/atlassify/pull/1000) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [build: prepare `v6.4.0` release](https://github.com/gitify-app/gitify/pull/2024) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [build: prepare `v6.4.0` release](https://github.com/gitify-app/gitify/pull/2024) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [feat: group notifications by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1814⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1819⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19572⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19599⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62584⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62645⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30099⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30104⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 14⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 104755⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 105074⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16793⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16798⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11706⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11708⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4399⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4402⭐
 
-- [cline/cline](https://github.com/cline/cline) 45331⭐
+- [cline/cline](https://github.com/cline/cline) 45365⭐
 
 
