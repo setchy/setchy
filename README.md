@@ -83,7 +83,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [5 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [6 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -91,7 +91,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
@@ -107,23 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [6 days ago]
+- OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [1 week ago]
 
 - MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: system setting notification volume level](https://github.com/setchy/atlassify/pull/1003) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat: system setting notification volume level](https://github.com/setchy/atlassify/pull/1003) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [fix: adjust min volume level](https://github.com/gitify-app/gitify/pull/2033) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: adjust min volume level](https://github.com/gitify-app/gitify/pull/2033) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [build: prepare `v6.4.1` release](https://github.com/gitify-app/gitify/pull/2032) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [build: prepare `v6.4.1` release](https://github.com/gitify-app/gitify/pull/2032) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: rename main to index](https://github.com/gitify-app/gitify/pull/2031) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: rename main to index](https://github.com/gitify-app/gitify/pull/2031) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [test: refactor to userEvents](https://github.com/setchy/atlassify/pull/1000) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [test: refactor to userEvents](https://github.com/setchy/atlassify/pull/1000) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [build: prepare `v6.4.0` release](https://github.com/gitify-app/gitify/pull/2024) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1819⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1821⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19599⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19636⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62645⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62742⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30104⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30113⭐
 
-- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 14⭐
+- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 17⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 105074⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 105536⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16798⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16799⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11708⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11711⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4402⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4405⭐
 
-- [cline/cline](https://github.com/cline/cline) 45365⭐
+- [cline/cline](https://github.com/cline/cline) 45415⭐
 
 
