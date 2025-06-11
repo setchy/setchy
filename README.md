@@ -83,7 +83,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [6 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,7 +107,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [1 week ago]
 
@@ -141,7 +141,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: i18n variables](https://github.com/setchy/atlassify/pull/872) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
+- MERGED - [feat: add i18n support](https://github.com/setchy/atlassify/pull/854) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
 
 - MERGED - [build: prepare `v1.16.0` release](https://github.com/setchy/atlassify/pull/848) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1821⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1826⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19636⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19658⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62742⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 62833⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30113⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30117⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 17⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 105536⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 105920⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16799⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16809⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11711⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11713⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4405⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4407⭐
 
-- [cline/cline](https://github.com/cline/cline) 45415⭐
+- [cline/cline](https://github.com/cline/cline) 45490⭐
 
 
