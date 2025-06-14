@@ -83,7 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 day ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
 - [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 week ago]
 
@@ -93,19 +95,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 weeks ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 month ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 month ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 month ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 month ago]
-
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 months ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 months ago]
 
 #### 🎉 My recent pull requests
 
 
+
+- MERGED - [feat: add suffix to vulnerability locale keys](https://github.com/DependencyTrack/frontend/pull/1276) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
 
 - OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -127,9 +129,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v6.4.0` release](https://github.com/gitify-app/gitify/pull/2024) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: group notifications by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [feat: group notifications by same title](https://github.com/setchy/atlassify/pull/970) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
-- MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
+- MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
 - MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v1.16.0` release](https://github.com/setchy/atlassify/pull/848) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
 
-- MERGED - [fix: emoji splash formatting](https://github.com/setchy/atlassify/pull/845) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 months ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) 1657⭐
+- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) 2355⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1830⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19700⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19721⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 63019⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 63103⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30126⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30135⭐
 
-- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 18⭐
+- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 19⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 106786⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 107165⭐
 
 - [mswjs/msw](https://github.com/mswjs/msw) 16814⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11718⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11725⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4414⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4420⭐
 
 
