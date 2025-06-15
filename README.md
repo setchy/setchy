@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 day ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
 - [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 weeks ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
@@ -107,15 +107,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: add suffix to vulnerability locale keys](https://github.com/DependencyTrack/frontend/pull/1276) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- MERGED - [feat: add suffix to vulnerability locale keys](https://github.com/DependencyTrack/frontend/pull/1276) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
 - OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - OPEN - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [1 week ago]
 
-- MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [docs: update screenshots](https://github.com/setchy/atlassify/pull/1026) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [feat: system setting notification volume level](https://github.com/setchy/atlassify/pull/1003) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -133,7 +133,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [test: refactor to use userEvents](https://github.com/gitify-app/gitify/pull/2014) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
-- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [test: increase play sound coverage](https://github.com/gitify-app/gitify/pull/2011) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
 - MERGED - [build: prepare `v6.3.0` release](https://github.com/gitify-app/gitify/pull/1972) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) 2355⭐
+- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) 2689⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1830⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1832⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19721⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19741⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 63103⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 63162⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30135⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30144⭐
 
-- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 19⭐
+- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 20⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 107165⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 107435⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16814⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16815⭐
 
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11725⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4420⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4422⭐
 
 
