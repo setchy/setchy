@@ -83,23 +83,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS [4 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [5 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
 
@@ -107,41 +107,41 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v1.19.0` release](https://github.com/setchy/atlassify/pull/1115) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v1.19.0` release](https://github.com/setchy/atlassify/pull/1115) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat(login): api tokens with scopes](https://github.com/setchy/atlassify/pull/1112) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat(login): api tokens with scopes](https://github.com/setchy/atlassify/pull/1112) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [build: align node versions](https://github.com/CycloneDX/cdxgen/pull/1905) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [build: align node versions](https://github.com/CycloneDX/cdxgen/pull/1905) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [build: align java versions](https://github.com/CycloneDX/cdxgen/pull/1903) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [build: align java versions](https://github.com/CycloneDX/cdxgen/pull/1903) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [feat(products): add support for opsgenie / jsm](https://github.com/setchy/atlassify/pull/1096) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat(products): add support for opsgenie / jsm](https://github.com/setchy/atlassify/pull/1096) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [config(renovate): pin package rules](https://github.com/CycloneDX/cdxgen/pull/1897) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [config(renovate): pin package rules](https://github.com/CycloneDX/cdxgen/pull/1897) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [config(renovate): jsonata manager for biome](https://github.com/CycloneDX/cdxgen/pull/1895) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [config(renovate): jsonata manager for biome](https://github.com/CycloneDX/cdxgen/pull/1895) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [config(renovate): nvm manager](https://github.com/CycloneDX/cdxgen/pull/1894) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [config(renovate): nvm manager](https://github.com/CycloneDX/cdxgen/pull/1894) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [config(renovate): limit enabled managers](https://github.com/CycloneDX/cdxgen/pull/1892) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [config(renovate): limit enabled managers](https://github.com/CycloneDX/cdxgen/pull/1892) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- OPEN - [feat: new toggle to hide/show aliased project vulnerability findings](https://github.com/DependencyTrack/frontend/pull/1280) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [5 days ago]
+- OPEN - [feat: new toggle to hide/show aliased project vulnerability findings](https://github.com/DependencyTrack/frontend/pull/1280) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [6 days ago]
 
-- MERGED - [chore: bump nvmrc version](https://github.com/CycloneDX/cdxgen/pull/1875) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [chore: bump nvmrc version](https://github.com/CycloneDX/cdxgen/pull/1875) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [chore: refresh lockfile](https://github.com/gitify-app/website/pull/440) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [chore: refresh lockfile](https://github.com/gitify-app/website/pull/440) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [refactor: pnpm built deps](https://github.com/gitify-app/website/pull/439) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [refactor: pnpm built deps](https://github.com/gitify-app/website/pull/439) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [feat: biomejs 2 migration](https://github.com/CycloneDX/cdxgen/pull/1874) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [feat: biomejs 2 migration](https://github.com/CycloneDX/cdxgen/pull/1874) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- CLOSED - [chore: bump node engine to match .nvmrc](https://github.com/CycloneDX/cdxgen/pull/1873) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- CLOSED - [chore: bump node engine to match .nvmrc](https://github.com/CycloneDX/cdxgen/pull/1873) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [feat: add suffix to vulnerability locale keys](https://github.com/DependencyTrack/frontend/pull/1276) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
 
 - OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [2 weeks ago]
+- MERGED - [gitify: update metadata](https://github.com/NixOS/nixpkgs/pull/413598) to [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) [3 weeks ago]
 
 - MERGED - [build: prepare `v1.18.0` release](https://github.com/setchy/atlassify/pull/1027) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) 3491⭐
+- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) 3542⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1840⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1843⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 19969⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20014⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 63774⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 63844⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30196⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30205⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 21⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 110678⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 111227⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16844⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16847⭐
 
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11748⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4446⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4451⭐
 
 
