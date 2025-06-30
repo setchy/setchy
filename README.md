@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [6 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -107,11 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [config(renovate): enable _VERSION dockerfile updates for node](https://github.com/CycloneDX/cdxgen/pull/1961) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [config(renovate): enable _VERSION dockerfile updates for node](https://github.com/CycloneDX/cdxgen/pull/1961) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [config(renovate): simplify setup](https://github.com/CycloneDX/cdxgen/pull/1923) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [config(renovate): simplify setup](https://github.com/CycloneDX/cdxgen/pull/1923) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [config(renovate): pin github actions](https://github.com/CycloneDX/cdxgen/pull/1919) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [config(renovate): pin github actions](https://github.com/CycloneDX/cdxgen/pull/1919) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
 - MERGED - [build: prepare `v1.19.0` release](https://github.com/setchy/atlassify/pull/1115) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) 3648⭐
+- [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit) 3665⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1844⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20129⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20141⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 64270⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 64315⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30250⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30257⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 21⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 112979⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 113272⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16857⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16859⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11762⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11765⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4470⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4473⭐
 
 
