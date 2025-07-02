@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [6 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -107,7 +107,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [config(renovate): enable _VERSION dockerfile updates for node](https://github.com/CycloneDX/cdxgen/pull/1961) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1159) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [fix(products): handle notifications for Jira Work Management product sku](https://github.com/setchy/atlassify/pull/1149) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- CLOSED - [fix: correct case for GitHub](https://github.com/browser-use/browser-use/pull/2233) to [browser-use/browser-use](https://github.com/browser-use/browser-use) [1 day ago]
+
+- MERGED - [config(renovate): enable _VERSION dockerfile updates for node](https://github.com/CycloneDX/cdxgen/pull/1961) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [config(renovate): simplify setup](https://github.com/CycloneDX/cdxgen/pull/1923) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -121,17 +127,17 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: align java versions](https://github.com/CycloneDX/cdxgen/pull/1903) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [feat(products): add support for opsgenie / jsm](https://github.com/setchy/atlassify/pull/1096) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat(products): add support for opsgenie / jsm](https://github.com/setchy/atlassify/pull/1096) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [config(renovate): pin package rules](https://github.com/CycloneDX/cdxgen/pull/1897) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [config(renovate): pin package rules](https://github.com/CycloneDX/cdxgen/pull/1897) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [config(renovate): jsonata manager for biome](https://github.com/CycloneDX/cdxgen/pull/1895) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [config(renovate): jsonata manager for biome](https://github.com/CycloneDX/cdxgen/pull/1895) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [config(renovate): nvm manager](https://github.com/CycloneDX/cdxgen/pull/1894) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [config(renovate): nvm manager](https://github.com/CycloneDX/cdxgen/pull/1894) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [config(renovate): limit enabled managers](https://github.com/CycloneDX/cdxgen/pull/1892) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [config(renovate): limit enabled managers](https://github.com/CycloneDX/cdxgen/pull/1892) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- OPEN - [feat: new toggle to hide/show aliased project vulnerability findings](https://github.com/DependencyTrack/frontend/pull/1280) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 week ago]
+- OPEN - [feat: new toggle to hide/show aliased project vulnerability findings](https://github.com/DependencyTrack/frontend/pull/1280) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 weeks ago]
 
 - MERGED - [chore: bump nvmrc version](https://github.com/CycloneDX/cdxgen/pull/1875) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
@@ -141,34 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: biomejs 2 migration](https://github.com/CycloneDX/cdxgen/pull/1874) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- CLOSED - [chore: bump node engine to match .nvmrc](https://github.com/CycloneDX/cdxgen/pull/1873) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
-
-- MERGED - [feat: add suffix to vulnerability locale keys](https://github.com/DependencyTrack/frontend/pull/1276) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 weeks ago]
-
-- OPEN - [feat: @tsconfig/bases node replacements](https://github.com/renovatebot/renovate/pull/36308) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3676⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3683⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1844⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1845⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20167⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20191⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 64396⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 64467⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30262⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30273⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 21⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 113662⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 114024⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16863⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16868⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11767⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11775⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4478⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4483⭐
 
 
