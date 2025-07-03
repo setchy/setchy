@@ -83,9 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
@@ -95,9 +97,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
-
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS [1 week ago]
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS [2 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
@@ -107,11 +107,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1159) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix(products): handle notifications for Jira Work Management product sku](https://github.com/setchy/atlassify/pull/1149) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1159) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- CLOSED - [fix: correct case for GitHub](https://github.com/browser-use/browser-use/pull/2233) to [browser-use/browser-use](https://github.com/browser-use/browser-use) [1 day ago]
+- MERGED - [fix(products): handle notifications for Jira Work Management product sku](https://github.com/setchy/atlassify/pull/1149) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+
+- CLOSED - [fix: correct case for GitHub](https://github.com/browser-use/browser-use/pull/2233) to [browser-use/browser-use](https://github.com/browser-use/browser-use) [2 days ago]
 
 - MERGED - [config(renovate): enable _VERSION dockerfile updates for node](https://github.com/CycloneDX/cdxgen/pull/1961) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -123,9 +125,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(login): api tokens with scopes](https://github.com/setchy/atlassify/pull/1112) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [build: align node versions](https://github.com/CycloneDX/cdxgen/pull/1905) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [build: align node versions](https://github.com/CycloneDX/cdxgen/pull/1905) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [build: align java versions](https://github.com/CycloneDX/cdxgen/pull/1903) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [build: align java versions](https://github.com/CycloneDX/cdxgen/pull/1903) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
 - MERGED - [feat(products): add support for opsgenie / jsm](https://github.com/setchy/atlassify/pull/1096) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: pnpm built deps](https://github.com/gitify-app/website/pull/439) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
 
-- MERGED - [feat: biomejs 2 migration](https://github.com/CycloneDX/cdxgen/pull/1874) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3683⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3697⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1845⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20191⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20215⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 64467⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 64531⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30273⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30277⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 21⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 114024⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 114363⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16868⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16871⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11775⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11782⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4483⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4487⭐
 
 
