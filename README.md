@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
@@ -107,19 +107,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/gitify-app/gitify/pull/2084) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v1.21.0` release](https://github.com/setchy/atlassify/pull/1169) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [fix: handle large grouped notifications](https://github.com/setchy/atlassify/pull/1162) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/gitify-app/gitify/pull/2084) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/setchy/atlassify/pull/1161) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix: interactions on large grouped notifications](https://github.com/setchy/atlassify/pull/1162) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/setchy/atlassify/pull/1161) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1159) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix(products): handle notifications for Jira Work Management product sku](https://github.com/setchy/atlassify/pull/1149) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1159) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- CLOSED - [fix: correct case for GitHub](https://github.com/browser-use/browser-use/pull/2233) to [browser-use/browser-use](https://github.com/browser-use/browser-use) [3 days ago]
+- MERGED - [fix(products): handle notifications for Jira Work Management product sku](https://github.com/setchy/atlassify/pull/1149) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- CLOSED - [fix: correct case for GitHub](https://github.com/browser-use/browser-use/pull/2233) to [browser-use/browser-use](https://github.com/browser-use/browser-use) [4 days ago]
 
 - MERGED - [config(renovate): enable _VERSION dockerfile updates for node](https://github.com/CycloneDX/cdxgen/pull/1961) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [config(renovate): limit enabled managers](https://github.com/CycloneDX/cdxgen/pull/1892) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- OPEN - [feat: new toggle to hide/show aliased project vulnerability findings](https://github.com/DependencyTrack/frontend/pull/1280) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3703⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3726⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1845⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20239⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20264⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 64604⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 64682⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30285⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30290⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 21⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 114708⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 115006⭐
 
 - [mswjs/msw](https://github.com/mswjs/msw) 16877⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11784⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11791⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4494⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4498⭐
 
 
