@@ -83,23 +83,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
-
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS [2 weeks ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 weeks ago]
 
@@ -107,27 +107,29 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v1.21.0` release](https://github.com/setchy/atlassify/pull/1169) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- OPEN - [build: prepare `v6.5.0` release](https://github.com/gitify-app/gitify/pull/2088) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/gitify-app/gitify/pull/2084) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare `v1.21.0` release](https://github.com/setchy/atlassify/pull/1169) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: interactions on large grouped notifications](https://github.com/setchy/atlassify/pull/1162) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/gitify-app/gitify/pull/2084) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/setchy/atlassify/pull/1161) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [fix: interactions on large grouped notifications](https://github.com/setchy/atlassify/pull/1162) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/setchy/atlassify/pull/1161) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1159) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [fix(products): handle notifications for Jira Work Management product sku](https://github.com/setchy/atlassify/pull/1149) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1159) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- CLOSED - [fix: correct case for GitHub](https://github.com/browser-use/browser-use/pull/2233) to [browser-use/browser-use](https://github.com/browser-use/browser-use) [6 days ago]
+- MERGED - [fix(products): handle notifications for Jira Work Management product sku](https://github.com/setchy/atlassify/pull/1149) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- CLOSED - [fix: correct case for GitHub](https://github.com/browser-use/browser-use/pull/2233) to [browser-use/browser-use](https://github.com/browser-use/browser-use) [1 week ago]
 
 - MERGED - [config(renovate): enable _VERSION dockerfile updates for node](https://github.com/CycloneDX/cdxgen/pull/1961) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [config(renovate): simplify setup](https://github.com/CycloneDX/cdxgen/pull/1923) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [config(renovate): simplify setup](https://github.com/CycloneDX/cdxgen/pull/1923) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [config(renovate): pin github actions](https://github.com/CycloneDX/cdxgen/pull/1919) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [config(renovate): pin github actions](https://github.com/CycloneDX/cdxgen/pull/1919) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
 - MERGED - [build: prepare `v1.19.0` release](https://github.com/setchy/atlassify/pull/1115) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [config(renovate): nvm manager](https://github.com/CycloneDX/cdxgen/pull/1894) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [config(renovate): limit enabled managers](https://github.com/CycloneDX/cdxgen/pull/1892) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3775⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3790⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1845⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1846⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20311⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20332⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 64815⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 64897⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30302⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30312⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 21⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 115484⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 115851⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16881⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16883⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11794⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11799⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4502⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4505⭐
 
 
