@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [5 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [6 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS [3 weeks ago]
 
@@ -107,11 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- OPEN - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [config(renovate): custom package rule for actions without semver available](https://github.com/CycloneDX/cdxgen/pull/2040) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [config(renovate): custom package rule for actions without semver available](https://github.com/CycloneDX/cdxgen/pull/2040) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [build: prepare `v6.5.0` release](https://github.com/gitify-app/gitify/pull/2088) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v6.5.0` release](https://github.com/gitify-app/gitify/pull/2088) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [build: prepare `v1.21.0` release](https://github.com/setchy/atlassify/pull/1169) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3846⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3852⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1848⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20458⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20478⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 65322⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 65392⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30352⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30358⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 21⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 117549⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 117818⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16900⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16902⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11821⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11822⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4530⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4531⭐
 
 
