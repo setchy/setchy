@@ -83,11 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) -  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+
+- [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) -  [2 days ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
@@ -95,21 +99,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
-
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS [3 weeks ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [1 day ago]
+- MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [2 days ago]
 
-- OPEN - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [config(renovate): custom package rule for actions without semver available](https://github.com/CycloneDX/cdxgen/pull/2040) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -123,7 +123,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/setchy/atlassify/pull/1161) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1159) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -131,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [fix: correct case for GitHub](https://github.com/browser-use/browser-use/pull/2233) to [browser-use/browser-use](https://github.com/browser-use/browser-use) [2 weeks ago]
 
-- MERGED - [config(renovate): enable _VERSION dockerfile updates for node](https://github.com/CycloneDX/cdxgen/pull/1961) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
+- MERGED - [config(renovate): enable _VERSION dockerfile updates for node](https://github.com/CycloneDX/cdxgen/pull/1961) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
 - MERGED - [config(renovate): simplify setup](https://github.com/CycloneDX/cdxgen/pull/1923) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
@@ -145,30 +145,30 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: align java versions](https://github.com/CycloneDX/cdxgen/pull/1903) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
-- MERGED - [feat(products): add support for opsgenie / jsm](https://github.com/setchy/atlassify/pull/1096) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [feat(products): add support for opsgenie / jsm](https://github.com/setchy/atlassify/pull/1096) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3859⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3864⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1848⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20505⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20530⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 65477⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 65555⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30363⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30373⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 21⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 118168⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 118500⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16904⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16910⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11824⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11826⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4531⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4543⭐
 
 
