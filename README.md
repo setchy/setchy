@@ -83,15 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/renovate-test-jsonata](https://github.com/setchy/renovate-test-jsonata) -  [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) -  [4 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 days ago]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+
+- [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) -  [5 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -99,23 +103,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
-
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS [4 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [Revert &#34;chore(deps): update react-router-dom to v7.7.0&#34;](https://github.com/setchy/atlassify/pull/1213) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [Revert &#34;chore(deps): update react-router-dom to v7.7.0&#34;](https://github.com/setchy/atlassify/pull/1213) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v1.22.0` release](https://github.com/setchy/atlassify/pull/1210) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.22.0` release](https://github.com/setchy/atlassify/pull/1210) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix: native notification footer formatting](https://github.com/setchy/atlassify/pull/1209) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: native notification footer formatting](https://github.com/setchy/atlassify/pull/1209) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [4 days ago]
+- MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [5 days ago]
 
-- OPEN - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [config(renovate): custom package rule for actions without semver available](https://github.com/CycloneDX/cdxgen/pull/2040) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) 3884⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1849⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1851⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20598⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20622⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 65724⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 65780⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30386⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30396⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 21⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 119767⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 120417⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16920⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16926⭐
 
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11835⭐
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11842⭐
 
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4549⭐
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4554⭐
 
 
