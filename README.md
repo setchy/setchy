@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3914⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 985⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1851⭐
+- [alex8088/quick-start](https://github.com/alex8088/quick-start) 319⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20746⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3922⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66208⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1852⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30445⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20771⭐
+
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66273⭐
+
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30454⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 22⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 123279⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 123618⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16949⭐
-
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) 11854⭐
-
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) 4575⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16957⭐
 
 
