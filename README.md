@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
@@ -101,7 +101,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [2 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 985⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 997⭐
 
-- [alex8088/quick-start](https://github.com/alex8088/quick-start) 319⭐
+- [alex8088/quick-start](https://github.com/alex8088/quick-start) 320⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3922⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3925⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1852⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20771⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20781⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66273⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66309⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30454⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30463⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 22⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 123618⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 123893⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16957⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16960⭐
 
 
