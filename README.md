@@ -83,25 +83,25 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - GuideAlong mapping / visualization [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
 - [setchy/renovate-test-jsonata](https://github.com/setchy/renovate-test-jsonata) -  [1 week ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) -  [1 week ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
+
+- [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) -  [2 weeks ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [2 weeks ago]
-
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
@@ -113,13 +113,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: native notification footer formatting](https://github.com/setchy/atlassify/pull/1209) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [1 week ago]
+- MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [2 weeks ago]
 
 - MERGED - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [config(renovate): custom package rule for actions without semver available](https://github.com/CycloneDX/cdxgen/pull/2040) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [build: prepare `v6.5.0` release](https://github.com/gitify-app/gitify/pull/2088) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [build: prepare `v6.5.0` release](https://github.com/gitify-app/gitify/pull/2088) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [build: prepare `v1.21.0` release](https://github.com/setchy/atlassify/pull/1169) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -151,7 +151,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 997⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1007⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 320⭐
 
@@ -159,16 +159,16 @@ Senior Executive (VP) // Architect // Developer
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1852⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20781⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20796⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66309⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66360⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30463⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30466⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 22⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 123893⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 124160⭐
 
-- [mswjs/msw](https://github.com/mswjs/msw) 16960⭐
+- [mswjs/msw](https://github.com/mswjs/msw) 16963⭐
 
 
