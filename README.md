@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 day ago]
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - GuideAlong mapping / visualization [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
@@ -107,19 +107,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [docs: world kinect - adopter](https://github.com/graphql/graphql-landscape/pull/412) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [1 day ago]
+- OPEN - [docs: world kinect - adopter](https://github.com/graphql/graphql-landscape/pull/412) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [2 days ago]
 
-- OPEN - [docs: order alphabetically](https://github.com/graphql/graphql-landscape/pull/411) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [1 day ago]
+- OPEN - [docs: order alphabetically](https://github.com/graphql/graphql-landscape/pull/411) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [2 days ago]
 
-- MERGED - [Revert &#34;chore(deps): update react-router-dom to v7.7.0&#34;](https://github.com/setchy/atlassify/pull/1213) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [Revert &#34;chore(deps): update react-router-dom to v7.7.0&#34;](https://github.com/setchy/atlassify/pull/1213) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [build: prepare `v1.22.0` release](https://github.com/setchy/atlassify/pull/1210) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [build: prepare `v1.22.0` release](https://github.com/setchy/atlassify/pull/1210) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [fix: native notification footer formatting](https://github.com/setchy/atlassify/pull/1209) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [fix: native notification footer formatting](https://github.com/setchy/atlassify/pull/1209) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [2 weeks ago]
 
-- MERGED - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- MERGED - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
 - MERGED - [config(renovate): custom package rule for actions without semver available](https://github.com/CycloneDX/cdxgen/pull/2040) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 weeks ago]
 
@@ -133,7 +133,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/setchy/atlassify/pull/1161) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
 - MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1159) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [immich-app/immich](https://github.com/immich-app/immich) 71547⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 71626⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1016⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1021⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 320⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3928⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3932⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1852⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1851⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20823⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20848⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66448⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66524⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30475⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30480⭐
 
-- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 22⭐
+- [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 23⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 124547⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 124910⭐
 
 
