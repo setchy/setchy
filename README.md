@@ -83,17 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 day ago]
+
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [2 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
-- [setchy/renovate-test-jsonata](https://github.com/setchy/renovate-test-jsonata) -  [1 week ago]
+- [setchy/renovate-test-jsonata](https://github.com/setchy/renovate-test-jsonata) -  [2 weeks ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
 
@@ -101,15 +103,17 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) -  [2 weeks ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [3 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [docs: world kinect - adopter](https://github.com/graphql/graphql-landscape/pull/412) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [3 days ago]
+- MERGED - [fix: do not log docker opts](https://github.com/CycloneDX/cdxgen/pull/2125) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- OPEN - [docs: order alphabetically](https://github.com/graphql/graphql-landscape/pull/411) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [3 days ago]
+- CLOSED - [fix: sanitize mvn args](https://github.com/CycloneDX/cdxgen/pull/2122) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+
+- OPEN - [docs: world kinect - adopter](https://github.com/graphql/graphql-landscape/pull/412) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [4 days ago]
+
+- OPEN - [docs: order alphabetically](https://github.com/graphql/graphql-landscape/pull/411) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [4 days ago]
 
 - MERGED - [Revert &#34;chore(deps): update react-router-dom to v7.7.0&#34;](https://github.com/setchy/atlassify/pull/1213) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -125,7 +129,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v6.5.0` release](https://github.com/gitify-app/gitify/pull/2088) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [build: prepare `v1.21.0` release](https://github.com/setchy/atlassify/pull/1169) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [build: prepare `v1.21.0` release](https://github.com/setchy/atlassify/pull/1169) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
 - MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/gitify-app/gitify/pull/2084) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
@@ -133,7 +137,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/setchy/atlassify/pull/1161) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
-- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1160) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
 - MERGED - [build: prepare `v1.20.0` release](https://github.com/setchy/atlassify/pull/1159) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -143,32 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [config(renovate): enable _VERSION dockerfile updates for node](https://github.com/CycloneDX/cdxgen/pull/1961) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [config(renovate): simplify setup](https://github.com/CycloneDX/cdxgen/pull/1923) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
-
-- MERGED - [config(renovate): pin github actions](https://github.com/CycloneDX/cdxgen/pull/1919) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [immich-app/immich](https://github.com/immich-app/immich) 71708⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 71789⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1026⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1028⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 320⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3937⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3943⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1851⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20877⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20902⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66603⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66681⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30481⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30492⭐
 
 - [interlynk-io/sbommv](https://github.com/interlynk-io/sbommv) 23⭐
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) 125282⭐
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) 125641⭐
 
 
