@@ -85,9 +85,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [5 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [6 days ago]
 
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 week ago]
 
@@ -107,33 +107,33 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: adjust auto labeler configuration](https://github.com/gitify-app/gitify/pull/2115) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: adjust auto labeler configuration](https://github.com/gitify-app/gitify/pull/2115) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build: add auto-milestone workflow on pr merge](https://github.com/gitify-app/gitify/pull/2114) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: add auto-milestone workflow on pr merge](https://github.com/gitify-app/gitify/pull/2114) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build: update semantic pr title workflow](https://github.com/gitify-app/gitify/pull/2113) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: update semantic pr title workflow](https://github.com/gitify-app/gitify/pull/2113) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [fix: do not log docker opts](https://github.com/CycloneDX/cdxgen/pull/2125) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- MERGED - [fix: do not log docker opts](https://github.com/CycloneDX/cdxgen/pull/2125) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- CLOSED - [fix: sanitize mvn args](https://github.com/CycloneDX/cdxgen/pull/2122) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- CLOSED - [fix: sanitize mvn args](https://github.com/CycloneDX/cdxgen/pull/2122) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
 - OPEN - [docs: world kinect - adopter](https://github.com/graphql/graphql-landscape/pull/412) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [1 week ago]
 
 - OPEN - [docs: order alphabetically](https://github.com/graphql/graphql-landscape/pull/411) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [1 week ago]
 
-- MERGED - [Revert &#34;chore(deps): update react-router-dom to v7.7.0&#34;](https://github.com/setchy/atlassify/pull/1213) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [Revert &#34;chore(deps): update react-router-dom to v7.7.0&#34;](https://github.com/setchy/atlassify/pull/1213) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [build: prepare `v1.22.0` release](https://github.com/setchy/atlassify/pull/1210) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [build: prepare `v1.22.0` release](https://github.com/setchy/atlassify/pull/1210) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [fix: native notification footer formatting](https://github.com/setchy/atlassify/pull/1209) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [fix: native notification footer formatting](https://github.com/setchy/atlassify/pull/1209) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [3 weeks ago]
 
-- MERGED - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
+- MERGED - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
 
 - MERGED - [config(renovate): custom package rule for actions without semver available](https://github.com/CycloneDX/cdxgen/pull/2040) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 weeks ago]
 
-- MERGED - [build: prepare `v6.5.0` release](https://github.com/gitify-app/gitify/pull/2088) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [build: prepare `v6.5.0` release](https://github.com/gitify-app/gitify/pull/2088) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
 - MERGED - [build: prepare `v1.21.0` release](https://github.com/setchy/atlassify/pull/1169) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3225⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3236⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 72129⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 72211⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1035⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1042⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 321⭐
 
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) 3947⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1852⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1850⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 20995⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21024⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 66966⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67032⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30727⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30748⭐
 
 
