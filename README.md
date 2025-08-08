@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
@@ -95,9 +95,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 weeks ago]
 
-- [setchy/renovate-test-jsonata](https://github.com/setchy/renovate-test-jsonata) -  [2 weeks ago]
+- [setchy/renovate-test-jsonata](https://github.com/setchy/renovate-test-jsonata) -  [3 weeks ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
@@ -107,13 +107,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v1.23.0` release](https://github.com/setchy/atlassify/pull/1316) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v1.23.0` release](https://github.com/setchy/atlassify/pull/1316) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: adjust auto labeler configuration](https://github.com/gitify-app/gitify/pull/2115) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: adjust auto labeler configuration](https://github.com/gitify-app/gitify/pull/2115) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: add auto-milestone workflow on pr merge](https://github.com/gitify-app/gitify/pull/2114) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: add auto-milestone workflow on pr merge](https://github.com/gitify-app/gitify/pull/2114) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: update semantic pr title workflow](https://github.com/gitify-app/gitify/pull/2113) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: update semantic pr title workflow](https://github.com/gitify-app/gitify/pull/2113) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [fix: do not log docker opts](https://github.com/CycloneDX/cdxgen/pull/2125) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
@@ -131,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [3 weeks ago]
 
-- MERGED - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
+- MERGED - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
 - MERGED - [config(renovate): custom package rule for actions without semver available](https://github.com/CycloneDX/cdxgen/pull/2040) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3245⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3255⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 72271⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 72338⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1049⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1053⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 321⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3949⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3951⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1850⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1849⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21059⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21086⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67103⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67159⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30769⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30778⭐
 
 
