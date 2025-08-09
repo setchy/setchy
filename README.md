@@ -83,9 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -101,13 +103,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
-- [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) -  [3 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: prepare `v1.23.0` release](https://github.com/setchy/atlassify/pull/1316) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v1.23.0` release](https://github.com/setchy/atlassify/pull/1316) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
 - MERGED - [build: adjust auto labeler configuration](https://github.com/gitify-app/gitify/pull/2115) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3255⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3263⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 72338⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 72422⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1053⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1055⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 321⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3951⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3950⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1849⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21086⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21109⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67159⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67237⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30778⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30787⭐
 
 
