@@ -83,23 +83,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 week ago]
-
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
-
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 weeks ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
 - [setchy/renovate-test-jsonata](https://github.com/setchy/renovate-test-jsonata) -  [3 weeks ago]
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 weeks ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
@@ -107,7 +107,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v1.23.0` release](https://github.com/setchy/atlassify/pull/1316) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: prepare `v1.23.0` release](https://github.com/setchy/atlassify/pull/1316) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
 - MERGED - [build: adjust auto labeler configuration](https://github.com/gitify-app/gitify/pull/2115) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -119,9 +119,9 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [fix: sanitize mvn args](https://github.com/CycloneDX/cdxgen/pull/2122) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- OPEN - [docs: world kinect - adopter](https://github.com/graphql/graphql-landscape/pull/412) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [1 week ago]
+- OPEN - [docs: world kinect - adopter](https://github.com/graphql/graphql-landscape/pull/412) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [2 weeks ago]
 
-- OPEN - [docs: order alphabetically](https://github.com/graphql/graphql-landscape/pull/411) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [1 week ago]
+- OPEN - [docs: order alphabetically](https://github.com/graphql/graphql-landscape/pull/411) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [2 weeks ago]
 
 - MERGED - [Revert &#34;chore(deps): update react-router-dom to v7.7.0&#34;](https://github.com/setchy/atlassify/pull/1213) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -129,7 +129,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: native notification footer formatting](https://github.com/setchy/atlassify/pull/1209) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [3 weeks ago]
+- MERGED - [Migrate renovate config](https://github.com/setchy/renovate-postupgrade-test/pull/2) to [setchy/renovate-postupgrade-test](https://github.com/setchy/renovate-postupgrade-test) [4 weeks ago]
 
 - MERGED - [refactor(dashboard): align verbiage for update type desc and interaction instructions](https://github.com/renovatebot/renovate/pull/36936) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3273⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3283⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 72484⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 72552⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1062⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1064⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 322⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3951⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3954⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1849⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21118⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21136⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67264⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67302⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30793⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30810⭐
 
 
