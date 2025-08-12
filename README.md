@@ -83,31 +83,31 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
+
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [2 days ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
-
-- [setchy/renovate-test-jsonata](https://github.com/setchy/renovate-test-jsonata) -  [3 weeks ago]
-
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 weeks ago]
-
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: prepare `v1.23.0` release](https://github.com/setchy/atlassify/pull/1316) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v1.23.0` release](https://github.com/setchy/atlassify/pull/1316) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - MERGED - [build: adjust auto labeler configuration](https://github.com/gitify-app/gitify/pull/2115) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3283⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3298⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 72552⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 72639⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1064⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1069⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 322⭐
 
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) 3954⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1849⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1850⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21136⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21151⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67302⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67387⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30810⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30828⭐
 
 
