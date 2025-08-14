@@ -83,31 +83,41 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 day ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [3 days ago]
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
+
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [4 days ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
-
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
-
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
-
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: display license id](https://github.com/DependencyTrack/frontend/pull/1311) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- MERGED - [Revert &#34;chore(deps): update typescript to v5.9.2&#34;](https://github.com/setchy/atlassify/pull/1339) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+
+- OPEN - [fix(discussions): find closest discussion comment or reply by timestamp](https://github.com/gitify-app/gitify/pull/2135) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [fix: dont log mvn dependency:tree args](https://github.com/CycloneDX/cdxgen/pull/2161) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+
+- MERGED - [fix(discussions): fetch labels](https://github.com/gitify-app/gitify/pull/2134) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [feat: log cdxgen version on server startup](https://github.com/CycloneDX/cdxgen/pull/2160) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+
+- OPEN - [feat: display license id](https://github.com/DependencyTrack/frontend/pull/1311) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
 - MERGED - [build: prepare `v1.23.0` release](https://github.com/setchy/atlassify/pull/1316) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -117,9 +127,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: update semantic pr title workflow](https://github.com/gitify-app/gitify/pull/2113) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: do not log docker opts](https://github.com/CycloneDX/cdxgen/pull/2125) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [fix: do not log docker opts](https://github.com/CycloneDX/cdxgen/pull/2125) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- CLOSED - [fix: sanitize mvn args](https://github.com/CycloneDX/cdxgen/pull/2122) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- CLOSED - [fix: sanitize mvn args](https://github.com/CycloneDX/cdxgen/pull/2122) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
 - OPEN - [docs: world kinect - adopter](https://github.com/graphql/graphql-landscape/pull/412) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [2 weeks ago]
 
@@ -137,38 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [config(renovate): custom package rule for actions without semver available](https://github.com/CycloneDX/cdxgen/pull/2040) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 month ago]
 
-- MERGED - [build: prepare `v6.5.0` release](https://github.com/gitify-app/gitify/pull/2088) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
-- MERGED - [build: prepare `v1.21.0` release](https://github.com/setchy/atlassify/pull/1169) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/gitify-app/gitify/pull/2084) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
-- MERGED - [fix: interactions on large grouped notifications](https://github.com/setchy/atlassify/pull/1162) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [build: configure twemoji changelog to be upstream fork](https://github.com/setchy/atlassify/pull/1161) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3307⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3322⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 72704⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 72762⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1070⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1074⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 322⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3958⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3963⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1852⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21165⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21185⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67459⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67534⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30839⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30846⭐
 
 
