@@ -83,21 +83,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-
 - [setchy/renovate-reproduction-dotnet-tools-pinning](https://github.com/setchy/renovate-reproduction-dotnet-tools-pinning) -  [1 day ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [2 days ago]
+
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
-
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
 
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [5 days ago]
 
@@ -106,6 +106,14 @@ Senior Executive (VP) // Architect // Developer
 #### 🎉 My recent pull requests
 
 
+
+- MERGED - [refactor: remove temp package](https://github.com/setchy/atlassify/pull/1360) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+
+- OPEN - [feat: show key for atlassian home goals or projects](https://github.com/setchy/atlassify/pull/1359) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+
+- MERGED - [feat(footer): use colored icons](https://github.com/setchy/atlassify/pull/1358) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+
+- OPEN - [feat: lookup jira project types](https://github.com/setchy/atlassify/pull/1357) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
 
 - MERGED - [feat(landing): adopt colored icons](https://github.com/setchy/atlassify/pull/1356) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
@@ -139,35 +147,27 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat: display license id](https://github.com/DependencyTrack/frontend/pull/1311) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [3 days ago]
 
-- MERGED - [build: prepare `v1.23.0` release](https://github.com/setchy/atlassify/pull/1316) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [build: adjust auto labeler configuration](https://github.com/gitify-app/gitify/pull/2115) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [build: add auto-milestone workflow on pr merge](https://github.com/gitify-app/gitify/pull/2114) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [build: update semantic pr title workflow](https://github.com/gitify-app/gitify/pull/2113) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3330⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3333⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 72859⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 72865⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1077⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1078⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 322⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3961⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3959⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1852⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21211⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21213⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67625⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67635⭐
 
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30854⭐
 
