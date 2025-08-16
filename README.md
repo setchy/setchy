@@ -83,13 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [today]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
 - [setchy/renovate-reproduction-dotnet-tools-pinning](https://github.com/setchy/renovate-reproduction-dotnet-tools-pinning) -  [2 days ago]
 
@@ -101,11 +103,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
-
 #### 🎉 My recent pull requests
 
 
+
+- MERGED - [feat(filters): split into two stages (base, detailed) to reduce api calls](https://github.com/gitify-app/gitify/pull/2156) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
 - OPEN - [refactor: use notifications test](https://github.com/setchy/atlassify/pull/1371) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: check credentials api call](https://github.com/setchy/atlassify/pull/1341) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [Revert &#34;chore(deps): update typescript to v5.9.2&#34;](https://github.com/setchy/atlassify/pull/1339) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3336⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3341⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 72919⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 72971⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1082⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1088⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 323⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3959⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3961⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1853⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21222⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21227⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67699⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67761⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30861⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30867⭐
 
 
