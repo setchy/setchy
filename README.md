@@ -83,69 +83,69 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [today]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [setchy/renovate-reproduction-dotnet-tools-pinning](https://github.com/setchy/renovate-reproduction-dotnet-tools-pinning) -  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [3 days ago]
+- [setchy/renovate-reproduction-dotnet-tools-pinning](https://github.com/setchy/renovate-reproduction-dotnet-tools-pinning) -  [3 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [feat(filters): split into two stages (base, detailed) to reduce api calls](https://github.com/gitify-app/gitify/pull/2156) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- OPEN - [feat(filter): early return for notifications with filtered state](https://github.com/gitify-app/gitify/pull/2158) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: use notifications test](https://github.com/setchy/atlassify/pull/1371) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat(filters): split into two stages (base, detailed) to reduce api calls](https://github.com/gitify-app/gitify/pull/2156) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: drop nock](https://github.com/setchy/atlassify/pull/1370) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [refactor: use notifications test](https://github.com/setchy/atlassify/pull/1371) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [Revert &#34;refactor(login): use isRequired again&#34;](https://github.com/setchy/atlassify/pull/1369) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [refactor: drop nock](https://github.com/setchy/atlassify/pull/1370) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v2.0.0` release](https://github.com/setchy/atlassify/pull/1368) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [Revert &#34;refactor(login): use isRequired again&#34;](https://github.com/setchy/atlassify/pull/1369) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor(login): use isRequired again](https://github.com/setchy/atlassify/pull/1367) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v2.0.0` release](https://github.com/setchy/atlassify/pull/1368) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: remove temp package](https://github.com/setchy/atlassify/pull/1360) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor(login): use isRequired again](https://github.com/setchy/atlassify/pull/1367) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: show key for atlassian home goals or projects](https://github.com/setchy/atlassify/pull/1359) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: remove temp package](https://github.com/setchy/atlassify/pull/1360) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat(footer): use colored icons](https://github.com/setchy/atlassify/pull/1358) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: show key for atlassian home goals or projects](https://github.com/setchy/atlassify/pull/1359) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: lookup jira project types](https://github.com/setchy/atlassify/pull/1357) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat(footer): use colored icons](https://github.com/setchy/atlassify/pull/1358) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat(landing): adopt colored icons](https://github.com/setchy/atlassify/pull/1356) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: lookup jira project types](https://github.com/setchy/atlassify/pull/1357) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [fix: login await type](https://github.com/setchy/atlassify/pull/1355) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat(landing): adopt colored icons](https://github.com/setchy/atlassify/pull/1356) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: remove deprecated select styles](https://github.com/setchy/atlassify/pull/1354) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: login await type](https://github.com/setchy/atlassify/pull/1355) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: remove duplicate type](https://github.com/setchy/atlassify/pull/1353) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: remove deprecated select styles](https://github.com/setchy/atlassify/pull/1354) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: chevron icon migration](https://github.com/setchy/atlassify/pull/1352) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: remove duplicate type](https://github.com/setchy/atlassify/pull/1353) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: lock icon migration](https://github.com/setchy/atlassify/pull/1351) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: chevron icon migration](https://github.com/setchy/atlassify/pull/1352) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor(icons): replace `close` with `cross` icons](https://github.com/setchy/atlassify/pull/1350) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: lock icon migration](https://github.com/setchy/atlassify/pull/1351) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat(design): migrate to new icon design](https://github.com/setchy/atlassify/pull/1348) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor(icons): replace `close` with `cross` icons](https://github.com/setchy/atlassify/pull/1350) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat(products): migrate `team central (atlas)` to `atlassian home`](https://github.com/setchy/atlassify/pull/1347) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat(design): migrate to new icon design](https://github.com/setchy/atlassify/pull/1348) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix: check credentials api call](https://github.com/setchy/atlassify/pull/1341) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat(products): migrate `team central (atlas)` to `atlassian home`](https://github.com/setchy/atlassify/pull/1347) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -155,19 +155,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3341⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 72971⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 72987⭐
 
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1088⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 323⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3961⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3960⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1853⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21227⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21228⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67761⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 67776⭐
 
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30867⭐
 
