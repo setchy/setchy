@@ -83,55 +83,61 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
-
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/renovate-reproduction-dotnet-tools-pinning](https://github.com/setchy/renovate-reproduction-dotnet-tools-pinning) -  [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com [5 days ago]
+- [setchy/renovate-reproduction-dotnet-tools-pinning](https://github.com/setchy/renovate-reproduction-dotnet-tools-pinning) -  [2 days ago]
+
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [4 days ago]
+
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com [6 days ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: prepare `v2.2.0` release](https://github.com/setchy/atlassify/pull/1408) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [refactor: reorganize product module](https://github.com/setchy/atlassify/pull/1412) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat(products): remove trello](https://github.com/setchy/atlassify/pull/1407) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [test: main module coverage](https://github.com/setchy/atlassify/pull/1410) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat(products): add atlassian teams product](https://github.com/setchy/atlassify/pull/1406) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: shared module](https://github.com/setchy/atlassify/pull/1409) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: improve footer metadata presentation](https://github.com/setchy/atlassify/pull/1404) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v2.2.0` release](https://github.com/setchy/atlassify/pull/1408) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: use `@primer/css` directly](https://github.com/gitify-app/gitify/pull/2171) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(products): remove trello](https://github.com/setchy/atlassify/pull/1407) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [chore: run `@tailwind/upgrade`](https://github.com/gitify-app/gitify/pull/2169) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(products): add atlassian teams product](https://github.com/setchy/atlassify/pull/1406) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: address output from `@tailwind/upgrade`](https://github.com/setchy/atlassify/pull/1394) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: improve footer metadata presentation](https://github.com/setchy/atlassify/pull/1404) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v2.1.0` release](https://github.com/setchy/atlassify/pull/1391) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: use `@primer/css` directly](https://github.com/gitify-app/gitify/pull/2171) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: prepare `v6.6.0` release](https://github.com/gitify-app/gitify/pull/2167) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [chore: run `@tailwind/upgrade`](https://github.com/gitify-app/gitify/pull/2169) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix(discussions): increase match accuracy](https://github.com/gitify-app/gitify/pull/2165) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: address output from `@tailwind/upgrade`](https://github.com/setchy/atlassify/pull/1394) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor(handlers): icon color and formatted names](https://github.com/gitify-app/gitify/pull/2160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare `v2.1.0` release](https://github.com/setchy/atlassify/pull/1391) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [docs: alphabetize reason names](https://github.com/github/docs/pull/39899) to [github/docs](https://github.com/github/docs) [5 days ago]
+- MERGED - [build: prepare `v6.6.0` release](https://github.com/gitify-app/gitify/pull/2167) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: notification handlers](https://github.com/gitify-app/gitify/pull/2159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix(discussions): increase match accuracy](https://github.com/gitify-app/gitify/pull/2165) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [refactor(handlers): icon color and formatted names](https://github.com/gitify-app/gitify/pull/2160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [docs: alphabetize reason names](https://github.com/github/docs/pull/39899) to [github/docs](https://github.com/github/docs) [6 days ago]
+
+- MERGED - [refactor: notification handlers](https://github.com/gitify-app/gitify/pull/2159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat(filters): reduce api calls for filtered detailed notifications](https://github.com/gitify-app/gitify/pull/2158) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -141,34 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [refactor: drop nock](https://github.com/setchy/atlassify/pull/1370) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [Revert &#34;refactor(login): use isRequired again&#34;](https://github.com/setchy/atlassify/pull/1369) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [build: prepare `v2.0.0` release](https://github.com/setchy/atlassify/pull/1368) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [refactor(login): use isRequired again](https://github.com/setchy/atlassify/pull/1367) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3386⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3392⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 74007⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 74108⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1101⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1103⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 324⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3968⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3969⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1853⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21377⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21421⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 68434⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 68497⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30921⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30930⭐
 
 
