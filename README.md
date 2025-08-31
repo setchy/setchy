@@ -85,15 +85,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [3 days ago]
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [4 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [4 days ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [5 days ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
@@ -107,45 +107,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor(webpack): source maps and output type](https://github.com/setchy/atlassify/pull/1457) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor(webpack): source maps and output type](https://github.com/setchy/atlassify/pull/1457) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- OPEN - [feat: context bridge and node isolation](https://github.com/gitify-app/gitify/pull/2190) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat: context bridge and node isolation](https://github.com/gitify-app/gitify/pull/2190) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: render logger utility](https://github.com/gitify-app/gitify/pull/2181) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: render logger utility](https://github.com/gitify-app/gitify/pull/2181) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: main module](https://github.com/gitify-app/gitify/pull/2180) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: main module](https://github.com/gitify-app/gitify/pull/2180) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: biome config imports](https://github.com/gitify-app/gitify/pull/2179) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: biome config imports](https://github.com/gitify-app/gitify/pull/2179) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: auto updates for all platforms](https://github.com/gitify-app/gitify/pull/2178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: auto updates for all platforms](https://github.com/gitify-app/gitify/pull/2178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v2.5.0` release](https://github.com/setchy/atlassify/pull/1436) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v2.5.0` release](https://github.com/setchy/atlassify/pull/1436) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: remove axios default headers](https://github.com/gitify-app/gitify/pull/2177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: remove axios default headers](https://github.com/gitify-app/gitify/pull/2177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: extract defaults](https://github.com/gitify-app/gitify/pull/2175) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: extract defaults](https://github.com/gitify-app/gitify/pull/2175) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [fix: postProcess dependencies to correct root deps](https://github.com/CycloneDX/cdxgen/pull/2199) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
+- OPEN - [fix: postProcess dependencies to correct root deps](https://github.com/CycloneDX/cdxgen/pull/2199) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
 
-- MERGED - [build: prepare `v2.4.0` release](https://github.com/setchy/atlassify/pull/1430) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v2.4.0` release](https://github.com/setchy/atlassify/pull/1430) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor: app update module](https://github.com/setchy/atlassify/pull/1429) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: app update module](https://github.com/setchy/atlassify/pull/1429) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [feat: cross-platform auto updating](https://github.com/setchy/atlassify/pull/1428) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: cross-platform auto updating](https://github.com/setchy/atlassify/pull/1428) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor: remove custom unread icon](https://github.com/setchy/atlassify/pull/1424) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: remove custom unread icon](https://github.com/setchy/atlassify/pull/1424) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [chore: fix import cycles](https://github.com/setchy/atlassify/pull/1423) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [chore: fix import cycles](https://github.com/setchy/atlassify/pull/1423) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [build: prepare `v2.3.0` release](https://github.com/setchy/atlassify/pull/1422) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v2.3.0` release](https://github.com/setchy/atlassify/pull/1422) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: compass scorecards as automation actor](https://github.com/setchy/atlassify/pull/1418) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat: compass scorecards as automation actor](https://github.com/setchy/atlassify/pull/1418) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: jira project type](https://github.com/setchy/atlassify/pull/1417) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: jira project type](https://github.com/setchy/atlassify/pull/1417) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: theme type](https://github.com/setchy/atlassify/pull/1416) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: theme type](https://github.com/setchy/atlassify/pull/1416) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: use interface for component testing](https://github.com/setchy/atlassify/pull/1415) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: use interface for component testing](https://github.com/setchy/atlassify/pull/1415) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -153,11 +153,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3451⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3455⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 74663⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 74740⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1192⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1216⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 326⭐
 
@@ -165,10 +165,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1859⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21545⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21571⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 68890⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 68926⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30977⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 30988⭐
 
 
