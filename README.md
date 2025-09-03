@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
-- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [6 days ago]
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -101,27 +101,27 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [refactor(webpack): source maps and output type](https://github.com/setchy/atlassify/pull/1457) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor(webpack): source maps and output type](https://github.com/setchy/atlassify/pull/1457) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [feat: context bridge and node isolation](https://github.com/gitify-app/gitify/pull/2190) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [feat: context bridge and node isolation](https://github.com/gitify-app/gitify/pull/2190) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: render logger utility](https://github.com/gitify-app/gitify/pull/2181) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: render logger utility](https://github.com/gitify-app/gitify/pull/2181) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: main module](https://github.com/gitify-app/gitify/pull/2180) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: main module](https://github.com/gitify-app/gitify/pull/2180) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: biome config imports](https://github.com/gitify-app/gitify/pull/2179) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: biome config imports](https://github.com/gitify-app/gitify/pull/2179) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: auto updates for all platforms](https://github.com/gitify-app/gitify/pull/2178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: auto updates for all platforms](https://github.com/gitify-app/gitify/pull/2178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: prepare `v2.5.0` release](https://github.com/setchy/atlassify/pull/1436) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v2.5.0` release](https://github.com/setchy/atlassify/pull/1436) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix: remove axios default headers](https://github.com/gitify-app/gitify/pull/2177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: remove axios default headers](https://github.com/gitify-app/gitify/pull/2177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: extract defaults](https://github.com/gitify-app/gitify/pull/2175) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3472⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3475⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 74926⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 75032⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1241⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1253⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 326⭐
 
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) 3960⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1861⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1863⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21620⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21653⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69021⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69082⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31002⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31012⭐
 
 
