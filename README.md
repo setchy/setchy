@@ -83,11 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 day ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
-
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [1 week ago]
 
@@ -95,17 +97,21 @@ Senior Executive (VP) // Architect // Developer
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
-
 - [setchy/renovate-reproduction-dotnet-tools-pinning](https://github.com/setchy/renovate-reproduction-dotnet-tools-pinning) -  [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
 #### 🎉 My recent pull requests
 
 
+
+- MERGED - [refactor: use `main` instead of `master`](https://github.com/CycloneDX/cdxgen/pull/2229) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+
+- MERGED - [refactor: cdxgen version](https://github.com/CycloneDX/cdxgen/pull/2227) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+
+- MERGED - [refactor: parsedList dependencies condition](https://github.com/CycloneDX/cdxgen/pull/2226) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
 - MERGED - [refactor(webpack): source maps and output type](https://github.com/setchy/atlassify/pull/1457) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -125,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: extract defaults](https://github.com/gitify-app/gitify/pull/2175) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [fix: postProcess dependencies to correct root deps](https://github.com/CycloneDX/cdxgen/pull/2199) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- CLOSED - [fix: postProcess dependencies to correct root deps](https://github.com/CycloneDX/cdxgen/pull/2199) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 - MERGED - [build: prepare `v2.4.0` release](https://github.com/setchy/atlassify/pull/1430) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -141,34 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: compass scorecards as automation actor](https://github.com/setchy/atlassify/pull/1418) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: jira project type](https://github.com/setchy/atlassify/pull/1417) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [refactor: theme type](https://github.com/setchy/atlassify/pull/1416) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [refactor: use interface for component testing](https://github.com/setchy/atlassify/pull/1415) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3475⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3486⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 75032⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 75124⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1253⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1261⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 326⭐
 
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) 3960⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1863⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1864⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21653⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21679⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69082⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69159⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31012⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31020⭐
 
 
