@@ -85,13 +85,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [3 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,15 +107,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v6.7.0` release](https://github.com/gitify-app/gitify/pull/2211) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [[WIP] feat(filters): search by org, repo, author](https://github.com/gitify-app/gitify/pull/2214) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [docs: archlinux encryption not available](https://github.com/gitify-app/website/pull/489) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [test: remove unused memoryrouter](https://github.com/gitify-app/gitify/pull/2212) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: use `main` instead of `master`](https://github.com/CycloneDX/cdxgen/pull/2229) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [build: prepare `v6.7.0` release](https://github.com/gitify-app/gitify/pull/2211) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: cdxgen version](https://github.com/CycloneDX/cdxgen/pull/2227) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [docs: archlinux encryption not available](https://github.com/gitify-app/website/pull/489) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
 
-- MERGED - [refactor: parsedList dependencies condition](https://github.com/CycloneDX/cdxgen/pull/2226) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [refactor: use `main` instead of `master`](https://github.com/CycloneDX/cdxgen/pull/2229) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+
+- MERGED - [refactor: cdxgen version](https://github.com/CycloneDX/cdxgen/pull/2227) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+
+- MERGED - [refactor: parsedList dependencies condition](https://github.com/CycloneDX/cdxgen/pull/2226) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
 - MERGED - [refactor(webpack): source maps and output type](https://github.com/setchy/atlassify/pull/1457) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -143,32 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: cross-platform auto updating](https://github.com/setchy/atlassify/pull/1428) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: remove custom unread icon](https://github.com/setchy/atlassify/pull/1424) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [chore: fix import cycles](https://github.com/setchy/atlassify/pull/1423) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3502⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3505⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 75243⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 75319⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1274⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1280⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 326⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3959⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3960⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1865⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21711⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21719⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69313⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69345⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31039⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31044⭐
 
 
