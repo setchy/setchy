@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
@@ -107,21 +107,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: adopt graphql-codegen](https://github.com/gitify-app/gitify/pull/2225) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [refactor: adopt graphql-codegen](https://github.com/gitify-app/gitify/pull/2225) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: group notification hook](https://github.com/setchy/atlassify/pull/1545) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: group notification hook](https://github.com/setchy/atlassify/pull/1545) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat: primer v37 upgrade](https://github.com/gitify-app/gitify/pull/2221) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: primer v37 upgrade](https://github.com/gitify-app/gitify/pull/2221) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v6.8.0` release](https://github.com/gitify-app/gitify/pull/2220) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v6.8.0` release](https://github.com/gitify-app/gitify/pull/2220) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix(login): pat](https://github.com/gitify-app/gitify/pull/2218) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix(login): pat](https://github.com/gitify-app/gitify/pull/2218) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [test: update avatar test cases](https://github.com/gitify-app/gitify/pull/2217) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [test: update avatar test cases](https://github.com/gitify-app/gitify/pull/2217) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat(errors): safe storage bad credentials](https://github.com/gitify-app/gitify/pull/2216) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat(errors): safe storage bad credentials](https://github.com/gitify-app/gitify/pull/2216) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [fix: title tooltip alignment](https://github.com/gitify-app/gitify/pull/2215) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: title tooltip alignment](https://github.com/gitify-app/gitify/pull/2215) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [feat(filters): search by org, repo, author](https://github.com/gitify-app/gitify/pull/2214) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3538⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3547⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 76589⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 76701⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1298⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1301⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 328⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3964⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3966⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1872⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21876⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21903⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69754⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69782⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31093⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31103⭐
 
 
