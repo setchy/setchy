@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
@@ -97,9 +97,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [2 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
-- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 weeks ago]
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [3 weeks ago]
 
 - [setchy/renovate-reproduction-dotnet-tools-pinning](https://github.com/setchy/renovate-reproduction-dotnet-tools-pinning) -  [3 weeks ago]
 
@@ -107,15 +107,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: adopt graphql-codegen](https://github.com/gitify-app/gitify/pull/2225) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: prevent duplicate accounts](https://github.com/setchy/atlassify/pull/1557) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: group notification hook](https://github.com/setchy/atlassify/pull/1545) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- OPEN - [refactor: adopt graphql-codegen](https://github.com/gitify-app/gitify/pull/2225) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: primer v37 upgrade](https://github.com/gitify-app/gitify/pull/2221) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: group notification hook](https://github.com/setchy/atlassify/pull/1545) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [build: prepare `v6.8.0` release](https://github.com/gitify-app/gitify/pull/2220) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: primer v37 upgrade](https://github.com/gitify-app/gitify/pull/2221) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [fix(login): pat](https://github.com/gitify-app/gitify/pull/2218) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v6.8.0` release](https://github.com/gitify-app/gitify/pull/2220) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- MERGED - [fix(login): pat](https://github.com/gitify-app/gitify/pull/2218) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [test: update avatar test cases](https://github.com/gitify-app/gitify/pull/2217) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -145,19 +147,17 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: main module](https://github.com/gitify-app/gitify/pull/2180) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: biome config imports](https://github.com/gitify-app/gitify/pull/2179) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3551⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3556⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 76789⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 76896⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1302⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1304⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 328⭐
 
@@ -165,10 +165,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1872⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21931⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 21978⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69815⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69924⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31115⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31124⭐
 
 
