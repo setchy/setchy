@@ -85,53 +85,55 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 day ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 day ago]
 
-- [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) - renovate rule for devengines [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) - renovate rule for devengines [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
-
-- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [3 weeks ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [fix: remove unused env var](https://github.com/CycloneDX/cdxgen/pull/2310) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- OPEN - [feat: increase emoji size](https://github.com/gitify-app/gitify/pull/2235) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [chore(renovate): configure dockerfile minor, patch, pin, digest](https://github.com/CycloneDX/cdxgen/pull/2309) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [fix: remove unused env var](https://github.com/CycloneDX/cdxgen/pull/2310) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [chore(renovate): devengine packageManager updates](https://github.com/CycloneDX/cdxgen/pull/2308) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [chore(renovate): configure dockerfile minor, patch, pin, digest](https://github.com/CycloneDX/cdxgen/pull/2309) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- OPEN - [feat(preset): devEngines versions](https://github.com/renovatebot/renovate/pull/38044) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [chore(renovate): devengine packageManager updates](https://github.com/CycloneDX/cdxgen/pull/2308) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [chore(renovate): devengine runtime updates](https://github.com/CycloneDX/cdxgen/pull/2305) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- CLOSED - [feat(preset): devEngines versions](https://github.com/renovatebot/renovate/pull/38044) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- OPEN - [Update dependency node to v24.8.0](https://github.com/setchy/renovate-devengines/pull/5) to [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) [1 day ago]
+- MERGED - [chore(renovate): devengine runtime updates](https://github.com/CycloneDX/cdxgen/pull/2305) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- OPEN - [Update dependency deno to v2.5.0](https://github.com/setchy/renovate-devengines/pull/4) to [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) [1 day ago]
+- OPEN - [Update dependency node to v24.8.0](https://github.com/setchy/renovate-devengines/pull/5) to [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) [2 days ago]
 
-- OPEN - [Update dependency bun to v1.2.22](https://github.com/setchy/renovate-devengines/pull/3) to [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) [1 day ago]
+- OPEN - [Update dependency deno to v2.5.0](https://github.com/setchy/renovate-devengines/pull/4) to [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) [2 days ago]
 
-- MERGED - [docs: jsonata file format](https://github.com/renovatebot/renovate/pull/38042) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [Update dependency bun to v1.2.22](https://github.com/setchy/renovate-devengines/pull/3) to [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) [2 days ago]
 
-- MERGED - [chore: configure node minimum release age to 14 days](https://github.com/CycloneDX/cdxgen/pull/2304) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [docs: jsonata file format](https://github.com/renovatebot/renovate/pull/38042) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [feat: prevent duplicate accounts](https://github.com/setchy/atlassify/pull/1557) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [chore: configure node minimum release age to 14 days](https://github.com/CycloneDX/cdxgen/pull/2304) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- OPEN - [refactor: adopt graphql-codegen](https://github.com/gitify-app/gitify/pull/2225) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: prevent duplicate accounts](https://github.com/setchy/atlassify/pull/1557) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: group notification hook](https://github.com/setchy/atlassify/pull/1545) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [refactor: adopt graphql-codegen](https://github.com/gitify-app/gitify/pull/2225) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [refactor: group notification hook](https://github.com/setchy/atlassify/pull/1545) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [feat: primer v37 upgrade](https://github.com/gitify-app/gitify/pull/2221) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: title tooltip alignment](https://github.com/gitify-app/gitify/pull/2215) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat(filters): search by org, repo, author](https://github.com/gitify-app/gitify/pull/2214) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3560⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3566⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 76981⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 77061⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1304⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1305⭐
 
-- [alex8088/quick-start](https://github.com/alex8088/quick-start) 329⭐
+- [alex8088/quick-start](https://github.com/alex8088/quick-start) 330⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3966⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3968⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1872⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22113⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22323⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 69991⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 70046⭐
 
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31130⭐
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) 31140⭐
 
 
