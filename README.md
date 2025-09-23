@@ -83,21 +83,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [3 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [5 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [6 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
-- [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) - renovate rule for devengines [6 days ago]
+- [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) - renovate rule for devengines [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -107,68 +107,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38132) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [feat(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38132) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- MERGED - [build: prepare `v2.6.0` release](https://github.com/setchy/atlassify/pull/1587) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v2.6.0` release](https://github.com/setchy/atlassify/pull/1587) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [config(renovate): gradle versions](https://github.com/CycloneDX/cdxgen/pull/2350) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [config(renovate): gradle versions](https://github.com/CycloneDX/cdxgen/pull/2350) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
-- MERGED - [config(renovate): maven versions](https://github.com/CycloneDX/cdxgen/pull/2349) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [config(renovate): maven versions](https://github.com/CycloneDX/cdxgen/pull/2349) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
-- MERGED - [config(renovate): golang versions](https://github.com/CycloneDX/cdxgen/pull/2347) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [config(renovate): golang versions](https://github.com/CycloneDX/cdxgen/pull/2347) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
-- MERGED - [renovate: node version datasource](https://github.com/CycloneDX/cdxgen/pull/2345) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [renovate: node version datasource](https://github.com/CycloneDX/cdxgen/pull/2345) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
-- MERGED - [Revert &#34;config(renovate): docker pin digest&#34;](https://github.com/CycloneDX/cdxgen/pull/2344) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [3 days ago]
+- MERGED - [Revert &#34;config(renovate): docker pin digest&#34;](https://github.com/CycloneDX/cdxgen/pull/2344) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
 
-- MERGED - [refactor: login layout](https://github.com/setchy/atlassify/pull/1586) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: login layout](https://github.com/setchy/atlassify/pull/1586) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor(docker): rename ruby filename to match others](https://github.com/CycloneDX/cdxgen/pull/2343) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [refactor(docker): rename ruby filename to match others](https://github.com/CycloneDX/cdxgen/pull/2343) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [refactor: docker base image version precision](https://github.com/CycloneDX/cdxgen/pull/2331) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [refactor: docker base image version precision](https://github.com/CycloneDX/cdxgen/pull/2331) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [config(renovate): docker pin digest](https://github.com/CycloneDX/cdxgen/pull/2330) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [config(renovate): docker pin digest](https://github.com/CycloneDX/cdxgen/pull/2330) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [config(renovate): limit docker images for specific runtimes to patch and digest](https://github.com/CycloneDX/cdxgen/pull/2329) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [config(renovate): limit docker images for specific runtimes to patch and digest](https://github.com/CycloneDX/cdxgen/pull/2329) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [config: renovate ignore github action as author](https://github.com/CycloneDX/cdxgen/pull/2324) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [config: renovate ignore github action as author](https://github.com/CycloneDX/cdxgen/pull/2324) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [build: renovate config validator](https://github.com/CycloneDX/cdxgen/pull/2323) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [build: renovate config validator](https://github.com/CycloneDX/cdxgen/pull/2323) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [feat: increase emoji size](https://github.com/gitify-app/gitify/pull/2235) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat: increase emoji size](https://github.com/gitify-app/gitify/pull/2235) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [fix: remove unused env var](https://github.com/CycloneDX/cdxgen/pull/2310) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [fix: remove unused env var](https://github.com/CycloneDX/cdxgen/pull/2310) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [chore(renovate): configure dockerfile minor, patch, pin, digest](https://github.com/CycloneDX/cdxgen/pull/2309) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [chore(renovate): configure dockerfile minor, patch, pin, digest](https://github.com/CycloneDX/cdxgen/pull/2309) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [chore(renovate): devengine packageManager updates](https://github.com/CycloneDX/cdxgen/pull/2308) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [chore(renovate): devengine packageManager updates](https://github.com/CycloneDX/cdxgen/pull/2308) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- CLOSED - [feat(preset): devEngines versions](https://github.com/renovatebot/renovate/pull/38044) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- CLOSED - [feat(preset): devEngines versions](https://github.com/renovatebot/renovate/pull/38044) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [chore(renovate): devengine runtime updates](https://github.com/CycloneDX/cdxgen/pull/2305) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [6 days ago]
+- MERGED - [chore(renovate): devengine runtime updates](https://github.com/CycloneDX/cdxgen/pull/2305) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1340⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1341⭐
 
-- [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
+- [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3584⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3589⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 77328⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 77423⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1313⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1317⭐
 
-- [alex8088/quick-start](https://github.com/alex8088/quick-start) 331⭐
+- [alex8088/quick-start](https://github.com/alex8088/quick-start) 330⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3976⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3978⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1876⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22671⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22720⭐
 
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) 70259⭐
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) 70310⭐
 
 
