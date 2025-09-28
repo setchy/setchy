@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,7 +107,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor(filters): has active filters](https://github.com/gitify-app/gitify/pull/2248) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(settings): tray icon color](https://github.com/gitify-app/gitify/pull/2249) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [refactor(filters): has active filters](https://github.com/gitify-app/gitify/pull/2248) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
 - MERGED - [feat(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38132) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [chore(renovate): devengine packageManager updates](https://github.com/CycloneDX/cdxgen/pull/2308) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- CLOSED - [feat(preset): devEngines versions](https://github.com/renovatebot/renovate/pull/38044) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1343⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1345⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3614⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3620⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 77744⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 77805⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1327⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1331⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 332⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3979⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3980⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1878⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1879⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22861⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22879⭐
 
 
