@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -99,7 +99,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) - renovate rule for devengines [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
@@ -107,9 +107,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(settings): tray icon color](https://github.com/gitify-app/gitify/pull/2249) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(settings): tray icon color](https://github.com/gitify-app/gitify/pull/2249) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor(filters): has active filters](https://github.com/gitify-app/gitify/pull/2248) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor(filters): has active filters](https://github.com/gitify-app/gitify/pull/2248) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
 - MERGED - [feat(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38132) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1345⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1346⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3620⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3626⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 77805⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 77870⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1331⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1333⭐
 
-- [alex8088/quick-start](https://github.com/alex8088/quick-start) 332⭐
+- [alex8088/quick-start](https://github.com/alex8088/quick-start) 333⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3980⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3982⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1879⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22879⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22942⭐
 
 
