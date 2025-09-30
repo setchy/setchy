@@ -83,9 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -95,9 +97,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
-
-- [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) - renovate rule for devengines [1 week ago]
+- [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) - renovate rule for devengines [2 weeks ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
@@ -107,9 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(settings): tray icon color](https://github.com/gitify-app/gitify/pull/2249) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: adjust primer colors used for background](https://github.com/gitify-app/gitify/pull/2254) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor(filters): has active filters](https://github.com/gitify-app/gitify/pull/2248) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat(settings): tray icon color](https://github.com/gitify-app/gitify/pull/2249) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- MERGED - [refactor(filters): has active filters](https://github.com/gitify-app/gitify/pull/2248) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
 - MERGED - [feat(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38132) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -141,11 +143,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: increase emoji size](https://github.com/gitify-app/gitify/pull/2235) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: remove unused env var](https://github.com/CycloneDX/cdxgen/pull/2310) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [fix: remove unused env var](https://github.com/CycloneDX/cdxgen/pull/2310) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
-- MERGED - [chore(renovate): configure dockerfile minor, patch, pin, digest](https://github.com/CycloneDX/cdxgen/pull/2309) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [chore(renovate): devengine packageManager updates](https://github.com/CycloneDX/cdxgen/pull/2308) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [chore(renovate): configure dockerfile minor, patch, pin, digest](https://github.com/CycloneDX/cdxgen/pull/2309) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1346⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1347⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3626⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3636⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 77870⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 77946⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1333⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1338⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 333⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3982⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3981⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1879⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1880⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22942⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22994⭐
 
 
