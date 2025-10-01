@@ -83,35 +83,51 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) -  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
-
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 week ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [2 weeks ago]
 
 - [setchy/renovate-devengines](https://github.com/setchy/renovate-devengines) - renovate rule for devengines [2 weeks ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [refactor: adjust primer colors used for background](https://github.com/gitify-app/gitify/pull/2254) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v2.7.0` release](https://github.com/setchy/atlassify/pull/1640) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [feat(settings): tray icon color](https://github.com/gitify-app/gitify/pull/2249) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38294) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- MERGED - [refactor(filters): has active filters](https://github.com/gitify-app/gitify/pull/2248) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [Update dependency node to v22](https://github.com/setchy/renovate-useswith/pull/7) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+
+- OPEN - [Update dependency ruby to v3.4.6](https://github.com/setchy/renovate-useswith/pull/6) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+
+- OPEN - [Update dependency node to v20.19.5](https://github.com/setchy/renovate-useswith/pull/5) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+
+- OPEN - [Update dependency bun to v1.2.23](https://github.com/setchy/renovate-useswith/pull/4) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+
+- OPEN - [Update dependency deno to v2.5.2](https://github.com/setchy/renovate-useswith/pull/3) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+
+- MERGED - [Configure Renovate](https://github.com/setchy/renovate-useswith/pull/1) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+
+- MERGED - [refactor: adjust primer colors used for background](https://github.com/gitify-app/gitify/pull/2254) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- OPEN - [feat(settings): tray icon color](https://github.com/gitify-app/gitify/pull/2249) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [refactor(filters): has active filters](https://github.com/gitify-app/gitify/pull/2248) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 - MERGED - [feat(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38132) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -131,44 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor(docker): rename ruby filename to match others](https://github.com/CycloneDX/cdxgen/pull/2343) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [refactor: docker base image version precision](https://github.com/CycloneDX/cdxgen/pull/2331) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [config(renovate): docker pin digest](https://github.com/CycloneDX/cdxgen/pull/2330) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [config(renovate): limit docker images for specific runtimes to patch and digest](https://github.com/CycloneDX/cdxgen/pull/2329) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [config: renovate ignore github action as author](https://github.com/CycloneDX/cdxgen/pull/2324) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [build: renovate config validator](https://github.com/CycloneDX/cdxgen/pull/2323) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [feat: increase emoji size](https://github.com/gitify-app/gitify/pull/2235) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [fix: remove unused env var](https://github.com/CycloneDX/cdxgen/pull/2310) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
-
-- MERGED - [chore(renovate): configure dockerfile minor, patch, pin, digest](https://github.com/CycloneDX/cdxgen/pull/2309) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1347⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1348⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3636⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3646⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 77946⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 78017⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1338⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1339⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 333⭐
 
 - [Red-Killer/shit](https://github.com/Red-Killer/shit) 3981⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1880⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1879⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 22994⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 23033⭐
 
 
