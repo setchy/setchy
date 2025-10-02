@@ -83,17 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) -  [1 day ago]
-
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) -  [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
@@ -107,27 +107,27 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v2.7.0` release](https://github.com/setchy/atlassify/pull/1640) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v2.7.0` release](https://github.com/setchy/atlassify/pull/1640) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [fix(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38294) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [fix(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38294) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- OPEN - [Update dependency node to v22](https://github.com/setchy/renovate-useswith/pull/7) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+- OPEN - [Update dependency node to v22](https://github.com/setchy/renovate-useswith/pull/7) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [2 days ago]
 
-- OPEN - [Update dependency ruby to v3.4.6](https://github.com/setchy/renovate-useswith/pull/6) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+- OPEN - [Update dependency ruby to v3.4.6](https://github.com/setchy/renovate-useswith/pull/6) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [2 days ago]
 
-- OPEN - [Update dependency node to v20.19.5](https://github.com/setchy/renovate-useswith/pull/5) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+- OPEN - [Update dependency node to v20.19.5](https://github.com/setchy/renovate-useswith/pull/5) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [2 days ago]
 
-- OPEN - [Update dependency bun to v1.2.23](https://github.com/setchy/renovate-useswith/pull/4) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+- OPEN - [Update dependency bun to v1.2.23](https://github.com/setchy/renovate-useswith/pull/4) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [2 days ago]
 
-- OPEN - [Update dependency deno to v2.5.2](https://github.com/setchy/renovate-useswith/pull/3) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+- OPEN - [Update dependency deno to v2.5.2](https://github.com/setchy/renovate-useswith/pull/3) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [2 days ago]
 
-- MERGED - [Configure Renovate](https://github.com/setchy/renovate-useswith/pull/1) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 day ago]
+- MERGED - [Configure Renovate](https://github.com/setchy/renovate-useswith/pull/1) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [2 days ago]
 
-- MERGED - [refactor: adjust primer colors used for background](https://github.com/gitify-app/gitify/pull/2254) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: adjust primer colors used for background](https://github.com/gitify-app/gitify/pull/2254) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [feat(settings): tray icon color](https://github.com/gitify-app/gitify/pull/2249) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat(settings): tray icon color](https://github.com/gitify-app/gitify/pull/2249) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor(filters): has active filters](https://github.com/gitify-app/gitify/pull/2248) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor(filters): has active filters](https://github.com/gitify-app/gitify/pull/2248) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [feat(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38132) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -145,7 +145,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: login layout](https://github.com/setchy/atlassify/pull/1586) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor(docker): rename ruby filename to match others](https://github.com/CycloneDX/cdxgen/pull/2343) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
+- MERGED - [refactor(docker): rename ruby filename to match others](https://github.com/CycloneDX/cdxgen/pull/2343) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -157,11 +157,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3646⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3650⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 78017⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 78161⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1339⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1342⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 333⭐
 
@@ -169,6 +169,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1879⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 23033⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 23063⭐
 
 
