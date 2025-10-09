@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
-
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
-
-- [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) -  [1 week ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) -  [1 week ago]
 
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [3 weeks ago]
 
@@ -107,45 +107,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [config(renovate): remove enabled managers](https://github.com/CycloneDX/cdxgen/pull/2424) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [today]
+- MERGED - [refactor: fix sonar lint feedback (svg/img, filter)](https://github.com/gitify-app/gitify/pull/2283) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
-- MERGED - [build(renovate): disable digest pins for cyclonedx/cdxgen-ruby-builder](https://github.com/CycloneDX/cdxgen/pull/2421) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
+- MERGED - [refactor: address sonar lint items](https://github.com/setchy/atlassify/pull/1677) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [build(renovate): enable docker digest pinning](https://github.com/CycloneDX/cdxgen/pull/2407) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [build: prepare `v2.9.0` release](https://github.com/setchy/atlassify/pull/1676) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [build: add patch version where available](https://github.com/CycloneDX/cdxgen/pull/2406) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [refactor: relax wording around api scopes](https://github.com/setchy/atlassify/pull/1673) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [chore: gitignore macos](https://github.com/CycloneDX/cdxgen/pull/2405) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [refactor: sonar issue notifications promise all](https://github.com/gitify-app/gitify/pull/2282) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: maven renovate comment](https://github.com/CycloneDX/cdxgen/pull/2403) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [4 days ago]
+- MERGED - [refactor: sonar issue reduce -&gt; flatMap](https://github.com/gitify-app/gitify/pull/2281) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v6.9.1` release](https://github.com/gitify-app/gitify/pull/2267) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: fix sonarlint issues](https://github.com/gitify-app/gitify/pull/2280) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: icon color when idle](https://github.com/gitify-app/gitify/pull/2266) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build(vscode): sonarlint](https://github.com/gitify-app/gitify/pull/2279) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v2.8.1` release](https://github.com/setchy/atlassify/pull/1658) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [config(renovate): remove enabled managers](https://github.com/CycloneDX/cdxgen/pull/2424) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 day ago]
 
-- MERGED - [fix: icon color when idle](https://github.com/setchy/atlassify/pull/1657) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build(renovate): disable digest pins for cyclonedx/cdxgen-ruby-builder](https://github.com/CycloneDX/cdxgen/pull/2421) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [2 days ago]
 
-- MERGED - [build: prepare `v6.9.0` release](https://github.com/gitify-app/gitify/pull/2265) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build(renovate): enable docker digest pinning](https://github.com/CycloneDX/cdxgen/pull/2407) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [build: prepare `v2.8.0` release](https://github.com/setchy/atlassify/pull/1656) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: add patch version where available](https://github.com/CycloneDX/cdxgen/pull/2406) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [feat(settings): tray settings](https://github.com/setchy/atlassify/pull/1650) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [chore: gitignore macos](https://github.com/CycloneDX/cdxgen/pull/2405) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [build: prepare `v2.7.0` release](https://github.com/setchy/atlassify/pull/1640) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [fix: maven renovate comment](https://github.com/CycloneDX/cdxgen/pull/2403) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [5 days ago]
 
-- MERGED - [fix(github-actions): uses-with action versions for ruby, deno, bun](https://github.com/renovatebot/renovate/pull/38294) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [build: prepare `v6.9.1` release](https://github.com/gitify-app/gitify/pull/2267) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- OPEN - [Update dependency node to v22](https://github.com/setchy/renovate-useswith/pull/7) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 week ago]
+- MERGED - [fix: icon color when idle](https://github.com/gitify-app/gitify/pull/2266) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [Update dependency ruby to v3.4.6](https://github.com/setchy/renovate-useswith/pull/6) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 week ago]
+- MERGED - [build: prepare `v2.8.1` release](https://github.com/setchy/atlassify/pull/1658) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [Update dependency node to v20.19.5](https://github.com/setchy/renovate-useswith/pull/5) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 week ago]
+- MERGED - [fix: icon color when idle](https://github.com/setchy/atlassify/pull/1657) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [Update dependency bun to v1.2.23](https://github.com/setchy/renovate-useswith/pull/4) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 week ago]
+- MERGED - [build: prepare `v6.9.0` release](https://github.com/gitify-app/gitify/pull/2265) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [Update dependency deno to v2.5.2](https://github.com/setchy/renovate-useswith/pull/3) to [setchy/renovate-useswith](https://github.com/setchy/renovate-useswith) [1 week ago]
+- MERGED - [build: prepare `v2.8.0` release](https://github.com/setchy/atlassify/pull/1656) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1354⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1355⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3666⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3671⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 80388⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 80530⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1356⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1357⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 333⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3981⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3982⭐
 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1882⭐
 
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 23203⭐
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) 23233⭐
 
 
