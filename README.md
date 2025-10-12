@@ -151,7 +151,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 6704⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 6709⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
@@ -159,16 +159,16 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3693⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3696⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 80926⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 80987⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1364⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1366⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 333⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3986⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3991⭐
 
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1883⭐
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) 1884⭐
 
 
