@@ -161,7 +161,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3696⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 80987⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 80993⭐
 
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1366⭐
 
