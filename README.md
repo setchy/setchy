@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [3 days ago]
 
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [5 days ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [6 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,11 +107,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: second instance handling](https://github.com/gitify-app/gitify/pull/2285) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [feat(settings): allow user configurable notification fetch intervals](https://github.com/gitify-app/gitify/pull/2302) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: prevent second instance](https://github.com/setchy/atlassify/pull/1683) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat: ability to set fetch type (interval or inactivity)](https://github.com/gitify-app/gitify/pull/2301) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: fix sonar lint feedback (svg/img, filter)](https://github.com/gitify-app/gitify/pull/2283) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: stabilize notification order during interactions](https://github.com/gitify-app/gitify/pull/2298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- OPEN - [refactor: second instance handling](https://github.com/gitify-app/gitify/pull/2285) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [feat: prevent second instance](https://github.com/setchy/atlassify/pull/1683) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- MERGED - [refactor: fix sonar lint feedback (svg/img, filter)](https://github.com/gitify-app/gitify/pull/2283) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: address sonar lint items](https://github.com/setchy/atlassify/pull/1677) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -141,34 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v6.9.1` release](https://github.com/gitify-app/gitify/pull/2267) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: icon color when idle](https://github.com/gitify-app/gitify/pull/2266) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [build: prepare `v2.8.1` release](https://github.com/setchy/atlassify/pull/1658) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [fix: icon color when idle](https://github.com/setchy/atlassify/pull/1657) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [openai/agents.md](https://github.com/openai/agents.md) 7238⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 7289⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 6734⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 6742⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1361⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1362⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3706⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3714⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 81221⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 81291⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1369⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1370⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 333⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3995⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3998⭐
 
 
