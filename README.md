@@ -85,13 +85,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [3 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 days ago]
 
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [6 days ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -101,17 +101,27 @@ Senior Executive (VP) // Architect // Developer
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [4 weeks ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat(settings): allow user configurable notification fetch intervals](https://github.com/gitify-app/gitify/pull/2302) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(client): introduce `axios-cache-interceptor`](https://github.com/gitify-app/gitify/pull/2308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
-- MERGED - [feat: ability to set fetch type (interval or inactivity)](https://github.com/gitify-app/gitify/pull/2301) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- CLOSED - [Fix formatting issue in setThreadSubscription.md](https://github.com/octokit/plugin-rest-endpoint-methods.js/pull/826) to [octokit/plugin-rest-endpoint-methods.js](https://github.com/octokit/plugin-rest-endpoint-methods.js) [1 day ago]
 
-- MERGED - [feat: stabilize notification order during interactions](https://github.com/gitify-app/gitify/pull/2298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: error emoji text component](https://github.com/gitify-app/gitify/pull/2307) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [build: prepare `v6.10.0` release](https://github.com/gitify-app/gitify/pull/2306) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [feat(settings): improve tooltips](https://github.com/gitify-app/gitify/pull/2305) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [feat(settings): allow user configurable notification fetch intervals](https://github.com/gitify-app/gitify/pull/2302) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [feat: ability to set fetch type (interval or inactivity)](https://github.com/gitify-app/gitify/pull/2301) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [feat: stabilize notification order during interactions](https://github.com/gitify-app/gitify/pull/2298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
 - OPEN - [refactor: second instance handling](https://github.com/gitify-app/gitify/pull/2285) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -137,38 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build(renovate): disable digest pins for cyclonedx/cdxgen-ruby-builder](https://github.com/CycloneDX/cdxgen/pull/2421) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
 
-- MERGED - [build(renovate): enable docker digest pinning](https://github.com/CycloneDX/cdxgen/pull/2407) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [build: add patch version where available](https://github.com/CycloneDX/cdxgen/pull/2406) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [chore: gitignore macos](https://github.com/CycloneDX/cdxgen/pull/2405) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [fix: maven renovate comment](https://github.com/CycloneDX/cdxgen/pull/2403) to [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) [1 week ago]
-
-- MERGED - [build: prepare `v6.9.1` release](https://github.com/gitify-app/gitify/pull/2267) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [openai/agents.md](https://github.com/openai/agents.md) 7289⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 7332⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 6742⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 6757⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1362⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1363⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3714⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3719⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 81291⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 81388⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1370⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1371⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 333⭐
 
-- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3998⭐
+- [Red-Killer/shit](https://github.com/Red-Killer/shit) 3999⭐
 
 
