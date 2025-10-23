@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -107,23 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: notification read state when using `delayNotificationState` settings ](https://github.com/gitify-app/gitify/pull/2314) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: notification read state when using `delayNotificationState` settings ](https://github.com/gitify-app/gitify/pull/2314) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: use `useConfirm` @primer hook](https://github.com/gitify-app/gitify/pull/2313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: use `useConfirm` @primer hook](https://github.com/gitify-app/gitify/pull/2313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: filter custom counter size](https://github.com/gitify-app/gitify/pull/2312) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: filter custom counter size](https://github.com/gitify-app/gitify/pull/2312) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: external link indicators](https://github.com/gitify-app/gitify/pull/2310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: external link indicators](https://github.com/gitify-app/gitify/pull/2310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- CLOSED - [feat(client): introduce `axios-cache-interceptor`](https://github.com/gitify-app/gitify/pull/2308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- CLOSED - [feat(client): introduce `axios-cache-interceptor`](https://github.com/gitify-app/gitify/pull/2308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- CLOSED - [Fix formatting issue in setThreadSubscription.md](https://github.com/octokit/plugin-rest-endpoint-methods.js/pull/826) to [octokit/plugin-rest-endpoint-methods.js](https://github.com/octokit/plugin-rest-endpoint-methods.js) [6 days ago]
+- CLOSED - [Fix formatting issue in setThreadSubscription.md](https://github.com/octokit/plugin-rest-endpoint-methods.js/pull/826) to [octokit/plugin-rest-endpoint-methods.js](https://github.com/octokit/plugin-rest-endpoint-methods.js) [1 week ago]
 
-- MERGED - [fix: error emoji text component](https://github.com/gitify-app/gitify/pull/2307) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: error emoji text component](https://github.com/gitify-app/gitify/pull/2307) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: prepare `v6.10.0` release](https://github.com/gitify-app/gitify/pull/2306) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v6.10.0` release](https://github.com/gitify-app/gitify/pull/2306) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat(settings): improve tooltips](https://github.com/gitify-app/gitify/pull/2305) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat(settings): improve tooltips](https://github.com/gitify-app/gitify/pull/2305) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat(settings): allow user configurable notification fetch intervals](https://github.com/gitify-app/gitify/pull/2302) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -131,11 +131,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: stabilize notification order during interactions](https://github.com/gitify-app/gitify/pull/2298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [refactor: second instance handling](https://github.com/gitify-app/gitify/pull/2285) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- OPEN - [refactor: second instance handling](https://github.com/gitify-app/gitify/pull/2285) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: prevent second instance](https://github.com/setchy/atlassify/pull/1683) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat: prevent second instance](https://github.com/setchy/atlassify/pull/1683) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [refactor: fix sonar lint feedback (svg/img, filter)](https://github.com/gitify-app/gitify/pull/2283) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: fix sonar lint feedback (svg/img, filter)](https://github.com/gitify-app/gitify/pull/2283) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [refactor: address sonar lint items](https://github.com/setchy/atlassify/pull/1677) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 7486⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 7515⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 6798⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 6810⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1365⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1366⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3752⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3763⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 81798⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 81889⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1380⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1381⭐
 
-- [alex8088/quick-start](https://github.com/alex8088/quick-start) 334⭐
+- [alex8088/quick-start](https://github.com/alex8088/quick-start) 335⭐
 
 
