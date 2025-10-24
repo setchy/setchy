@@ -153,9 +153,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 7548⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 7566⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 6825⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 6827⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
@@ -163,11 +163,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3771⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3778⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 82013⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 82088⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1381⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1384⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 334⭐
 
