@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -107,9 +107,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: native fetch](https://github.com/setchy/atlassify/pull/1756) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [refactor: native fetch](https://github.com/setchy/atlassify/pull/1756) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix: notification read state when using `delayNotificationState` settings ](https://github.com/gitify-app/gitify/pull/2314) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: notification read state when using `delayNotificationState` settings ](https://github.com/gitify-app/gitify/pull/2314) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: use `useConfirm` @primer hook](https://github.com/gitify-app/gitify/pull/2313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -153,9 +153,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 7573⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 7605⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 6829⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 6833⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
@@ -163,11 +163,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3782⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3789⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 82106⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 82197⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1385⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1386⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 334⭐
 
