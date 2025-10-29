@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
-
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -97,7 +97,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [2 weeks ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
@@ -107,11 +107,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [config(biome): experimental html full support](https://github.com/gitify-app/website/pull/534) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [config(biome): experimental html full support](https://github.com/gitify-app/website/pull/534) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [refactor(biome): tailwind directives and config reorg](https://github.com/setchy/atlassify/pull/1760) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor(biome): tailwind directives and config reorg](https://github.com/setchy/atlassify/pull/1760) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- OPEN - [refactor: native fetch](https://github.com/setchy/atlassify/pull/1756) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- OPEN - [refactor: native fetch](https://github.com/setchy/atlassify/pull/1756) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - MERGED - [fix: notification read state when using `delayNotificationState` settings ](https://github.com/gitify-app/gitify/pull/2314) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -131,11 +131,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(settings): improve tooltips](https://github.com/gitify-app/gitify/pull/2305) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat(settings): allow user configurable notification fetch intervals](https://github.com/gitify-app/gitify/pull/2302) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat(settings): allow user configurable notification fetch intervals](https://github.com/gitify-app/gitify/pull/2302) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: ability to set fetch type (interval or inactivity)](https://github.com/gitify-app/gitify/pull/2301) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: ability to set fetch type (interval or inactivity)](https://github.com/gitify-app/gitify/pull/2301) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: stabilize notification order during interactions](https://github.com/gitify-app/gitify/pull/2298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: stabilize notification order during interactions](https://github.com/gitify-app/gitify/pull/2298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - OPEN - [refactor: second instance handling](https://github.com/gitify-app/gitify/pull/2285) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -143,9 +143,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: fix sonar lint feedback (svg/img, filter)](https://github.com/gitify-app/gitify/pull/2283) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: address sonar lint items](https://github.com/setchy/atlassify/pull/1677) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [refactor: address sonar lint items](https://github.com/setchy/atlassify/pull/1677) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [build: prepare `v2.9.0` release](https://github.com/setchy/atlassify/pull/1676) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [build: prepare `v2.9.0` release](https://github.com/setchy/atlassify/pull/1676) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -153,19 +153,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 7681⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 7704⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 6850⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 6863⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1369⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1370⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3803⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3807⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 82544⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 82704⭐
 
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1389⭐
 
