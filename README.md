@@ -83,13 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -101,17 +103,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [config(biome): experimental html full support](https://github.com/gitify-app/website/pull/534) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- OPEN - [fix: orphaned notification groupings](https://github.com/gitify-app/gitify/pull/2337) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
-- MERGED - [refactor(biome): tailwind directives and config reorg](https://github.com/setchy/atlassify/pull/1760) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [chore(deps): Update .nvmrc to v24](https://github.com/gitify-app/gitify/pull/2333) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: native fetch](https://github.com/setchy/atlassify/pull/1756) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [config(biome): experimental html full support](https://github.com/gitify-app/website/pull/534) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
+
+- MERGED - [refactor(biome): tailwind directives and config reorg](https://github.com/setchy/atlassify/pull/1760) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+
+- OPEN - [refactor: native fetch](https://github.com/setchy/atlassify/pull/1756) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [fix: notification read state when using `delayNotificationState` settings ](https://github.com/gitify-app/gitify/pull/2314) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -123,13 +127,13 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [feat(client): introduce `axios-cache-interceptor`](https://github.com/gitify-app/gitify/pull/2308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- CLOSED - [Fix formatting issue in setThreadSubscription.md](https://github.com/octokit/plugin-rest-endpoint-methods.js/pull/826) to [octokit/plugin-rest-endpoint-methods.js](https://github.com/octokit/plugin-rest-endpoint-methods.js) [1 week ago]
+- CLOSED - [Fix formatting issue in setThreadSubscription.md](https://github.com/octokit/plugin-rest-endpoint-methods.js/pull/826) to [octokit/plugin-rest-endpoint-methods.js](https://github.com/octokit/plugin-rest-endpoint-methods.js) [2 weeks ago]
 
-- MERGED - [fix: error emoji text component](https://github.com/gitify-app/gitify/pull/2307) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: error emoji text component](https://github.com/gitify-app/gitify/pull/2307) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [build: prepare `v6.10.0` release](https://github.com/gitify-app/gitify/pull/2306) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [build: prepare `v6.10.0` release](https://github.com/gitify-app/gitify/pull/2306) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat(settings): improve tooltips](https://github.com/gitify-app/gitify/pull/2305) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat(settings): improve tooltips](https://github.com/gitify-app/gitify/pull/2305) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [feat(settings): allow user configurable notification fetch intervals](https://github.com/gitify-app/gitify/pull/2302) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -137,15 +141,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: stabilize notification order during interactions](https://github.com/gitify-app/gitify/pull/2298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- OPEN - [refactor: second instance handling](https://github.com/gitify-app/gitify/pull/2285) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- OPEN - [refactor: second instance handling](https://github.com/gitify-app/gitify/pull/2285) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [feat: prevent second instance](https://github.com/setchy/atlassify/pull/1683) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [feat: prevent second instance](https://github.com/setchy/atlassify/pull/1683) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [refactor: fix sonar lint feedback (svg/img, filter)](https://github.com/gitify-app/gitify/pull/2283) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [refactor: address sonar lint items](https://github.com/setchy/atlassify/pull/1677) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
-
-- MERGED - [build: prepare `v2.9.0` release](https://github.com/setchy/atlassify/pull/1676) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [refactor: fix sonar lint feedback (svg/img, filter)](https://github.com/gitify-app/gitify/pull/2283) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 7704⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 7732⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 6863⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 6876⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1370⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1371⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3807⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3811⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 82704⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 82812⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1389⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1390⭐
 
-- [alex8088/quick-start](https://github.com/alex8088/quick-start) 334⭐
+- [alex8088/quick-start](https://github.com/alex8088/quick-start) 335⭐
 
 
