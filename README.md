@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -97,7 +97,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [2 weeks ago]
 
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [2 weeks ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [3 weeks ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 weeks ago]
 
@@ -107,13 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [fix: orphaned notification groupings](https://github.com/gitify-app/gitify/pull/2337) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- OPEN - [fix: set correct unread count when using `delayNotificationState`](https://github.com/gitify-app/gitify/pull/2339) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [chore(deps): Update .nvmrc to v24](https://github.com/gitify-app/gitify/pull/2333) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(products): add rovo ai](https://github.com/setchy/atlassify/pull/1788) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [config(biome): experimental html full support](https://github.com/gitify-app/website/pull/534) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
+- MERGED - [feat: Stabilize notification order during interactions](https://github.com/setchy/atlassify/pull/1787) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor(biome): tailwind directives and config reorg](https://github.com/setchy/atlassify/pull/1760) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat(settings): add additional tooltips](https://github.com/setchy/atlassify/pull/1786) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [feat: set url for native notification](https://github.com/gitify-app/gitify/pull/2338) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- OPEN - [fix: orphaned notification groupings](https://github.com/gitify-app/gitify/pull/2337) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [chore(deps): Update .nvmrc to v24](https://github.com/gitify-app/gitify/pull/2333) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [config(biome): experimental html full support](https://github.com/gitify-app/website/pull/534) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+
+- MERGED - [refactor(biome): tailwind directives and config reorg](https://github.com/setchy/atlassify/pull/1760) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
 - OPEN - [refactor: native fetch](https://github.com/setchy/atlassify/pull/1756) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -123,9 +133,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: filter custom counter size](https://github.com/gitify-app/gitify/pull/2312) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: external link indicators](https://github.com/gitify-app/gitify/pull/2310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: external link indicators](https://github.com/gitify-app/gitify/pull/2310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- CLOSED - [feat(client): introduce `axios-cache-interceptor`](https://github.com/gitify-app/gitify/pull/2308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- CLOSED - [feat(client): introduce `axios-cache-interceptor`](https://github.com/gitify-app/gitify/pull/2308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - CLOSED - [Fix formatting issue in setThreadSubscription.md](https://github.com/octokit/plugin-rest-endpoint-methods.js/pull/826) to [octokit/plugin-rest-endpoint-methods.js](https://github.com/octokit/plugin-rest-endpoint-methods.js) [2 weeks ago]
 
@@ -137,37 +147,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(settings): allow user configurable notification fetch intervals](https://github.com/gitify-app/gitify/pull/2302) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: ability to set fetch type (interval or inactivity)](https://github.com/gitify-app/gitify/pull/2301) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [feat: stabilize notification order during interactions](https://github.com/gitify-app/gitify/pull/2298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- OPEN - [refactor: second instance handling](https://github.com/gitify-app/gitify/pull/2285) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
-- MERGED - [feat: prevent second instance](https://github.com/setchy/atlassify/pull/1683) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
-
-- MERGED - [refactor: fix sonar lint feedback (svg/img, filter)](https://github.com/gitify-app/gitify/pull/2283) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 7732⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 7758⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 6876⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 6894⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1371⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1372⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3811⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3816⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 82812⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 82913⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1390⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1609⭐
 
 - [alex8088/quick-start](https://github.com/alex8088/quick-start) 335⭐
 
