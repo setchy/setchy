@@ -83,23 +83,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [6 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
@@ -107,13 +107,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: prepare for volume 33](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/765) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [4 days ago]
+- MERGED - [feat: prepare for volume 33](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/765) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [5 days ago]
 
-- MERGED - [refactor: adjust layout padding](https://github.com/setchy/atlassify/pull/1801) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: adjust layout padding](https://github.com/setchy/atlassify/pull/1801) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [build: prepare `v2.10.0` release](https://github.com/setchy/atlassify/pull/1800) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v2.10.0` release](https://github.com/setchy/atlassify/pull/1800) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [fix: fallback to product logo](https://github.com/setchy/atlassify/pull/1799) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [fix: fallback to product logo](https://github.com/setchy/atlassify/pull/1799) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - OPEN - [fix: set correct unread count when using `delayNotificationState`](https://github.com/gitify-app/gitify/pull/2339) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -125,7 +125,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: set url for native notification](https://github.com/gitify-app/gitify/pull/2338) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- OPEN - [fix: orphaned notification groupings](https://github.com/gitify-app/gitify/pull/2337) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: orphaned notification groupings](https://github.com/gitify-app/gitify/pull/2337) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [chore(deps): Update .nvmrc to v24](https://github.com/gitify-app/gitify/pull/2333) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -141,9 +141,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: filter custom counter size](https://github.com/gitify-app/gitify/pull/2312) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: external link indicators](https://github.com/gitify-app/gitify/pull/2310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [refactor: external link indicators](https://github.com/gitify-app/gitify/pull/2310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- CLOSED - [feat(client): introduce `axios-cache-interceptor`](https://github.com/gitify-app/gitify/pull/2308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- CLOSED - [feat(client): introduce `axios-cache-interceptor`](https://github.com/gitify-app/gitify/pull/2308) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - CLOSED - [Fix formatting issue in setThreadSubscription.md](https://github.com/octokit/plugin-rest-endpoint-methods.js/pull/826) to [octokit/plugin-rest-endpoint-methods.js](https://github.com/octokit/plugin-rest-endpoint-methods.js) [3 weeks ago]
 
@@ -151,13 +151,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [toon-format/toon](https://github.com/toon-format/toon) 10655⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 11260⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 7932⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 7970⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 6933⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 6955⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
@@ -165,10 +165,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3861⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3869⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 83535⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 83616⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1945⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1950⭐
 
 
