@@ -85,15 +85,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,9 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor(filters): sort sections by title](https://github.com/gitify-app/gitify/pull/2354) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v6.11.1` release](https://github.com/gitify-app/gitify/pull/2362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: biome grouping](https://github.com/setchy/atlassify/pull/1819) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix(sidebar): unread count](https://github.com/gitify-app/gitify/pull/2361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [build: prepare `v6.11.0` release](https://github.com/gitify-app/gitify/pull/2360) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [fix: delay notification when all read](https://github.com/gitify-app/gitify/pull/2359) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [refactor: percentage branded type with controls](https://github.com/gitify-app/gitify/pull/2357) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [refactor: group logic and add test coverage](https://github.com/gitify-app/gitify/pull/2356) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [fix: fetch notifications on account add/remove](https://github.com/gitify-app/gitify/pull/2355) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [refactor(filters): sort sections by title](https://github.com/gitify-app/gitify/pull/2354) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- OPEN - [refactor: biome grouping](https://github.com/setchy/atlassify/pull/1819) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
 - MERGED - [feat: prepare for volume 33](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/765) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 week ago]
 
@@ -119,7 +133,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: fallback to product logo](https://github.com/setchy/atlassify/pull/1799) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [refactor: simplify tray color/count updates](https://github.com/gitify-app/gitify/pull/2339) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: simplify tray color/count updates](https://github.com/gitify-app/gitify/pull/2339) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat(products): add `Rovo Dev` support](https://github.com/setchy/atlassify/pull/1788) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -133,42 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [chore(deps): Update .nvmrc to v24](https://github.com/gitify-app/gitify/pull/2333) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [config(biome): experimental html full support](https://github.com/gitify-app/website/pull/534) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
-
-- MERGED - [refactor(biome): tailwind directives and config reorg](https://github.com/setchy/atlassify/pull/1760) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- OPEN - [refactor: native fetch](https://github.com/setchy/atlassify/pull/1756) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-
-- MERGED - [fix: notification read state when using `delayNotificationState` settings ](https://github.com/gitify-app/gitify/pull/2314) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
-- MERGED - [refactor: use `useConfirm` @primer hook](https://github.com/gitify-app/gitify/pull/2313) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
-- MERGED - [refactor: filter custom counter size](https://github.com/gitify-app/gitify/pull/2312) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
-- MERGED - [refactor: external link indicators](https://github.com/gitify-app/gitify/pull/2310) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [toon-format/toon](https://github.com/toon-format/toon) 11903⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 12177⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 8014⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 8031⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7251⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7334⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1376⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1377⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3877⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3883⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 83764⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 83868⭐
 
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1964⭐
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1969⭐
 
 
