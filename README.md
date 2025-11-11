@@ -83,23 +83,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 week ago]
-
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
@@ -107,23 +107,31 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v6.11.1` release](https://github.com/gitify-app/gitify/pull/2362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: hide body text when empty](https://github.com/setchy/atlassify/pull/1820) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix(sidebar): unread count](https://github.com/gitify-app/gitify/pull/2361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test: api client test cases](https://github.com/gitify-app/gitify/pull/2366) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v6.11.0` release](https://github.com/gitify-app/gitify/pull/2360) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: handler notifications](https://github.com/gitify-app/gitify/pull/2365) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: delay notification when all read](https://github.com/gitify-app/gitify/pull/2359) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: add type to prevent future drift](https://github.com/gitify-app/gitify/pull/2363) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: percentage branded type with controls](https://github.com/gitify-app/gitify/pull/2357) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v6.11.1` release](https://github.com/gitify-app/gitify/pull/2362) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: group logic and add test coverage](https://github.com/gitify-app/gitify/pull/2356) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix(sidebar): unread count](https://github.com/gitify-app/gitify/pull/2361) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: fetch notifications on account add/remove](https://github.com/gitify-app/gitify/pull/2355) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v6.11.0` release](https://github.com/gitify-app/gitify/pull/2360) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor(filters): sort sections by title](https://github.com/gitify-app/gitify/pull/2354) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: delay notification when all read](https://github.com/gitify-app/gitify/pull/2359) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [refactor: biome grouping](https://github.com/setchy/atlassify/pull/1819) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: percentage branded type with controls](https://github.com/gitify-app/gitify/pull/2357) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [refactor: group logic and add test coverage](https://github.com/gitify-app/gitify/pull/2356) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [fix: fetch notifications on account add/remove](https://github.com/gitify-app/gitify/pull/2355) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [refactor(filters): sort sections by title](https://github.com/gitify-app/gitify/pull/2354) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- OPEN - [refactor: biome grouping](https://github.com/setchy/atlassify/pull/1819) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
 - MERGED - [feat: prepare for volume 33](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/765) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 week ago]
 
@@ -139,25 +147,19 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: Stabilize notification order during interactions](https://github.com/setchy/atlassify/pull/1787) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat(settings): add additional tooltips](https://github.com/setchy/atlassify/pull/1786) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [feat: set url for native notification](https://github.com/gitify-app/gitify/pull/2338) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [fix: orphaned notification groupings](https://github.com/gitify-app/gitify/pull/2337) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [chore(deps): Update .nvmrc to v24](https://github.com/gitify-app/gitify/pull/2333) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [toon-format/toon](https://github.com/toon-format/toon) 12177⭐
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) 948⭐
+
+- [toon-format/toon](https://github.com/toon-format/toon) 12831⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 8031⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 8061⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7334⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7349⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
@@ -165,10 +167,8 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3883⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3889⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 83868⭐
-
-- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) 1969⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 83940⭐
 
 
