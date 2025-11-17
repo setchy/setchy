@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 days ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -107,68 +107,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(menu): auto-hide `no updates available`](https://github.com/gitify-app/gitify/pull/2390) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: standardize use of `renderWithAppContext` and mocks](https://github.com/gitify-app/gitify/pull/2392) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v6.13.0` release](https://github.com/gitify-app/gitify/pull/2388) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [test: improve native test](https://github.com/gitify-app/gitify/pull/2391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v2.11.0` release](https://github.com/setchy/atlassify/pull/1882) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [feat(menu): auto-hide `no updates available`](https://github.com/gitify-app/gitify/pull/2390) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: tray color error](https://github.com/gitify-app/gitify/pull/2386) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare `v6.13.0` release](https://github.com/gitify-app/gitify/pull/2388) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: component props](https://github.com/gitify-app/gitify/pull/2384) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v2.11.0` release](https://github.com/setchy/atlassify/pull/1882) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: components (focus sink and props)](https://github.com/setchy/atlassify/pull/1879) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix: tray color error](https://github.com/gitify-app/gitify/pull/2386) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix: on focus hidden sentinel](https://github.com/gitify-app/gitify/pull/2383) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: component props](https://github.com/gitify-app/gitify/pull/2384) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: tooltips](https://github.com/gitify-app/gitify/pull/2382) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: components (focus sink and props)](https://github.com/setchy/atlassify/pull/1879) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [chore: update textfield](https://github.com/setchy/atlassify/pull/1873) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix: on focus hidden sentinel](https://github.com/gitify-app/gitify/pull/2383) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat(filters): add `reactions` filter](https://github.com/setchy/atlassify/pull/1872) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: tooltips](https://github.com/gitify-app/gitify/pull/2382) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v6.12.0` release](https://github.com/gitify-app/gitify/pull/2381) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [chore: update textfield](https://github.com/setchy/atlassify/pull/1873) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: hover group consistency](https://github.com/gitify-app/gitify/pull/2380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(filters): add `reactions` filter](https://github.com/setchy/atlassify/pull/1872) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: switch app layout to prevent sidebar buttons auto focus](https://github.com/gitify-app/gitify/pull/2379) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v6.12.0` release](https://github.com/gitify-app/gitify/pull/2381) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: error component height based on accounts](https://github.com/gitify-app/gitify/pull/2375) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: hover group consistency](https://github.com/gitify-app/gitify/pull/2380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: icon on error recovery](https://github.com/gitify-app/gitify/pull/2374) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: switch app layout to prevent sidebar buttons auto focus](https://github.com/gitify-app/gitify/pull/2379) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: fetch notifications on account add/remove ](https://github.com/setchy/atlassify/pull/1853) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [fix: error component height based on accounts](https://github.com/gitify-app/gitify/pull/2375) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: group logic and add test coverage](https://github.com/setchy/atlassify/pull/1852) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [fix: icon on error recovery](https://github.com/gitify-app/gitify/pull/2374) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: external link indicator](https://github.com/gitify-app/gitify/pull/2372) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: fetch notifications on account add/remove ](https://github.com/setchy/atlassify/pull/1853) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: external link indicators](https://github.com/setchy/atlassify/pull/1851) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: group logic and add test coverage](https://github.com/setchy/atlassify/pull/1852) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: overhaul tray updates and introduce percentage](https://github.com/setchy/atlassify/pull/1850) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: external link indicator](https://github.com/gitify-app/gitify/pull/2372) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [jspecify/jspecify](https://github.com/jspecify/jspecify) 955⭐
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) 957⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 16182⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 16682⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 8195⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 8237⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7384⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7388⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1383⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1384⭐
 
-- [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
+- [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3932⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3938⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 84282⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 84354⭐
 
 
