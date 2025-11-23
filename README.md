@@ -83,21 +83,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [today]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [today]
+
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [today]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
+
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [today]
+
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
-
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
-
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
-
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
@@ -107,9 +107,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(icons): offline icon](https://github.com/gitify-app/gitify/pull/2416) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(icons): offline icon](https://github.com/gitify-app/gitify/pull/2416) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [refactor: app state handling](https://github.com/gitify-app/gitify/pull/2415) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: app state handling](https://github.com/gitify-app/gitify/pull/2415) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
 - MERGED - [build: prepare `v2.13.0` release](https://github.com/setchy/atlassify/pull/1927) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
@@ -151,15 +151,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [jspecify/jspecify](https://github.com/jspecify/jspecify) 968⭐
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) 969⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 19053⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 19142⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 8458⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 8475⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7451⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7452⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
@@ -167,8 +167,8 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3979⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3984⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 84791⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 84839⭐
 
 
