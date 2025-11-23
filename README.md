@@ -153,11 +153,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 969⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 19142⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 19144⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 8475⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 8476⭐
 
 - [awslabs/mcp](https://github.com/awslabs/mcp) 7452⭐
 
@@ -167,8 +167,8 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3984⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3985⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 84839⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 84842⭐
 
 
