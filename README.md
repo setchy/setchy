@@ -83,47 +83,61 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 day ago]
+- [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [2 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [feat(icons): offline icon](https://github.com/gitify-app/gitify/pull/2416) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare `v6.14.1` release](https://github.com/gitify-app/gitify/pull/2422) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: app state handling](https://github.com/gitify-app/gitify/pull/2415) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: account token encryption/decryption](https://github.com/gitify-app/gitify/pull/2421) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v2.13.0` release](https://github.com/setchy/atlassify/pull/1927) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v6.14.0` release](https://github.com/gitify-app/gitify/pull/2419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat(icons): add offline icon](https://github.com/setchy/atlassify/pull/1926) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: account notifications](https://github.com/gitify-app/gitify/pull/2418) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: app state](https://github.com/setchy/atlassify/pull/1923) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: config settings types](https://github.com/gitify-app/gitify/pull/2417) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v2.12.0` release](https://github.com/setchy/atlassify/pull/1903) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: config settings](https://github.com/setchy/atlassify/pull/1929) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: zoom global and restore state](https://github.com/setchy/atlassify/pull/1893) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: account notifications](https://github.com/setchy/atlassify/pull/1928) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: remove unused primer experimental](https://github.com/gitify-app/gitify/pull/2406) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat(icons): offline icon](https://github.com/gitify-app/gitify/pull/2416) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: global resize listener and simplify restore state logic](https://github.com/gitify-app/gitify/pull/2400) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: app state handling](https://github.com/gitify-app/gitify/pull/2415) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- MERGED - [build: prepare `v2.13.0` release](https://github.com/setchy/atlassify/pull/1927) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+
+- MERGED - [feat(icons): add offline icon](https://github.com/setchy/atlassify/pull/1926) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+
+- MERGED - [fix: app state](https://github.com/setchy/atlassify/pull/1923) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- MERGED - [build: prepare `v2.12.0` release](https://github.com/setchy/atlassify/pull/1903) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+
+- MERGED - [refactor: zoom global and restore state](https://github.com/setchy/atlassify/pull/1893) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+
+- MERGED - [refactor: remove unused primer experimental](https://github.com/gitify-app/gitify/pull/2406) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+
+- MERGED - [refactor: global resize listener and simplify restore state logic](https://github.com/gitify-app/gitify/pull/2400) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat: auto hide no updates available](https://github.com/setchy/atlassify/pull/1888) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -133,42 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: test suites](https://github.com/gitify-app/gitify/pull/2397) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [chore: bump engines node 24](https://github.com/gitify-app/gitify/pull/2395) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: standardize use of `renderWithAppContext` and mocks](https://github.com/gitify-app/gitify/pull/2392) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [test: improve native test](https://github.com/gitify-app/gitify/pull/2391) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [feat(menu): auto-hide `no updates available`](https://github.com/gitify-app/gitify/pull/2390) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [build: prepare `v6.13.0` release](https://github.com/gitify-app/gitify/pull/2388) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [build: prepare `v2.11.0` release](https://github.com/setchy/atlassify/pull/1882) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [fix: tray color error](https://github.com/gitify-app/gitify/pull/2386) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 969⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 19200⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 19401⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 8484⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 8505⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7456⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7457⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1389⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1390⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3989⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 3991⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 84873⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 84945⭐
 
 
