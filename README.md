@@ -83,17 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
@@ -107,23 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor(bitbucket): compare issue type when determining whether to update existing issues](https://github.com/renovatebot/renovate/pull/39571) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [refactor(bitbucket): compare issue type when determining whether to update existing issues](https://github.com/renovatebot/renovate/pull/39571) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [feat(bitbucket): raise issue as `tasks` not `bugs`](https://github.com/renovatebot/renovate/pull/39565) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [feat(bitbucket): raise issue as `tasks` not `bugs`](https://github.com/renovatebot/renovate/pull/39565) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [build: prepare `v6.14.1` release](https://github.com/gitify-app/gitify/pull/2422) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v6.14.1` release](https://github.com/gitify-app/gitify/pull/2422) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: account token encryption/decryption](https://github.com/gitify-app/gitify/pull/2421) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: account token encryption/decryption](https://github.com/gitify-app/gitify/pull/2421) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: prepare `v6.14.0` release](https://github.com/gitify-app/gitify/pull/2419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v6.14.0` release](https://github.com/gitify-app/gitify/pull/2419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: account notifications](https://github.com/gitify-app/gitify/pull/2418) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: account notifications](https://github.com/gitify-app/gitify/pull/2418) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: config settings types](https://github.com/gitify-app/gitify/pull/2417) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: config settings types](https://github.com/gitify-app/gitify/pull/2417) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: config settings](https://github.com/setchy/atlassify/pull/1929) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: config settings](https://github.com/setchy/atlassify/pull/1929) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: account notifications](https://github.com/setchy/atlassify/pull/1928) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: account notifications](https://github.com/setchy/atlassify/pull/1928) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [feat(icons): offline icon](https://github.com/gitify-app/gitify/pull/2416) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -143,9 +143,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: global resize listener and simplify restore state logic](https://github.com/gitify-app/gitify/pull/2400) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: auto hide no updates available](https://github.com/setchy/atlassify/pull/1888) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat: auto hide no updates available](https://github.com/setchy/atlassify/pull/1888) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [refactor: test suites](https://github.com/setchy/atlassify/pull/1887) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [refactor: test suites](https://github.com/setchy/atlassify/pull/1887) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -153,13 +153,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 976⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 19910⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 19962⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 8654⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 8673⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7492⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7497⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
@@ -167,8 +167,8 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4013⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4019⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 85303⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 85368⭐
 
 
