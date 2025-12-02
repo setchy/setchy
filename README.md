@@ -83,17 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/renovate-dashboard-actions](https://github.com/setchy/renovate-dashboard-actions) -  [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
-
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
@@ -101,15 +101,23 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [refactor(bitbucket): compare issue type when determining whether to update existing issues](https://github.com/renovatebot/renovate/pull/39571) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [test: update scenario to match dependency-dashboard text](https://github.com/renovatebot/renovate/pull/39677) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- MERGED - [feat(bitbucket): raise issue as `tasks` not `bugs`](https://github.com/renovatebot/renovate/pull/39565) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [fix: read only issue](https://github.com/renovatebot/renovate/pull/39676) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+
+- OPEN - [feat(dashboard): open all awaiting schedule PRs](https://github.com/renovatebot/renovate/pull/39674) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+
+- CLOSED - [close](https://github.com/setchy/renovate-dashboard-actions/pull/2) to [setchy/renovate-dashboard-actions](https://github.com/setchy/renovate-dashboard-actions) [1 day ago]
+
+- MERGED - [refactor(bitbucket): compare issue type when determining whether to update existing issues](https://github.com/renovatebot/renovate/pull/39571) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+
+- MERGED - [feat(bitbucket): raise issue as `tasks` not `bugs`](https://github.com/renovatebot/renovate/pull/39565) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
 - MERGED - [build: prepare `v6.14.1` release](https://github.com/gitify-app/gitify/pull/2422) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -139,36 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: zoom global and restore state](https://github.com/setchy/atlassify/pull/1893) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: remove unused primer experimental](https://github.com/gitify-app/gitify/pull/2406) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: global resize listener and simplify restore state logic](https://github.com/gitify-app/gitify/pull/2400) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [feat: auto hide no updates available](https://github.com/setchy/atlassify/pull/1888) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-
-- MERGED - [refactor: test suites](https://github.com/setchy/atlassify/pull/1887) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [jspecify/jspecify](https://github.com/jspecify/jspecify) 976⭐
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) 979⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 19962⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 20023⭐
 
-- [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 64⭐
+- [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 65⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 8673⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 8696⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7497⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7516⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1396⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1399⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4019⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4026⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 85368⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 85451⭐
 
 
