@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
+
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
 
-- [setchy/renovate-dashboard-actions](https://github.com/setchy/renovate-dashboard-actions) -  [2 days ago]
+- [setchy/renovate-dashboard-actions](https://github.com/setchy/renovate-dashboard-actions) -  [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
-
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
 - [CycloneDX/cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
@@ -107,19 +107,35 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(bitbucket): massage markdown for abandoned deps section](https://github.com/renovatebot/renovate/pull/39717) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [fix(dashboard): formatting for vulnerabilities section](https://github.com/renovatebot/renovate/pull/39775) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- OPEN - [fix: branch error message logic](https://github.com/renovatebot/renovate/pull/39716) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [feat(dashboard): add totals to detected dependency summaries](https://github.com/renovatebot/renovate/pull/39770) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- OPEN - [docs(bitbucket): add comment re: collapsible syntax support](https://github.com/renovatebot/renovate/pull/39715) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [feat: map emojis to repository problems](https://github.com/renovatebot/renovate/pull/39769) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- OPEN - [test: update scenario to match dependency-dashboard text](https://github.com/renovatebot/renovate/pull/39677) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- OPEN - [feat(workflow): add auto labeler workflow](https://github.com/renovatebot/renovate/pull/39759) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- MERGED - [fix: read only issue](https://github.com/renovatebot/renovate/pull/39676) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- OPEN - [refactor(dashboard): proper-case section headings](https://github.com/renovatebot/renovate/pull/39754) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- OPEN - [feat(dashboard): open all awaiting schedule PRs](https://github.com/renovatebot/renovate/pull/39674) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- OPEN - [refactor(dashboard): standardize blocked section headings](https://github.com/renovatebot/renovate/pull/39753) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- CLOSED - [close](https://github.com/setchy/renovate-dashboard-actions/pull/2) to [setchy/renovate-dashboard-actions](https://github.com/setchy/renovate-dashboard-actions) [2 days ago]
+- OPEN - [feat(dashboard): add deprecations / replacements section](https://github.com/renovatebot/renovate/pull/39752) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+
+- OPEN - [feat(bitbucket): massage markdown for detected deps section](https://github.com/renovatebot/renovate/pull/39720) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+
+- MERGED - [feat(bitbucket): massage issue markdown for abandoned deps section](https://github.com/renovatebot/renovate/pull/39717) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+
+- MERGED - [fix: branch error message logic](https://github.com/renovatebot/renovate/pull/39716) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+
+- MERGED - [docs(bitbucket): add comment re: collapsible syntax support](https://github.com/renovatebot/renovate/pull/39715) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+
+- MERGED - [test(gitlab): update scenario to match dependency-dashboard text](https://github.com/renovatebot/renovate/pull/39677) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+
+- MERGED - [fix: read only issue](https://github.com/renovatebot/renovate/pull/39676) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+
+- OPEN - [feat(dashboard): open all awaiting schedule PRs](https://github.com/renovatebot/renovate/pull/39674) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+
+- CLOSED - [close](https://github.com/setchy/renovate-dashboard-actions/pull/2) to [setchy/renovate-dashboard-actions](https://github.com/setchy/renovate-dashboard-actions) [3 days ago]
 
 - MERGED - [refactor(bitbucket): compare issue type when determining whether to update existing issues](https://github.com/renovatebot/renovate/pull/39571) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -131,44 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v6.14.0` release](https://github.com/gitify-app/gitify/pull/2419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: account notifications](https://github.com/gitify-app/gitify/pull/2418) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: config settings types](https://github.com/gitify-app/gitify/pull/2417) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: config settings](https://github.com/setchy/atlassify/pull/1929) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [refactor: account notifications](https://github.com/setchy/atlassify/pull/1928) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [feat(icons): offline icon](https://github.com/gitify-app/gitify/pull/2416) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: app state handling](https://github.com/gitify-app/gitify/pull/2415) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [build: prepare `v2.13.0` release](https://github.com/setchy/atlassify/pull/1927) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [feat(icons): add offline icon](https://github.com/setchy/atlassify/pull/1926) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [jspecify/jspecify](https://github.com/jspecify/jspecify) 980⭐
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) 984⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 20094⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 20158⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 65⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 8715⭐
+- [openai/agents.md](https://github.com/openai/agents.md) 8742⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7529⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7538⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1399⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1400⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 31⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4050⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4071⭐
 
-- [immich-app/immich](https://github.com/immich-app/immich) 85526⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 85609⭐
 
 
