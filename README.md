@@ -85,9 +85,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 day ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [2 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [6 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
 - [setchy/renovate-dashboard-actions](https://github.com/setchy/renovate-dashboard-actions) -  [1 week ago]
 
@@ -95,7 +95,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
@@ -107,33 +107,33 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: check if PR is in merge queue](https://github.com/gitify-app/gitify/pull/2434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: check if PR is in merge queue](https://github.com/gitify-app/gitify/pull/2434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/17) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 day ago]
+- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/17) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [2 days ago]
 
-- OPEN - [Update pnpm to v10.25.0](https://github.com/setchy/renovate-tsconfig-bases/pull/15) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 day ago]
+- OPEN - [Update pnpm to v10.25.0](https://github.com/setchy/renovate-tsconfig-bases/pull/15) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [2 days ago]
 
-- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/14) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 day ago]
+- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/14) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [2 days ago]
 
-- CLOSED - [Replace dependency @tsconfig/node20 with @tsconfig/node21 21 - autoclosed](https://github.com/setchy/renovate-tsconfig-bases/pull/13) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 day ago]
+- CLOSED - [Replace dependency @tsconfig/node20 with @tsconfig/node21 21 - autoclosed](https://github.com/setchy/renovate-tsconfig-bases/pull/13) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [2 days ago]
 
-- OPEN - [fix(bitbucket): abandoned dependencies section heading formatting](https://github.com/renovatebot/renovate/pull/39817) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [fix(bitbucket): abandoned dependencies section heading formatting](https://github.com/renovatebot/renovate/pull/39817) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [fix(dashboard): formatting for vulnerabilities section](https://github.com/renovatebot/renovate/pull/39775) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [fix(dashboard): formatting for vulnerabilities section](https://github.com/renovatebot/renovate/pull/39775) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- OPEN - [feat(dashboard): add totals to detected dependency summaries](https://github.com/renovatebot/renovate/pull/39770) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [feat(dashboard): add totals to detected dependency summaries](https://github.com/renovatebot/renovate/pull/39770) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat: map emojis to repository problems](https://github.com/renovatebot/renovate/pull/39769) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [feat: map emojis to repository problems](https://github.com/renovatebot/renovate/pull/39769) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- OPEN - [ci: add auto labeler workflow](https://github.com/renovatebot/renovate/pull/39759) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [ci: add auto labeler workflow](https://github.com/renovatebot/renovate/pull/39759) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [refactor(dashboard): consistently use title case for headings](https://github.com/renovatebot/renovate/pull/39754) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [refactor(dashboard): consistently use title case for headings](https://github.com/renovatebot/renovate/pull/39754) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- OPEN - [refactor(dashboard): standardize blocked section headings](https://github.com/renovatebot/renovate/pull/39753) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [refactor(dashboard): standardize blocked section headings](https://github.com/renovatebot/renovate/pull/39753) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat(dashboard): add deprecations / replacements section](https://github.com/renovatebot/renovate/pull/39752) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [feat(dashboard): add deprecations / replacements section](https://github.com/renovatebot/renovate/pull/39752) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- OPEN - [feat(bitbucket): massage markdown for collapsible sections section](https://github.com/renovatebot/renovate/pull/39720) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [feat(bitbucket): massage markdown for collapsible sections section](https://github.com/renovatebot/renovate/pull/39720) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [feat(bitbucket): massage issue markdown for abandoned deps section](https://github.com/renovatebot/renovate/pull/39717) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -151,17 +151,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) 195⭐
+- [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) 196⭐
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 997⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 20455⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 20512⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 65⭐
 
-- [openai/agents.md](https://github.com/openai/agents.md) 8875⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 9008⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7581⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7598⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
@@ -169,6 +169,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4126⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4136⭐
 
 
