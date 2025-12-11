@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [today]
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [2 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [3 days ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
@@ -107,17 +107,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: check if PR is in merge queue](https://github.com/gitify-app/gitify/pull/2434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [fix(dashboard): only add count if has deps](https://github.com/renovatebot/renovate/pull/39889) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/17) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [2 days ago]
+- OPEN - [feat: check if PR is in merge queue](https://github.com/gitify-app/gitify/pull/2434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [Update pnpm to v10.25.0](https://github.com/setchy/renovate-tsconfig-bases/pull/15) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [2 days ago]
+- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/17) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [3 days ago]
 
-- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/14) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [2 days ago]
+- OPEN - [Update pnpm to v10.25.0](https://github.com/setchy/renovate-tsconfig-bases/pull/15) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [3 days ago]
 
-- CLOSED - [Replace dependency @tsconfig/node20 with @tsconfig/node21 21 - autoclosed](https://github.com/setchy/renovate-tsconfig-bases/pull/13) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [2 days ago]
+- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/14) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [3 days ago]
 
-- MERGED - [fix(bitbucket): abandoned dependencies section heading formatting](https://github.com/renovatebot/renovate/pull/39817) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [Replace dependency @tsconfig/node20 to @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/13) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [3 days ago]
+
+- MERGED - [fix(bitbucket): abandoned dependencies section heading formatting](https://github.com/renovatebot/renovate/pull/39817) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
 - MERGED - [fix(dashboard): formatting for vulnerabilities section](https://github.com/renovatebot/renovate/pull/39775) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -129,7 +131,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor(dashboard): consistently use title case for headings](https://github.com/renovatebot/renovate/pull/39754) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- OPEN - [refactor(dashboard): standardize blocked section headings](https://github.com/renovatebot/renovate/pull/39753) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor(dashboard): standardize blocked section headings](https://github.com/renovatebot/renovate/pull/39753) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [feat(dashboard): add deprecations / replacements section](https://github.com/renovatebot/renovate/pull/39752) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: read only issue](https://github.com/renovatebot/renovate/pull/39676) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat(dashboard): open all awaiting schedule PRs](https://github.com/renovatebot/renovate/pull/39674) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) 196⭐
 
-- [jspecify/jspecify](https://github.com/jspecify/jspecify) 997⭐
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) 998⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 20512⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 20576⭐
 
-- [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 65⭐
+- [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 66⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 9008⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 9500⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7598⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7610⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1402⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1403⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4136⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4145⭐
 
 
