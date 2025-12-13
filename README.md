@@ -91,13 +91,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [today]
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [4 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [5 days ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
 - [setchy/renovate-dashboard-actions](https://github.com/setchy/renovate-dashboard-actions) -  [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
@@ -107,27 +107,27 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(url): improve fallback url support](https://github.com/gitify-app/gitify/pull/2445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [feat(url): improve fallback url support](https://github.com/gitify-app/gitify/pull/2445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/18) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [today]
+- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/18) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 day ago]
 
-- OPEN - [feat(api): simplify discussions enrichment and use graphql-codegen for types](https://github.com/gitify-app/gitify/pull/2444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- OPEN - [feat(api): simplify discussions enrichment and use graphql-codegen for types](https://github.com/gitify-app/gitify/pull/2444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [test(jest): set timezone for stable snapshots](https://github.com/gitify-app/gitify/pull/2443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [test(jest): set timezone for stable snapshots](https://github.com/gitify-app/gitify/pull/2443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor(handler): issue state](https://github.com/gitify-app/gitify/pull/2442) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [refactor(handler): issue state](https://github.com/gitify-app/gitify/pull/2442) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix(dashboard): only add count if has deps](https://github.com/renovatebot/renovate/pull/39889) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [fix(dashboard): only add count if has deps](https://github.com/renovatebot/renovate/pull/39889) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- OPEN - [feat: check if PR is in merge queue](https://github.com/gitify-app/gitify/pull/2434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat: check if PR is in merge queue](https://github.com/gitify-app/gitify/pull/2434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/17) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [4 days ago]
+- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/17) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [5 days ago]
 
-- CLOSED - [Update pnpm to v10.25.0](https://github.com/setchy/renovate-tsconfig-bases/pull/15) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [4 days ago]
+- CLOSED - [Update pnpm to v10.25.0](https://github.com/setchy/renovate-tsconfig-bases/pull/15) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [5 days ago]
 
-- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/14) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [4 days ago]
+- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/14) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [5 days ago]
 
-- CLOSED - [test](https://github.com/setchy/renovate-tsconfig-bases/pull/13) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [4 days ago]
+- CLOSED - [test](https://github.com/setchy/renovate-tsconfig-bases/pull/13) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [5 days ago]
 
 - MERGED - [fix(bitbucket): abandoned dependencies section heading formatting](https://github.com/renovatebot/renovate/pull/39817) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
@@ -155,13 +155,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 1002⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 20691⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 20696⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 66⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 10833⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 10859⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7633⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7636⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
@@ -169,6 +169,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4162⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4163⭐
 
 
