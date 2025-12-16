@@ -87,11 +87,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
 - [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 week ago]
 
@@ -107,21 +107,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor(api): codegen setup](https://github.com/setchy/atlassify/pull/2003) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [refactor(api): codegen setup](https://github.com/setchy/atlassify/pull/2003) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [fix(replacements): `@tsconfig/node` versions](https://github.com/renovatebot/renovate/pull/39971) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [fix(replacements): `@tsconfig/node` versions](https://github.com/renovatebot/renovate/pull/39971) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- MERGED - [feat(url): improve fallback url support](https://github.com/gitify-app/gitify/pull/2445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(url): improve fallback url support](https://github.com/gitify-app/gitify/pull/2445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/18) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [3 days ago]
+- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/18) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [4 days ago]
 
-- OPEN - [feat(api): simplify discussions enrichment and use graphql-codegen for types](https://github.com/gitify-app/gitify/pull/2444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [feat(api): simplify discussions enrichment and use graphql-codegen for types](https://github.com/gitify-app/gitify/pull/2444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [test(jest): set timezone for stable snapshots](https://github.com/gitify-app/gitify/pull/2443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [test(jest): set timezone for stable snapshots](https://github.com/gitify-app/gitify/pull/2443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor(handler): issue state](https://github.com/gitify-app/gitify/pull/2442) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(handler): issue state](https://github.com/gitify-app/gitify/pull/2442) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix(dashboard): only add count if has deps](https://github.com/renovatebot/renovate/pull/39889) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- MERGED - [fix(dashboard): only add count if has deps](https://github.com/renovatebot/renovate/pull/39889) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
 - OPEN - [feat: check if PR is in merge queue](https://github.com/gitify-app/gitify/pull/2434) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -155,20 +155,20 @@ Senior Executive (VP) // Architect // Developer
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 1004⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 20747⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 20792⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 66⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 11568⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 11856⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7652⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7662⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1406⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1407⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4175⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4183⭐
 
 
