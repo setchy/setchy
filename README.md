@@ -155,13 +155,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 1006⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 20875⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 20877⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 66⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 12320⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 12337⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7681⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7682⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
