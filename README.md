@@ -83,17 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [5 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [6 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -107,45 +107,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor(handlers): move icon color into each handler](https://github.com/gitify-app/gitify/pull/2469) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor(api): use fragments for nested types](https://github.com/gitify-app/gitify/pull/2471) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
-- OPEN - [[WIP] refactor(api): use graphql api for issue and pull request enrichment](https://github.com/gitify-app/gitify/pull/2468) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(pr): add support for `merge queue`](https://github.com/gitify-app/gitify/pull/2470) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
-- MERGED - [build: prepare `v2.14.0` release](https://github.com/setchy/atlassify/pull/2062) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor(handlers): move icon color into each handler](https://github.com/gitify-app/gitify/pull/2469) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [refactor(presets/internal): use globs for managerFilePatterns](https://github.com/renovatebot/renovate/pull/40074) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [refactor(api): use graphql api for issue and pull request enrichment](https://github.com/gitify-app/gitify/pull/2468) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor(codegen): disable fragment masking](https://github.com/setchy/atlassify/pull/2018) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: prepare `v2.14.0` release](https://github.com/setchy/atlassify/pull/2062) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor(replacements): tsconfig extends custom manager](https://github.com/renovatebot/renovate/pull/40055) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [refactor(presets/internal): use globs for managerFilePatterns](https://github.com/renovatebot/renovate/pull/40074) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/27) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [5 days ago]
+- MERGED - [refactor(codegen): disable fragment masking](https://github.com/setchy/atlassify/pull/2018) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/26) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [5 days ago]
+- MERGED - [refactor(replacements): tsconfig extends custom manager](https://github.com/renovatebot/renovate/pull/40055) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- MERGED - [feat(presets): expand `tsconfigNodeVersions` file patterns](https://github.com/renovatebot/renovate/pull/40034) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/27) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
 
-- MERGED - [refactor: use unicode right-arrow for changes template](https://github.com/renovatebot/renovate/pull/40033) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/26) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
 
-- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/25) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
+- MERGED - [feat(presets): expand `tsconfigNodeVersions` file patterns](https://github.com/renovatebot/renovate/pull/40034) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- CLOSED - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/24) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
+- MERGED - [refactor: use unicode right-arrow for changes template](https://github.com/renovatebot/renovate/pull/40033) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/23) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
+- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/25) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
 
-- CLOSED - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/22) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
+- CLOSED - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/24) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
 
-- MERGED - [feat(dashboard): detected dependencies update new values](https://github.com/renovatebot/renovate/pull/40032) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/23) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
 
-- OPEN - [Update pnpm to v10.26.0](https://github.com/setchy/renovate-tsconfig-bases/pull/19) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
+- CLOSED - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/22) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
 
-- MERGED - [refactor: update fixture headers](https://github.com/renovatebot/renovate/pull/40031) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [feat(dashboard): detected dependencies update new values](https://github.com/renovatebot/renovate/pull/40032) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat(custom): support tsconfig/node in extends array](https://github.com/renovatebot/renovate/pull/40030) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [Update pnpm to v10.26.0](https://github.com/setchy/renovate-tsconfig-bases/pull/19) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
 
-- MERGED - [feat: log all awaiting schedule](https://github.com/renovatebot/renovate/pull/40021) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [refactor: update fixture headers](https://github.com/renovatebot/renovate/pull/40031) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [refactor(api): codegen setup](https://github.com/setchy/atlassify/pull/2003) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat(custom): support tsconfig/node in extends array](https://github.com/renovatebot/renovate/pull/40030) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -153,22 +153,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) 196⭐
 
-- [jspecify/jspecify](https://github.com/jspecify/jspecify) 1007⭐
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) 1011⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 21006⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 21038⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 66⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 12848⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 12946⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7702⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7709⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1411⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1412⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4235⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4247⭐
 
 
