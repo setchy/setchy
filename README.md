@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
 - [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 weeks ago]
 
@@ -107,21 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix(metric): use tooltip to improve reliability of rendering](https://github.com/gitify-app/gitify/pull/2477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat(api/graphql): implement merge query pattern](https://github.com/gitify-app/gitify/pull/2478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: use fragments for details](https://github.com/gitify-app/gitify/pull/2474) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix(metric): use tooltip to improve reliability of rendering](https://github.com/gitify-app/gitify/pull/2477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor(api): use @octokit/types REST schema type](https://github.com/gitify-app/gitify/pull/2473) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: use fragments for details](https://github.com/gitify-app/gitify/pull/2474) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor(api): fetch authenticated user details via GraphQL query](https://github.com/gitify-app/gitify/pull/2472) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(api): use @octokit/types REST schema type](https://github.com/gitify-app/gitify/pull/2473) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor(api): use fragments for nested types](https://github.com/gitify-app/gitify/pull/2471) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(api): fetch authenticated user details via GraphQL query](https://github.com/gitify-app/gitify/pull/2472) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat(pr): add support for `merge queue`](https://github.com/gitify-app/gitify/pull/2470) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(api): use fragments for nested types](https://github.com/gitify-app/gitify/pull/2471) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor(handlers): move icon color into each handler](https://github.com/gitify-app/gitify/pull/2469) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat(pr): add support for `merge queue`](https://github.com/gitify-app/gitify/pull/2470) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor(api): use graphql api for issue and pull request enrichment](https://github.com/gitify-app/gitify/pull/2468) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor(handlers): move icon color into each handler](https://github.com/gitify-app/gitify/pull/2469) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [refactor(api): use graphql api for issue and pull request enrichment](https://github.com/gitify-app/gitify/pull/2468) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [build: prepare `v2.14.0` release](https://github.com/setchy/atlassify/pull/2062) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/23) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
 
-- CLOSED - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/22) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) 196⭐
 
-- [jspecify/jspecify](https://github.com/jspecify/jspecify) 1012⭐
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) 1013⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 21129⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 21157⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 66⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 13235⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 13290⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7718⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7725⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1416⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1417⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4267⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4283⭐
 
 
