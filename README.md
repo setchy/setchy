@@ -83,21 +83,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [today]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [4 weeks ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 month ago]
 
 - [setchy/renovate-dashboard-actions](https://github.com/setchy/renovate-dashboard-actions) -  [1 month ago]
 
@@ -107,15 +107,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [Update pnpm to v10.26.2](https://github.com/setchy/renovate-tsconfig-bases/pull/30) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 day ago]
+- MERGED - [Update pnpm to v10.26.2](https://github.com/setchy/renovate-tsconfig-bases/pull/30) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [2 days ago]
 
-- CLOSED - [closed Update pnpm to v10.27.0](https://github.com/setchy/renovate-tsconfig-bases/pull/28) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 day ago]
+- CLOSED - [closed Update pnpm to v10.27.0](https://github.com/setchy/renovate-tsconfig-bases/pull/28) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [2 days ago]
 
-- MERGED - [chore: hide graphql-codegen files in PR previews](https://github.com/gitify-app/gitify/pull/2487) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [chore: hide graphql-codegen files in PR previews](https://github.com/gitify-app/gitify/pull/2487) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [chore(renovate): enable dependency dashboard approval workflow](https://github.com/gitify-app/gitify/pull/2486) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [chore(renovate): enable dependency dashboard approval workflow](https://github.com/gitify-app/gitify/pull/2486) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [feat(api): implement graphql merge query pattern to reduce api call volume](https://github.com/gitify-app/gitify/pull/2478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [feat(api): implement graphql merge query pattern to reduce api call volume](https://github.com/gitify-app/gitify/pull/2478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [fix(metric): use tooltip to improve reliability of rendering](https://github.com/gitify-app/gitify/pull/2477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -133,7 +133,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor(api): use graphql api for issue and pull request enrichment](https://github.com/gitify-app/gitify/pull/2468) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: prepare `v2.14.0` release](https://github.com/setchy/atlassify/pull/2062) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [build: prepare `v2.14.0` release](https://github.com/setchy/atlassify/pull/2062) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - OPEN - [refactor(presets/internal): use globs for managerFilePatterns](https://github.com/renovatebot/renovate/pull/40074) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
@@ -155,13 +155,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 1018⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 21287⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 21303⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 66⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 13683⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 13757⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7755⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7766⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
@@ -169,6 +169,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4332⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4334⭐
 
 
