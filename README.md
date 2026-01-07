@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [today]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [5 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [6 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
 
@@ -107,29 +107,31 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: format display attributes on GitifyNotification](https://github.com/gitify-app/gitify/pull/2502) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: clear separation between mock utils](https://github.com/gitify-app/gitify/pull/2503) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [fix(tooltip): change show/hide behavior to work with embedded contents](https://github.com/gitify-app/gitify/pull/2501) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: format display attributes on GitifyNotification](https://github.com/gitify-app/gitify/pull/2502) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor(handlers): default user type for notification](https://github.com/gitify-app/gitify/pull/2500) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [fix(tooltip): change show/hide behavior to work with links in description](https://github.com/gitify-app/gitify/pull/2501) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: set reason details upon GitifyNotification transformation](https://github.com/gitify-app/gitify/pull/2499) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor(handlers): default user type for notification](https://github.com/gitify-app/gitify/pull/2500) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: use handler for NotificationHeader formatting](https://github.com/gitify-app/gitify/pull/2498) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: set reason details upon GitifyNotification transformation](https://github.com/gitify-app/gitify/pull/2499) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor(sidebar): primary account util](https://github.com/gitify-app/gitify/pull/2497) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: use handler for NotificationHeader formatting](https://github.com/gitify-app/gitify/pull/2498) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor(group): isGroupByDate helper util](https://github.com/gitify-app/gitify/pull/2496) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor(sidebar): primary account util](https://github.com/gitify-app/gitify/pull/2497) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor(handlers): consistently use `GitifyNotification`](https://github.com/gitify-app/gitify/pull/2494) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(group): isGroupByDate helper util](https://github.com/gitify-app/gitify/pull/2496) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: use default handler defaultURL](https://github.com/gitify-app/gitify/pull/2493) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(handlers): consistently use `GitifyNotification`](https://github.com/gitify-app/gitify/pull/2494) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix(sidebar): use tailwind to animate loading/refresh incidator](https://github.com/gitify-app/gitify/pull/2492) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: use default handler defaultURL](https://github.com/gitify-app/gitify/pull/2493) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [Update pnpm to v10.26.2](https://github.com/setchy/renovate-tsconfig-bases/pull/30) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
+- MERGED - [fix(sidebar): use tailwind to animate loading/refresh incidator](https://github.com/gitify-app/gitify/pull/2492) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- CLOSED - [closed Update pnpm to v10.27.0](https://github.com/setchy/renovate-tsconfig-bases/pull/28) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
+- MERGED - [Update pnpm to v10.26.2](https://github.com/setchy/renovate-tsconfig-bases/pull/30) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
+
+- CLOSED - [closed Update pnpm to v10.27.0](https://github.com/setchy/renovate-tsconfig-bases/pull/28) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
 
 - MERGED - [chore: hide graphql-codegen files in PR previews](https://github.com/gitify-app/gitify/pull/2487) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -137,15 +139,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(api): implement graphql merge query pattern to reduce api call volume](https://github.com/gitify-app/gitify/pull/2478) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix(metric): use tooltip to improve reliability of rendering](https://github.com/gitify-app/gitify/pull/2477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix(metric): use tooltip to improve reliability of rendering](https://github.com/gitify-app/gitify/pull/2477) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor: use fragments for details](https://github.com/gitify-app/gitify/pull/2474) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: use fragments for details](https://github.com/gitify-app/gitify/pull/2474) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [refactor(api): use @octokit/types REST schema type](https://github.com/gitify-app/gitify/pull/2473) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor(api): use @octokit/types REST schema type](https://github.com/gitify-app/gitify/pull/2473) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [refactor(api): fetch authenticated user details via GraphQL query](https://github.com/gitify-app/gitify/pull/2472) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
-- MERGED - [refactor(api): use fragments for nested types](https://github.com/gitify-app/gitify/pull/2471) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -155,20 +155,20 @@ Senior Executive (VP) // Architect // Developer
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 1021⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 21486⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 21529⭐
 
-- [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 66⭐
+- [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 67⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 14321⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 14447⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7796⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7800⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
-- [nohello-net/site](https://github.com/nohello-net/site) 1423⭐
+- [nohello-net/site](https://github.com/nohello-net/site) 1425⭐
 
 - [leanix-public/scripts](https://github.com/leanix-public/scripts) 32⭐
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4369⭐
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 4374⭐
 
 
