@@ -83,91 +83,91 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [3 days ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [5 days ago]
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [4 days ago]
-
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: emojify dashboard notices](https://github.com/renovatebot/renovate/pull/40369) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [feat(sidebar): shortcut key bindings and hints](https://github.com/gitify-app/gitify/pull/2515) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: caution attestation notice](https://github.com/renovatebot/renovate/pull/40368) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [fix(tooltip): improve handling when user scrolls](https://github.com/gitify-app/gitify/pull/2514) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: emojify truncated notes](https://github.com/renovatebot/renovate/pull/40367) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [feat(sidebar): focused mode toggle (participating vs participating&#43;watching)](https://github.com/gitify-app/gitify/pull/2513) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v6.15.0` release](https://github.com/gitify-app/gitify/pull/2512) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: emojify dashboard notices](https://github.com/renovatebot/renovate/pull/40369) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- OPEN - [fix(bitbucket): update regex to focus indentation replacement](https://github.com/renovatebot/renovate/pull/40359) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [feat: caution attestation notice](https://github.com/renovatebot/renovate/pull/40368) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- OPEN - [fix(bitbucket): massage codeblock markdown](https://github.com/renovatebot/renovate/pull/40346) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [feat: emojify truncated notes](https://github.com/renovatebot/renovate/pull/40367) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [feat(bitbucket): increase max body length](https://github.com/renovatebot/renovate/pull/40345) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [build: prepare `v6.15.0` release](https://github.com/gitify-app/gitify/pull/2512) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix(bitbucket): markdown massaging for release notes](https://github.com/renovatebot/renovate/pull/40344) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- OPEN - [fix(bitbucket): update regex to focus indentation replacement](https://github.com/renovatebot/renovate/pull/40359) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- OPEN - [feat(dashboard): add repository statistics](https://github.com/renovatebot/renovate/pull/40331) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- OPEN - [fix(bitbucket): massage codeblock markdown](https://github.com/renovatebot/renovate/pull/40346) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- OPEN - [Update pnpm to v10.27.0](https://github.com/setchy/renovate-tsconfig-bases/pull/31) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [3 days ago]
+- MERGED - [feat(bitbucket): increase max body length](https://github.com/renovatebot/renovate/pull/40345) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- MERGED - [feat: declutter site](https://github.com/setchy/setchy.github.io/pull/55) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [3 days ago]
+- MERGED - [fix(bitbucket): markdown massaging for release notes](https://github.com/renovatebot/renovate/pull/40344) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
 
-- OPEN - [refactor(platform/bitbucket): update `bbUseDevelopmentBranch` to global config](https://github.com/renovatebot/renovate/pull/40315) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- OPEN - [feat(dashboard): add repository statistics](https://github.com/renovatebot/renovate/pull/40331) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
-- OPEN - [feat: prune branches if target and main branches are different](https://github.com/renovatebot/renovate/pull/40314) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- OPEN - [Update pnpm to v10.27.0](https://github.com/setchy/renovate-tsconfig-bases/pull/31) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [4 days ago]
 
-- MERGED - [Revert &#34;refactor(renovate): remove unused package rule&#34;](https://github.com/gitify-app/gitify/pull/2508) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: declutter site](https://github.com/setchy/setchy.github.io/pull/55) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [4 days ago]
 
-- MERGED - [refactor(renovate): remove unused package rule](https://github.com/gitify-app/gitify/pull/2507) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [refactor(platform/bitbucket): update `bbUseDevelopmentBranch` to global config](https://github.com/renovatebot/renovate/pull/40315) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- CLOSED - [feat(platform/bitbucket): calculate effectiveBaseBranch during pr update](https://github.com/renovatebot/renovate/pull/40310) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- OPEN - [feat: prune branches if target and main branches are different](https://github.com/renovatebot/renovate/pull/40314) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [refactor(git): add debug logging for `baseBranch`](https://github.com/renovatebot/renovate/pull/40307) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [Revert &#34;refactor(renovate): remove unused package rule&#34;](https://github.com/gitify-app/gitify/pull/2508) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: clear separation between mock utils](https://github.com/gitify-app/gitify/pull/2503) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor(renovate): remove unused package rule](https://github.com/gitify-app/gitify/pull/2507) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [feat: format display attributes on GitifyNotification](https://github.com/gitify-app/gitify/pull/2502) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- CLOSED - [feat(platform/bitbucket): calculate effectiveBaseBranch during pr update](https://github.com/renovatebot/renovate/pull/40310) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [fix(tooltip): change show/hide behavior to work with links in description](https://github.com/gitify-app/gitify/pull/2501) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor(git): add debug logging for `baseBranch`](https://github.com/renovatebot/renovate/pull/40307) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [volta-cli/volta](https://github.com/volta-cli/volta) 12704⭐
+- [volta-cli/volta](https://github.com/volta-cli/volta) 12705⭐
 
-- [Schniz/fnm](https://github.com/Schniz/fnm) 23313⭐
+- [Schniz/fnm](https://github.com/Schniz/fnm) 23324⭐
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) 9924⭐
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) 9928⭐
 
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) 197⭐
 
-- [jspecify/jspecify](https://github.com/jspecify/jspecify) 1026⭐
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) 1027⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 21684⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 21705⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 68⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 14822⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 14866⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7833⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7837⭐
 
 - [OWASP/www-project-cdxgen](https://github.com/OWASP/www-project-cdxgen) 1⭐
 
