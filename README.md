@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [6 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -107,68 +107,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: atlaskit styles](https://github.com/setchy/atlassify/pull/2143) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [feat: keyboard navigation](https://github.com/setchy/atlassify/pull/2145) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: tailwind](https://github.com/gitify-app/gitify/pull/2532) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: migrate deprecated atlaskit `xcss`](https://github.com/setchy/atlassify/pull/2144) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: toggle settings](https://github.com/setchy/atlassify/pull/2119) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: atlaskit styles](https://github.com/setchy/atlassify/pull/2143) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [feat: app shortcut key bindings](https://github.com/setchy/atlassify/pull/2114) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: tailwind](https://github.com/gitify-app/gitify/pull/2532) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [refactor(api): request fns](https://github.com/gitify-app/gitify/pull/2526) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: toggle settings](https://github.com/setchy/atlassify/pull/2119) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- OPEN - [refactor(api): adopt `@octokit/types`](https://github.com/gitify-app/gitify/pull/2525) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: app shortcut key bindings](https://github.com/setchy/atlassify/pull/2114) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor(api): update api client](https://github.com/setchy/atlassify/pull/2100) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [refactor(api): request fns](https://github.com/gitify-app/gitify/pull/2526) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor(test): setup axios default adapter in test util](https://github.com/gitify-app/gitify/pull/2524) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [refactor(api): adopt `@octokit/types`](https://github.com/gitify-app/gitify/pull/2525) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [refactor(auth): use `@octokit/oauth-methods`](https://github.com/gitify-app/gitify/pull/2523) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(api): update api client](https://github.com/setchy/atlassify/pull/2100) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- OPEN - [feat: hyperlink warnings to dep dashboard](https://github.com/renovatebot/renovate/pull/40395) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- MERGED - [refactor(test): setup axios default adapter in test util](https://github.com/gitify-app/gitify/pull/2524) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/33) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [5 days ago]
+- OPEN - [refactor(auth): use `@octokit/oauth-methods`](https://github.com/gitify-app/gitify/pull/2523) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/32) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [5 days ago]
+- OPEN - [feat: hyperlink warnings to dep dashboard](https://github.com/renovatebot/renovate/pull/40395) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- MERGED - [feat(dashboard): add heading for abandoned deps section](https://github.com/renovatebot/renovate/pull/40381) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/33) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
 
-- MERGED - [feat(shortcuts): add key bindings and hints](https://github.com/gitify-app/gitify/pull/2515) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/32) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
 
-- MERGED - [fix(tooltip): improve handling when user scrolls](https://github.com/gitify-app/gitify/pull/2514) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat(dashboard): add heading for abandoned deps section](https://github.com/renovatebot/renovate/pull/40381) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- MERGED - [feat(sidebar): focused mode toggle (participating vs participating&#43;watching)](https://github.com/gitify-app/gitify/pull/2513) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat(shortcuts): add key bindings and hints](https://github.com/gitify-app/gitify/pull/2515) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [fix(tooltip): improve handling when user scrolls](https://github.com/gitify-app/gitify/pull/2514) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [feat(sidebar): focused mode toggle (participating vs participating&#43;watching)](https://github.com/gitify-app/gitify/pull/2513) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat: emojify dashboard notices](https://github.com/renovatebot/renovate/pull/40369) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [feat: caution attestation notice](https://github.com/renovatebot/renovate/pull/40368) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat: emojify truncated notes](https://github.com/renovatebot/renovate/pull/40367) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
-
-- MERGED - [build: prepare `v6.15.0` release](https://github.com/gitify-app/gitify/pull/2512) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 11433⭐
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 11446⭐
 
-- [volta-cli/volta](https://github.com/volta-cli/volta) 12726⭐
+- [volta-cli/volta](https://github.com/volta-cli/volta) 12727⭐
 
-- [Schniz/fnm](https://github.com/Schniz/fnm) 23397⭐
+- [Schniz/fnm](https://github.com/Schniz/fnm) 23410⭐
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) 9971⭐
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) 9978⭐
 
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) 197⭐
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 1028⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 21902⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 21931⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 68⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 15367⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 15506⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7886⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7893⭐
 
 
