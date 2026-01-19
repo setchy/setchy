@@ -83,59 +83,61 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 day ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [6 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
-
 - [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 week ago]
-
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: keyboard navigation](https://github.com/setchy/atlassify/pull/2145) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [config: relax timestamp requirement for tumbleweed pins](https://github.com/cdxgen/cdxgen/pull/3285) to [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) [1 day ago]
 
-- OPEN - [refactor: migrate deprecated atlaskit `xcss`](https://github.com/setchy/atlassify/pull/2144) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [feat: keyboard navigation](https://github.com/setchy/atlassify/pull/2145) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: atlaskit styles](https://github.com/setchy/atlassify/pull/2143) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [refactor: migrate deprecated atlaskit `xcss`](https://github.com/setchy/atlassify/pull/2144) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: tailwind](https://github.com/gitify-app/gitify/pull/2532) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: atlaskit styles](https://github.com/setchy/atlassify/pull/2143) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: toggle settings](https://github.com/setchy/atlassify/pull/2119) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: tailwind](https://github.com/gitify-app/gitify/pull/2532) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: app shortcut key bindings](https://github.com/setchy/atlassify/pull/2114) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: toggle settings](https://github.com/setchy/atlassify/pull/2119) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- OPEN - [refactor(api): request fns](https://github.com/gitify-app/gitify/pull/2526) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: app shortcut key bindings](https://github.com/setchy/atlassify/pull/2114) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- OPEN - [refactor(api): adopt `@octokit/types`](https://github.com/gitify-app/gitify/pull/2525) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [refactor(api): request fns](https://github.com/gitify-app/gitify/pull/2526) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor(api): update api client](https://github.com/setchy/atlassify/pull/2100) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- OPEN - [refactor(api): adopt `@octokit/types`](https://github.com/gitify-app/gitify/pull/2525) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor(test): setup axios default adapter in test util](https://github.com/gitify-app/gitify/pull/2524) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(api): update api client](https://github.com/setchy/atlassify/pull/2100) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- OPEN - [refactor(auth): use `@octokit/oauth-methods`](https://github.com/gitify-app/gitify/pull/2523) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor(test): setup axios default adapter in test util](https://github.com/gitify-app/gitify/pull/2524) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [feat: hyperlink warnings to dep dashboard](https://github.com/renovatebot/renovate/pull/40395) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [refactor(auth): use `@octokit/oauth-methods`](https://github.com/gitify-app/gitify/pull/2523) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/33) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
+- OPEN - [feat: hyperlink warnings to dep dashboard](https://github.com/renovatebot/renovate/pull/40395) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/32) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [6 days ago]
+- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/33) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
 
-- MERGED - [feat(dashboard): add heading for abandoned deps section](https://github.com/renovatebot/renovate/pull/40381) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/32) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
+
+- MERGED - [feat(dashboard): add heading for abandoned deps section](https://github.com/renovatebot/renovate/pull/40381) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [feat(shortcuts): add key bindings and hints](https://github.com/gitify-app/gitify/pull/2515) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: emojify dashboard notices](https://github.com/renovatebot/renovate/pull/40369) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat: caution attestation notice](https://github.com/renovatebot/renovate/pull/40368) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 11446⭐
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 11455⭐
 
-- [volta-cli/volta](https://github.com/volta-cli/volta) 12727⭐
+- [volta-cli/volta](https://github.com/volta-cli/volta) 12728⭐
 
-- [Schniz/fnm](https://github.com/Schniz/fnm) 23410⭐
+- [Schniz/fnm](https://github.com/Schniz/fnm) 23423⭐
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) 9978⭐
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) 9983⭐
 
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) 197⭐
 
 - [jspecify/jspecify](https://github.com/jspecify/jspecify) 1028⭐
 
-- [toon-format/toon](https://github.com/toon-format/toon) 21931⭐
+- [toon-format/toon](https://github.com/toon-format/toon) 21955⭐
 
 - [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 68⭐
 
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 15506⭐
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 15580⭐
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) 7893⭐
+- [awslabs/mcp](https://github.com/awslabs/mcp) 7897⭐
 
 
