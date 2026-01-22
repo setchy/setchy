@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [3 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -101,74 +101,74 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 week ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [refactor: checkbox onChange fns](https://github.com/gitify-app/gitify/pull/2550) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: test prop interfaces and clarify animation state variables](https://github.com/gitify-app/gitify/pull/2552) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: format notification titles with backticks as code](https://github.com/gitify-app/gitify/pull/2548) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test: group tests by suite and assert response shapes satisfy expected types](https://github.com/gitify-app/gitify/pull/2551) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat(auth): use oauth device code flow for `Login with GitHub` authentication](https://github.com/gitify-app/gitify/pull/2547) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: checkbox onChange fns](https://github.com/gitify-app/gitify/pull/2550) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: align boolean state variable names](https://github.com/gitify-app/gitify/pull/2546) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: format notification titles with backticks as code](https://github.com/gitify-app/gitify/pull/2548) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [refactor(api): request and client types](https://github.com/gitify-app/gitify/pull/2545) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(auth): use oauth device code flow for `Login with GitHub` authentication](https://github.com/gitify-app/gitify/pull/2547) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [config: relax timestamp requirement for tumbleweed pins](https://github.com/cdxgen/cdxgen/pull/3285) to [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) [3 days ago]
+- MERGED - [refactor: align boolean state variable names](https://github.com/gitify-app/gitify/pull/2546) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat: keyboard navigation](https://github.com/setchy/atlassify/pull/2145) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- OPEN - [refactor(api): request and client types](https://github.com/gitify-app/gitify/pull/2545) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [refactor: migrate deprecated atlaskit `xcss`](https://github.com/setchy/atlassify/pull/2144) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [config: relax timestamp requirement for tumbleweed pins](https://github.com/cdxgen/cdxgen/pull/3285) to [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) [4 days ago]
 
-- MERGED - [refactor: atlaskit styles](https://github.com/setchy/atlassify/pull/2143) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- OPEN - [feat: keyboard navigation](https://github.com/setchy/atlassify/pull/2145) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: tailwind](https://github.com/gitify-app/gitify/pull/2532) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- OPEN - [refactor: migrate deprecated atlaskit `xcss`](https://github.com/setchy/atlassify/pull/2144) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: toggle settings](https://github.com/setchy/atlassify/pull/2119) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: atlaskit styles](https://github.com/setchy/atlassify/pull/2143) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [feat: app shortcut key bindings](https://github.com/setchy/atlassify/pull/2114) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: tailwind](https://github.com/gitify-app/gitify/pull/2532) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- CLOSED - [refactor(api): request fns](https://github.com/gitify-app/gitify/pull/2526) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: toggle settings](https://github.com/setchy/atlassify/pull/2119) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- OPEN - [refactor(api): adopt `@octokit/types`](https://github.com/gitify-app/gitify/pull/2525) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: app shortcut key bindings](https://github.com/setchy/atlassify/pull/2114) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor(api): update api client](https://github.com/setchy/atlassify/pull/2100) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- CLOSED - [refactor(api): request fns](https://github.com/gitify-app/gitify/pull/2526) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor(test): setup axios default adapter in test util](https://github.com/gitify-app/gitify/pull/2524) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor(api): adopt `@octokit/types`](https://github.com/gitify-app/gitify/pull/2525) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [refactor(api): update api client](https://github.com/setchy/atlassify/pull/2100) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- MERGED - [refactor(test): setup axios default adapter in test util](https://github.com/gitify-app/gitify/pull/2524) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor(auth): use `@octokit/oauth-methods`](https://github.com/gitify-app/gitify/pull/2523) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - OPEN - [feat: hyperlink warnings to dep dashboard](https://github.com/renovatebot/renovate/pull/40395) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- OPEN - [Replace dependency @tsconfig/node20 with @tsconfig/node22](https://github.com/setchy/renovate-tsconfig-bases/pull/33) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
-
-- OPEN - [Update dependency @tsconfig/node20 to v20.1.8](https://github.com/setchy/renovate-tsconfig-bases/pull/32) to [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) 6180⭐
+- [AxisNimble/TheFlightWall_OSS](https://github.com/AxisNimble/TheFlightWall_OSS) 169⭐
 
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 11496⭐
+- [jetclock/jetscreen-v2](https://github.com/jetclock/jetscreen-v2) 135⭐
 
-- [volta-cli/volta](https://github.com/volta-cli/volta) 12730⭐
+- [jetclock/jetclock](https://github.com/jetclock/jetclock) 4⭐
 
-- [Schniz/fnm](https://github.com/Schniz/fnm) 23462⭐
+- [upptime/upptime](https://github.com/upptime/upptime) 16806⭐
 
-- [webpro-nl/knip](https://github.com/webpro-nl/knip) 10011⭐
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) 6530⭐
+
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 11514⭐
+
+- [volta-cli/volta](https://github.com/volta-cli/volta) 12729⭐
+
+- [Schniz/fnm](https://github.com/Schniz/fnm) 23485⭐
+
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) 10016⭐
 
 - [ktrysmt/go-bitbucket](https://github.com/ktrysmt/go-bitbucket) 197⭐
-
-- [jspecify/jspecify](https://github.com/jspecify/jspecify) 1029⭐
-
-- [toon-format/toon](https://github.com/toon-format/toon) 22015⭐
-
-- [Belco90/octochangelog](https://github.com/Belco90/octochangelog) 68⭐
-
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) 15721⭐
 
 
