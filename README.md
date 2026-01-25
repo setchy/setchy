@@ -83,92 +83,92 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
 
-- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+
+- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
-
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [2 weeks ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [chore(vscode): remove unused tailwind settings](https://github.com/gitify-app/gitify/pull/2559) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [build: prepare `v6.16.0` release](https://github.com/gitify-app/gitify/pull/2567) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: remove state logic and exit animation](https://github.com/setchy/atlassify/pull/2164) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v2.15.0` release](https://github.com/setchy/atlassify/pull/2177) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: notification interaction remove callback](https://github.com/gitify-app/gitify/pull/2558) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: add support for github cloud data residency](https://github.com/gitify-app/gitify/pull/2561) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: useAppContext hook](https://github.com/setchy/atlassify/pull/2163) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [chore(vscode): remove unused tailwind settings](https://github.com/gitify-app/gitify/pull/2559) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: ci workflows](https://github.com/setchy/atlassify/pull/2161) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: remove state logic and exit animation](https://github.com/setchy/atlassify/pull/2164) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor(ci): improve ci workflows and test feedback loop](https://github.com/gitify-app/gitify/pull/2556) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: notification interaction remove callback](https://github.com/gitify-app/gitify/pull/2558) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [fix(api): split merged graphql enrichment into batches to limit errors](https://github.com/gitify-app/gitify/pull/2555) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: useAppContext hook](https://github.com/setchy/atlassify/pull/2163) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor: test prop interfaces and clarify animation state variables](https://github.com/gitify-app/gitify/pull/2552) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: ci workflows](https://github.com/setchy/atlassify/pull/2161) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [test: group tests by suite and assert response shapes satisfy expected types](https://github.com/gitify-app/gitify/pull/2551) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(ci): improve ci workflows and test feedback loop](https://github.com/gitify-app/gitify/pull/2556) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: checkbox onChange fns](https://github.com/gitify-app/gitify/pull/2550) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix(api): split merged graphql enrichment into batches to limit errors](https://github.com/gitify-app/gitify/pull/2555) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: format notification titles with backticks as code](https://github.com/gitify-app/gitify/pull/2548) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: test prop interfaces and clarify animation state variables](https://github.com/gitify-app/gitify/pull/2552) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- OPEN - [feat(auth): use oauth device code flow for `Login with GitHub` authentication](https://github.com/gitify-app/gitify/pull/2547) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [test: group tests by suite and assert response shapes satisfy expected types](https://github.com/gitify-app/gitify/pull/2551) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: align boolean state variable names](https://github.com/gitify-app/gitify/pull/2546) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: checkbox onChange fns](https://github.com/gitify-app/gitify/pull/2550) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor(api): request and client types](https://github.com/gitify-app/gitify/pull/2545) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [feat: format notification titles with backticks as code](https://github.com/gitify-app/gitify/pull/2548) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [config: relax timestamp requirement for tumbleweed pins](https://github.com/cdxgen/cdxgen/pull/3285) to [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) [6 days ago]
+- OPEN - [feat(auth): use oauth device code flow for `Login with GitHub` authentication](https://github.com/gitify-app/gitify/pull/2547) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [refactor: align boolean state variable names](https://github.com/gitify-app/gitify/pull/2546) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [refactor(api): request and client types](https://github.com/gitify-app/gitify/pull/2545) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+
+- MERGED - [config: relax timestamp requirement for tumbleweed pins](https://github.com/cdxgen/cdxgen/pull/3285) to [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) [1 week ago]
 
 - OPEN - [feat: keyboard navigation](https://github.com/setchy/atlassify/pull/2145) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - OPEN - [refactor: migrate deprecated atlaskit `xcss`](https://github.com/setchy/atlassify/pull/2144) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: atlaskit styles](https://github.com/setchy/atlassify/pull/2143) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [refactor: tailwind](https://github.com/gitify-app/gitify/pull/2532) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: toggle settings](https://github.com/setchy/atlassify/pull/2119) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) 29554⭐
+
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) 7666⭐
 
-- [github/spec-kit](https://github.com/github/spec-kit) 64716⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 64866⭐
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) 85448⭐
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) 86478⭐
 
-- [AxisNimble/TheFlightWall_OSS](https://github.com/AxisNimble/TheFlightWall_OSS) 174⭐
+- [AxisNimble/TheFlightWall_OSS](https://github.com/AxisNimble/TheFlightWall_OSS) 188⭐
 
 - [jetclock/jetscreen-v2](https://github.com/jetclock/jetscreen-v2) 135⭐
 
 - [jetclock/jetclock](https://github.com/jetclock/jetclock) 4⭐
 
-- [upptime/upptime](https://github.com/upptime/upptime) 16811⭐
+- [upptime/upptime](https://github.com/upptime/upptime) 16813⭐
 
-- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) 7161⭐
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) 7405⭐
 
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 11561⭐
-
-- [volta-cli/volta](https://github.com/volta-cli/volta) 12733⭐
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) 11569⭐
 
 
