@@ -83,17 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 days ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [3 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
-
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
@@ -107,68 +107,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: notification number wrap / truncation](https://github.com/gitify-app/gitify/pull/2575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [fix: errors in build/package logs](https://github.com/gitify-app/gitify/pull/2577) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v6.16.1` release](https://github.com/gitify-app/gitify/pull/2574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix(webpack): load system vars](https://github.com/setchy/atlassify/pull/2196) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: inbox flicker during loading](https://github.com/gitify-app/gitify/pull/2573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: event name standardization](https://github.com/setchy/atlassify/pull/2195) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: error handling for network connection](https://github.com/gitify-app/gitify/pull/2572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(deps): update electron builder and updater](https://github.com/setchy/atlassify/pull/2194) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor(api): reduce octokit retry plugin amount](https://github.com/gitify-app/gitify/pull/2571) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v2.16.2` release](https://github.com/setchy/atlassify/pull/2193) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: add fetch lock](https://github.com/gitify-app/gitify/pull/2570) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: elevate aptabase dep](https://github.com/setchy/atlassify/pull/2192) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [fix: GitHub links and text](https://github.com/steipete/clawd.me/pull/5) to [steipete/clawd.me](https://github.com/steipete/clawd.me) [2 days ago]
+- OPEN - [feat(presets)!: add `maintainLockFilesWeekly` to `best-practices` preset](https://github.com/renovatebot/renovate/pull/40735) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- MERGED - [fix(settings): volume icon size](https://github.com/gitify-app/gitify/pull/2569) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- CLOSED - [feat(presets)!: add `maintainLockFilesWeekly` to `best-practices` preset](https://github.com/renovatebot/renovate/pull/40733) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- MERGED - [test: refactor app context tests](https://github.com/setchy/atlassify/pull/2178) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: milestone closed color](https://github.com/gitify-app/gitify/pull/2576) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v6.16.0` release](https://github.com/gitify-app/gitify/pull/2567) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v2.16.1` release](https://github.com/setchy/atlassify/pull/2191) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [build: prepare `v2.15.0` release](https://github.com/setchy/atlassify/pull/2177) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix(analytics): aptabase ipc comms](https://github.com/setchy/atlassify/pull/2190) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: add support for github cloud data residency](https://github.com/gitify-app/gitify/pull/2561) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v2.16.0` release](https://github.com/setchy/atlassify/pull/2189) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [chore(vscode): remove unused tailwind settings](https://github.com/gitify-app/gitify/pull/2559) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: inbox flicker during loading](https://github.com/setchy/atlassify/pull/2187) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: remove state logic and exit animation](https://github.com/setchy/atlassify/pull/2164) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: add fetch lock](https://github.com/setchy/atlassify/pull/2186) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: notification interaction remove callback](https://github.com/gitify-app/gitify/pull/2558) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat(analytics): aptabase](https://github.com/setchy/atlassify/pull/2179) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: useAppContext hook](https://github.com/setchy/atlassify/pull/2163) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [fix: notification number wrap / truncation](https://github.com/gitify-app/gitify/pull/2575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: ci workflows](https://github.com/setchy/atlassify/pull/2161) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v6.16.1` release](https://github.com/gitify-app/gitify/pull/2574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor(ci): improve ci workflows and test feedback loop](https://github.com/gitify-app/gitify/pull/2556) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: inbox flicker during loading](https://github.com/gitify-app/gitify/pull/2573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix(api): split merged graphql enrichment into batches to limit errors](https://github.com/gitify-app/gitify/pull/2555) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: error handling for network connection](https://github.com/gitify-app/gitify/pull/2572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: test prop interfaces and clarify animation state variables](https://github.com/gitify-app/gitify/pull/2552) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor(api): reduce octokit retry plugin amount](https://github.com/gitify-app/gitify/pull/2571) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) 46860⭐
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) 1617⭐
 
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) 31980⭐
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) 71369⭐
 
-- [octokit/octokit.js](https://github.com/octokit/octokit.js) 7669⭐
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) 32869⭐
 
-- [github/spec-kit](https://github.com/github/spec-kit) 65344⭐
+- [octokit/octokit.js](https://github.com/octokit/octokit.js) 7666⭐
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) 88839⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 65635⭐
 
-- [AxisNimble/TheFlightWall_OSS](https://github.com/AxisNimble/TheFlightWall_OSS) 193⭐
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) 90158⭐
 
-- [jetclock/jetscreen-v2](https://github.com/jetclock/jetscreen-v2) 135⭐
+- [AxisNimble/TheFlightWall_OSS](https://github.com/AxisNimble/TheFlightWall_OSS) 195⭐
+
+- [jetclock/jetscreen-v2](https://github.com/jetclock/jetscreen-v2) 136⭐
 
 - [jetclock/jetclock](https://github.com/jetclock/jetclock) 4⭐
 
-- [upptime/upptime](https://github.com/upptime/upptime) 16817⭐
-
-- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) 7876⭐
+- [upptime/upptime](https://github.com/upptime/upptime) 16818⭐
 
 
