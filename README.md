@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [4 days ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
 - [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 week ago]
 
@@ -107,68 +107,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix(presets): dockerfile globs](https://github.com/renovatebot/renovate/pull/40770) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [feat(filters): add @copilot as Bot example](https://github.com/gitify-app/gitify/pull/2581) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- OPEN - [feat: update Policy Violation Audit permissions for policy list](https://github.com/DependencyTrack/frontend/pull/1434) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [1 day ago]
+- OPEN - [feat(metrics): add reaction metric pill](https://github.com/gitify-app/gitify/pull/2580) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [fix: errors in build/package logs](https://github.com/gitify-app/gitify/pull/2577) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare `v2.16.7` release](https://github.com/setchy/atlassify/pull/2213) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix(webpack): load system vars](https://github.com/setchy/atlassify/pull/2196) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: webpack dotenv loading](https://github.com/setchy/atlassify/pull/2212) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: event name standardization](https://github.com/setchy/atlassify/pull/2195) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: electron-builder workflow](https://github.com/gitify-app/gitify/pull/2579) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [chore(deps): update electron builder and updater](https://github.com/setchy/atlassify/pull/2194) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: revert &#34;fix: errors in build/package logs&#34;](https://github.com/gitify-app/gitify/pull/2578) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v2.16.2` release](https://github.com/setchy/atlassify/pull/2193) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v2.16.6` release](https://github.com/setchy/atlassify/pull/2210) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: elevate aptabase dep](https://github.com/setchy/atlassify/pull/2192) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: electron-builder for windows and mac](https://github.com/setchy/atlassify/pull/2209) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat(presets)!: add `maintainLockFilesWeekly` to `best-practices` preset](https://github.com/renovatebot/renovate/pull/40735) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [build: prepare `v2.16.5` release](https://github.com/setchy/atlassify/pull/2208) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- CLOSED - [feat(presets)!: add `maintainLockFilesWeekly` to `best-practices` preset](https://github.com/renovatebot/renovate/pull/40733) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [refactor(macos): simplify on universal builds only](https://github.com/setchy/atlassify/pull/2207) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: milestone closed color](https://github.com/gitify-app/gitify/pull/2576) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix(deps): revert electron-builder version](https://github.com/setchy/atlassify/pull/2206) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [build: prepare `v2.16.1` release](https://github.com/setchy/atlassify/pull/2191) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v2.16.4` release](https://github.com/setchy/atlassify/pull/2205) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix(analytics): aptabase ipc comms](https://github.com/setchy/atlassify/pull/2190) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: windows arm builds](https://github.com/setchy/atlassify/pull/2204) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [build: prepare `v2.16.0` release](https://github.com/setchy/atlassify/pull/2189) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: prepare `v2.16.3` release](https://github.com/setchy/atlassify/pull/2203) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: inbox flicker during loading](https://github.com/setchy/atlassify/pull/2187) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: windows signing](https://github.com/setchy/atlassify/pull/2197) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: add fetch lock](https://github.com/setchy/atlassify/pull/2186) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix(presets): dockerfile globs](https://github.com/renovatebot/renovate/pull/40770) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [feat(analytics): aptabase](https://github.com/setchy/atlassify/pull/2179) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [feat: update Policy Violation Audit permissions for policy list](https://github.com/DependencyTrack/frontend/pull/1434) to [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) [2 days ago]
 
-- MERGED - [fix: notification number wrap / truncation](https://github.com/gitify-app/gitify/pull/2575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: errors in build/package logs](https://github.com/gitify-app/gitify/pull/2577) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build: prepare `v6.16.1` release](https://github.com/gitify-app/gitify/pull/2574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix(webpack): load system vars](https://github.com/setchy/atlassify/pull/2196) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix: inbox flicker during loading](https://github.com/gitify-app/gitify/pull/2573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: event name standardization](https://github.com/setchy/atlassify/pull/2195) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) 29597⭐
+- [opral/lix](https://github.com/opral/lix) 428⭐
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) 50008⭐
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) 29622⭐
 
-- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) 1713⭐
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) 50039⭐
+
+- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) 1897⭐
 
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) 1618⭐
 
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) 89096⭐
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) 104030⭐
 
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) 33333⭐
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) 33644⭐
 
-- [octokit/octokit.js](https://github.com/octokit/octokit.js) 7669⭐
+- [octokit/octokit.js](https://github.com/octokit/octokit.js) 7671⭐
 
-- [github/spec-kit](https://github.com/github/spec-kit) 65950⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 66225⭐
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) 91308⭐
-
-- [AxisNimble/TheFlightWall_OSS](https://github.com/AxisNimble/TheFlightWall_OSS) 197⭐
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) 92292⭐
 
 
