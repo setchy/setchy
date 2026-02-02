@@ -83,13 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -101,74 +101,74 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [2 weeks ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: prepare `v6.17.0` release](https://github.com/gitify-app/gitify/pull/2593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v6.17.0` release](https://github.com/gitify-app/gitify/pull/2593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: skip fetching if offline](https://github.com/gitify-app/gitify/pull/2586) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: skip fetching if offline](https://github.com/gitify-app/gitify/pull/2586) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat(settings): update metric setting tooltip](https://github.com/gitify-app/gitify/pull/2585) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(settings): update metric setting tooltip](https://github.com/gitify-app/gitify/pull/2585) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: use primer `IssueLabelToken` component for labels and reactions](https://github.com/gitify-app/gitify/pull/2584) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: use primer `IssueLabelToken` component for labels and reactions](https://github.com/gitify-app/gitify/pull/2584) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat: reactions for discussions](https://github.com/gitify-app/gitify/pull/2583) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat: reactions for discussions](https://github.com/gitify-app/gitify/pull/2583) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: split metrics into individual components](https://github.com/gitify-app/gitify/pull/2582) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: split metrics into individual components](https://github.com/gitify-app/gitify/pull/2582) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat(filters): add @copilot as Bot example](https://github.com/gitify-app/gitify/pull/2581) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(filters): add @copilot as Bot example](https://github.com/gitify-app/gitify/pull/2581) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat(metrics): add reaction metric pill](https://github.com/gitify-app/gitify/pull/2580) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(metrics): add reaction metric pill](https://github.com/gitify-app/gitify/pull/2580) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v2.16.7` release](https://github.com/setchy/atlassify/pull/2213) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v2.16.7` release](https://github.com/setchy/atlassify/pull/2213) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: webpack dotenv loading](https://github.com/setchy/atlassify/pull/2212) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix: webpack dotenv loading](https://github.com/setchy/atlassify/pull/2212) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: electron-builder workflow](https://github.com/gitify-app/gitify/pull/2579) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: electron-builder workflow](https://github.com/gitify-app/gitify/pull/2579) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: revert &#34;fix: errors in build/package logs&#34;](https://github.com/gitify-app/gitify/pull/2578) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: revert &#34;fix: errors in build/package logs&#34;](https://github.com/gitify-app/gitify/pull/2578) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v2.16.6` release](https://github.com/setchy/atlassify/pull/2210) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v2.16.6` release](https://github.com/setchy/atlassify/pull/2210) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: electron-builder for windows and mac](https://github.com/setchy/atlassify/pull/2209) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix: electron-builder for windows and mac](https://github.com/setchy/atlassify/pull/2209) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [build: prepare `v2.16.5` release](https://github.com/setchy/atlassify/pull/2208) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v2.16.5` release](https://github.com/setchy/atlassify/pull/2208) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor(macos): simplify on universal builds only](https://github.com/setchy/atlassify/pull/2207) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor(macos): simplify on universal builds only](https://github.com/setchy/atlassify/pull/2207) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix(deps): revert electron-builder version](https://github.com/setchy/atlassify/pull/2206) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix(deps): revert electron-builder version](https://github.com/setchy/atlassify/pull/2206) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [build: prepare `v2.16.4` release](https://github.com/setchy/atlassify/pull/2205) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v2.16.4` release](https://github.com/setchy/atlassify/pull/2205) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat: windows arm builds](https://github.com/setchy/atlassify/pull/2204) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: windows arm builds](https://github.com/setchy/atlassify/pull/2204) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [build: prepare `v2.16.3` release](https://github.com/setchy/atlassify/pull/2203) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v2.16.3` release](https://github.com/setchy/atlassify/pull/2203) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) 675⭐
+- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) 314⭐
 
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) 2850⭐
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) 682⭐
 
-- [opral/lix](https://github.com/opral/lix) 472⭐
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) 2855⭐
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) 29685⭐
+- [opral/lix](https://github.com/opral/lix) 479⭐
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) 50102⭐
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) 29728⭐
 
-- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) 2082⭐
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) 50140⭐
+
+- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) 2124⭐
 
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) 1619⭐
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) 132895⭐
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) 142281⭐
 
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) 34106⭐
-
-- [octokit/octokit.js](https://github.com/octokit/octokit.js) 7672⭐
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) 34344⭐
 
 
