@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,19 +107,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat(platform/bitbucket): support mixed auth (workspace access token &#43; personal api token)](https://github.com/renovatebot/renovate/pull/40931) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [fix: animate exit on unsubscribe](https://github.com/gitify-app/gitify/pull/2600) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v6.17.0` release](https://github.com/gitify-app/gitify/pull/2593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- OPEN - [feat(platform/bitbucket): support mixed auth (workspace access token &#43; personal api token)](https://github.com/renovatebot/renovate/pull/40931) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [feat: skip fetching if offline](https://github.com/gitify-app/gitify/pull/2586) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v6.17.0` release](https://github.com/gitify-app/gitify/pull/2593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat(settings): update metric setting tooltip](https://github.com/gitify-app/gitify/pull/2585) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: skip fetching if offline](https://github.com/gitify-app/gitify/pull/2586) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: use primer `IssueLabelToken` component for labels and reactions](https://github.com/gitify-app/gitify/pull/2584) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat(settings): update metric setting tooltip](https://github.com/gitify-app/gitify/pull/2585) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: reactions for discussions](https://github.com/gitify-app/gitify/pull/2583) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: use primer `IssueLabelToken` component for labels and reactions](https://github.com/gitify-app/gitify/pull/2584) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [refactor: split metrics into individual components](https://github.com/gitify-app/gitify/pull/2582) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: reactions for discussions](https://github.com/gitify-app/gitify/pull/2583) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [refactor: split metrics into individual components](https://github.com/gitify-app/gitify/pull/2582) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat(filters): add @copilot as Bot example](https://github.com/gitify-app/gitify/pull/2581) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v2.16.4` release](https://github.com/setchy/atlassify/pull/2205) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: windows arm builds](https://github.com/setchy/atlassify/pull/2204) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) 5378⭐
+- [AOEpeople/ai-radar](https://github.com/AOEpeople/ai-radar) 3⭐
 
-- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) 1157⭐
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) 5382⭐
 
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) 14162⭐
+- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) 1158⭐
 
-- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) 430⭐
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) 14198⭐
 
-- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) 699⭐
+- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) 440⭐
 
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) 2873⭐
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) 703⭐
 
-- [opral/lix](https://github.com/opral/lix) 510⭐
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) 2879⭐
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) 29868⭐
+- [opral/lix](https://github.com/opral/lix) 512⭐
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) 50272⭐
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) 29901⭐
 
-- [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) 2367⭐
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) 50301⭐
 
 
