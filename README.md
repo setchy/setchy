@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -95,7 +95,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
 - [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [2 weeks ago]
 
@@ -107,11 +107,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [fix: animate exit on unsubscribe](https://github.com/gitify-app/gitify/pull/2600) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: migrate from `webpack` to `vite`](https://github.com/setchy/atlassify/pull/2245) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [feat(platform/bitbucket): support mixed auth (workspace access token &#43; personal api token)](https://github.com/renovatebot/renovate/pull/40931) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- MERGED - [fix: animate exit on unsubscribe](https://github.com/gitify-app/gitify/pull/2600) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: prepare `v6.17.0` release](https://github.com/gitify-app/gitify/pull/2593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [feat(platform/bitbucket): support mixed auth (workspace access token &#43; personal api token)](https://github.com/renovatebot/renovate/pull/40931) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+
+- MERGED - [build: prepare `v6.17.0` release](https://github.com/gitify-app/gitify/pull/2593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat: skip fetching if offline](https://github.com/gitify-app/gitify/pull/2586) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix(deps): revert electron-builder version](https://github.com/setchy/atlassify/pull/2206) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [build: prepare `v2.16.4` release](https://github.com/setchy/atlassify/pull/2205) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
+- [michael-watson/graphql-workbench](https://github.com/michael-watson/graphql-workbench) 3⭐
+
+- [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) 856⭐
+
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) 56883⭐
+
 - [AOEpeople/ai-radar](https://github.com/AOEpeople/ai-radar) 3⭐
 
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) 5382⭐
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) 5383⭐
 
-- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) 1158⭐
+- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) 1160⭐
 
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) 14198⭐
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) 14261⭐
 
-- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) 440⭐
+- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) 452⭐
 
-- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) 703⭐
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) 704⭐
 
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) 2879⭐
-
-- [opral/lix](https://github.com/opral/lix) 512⭐
-
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) 29901⭐
-
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) 50301⭐
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) 2881⭐
 
 
