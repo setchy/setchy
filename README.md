@@ -85,19 +85,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 week ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
-- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [2 weeks ago]
+- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [3 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
@@ -107,11 +107,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: migrate from `webpack` to `vite`](https://github.com/setchy/atlassify/pull/2245) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: transform and group utils](https://github.com/setchy/atlassify/pull/2257) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: animate exit on unsubscribe](https://github.com/gitify-app/gitify/pull/2600) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: twemoji path](https://github.com/setchy/atlassify/pull/2256) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [feat(platform/bitbucket): support mixed auth (workspace access token &#43; personal api token)](https://github.com/renovatebot/renovate/pull/40931) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [feat: vite checker](https://github.com/setchy/atlassify/pull/2255) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- OPEN - [refactor: move notifications context state to zustand store](https://github.com/setchy/atlassify/pull/2254) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [refactor: migrate from `webpack` to `vite`](https://github.com/setchy/atlassify/pull/2245) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+
+- MERGED - [fix: animate exit on unsubscribe](https://github.com/gitify-app/gitify/pull/2600) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+
+- OPEN - [feat(platform/bitbucket): support mixed auth (workspace access token &#43; personal api token)](https://github.com/renovatebot/renovate/pull/40931) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
 - MERGED - [build: prepare `v6.17.0` release](https://github.com/gitify-app/gitify/pull/2593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -139,36 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v2.16.6` release](https://github.com/setchy/atlassify/pull/2210) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix: electron-builder for windows and mac](https://github.com/setchy/atlassify/pull/2209) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [build: prepare `v2.16.5` release](https://github.com/setchy/atlassify/pull/2208) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [refactor(macos): simplify on universal builds only](https://github.com/setchy/atlassify/pull/2207) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [fix(deps): revert electron-builder version](https://github.com/setchy/atlassify/pull/2206) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [michael-watson/graphql-workbench](https://github.com/michael-watson/graphql-workbench) 3⭐
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) 64688⭐
+
+- [michael-watson/graphql-workbench](https://github.com/michael-watson/graphql-workbench) 5⭐
 
 - [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) 856⭐
 
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) 56883⭐
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) 56899⭐
 
 - [AOEpeople/ai-radar](https://github.com/AOEpeople/ai-radar) 3⭐
 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) 5383⭐
 
-- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) 1160⭐
+- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) 1161⭐
 
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) 14261⭐
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) 14289⭐
 
-- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) 452⭐
+- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) 483⭐
 
-- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) 704⭐
-
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) 2881⭐
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) 706⭐
 
 
