@@ -85,7 +85,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -101,25 +101,31 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
-- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [3 weeks ago]
+- [setchy/renovate-tsconfig-bases](https://github.com/setchy/renovate-tsconfig-bases) -  [4 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [refactor: transform and group utils](https://github.com/setchy/atlassify/pull/2257) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [feat: devtools](https://github.com/setchy/atlassify/pull/2260) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: twemoji path](https://github.com/setchy/atlassify/pull/2256) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat(api): migrate to tanstack query](https://github.com/setchy/atlassify/pull/2259) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat: vite checker](https://github.com/setchy/atlassify/pull/2255) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: move filter state management to zustand store](https://github.com/setchy/atlassify/pull/2258) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [refactor: move notifications context state to zustand store](https://github.com/setchy/atlassify/pull/2254) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: transform and group utils](https://github.com/setchy/atlassify/pull/2257) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: migrate from `webpack` to `vite`](https://github.com/setchy/atlassify/pull/2245) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: twemoji path](https://github.com/setchy/atlassify/pull/2256) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [fix: animate exit on unsubscribe](https://github.com/gitify-app/gitify/pull/2600) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: vite checker](https://github.com/setchy/atlassify/pull/2255) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- OPEN - [feat(platform/bitbucket): support mixed auth (workspace access token &#43; personal api token)](https://github.com/renovatebot/renovate/pull/40931) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- OPEN - [refactor: move notifications context state to zustand store](https://github.com/setchy/atlassify/pull/2254) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+
+- MERGED - [refactor: migrate from `webpack` to `vite`](https://github.com/setchy/atlassify/pull/2245) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+
+- MERGED - [fix: animate exit on unsubscribe](https://github.com/gitify-app/gitify/pull/2600) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- OPEN - [feat(platform/bitbucket): support mixed auth (workspace access token &#43; personal api token)](https://github.com/renovatebot/renovate/pull/40931) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
 - MERGED - [build: prepare `v6.17.0` release](https://github.com/gitify-app/gitify/pull/2593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -141,12 +147,6 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: webpack dotenv loading](https://github.com/setchy/atlassify/pull/2212) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: electron-builder workflow](https://github.com/gitify-app/gitify/pull/2579) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [fix: revert &#34;fix: errors in build/package logs&#34;](https://github.com/gitify-app/gitify/pull/2578) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [build: prepare `v2.16.6` release](https://github.com/setchy/atlassify/pull/2210) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
@@ -157,7 +157,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) 856⭐
 
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) 56899⭐
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) 56912⭐
 
 - [AOEpeople/ai-radar](https://github.com/AOEpeople/ai-radar) 3⭐
 
@@ -165,10 +165,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [wundergraph/cosmo](https://github.com/wundergraph/cosmo) 1161⭐
 
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) 14289⭐
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) 14315⭐
 
-- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) 483⭐
+- [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) 496⭐
 
-- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) 706⭐
+- [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) 707⭐
 
 
