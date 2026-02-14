@@ -85,11 +85,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
@@ -97,7 +97,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 weeks ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
 
 - [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [3 weeks ago]
 
@@ -107,68 +107,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: keyboard nav and settings ](https://github.com/setchy/atlassify/pull/2296) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix: offline detection](https://github.com/setchy/atlassify/pull/2305) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix(sidebar): grouping](https://github.com/setchy/atlassify/pull/2295) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [build: prepare `v3.0.0` release](https://github.com/setchy/atlassify/pull/2304) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [Revert &#34;feat(api): use experimental client&#34;](https://github.com/setchy/atlassify/pull/2294) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: clear focused on blur](https://github.com/setchy/atlassify/pull/2299) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat(api): use experimental client](https://github.com/setchy/atlassify/pull/2289) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix(filtered): native notifications and sound](https://github.com/setchy/atlassify/pull/2298) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [test: use container for snapshot assertions](https://github.com/setchy/atlassify/pull/2287) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [test: expect container for snapshot tests](https://github.com/gitify-app/gitify/pull/2605) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat(settings): show/hide account header](https://github.com/setchy/atlassify/pull/2286) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: keyboard nav and settings ](https://github.com/setchy/atlassify/pull/2296) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- OPEN - [feat(dependency-dashboard): hyperlink packages](https://github.com/renovatebot/renovate/pull/41116) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [fix(sidebar): grouping](https://github.com/setchy/atlassify/pull/2295) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor(state): remove `settings` and `auth/accounts` prop drilling](https://github.com/setchy/atlassify/pull/2285) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [Revert &#34;feat(api): use experimental client&#34;](https://github.com/setchy/atlassify/pull/2294) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: stores for settings and accounts](https://github.com/setchy/atlassify/pull/2275) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat(api): use experimental client](https://github.com/setchy/atlassify/pull/2289) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- CLOSED - [feat: animation handling](https://github.com/setchy/atlassify/pull/2274) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [test: use container for snapshot assertions](https://github.com/setchy/atlassify/pull/2287) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [fix: custom aptabase event track bridge](https://github.com/setchy/atlassify/pull/2273) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat(settings): show/hide account header](https://github.com/setchy/atlassify/pull/2286) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v2.17.0` release](https://github.com/setchy/atlassify/pull/2272) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- OPEN - [feat(dependency-dashboard): hyperlink packages](https://github.com/renovatebot/renovate/pull/41116) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [refactor: filter store tests](https://github.com/setchy/atlassify/pull/2271) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor(state): remove `settings` and `auth/accounts` prop drilling](https://github.com/setchy/atlassify/pull/2285) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- CLOSED - [feat: migrate settings to zustand store](https://github.com/setchy/atlassify/pull/2270) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: stores for settings and accounts](https://github.com/setchy/atlassify/pull/2275) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: query accounts key](https://github.com/setchy/atlassify/pull/2269) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- CLOSED - [feat: animation handling](https://github.com/setchy/atlassify/pull/2274) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: use file urls](https://github.com/setchy/atlassify/pull/2268) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [fix: custom aptabase event track bridge](https://github.com/setchy/atlassify/pull/2273) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- OPEN - [feat: devtools](https://github.com/setchy/atlassify/pull/2260) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v2.17.0` release](https://github.com/setchy/atlassify/pull/2272) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [feat(api): migrate to tanstack query](https://github.com/setchy/atlassify/pull/2259) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: filter store tests](https://github.com/setchy/atlassify/pull/2271) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: move filter state management to zustand store](https://github.com/setchy/atlassify/pull/2258) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- CLOSED - [feat: migrate settings to zustand store](https://github.com/setchy/atlassify/pull/2270) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: transform and group utils](https://github.com/setchy/atlassify/pull/2257) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [fix: query accounts key](https://github.com/setchy/atlassify/pull/2269) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) 9734⭐
+- [nativefier/nativefier](https://github.com/nativefier/nativefier) 35353⭐
 
-- [entireio/cli](https://github.com/entireio/cli) 2051⭐
+- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) 437⭐
 
-- [steipete/mcporter](https://github.com/steipete/mcporter) 1751⭐
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) 9812⭐
 
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) 5544⭐
+- [entireio/cli](https://github.com/entireio/cli) 2219⭐
 
-- [steipete/RepoBar](https://github.com/steipete/RepoBar) 960⭐
+- [steipete/mcporter](https://github.com/steipete/mcporter) 1769⭐
 
-- [mitchellh/vouch](https://github.com/mitchellh/vouch) 2778⭐
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) 5637⭐
 
-- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) 64715⭐
+- [steipete/RepoBar](https://github.com/steipete/RepoBar) 969⭐
+
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) 2909⭐
+
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) 64720⭐
 
 - [michael-watson/graphql-workbench](https://github.com/michael-watson/graphql-workbench) 5⭐
-
-- [electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) 856⭐
-
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) 56975⭐
 
 
