@@ -87,19 +87,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/vite-electron-builder](https://github.com/setchy/vite-electron-builder) -  [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/vite-electron-builder](https://github.com/setchy/vite-electron-builder) -  [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [3 weeks ago]
-
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [3 weeks ago]
 
 - [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 weeks ago]
 
@@ -107,67 +107,67 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [Fix/background fetch network](https://github.com/setchy/atlassify/pull/2311) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v3.1.1` release](https://github.com/setchy/atlassify/pull/2317) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [feat: lib years merge confidence badge](https://github.com/renovatebot/renovate/pull/41187) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [fix(settings): restore on startup](https://github.com/setchy/atlassify/pull/2316) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: vite build](https://github.com/setchy/atlassify/pull/2309) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v3.1.0` release](https://github.com/setchy/atlassify/pull/2313) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [feat: electron forge](https://github.com/setchy/atlassify/pull/2308) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix: online manager subscribe state](https://github.com/setchy/atlassify/pull/2312) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix: offline detection](https://github.com/setchy/atlassify/pull/2305) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- CLOSED - [Fix/background fetch network](https://github.com/setchy/atlassify/pull/2311) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [build: prepare `v3.0.0` release](https://github.com/setchy/atlassify/pull/2304) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [feat: lib years merge confidence badge](https://github.com/renovatebot/renovate/pull/41187) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 
-- MERGED - [feat: clear focused on blur](https://github.com/setchy/atlassify/pull/2299) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: vite build](https://github.com/setchy/atlassify/pull/2309) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [fix(filtered): native notifications and sound](https://github.com/setchy/atlassify/pull/2298) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [feat: electron forge](https://github.com/setchy/atlassify/pull/2308) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [test: expect container for snapshot tests](https://github.com/gitify-app/gitify/pull/2605) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [fix: offline detection](https://github.com/setchy/atlassify/pull/2305) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat: keyboard nav and settings ](https://github.com/setchy/atlassify/pull/2296) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v3.0.0` release](https://github.com/setchy/atlassify/pull/2304) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [fix(sidebar): grouping](https://github.com/setchy/atlassify/pull/2295) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: clear focused on blur](https://github.com/setchy/atlassify/pull/2299) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [Revert &#34;feat(api): use experimental client&#34;](https://github.com/setchy/atlassify/pull/2294) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix(filtered): native notifications and sound](https://github.com/setchy/atlassify/pull/2298) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat(api): use experimental client](https://github.com/setchy/atlassify/pull/2289) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [test: expect container for snapshot tests](https://github.com/gitify-app/gitify/pull/2605) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [test: use container for snapshot assertions](https://github.com/setchy/atlassify/pull/2287) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: keyboard nav and settings ](https://github.com/setchy/atlassify/pull/2296) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat(settings): show/hide account header](https://github.com/setchy/atlassify/pull/2286) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix(sidebar): grouping](https://github.com/setchy/atlassify/pull/2295) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- OPEN - [feat(dependency-dashboard): hyperlink packages](https://github.com/renovatebot/renovate/pull/41116) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [Revert &#34;feat(api): use experimental client&#34;](https://github.com/setchy/atlassify/pull/2294) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor(state): remove `settings` and `auth/accounts` prop drilling](https://github.com/setchy/atlassify/pull/2285) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat(api): use experimental client](https://github.com/setchy/atlassify/pull/2289) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: stores for settings and accounts](https://github.com/setchy/atlassify/pull/2275) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [test: use container for snapshot assertions](https://github.com/setchy/atlassify/pull/2287) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- CLOSED - [feat: animation handling](https://github.com/setchy/atlassify/pull/2274) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat(settings): show/hide account header](https://github.com/setchy/atlassify/pull/2286) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: custom aptabase event track bridge](https://github.com/setchy/atlassify/pull/2273) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [feat(dependency-dashboard): hyperlink packages](https://github.com/renovatebot/renovate/pull/41116) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [nativefier/nativefier](https://github.com/nativefier/nativefier) 35354⭐
+- [nativefier/nativefier](https://github.com/nativefier/nativefier) 35353⭐
 
-- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) 445⭐
+- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) 470⭐
 
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) 9886⭐
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) 9948⭐
 
-- [entireio/cli](https://github.com/entireio/cli) 2325⭐
+- [entireio/cli](https://github.com/entireio/cli) 2433⭐
 
-- [steipete/mcporter](https://github.com/steipete/mcporter) 1797⭐
+- [steipete/mcporter](https://github.com/steipete/mcporter) 1821⭐
 
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) 5784⭐
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) 5864⭐
 
-- [steipete/RepoBar](https://github.com/steipete/RepoBar) 976⭐
+- [steipete/RepoBar](https://github.com/steipete/RepoBar) 986⭐
 
-- [mitchellh/vouch](https://github.com/mitchellh/vouch) 2974⭐
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) 3022⭐
 
-- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) 64721⭐
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) 64724⭐
 
 - [michael-watson/graphql-workbench](https://github.com/michael-watson/graphql-workbench) 5⭐
 
