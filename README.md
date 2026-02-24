@@ -83,21 +83,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/biome-astro-organize-imports](https://github.com/setchy/biome-astro-organize-imports) -  [1 week ago]
+- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [1 week ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
-- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [1 week ago]
+- [setchy/biome-astro-organize-imports](https://github.com/setchy/biome-astro-organize-imports) -  [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,15 +107,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: store setup](https://github.com/setchy/atlassify/pull/2357) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [refactor: use account values](https://github.com/setchy/atlassify/pull/2361) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- OPEN - [refactor: tanstack-query for api state, zustand for accounts and setting state](https://github.com/gitify-app/gitify/pull/2637) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: store setup](https://github.com/setchy/atlassify/pull/2357) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor(filters): use zustand for filters store](https://github.com/gitify-app/gitify/pull/2633) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [refactor: tanstack-query for api state, zustand for accounts and setting state](https://github.com/gitify-app/gitify/pull/2637) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [refactor: store imports](https://github.com/setchy/atlassify/pull/2345) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor(filters): use zustand for filters store](https://github.com/gitify-app/gitify/pull/2633) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: tidy up store-based tests](https://github.com/setchy/atlassify/pull/2341) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: store imports](https://github.com/setchy/atlassify/pull/2345) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- MERGED - [refactor: tidy up store-based tests](https://github.com/setchy/atlassify/pull/2341) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - MERGED - [docs: update readme content](https://github.com/gitify-app/gitify/pull/2620) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat: lib years merge confidence badge](https://github.com/renovatebot/renovate/pull/41187) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [fix: vite build](https://github.com/setchy/atlassify/pull/2309) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [obra/superpowers](https://github.com/obra/superpowers) 58218⭐
+- [obra/superpowers](https://github.com/obra/superpowers) 59353⭐
 
 - [atlassian-labs/react-resource-router](https://github.com/atlassian-labs/react-resource-router) 210⭐
 
-- [community/maintainers](https://github.com/community/maintainers) 483⭐
+- [community/maintainers](https://github.com/community/maintainers) 484⭐
 
-- [nativefier/nativefier](https://github.com/nativefier/nativefier) 35353⭐
+- [nativefier/nativefier](https://github.com/nativefier/nativefier) 35356⭐
 
-- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) 494⭐
+- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) 495⭐
 
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) 10591⭐
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) 10715⭐
 
-- [entireio/cli](https://github.com/entireio/cli) 2887⭐
+- [entireio/cli](https://github.com/entireio/cli) 2936⭐
 
-- [steipete/mcporter](https://github.com/steipete/mcporter) 2031⭐
+- [steipete/mcporter](https://github.com/steipete/mcporter) 2065⭐
 
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) 6268⭐
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) 6322⭐
 
-- [steipete/RepoBar](https://github.com/steipete/RepoBar) 1062⭐
+- [steipete/RepoBar](https://github.com/steipete/RepoBar) 1065⭐
 
 
