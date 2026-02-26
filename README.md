@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [vercel/chat](https://github.com/vercel/chat) 635⭐
+- [vercel/chat](https://github.com/vercel/chat) 826⭐
 
-- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) 1415⭐
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) 1429⭐
 
-- [obra/superpowers](https://github.com/obra/superpowers) 61876⭐
+- [obra/superpowers](https://github.com/obra/superpowers) 63275⭐
 
 - [atlassian-labs/react-resource-router](https://github.com/atlassian-labs/react-resource-router) 210⭐
 
 - [community/maintainers](https://github.com/community/maintainers) 486⭐
 
-- [nativefier/nativefier](https://github.com/nativefier/nativefier) 35360⭐
+- [nativefier/nativefier](https://github.com/nativefier/nativefier) 35357⭐
 
-- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) 511⭐
+- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) 521⭐
 
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) 11036⭐
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) 11184⭐
 
-- [entireio/cli](https://github.com/entireio/cli) 3049⭐
+- [entireio/cli](https://github.com/entireio/cli) 3085⭐
 
-- [steipete/mcporter](https://github.com/steipete/mcporter) 2140⭐
+- [steipete/mcporter](https://github.com/steipete/mcporter) 2198⭐
 
 
