@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
@@ -101,21 +101,21 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/biome-astro-organize-imports](https://github.com/setchy/biome-astro-organize-imports) -  [1 week ago]
 
-- [setchy/vite-electron-builder](https://github.com/setchy/vite-electron-builder) -  [1 week ago]
+- [setchy/vite-electron-builder](https://github.com/setchy/vite-electron-builder) -  [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: prepare `v3.2.0` release](https://github.com/setchy/atlassify/pull/2370) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v3.2.0` release](https://github.com/setchy/atlassify/pull/2370) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix(accounts): refresh process](https://github.com/setchy/atlassify/pull/2368) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix(accounts): refresh process](https://github.com/setchy/atlassify/pull/2368) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: use account hook and state mgmt](https://github.com/setchy/atlassify/pull/2361) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: use account hook and state mgmt](https://github.com/setchy/atlassify/pull/2361) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: store setup](https://github.com/setchy/atlassify/pull/2357) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: store setup](https://github.com/setchy/atlassify/pull/2357) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- OPEN - [refactor: tanstack-query for api state, zustand for accounts and setting state](https://github.com/gitify-app/gitify/pull/2637) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [refactor: tanstack-query for api state, zustand for accounts and setting state](https://github.com/gitify-app/gitify/pull/2637) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor(filters): use zustand for filters store](https://github.com/gitify-app/gitify/pull/2633) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [vercel/chat](https://github.com/vercel/chat) 835⭐
+- [block/goose](https://github.com/block/goose) 31447⭐
 
-- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) 1431⭐
+- [continuedev/continue](https://github.com/continuedev/continue) 31554⭐
 
-- [obra/superpowers](https://github.com/obra/superpowers) 63381⭐
+- [carvel-dev/vendir](https://github.com/carvel-dev/vendir) 345⭐
+
+- [vercel/chat](https://github.com/vercel/chat) 912⭐
+
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) 1437⭐
+
+- [obra/superpowers](https://github.com/obra/superpowers) 64760⭐
 
 - [atlassian-labs/react-resource-router](https://github.com/atlassian-labs/react-resource-router) 210⭐
 
 - [community/maintainers](https://github.com/community/maintainers) 486⭐
 
-- [nativefier/nativefier](https://github.com/nativefier/nativefier) 35355⭐
+- [nativefier/nativefier](https://github.com/nativefier/nativefier) 35356⭐
 
-- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) 521⭐
-
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) 11189⭐
-
-- [entireio/cli](https://github.com/entireio/cli) 3088⭐
-
-- [steipete/mcporter](https://github.com/steipete/mcporter) 2201⭐
+- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) 524⭐
 
 
