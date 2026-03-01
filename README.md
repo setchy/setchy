@@ -83,9 +83,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -107,13 +107,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v3.2.0` release](https://github.com/setchy/atlassify/pull/2370) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- OPEN - [refactor: main module structure](https://github.com/setchy/atlassify/pull/2395) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix(accounts): refresh process](https://github.com/setchy/atlassify/pull/2368) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: tray update](https://github.com/setchy/atlassify/pull/2394) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: use account hook and state mgmt](https://github.com/setchy/atlassify/pull/2361) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v3.2.0` release](https://github.com/setchy/atlassify/pull/2370) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: store setup](https://github.com/setchy/atlassify/pull/2357) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [fix(accounts): refresh process](https://github.com/setchy/atlassify/pull/2368) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+
+- MERGED - [refactor: use account hook and state mgmt](https://github.com/setchy/atlassify/pull/2361) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+
+- MERGED - [refactor: store setup](https://github.com/setchy/atlassify/pull/2357) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - OPEN - [refactor: tanstack-query for api state, zustand for accounts and setting state](https://github.com/gitify-app/gitify/pull/2637) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -139,36 +143,32 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [fix: useSortedKeys snippet](https://github.com/setchy/biomejs-website/pull/1) to [setchy/biomejs-website](https://github.com/setchy/biomejs-website) [1 week ago]
 
-- MERGED - [build: prepare `v3.1.1` release](https://github.com/setchy/atlassify/pull/2317) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [build: prepare `v3.1.1` release](https://github.com/setchy/atlassify/pull/2317) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [fix(settings): restore on startup](https://github.com/setchy/atlassify/pull/2316) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [build: prepare `v3.1.0` release](https://github.com/setchy/atlassify/pull/2313) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
-- MERGED - [fix: online manager subscribe state](https://github.com/setchy/atlassify/pull/2312) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [fix(settings): restore on startup](https://github.com/setchy/atlassify/pull/2316) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [block/goose](https://github.com/block/goose) 31447⭐
+- [JetBrains/js-graphql-intellij-plugin](https://github.com/JetBrains/js-graphql-intellij-plugin) 895⭐
 
-- [continuedev/continue](https://github.com/continuedev/continue) 31554⭐
+- [Enigmatis/graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) 392⭐
+
+- [thinkb4/a-walk-in-javascript](https://github.com/thinkb4/a-walk-in-javascript) 45⭐
+
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) 26879⭐
+
+- [AppThreat/chen](https://github.com/AppThreat/chen) 27⭐
+
+- [block/goose](https://github.com/block/goose) 31529⭐
+
+- [continuedev/continue](https://github.com/continuedev/continue) 31573⭐
 
 - [carvel-dev/vendir](https://github.com/carvel-dev/vendir) 345⭐
 
-- [vercel/chat](https://github.com/vercel/chat) 912⭐
+- [vercel/chat](https://github.com/vercel/chat) 973⭐
 
-- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) 1437⭐
-
-- [obra/superpowers](https://github.com/obra/superpowers) 64760⭐
-
-- [atlassian-labs/react-resource-router](https://github.com/atlassian-labs/react-resource-router) 210⭐
-
-- [community/maintainers](https://github.com/community/maintainers) 486⭐
-
-- [nativefier/nativefier](https://github.com/nativefier/nativefier) 35356⭐
-
-- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) 524⭐
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) 1445⭐
 
 
