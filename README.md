@@ -83,39 +83,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
-
-- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [2 weeks ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
 
-- [setchy/biome-astro-organize-imports](https://github.com/setchy/biome-astro-organize-imports) -  [2 weeks ago]
+- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [2 weeks ago]
 
-- [setchy/vite-electron-builder](https://github.com/setchy/vite-electron-builder) -  [2 weeks ago]
+- [setchy/biome-astro-organize-imports](https://github.com/setchy/biome-astro-organize-imports) -  [2 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [refactor: tray state updates](https://github.com/setchy/atlassify/pull/2396) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: major restructuring of utils](https://github.com/setchy/atlassify/pull/2402) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: main module structure](https://github.com/setchy/atlassify/pull/2395) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: formatter utils](https://github.com/setchy/atlassify/pull/2401) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: tray update](https://github.com/setchy/atlassify/pull/2394) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: runtime state mgmt with loading component](https://github.com/setchy/atlassify/pull/2400) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [build: prepare `v3.2.0` release](https://github.com/setchy/atlassify/pull/2370) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: tray state updates](https://github.com/setchy/atlassify/pull/2396) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [fix(accounts): refresh process](https://github.com/setchy/atlassify/pull/2368) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: main module structure](https://github.com/setchy/atlassify/pull/2395) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+
+- MERGED - [refactor: tray update](https://github.com/setchy/atlassify/pull/2394) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+
+- MERGED - [build: prepare `v3.2.0` release](https://github.com/setchy/atlassify/pull/2370) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- MERGED - [fix(accounts): refresh process](https://github.com/setchy/atlassify/pull/2368) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [refactor: use account hook and state mgmt](https://github.com/setchy/atlassify/pull/2361) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -141,12 +147,6 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(test): migrate from `jest` to `vitest`](https://github.com/gitify-app/gitify/pull/2606) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [fix: useSortedKeys snippet](https://github.com/biomejs/website/pull/3959) to [biomejs/website](https://github.com/biomejs/website) [2 weeks ago]
-
-- CLOSED - [fix: useSortedKeys snippet](https://github.com/setchy/biomejs-website/pull/1) to [setchy/biomejs-website](https://github.com/setchy/biomejs-website) [2 weeks ago]
-
-- MERGED - [build: prepare `v3.1.1` release](https://github.com/setchy/atlassify/pull/2317) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
@@ -157,18 +157,18 @@ Senior Executive (VP) // Architect // Developer
 
 - [thinkb4/a-walk-in-javascript](https://github.com/thinkb4/a-walk-in-javascript) 45⭐
 
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) 26886⭐
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) 26905⭐
 
 - [AppThreat/chen](https://github.com/AppThreat/chen) 27⭐
 
-- [block/goose](https://github.com/block/goose) 31961⭐
+- [block/goose](https://github.com/block/goose) 32184⭐
 
-- [continuedev/continue](https://github.com/continuedev/continue) 31585⭐
+- [continuedev/continue](https://github.com/continuedev/continue) 31603⭐
 
-- [carvel-dev/vendir](https://github.com/carvel-dev/vendir) 345⭐
+- [carvel-dev/vendir](https://github.com/carvel-dev/vendir) 346⭐
 
-- [vercel/chat](https://github.com/vercel/chat) 1004⭐
+- [vercel/chat](https://github.com/vercel/chat) 1040⭐
 
-- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) 1454⭐
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) 1466⭐
 
 
