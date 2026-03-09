@@ -87,71 +87,71 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
-- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [2 weeks ago]
+- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [3 weeks ago]
 
-- [setchy/biome-astro-organize-imports](https://github.com/setchy/biome-astro-organize-imports) -  [2 weeks ago]
+- [setchy/biome-astro-organize-imports](https://github.com/setchy/biome-astro-organize-imports) -  [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [refactor(main): organize main structure](https://github.com/gitify-app/gitify/pull/2678) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: main module](https://github.com/setchy/atlassify/pull/2437) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [refactor: tailwind component classes](https://github.com/setchy/atlassify/pull/2435) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor(main): organize main structure](https://github.com/gitify-app/gitify/pull/2678) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix(api): no cache user responses](https://github.com/gitify-app/gitify/pull/2677) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: tailwind component classes](https://github.com/setchy/atlassify/pull/2435) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: test utils for navigation mocking](https://github.com/setchy/atlassify/pull/2433) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix(api): no cache user responses](https://github.com/gitify-app/gitify/pull/2677) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat(accounts): add action button to account errors](https://github.com/gitify-app/gitify/pull/2675) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: test utils for navigation mocking](https://github.com/setchy/atlassify/pull/2433) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [fix: compare account uuids](https://github.com/gitify-app/gitify/pull/2674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(accounts): add action button to account errors](https://github.com/gitify-app/gitify/pull/2675) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: set github app dev settings correctly](https://github.com/gitify-app/gitify/pull/2673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: compare account uuids](https://github.com/gitify-app/gitify/pull/2674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [fix: account error header](https://github.com/gitify-app/gitify/pull/2672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: set github app dev settings correctly](https://github.com/gitify-app/gitify/pull/2673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat(auth): account scopes and expired token workflows](https://github.com/gitify-app/gitify/pull/2671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: account error header](https://github.com/gitify-app/gitify/pull/2672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: update faqs (with categorization)](https://github.com/gitify-app/website/pull/618) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [feat(auth): account scopes and expired token workflows](https://github.com/gitify-app/gitify/pull/2671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- OPEN - [feat(bitbucket-pipelines): update file patterns to support shared configs](https://github.com/renovatebot/renovate/pull/41704) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [feat: update faqs (with categorization)](https://github.com/gitify-app/website/pull/618) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
 
-- MERGED - [build: prepare `v3.3.0` release](https://github.com/setchy/atlassify/pull/2432) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- OPEN - [feat(bitbucket-pipelines): update file patterns to support shared configs](https://github.com/renovatebot/renovate/pull/41704) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
 
-- OPEN - [feat(preset): `java.version` properties](https://github.com/renovatebot/renovate/pull/41662) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [build: prepare `v3.3.0` release](https://github.com/setchy/atlassify/pull/2432) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: random element util](https://github.com/setchy/atlassify/pull/2413) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- OPEN - [feat(preset): `java.version` properties](https://github.com/renovatebot/renovate/pull/41662) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [feat: react devtools and twemoji plugin](https://github.com/gitify-app/gitify/pull/2662) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: random element util](https://github.com/setchy/atlassify/pull/2413) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [feat: react devtools](https://github.com/setchy/atlassify/pull/2412) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat: react devtools and twemoji plugin](https://github.com/gitify-app/gitify/pull/2662) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [feat: shrink sidebar width](https://github.com/setchy/atlassify/pull/2411) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: react devtools](https://github.com/setchy/atlassify/pull/2412) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [feat(api): query and mutation robustness](https://github.com/setchy/atlassify/pull/2410) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: shrink sidebar width](https://github.com/setchy/atlassify/pull/2411) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [fix: fetch background](https://github.com/setchy/atlassify/pull/2409) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat(api): query and mutation robustness](https://github.com/setchy/atlassify/pull/2410) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor(settings): rephrase options](https://github.com/setchy/atlassify/pull/2408) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [fix: fetch background](https://github.com/setchy/atlassify/pull/2409) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [strands-agents/sdk-typescript](https://github.com/strands-agents/sdk-typescript) 511⭐
+- [strands-agents/sdk-typescript](https://github.com/strands-agents/sdk-typescript) 512⭐
 
 - [JetBrains/js-graphql-intellij-plugin](https://github.com/JetBrains/js-graphql-intellij-plugin) 895⭐
 
@@ -159,16 +159,16 @@ Senior Executive (VP) // Architect // Developer
 
 - [thinkb4/a-walk-in-javascript](https://github.com/thinkb4/a-walk-in-javascript) 45⭐
 
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) 26962⭐
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) 26968⭐
 
 - [AppThreat/chen](https://github.com/AppThreat/chen) 27⭐
 
-- [block/goose](https://github.com/block/goose) 32602⭐
+- [block/goose](https://github.com/block/goose) 32656⭐
 
-- [continuedev/continue](https://github.com/continuedev/continue) 31702⭐
+- [continuedev/continue](https://github.com/continuedev/continue) 31723⭐
 
 - [carvel-dev/vendir](https://github.com/carvel-dev/vendir) 347⭐
 
-- [vercel/chat](https://github.com/vercel/chat) 1139⭐
+- [vercel/chat](https://github.com/vercel/chat) 1152⭐
 
 
