@@ -83,17 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -107,45 +107,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [chore: update jsdocs](https://github.com/gitify-app/gitify/pull/2684) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore: update jsdocs](https://github.com/gitify-app/gitify/pull/2684) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [chore: update jsdocs](https://github.com/setchy/atlassify/pull/2445) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [chore: update jsdocs](https://github.com/setchy/atlassify/pull/2445) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor(renderer): organize utils](https://github.com/gitify-app/gitify/pull/2683) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor(renderer): organize utils](https://github.com/gitify-app/gitify/pull/2683) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [refactor: main module](https://github.com/setchy/atlassify/pull/2437) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: main module](https://github.com/setchy/atlassify/pull/2437) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor(main): organize main structure](https://github.com/gitify-app/gitify/pull/2678) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(main): organize main structure](https://github.com/gitify-app/gitify/pull/2678) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: tailwind component classes](https://github.com/setchy/atlassify/pull/2435) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: tailwind component classes](https://github.com/setchy/atlassify/pull/2435) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix(api): no cache user responses](https://github.com/gitify-app/gitify/pull/2677) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix(api): no cache user responses](https://github.com/gitify-app/gitify/pull/2677) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: test utils for navigation mocking](https://github.com/setchy/atlassify/pull/2433) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: test utils for navigation mocking](https://github.com/setchy/atlassify/pull/2433) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat(accounts): add action button to account errors](https://github.com/gitify-app/gitify/pull/2675) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(accounts): add action button to account errors](https://github.com/gitify-app/gitify/pull/2675) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: compare account uuids](https://github.com/gitify-app/gitify/pull/2674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: compare account uuids](https://github.com/gitify-app/gitify/pull/2674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: set github app dev settings correctly](https://github.com/gitify-app/gitify/pull/2673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: set github app dev settings correctly](https://github.com/gitify-app/gitify/pull/2673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: account error header](https://github.com/gitify-app/gitify/pull/2672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: account error header](https://github.com/gitify-app/gitify/pull/2672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat(auth): account scopes and expired token workflows](https://github.com/gitify-app/gitify/pull/2671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(auth): account scopes and expired token workflows](https://github.com/gitify-app/gitify/pull/2671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: update faqs (with categorization)](https://github.com/gitify-app/website/pull/618) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [feat: update faqs (with categorization)](https://github.com/gitify-app/website/pull/618) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
 
-- OPEN - [feat(bitbucket-pipelines): update file patterns to support shared configs](https://github.com/renovatebot/renovate/pull/41704) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [feat(bitbucket-pipelines): update file patterns to support shared configs](https://github.com/renovatebot/renovate/pull/41704) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- MERGED - [build: prepare `v3.3.0` release](https://github.com/setchy/atlassify/pull/2432) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [build: prepare `v3.3.0` release](https://github.com/setchy/atlassify/pull/2432) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [feat(preset): `java.version` properties](https://github.com/renovatebot/renovate/pull/41662) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [feat(preset): `java.version` properties](https://github.com/renovatebot/renovate/pull/41662) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [refactor: random element util](https://github.com/setchy/atlassify/pull/2413) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: random element util](https://github.com/setchy/atlassify/pull/2413) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: react devtools and twemoji plugin](https://github.com/gitify-app/gitify/pull/2662) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: react devtools and twemoji plugin](https://github.com/gitify-app/gitify/pull/2662) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: react devtools](https://github.com/setchy/atlassify/pull/2412) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat: react devtools](https://github.com/setchy/atlassify/pull/2412) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -159,16 +159,16 @@ Senior Executive (VP) // Architect // Developer
 
 - [thinkb4/a-walk-in-javascript](https://github.com/thinkb4/a-walk-in-javascript) 45⭐
 
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) 26982⭐
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) 26986⭐
 
 - [AppThreat/chen](https://github.com/AppThreat/chen) 27⭐
 
-- [block/goose](https://github.com/block/goose) 32732⭐
+- [block/goose](https://github.com/block/goose) 32802⭐
 
-- [continuedev/continue](https://github.com/continuedev/continue) 31746⭐
+- [continuedev/continue](https://github.com/continuedev/continue) 31762⭐
 
 - [carvel-dev/vendir](https://github.com/carvel-dev/vendir) 347⭐
 
-- [vercel/chat](https://github.com/vercel/chat) 1168⭐
+- [vercel/chat](https://github.com/vercel/chat) 1190⭐
 
 
