@@ -83,17 +83,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,31 +107,33 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [chore: update jsdocs](https://github.com/gitify-app/gitify/pull/2684) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: hooks and context](https://github.com/setchy/atlassify/pull/2458) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [chore: update jsdocs](https://github.com/setchy/atlassify/pull/2445) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [chore: update jsdocs](https://github.com/gitify-app/gitify/pull/2684) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor(renderer): organize utils](https://github.com/gitify-app/gitify/pull/2683) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [chore: update jsdocs](https://github.com/setchy/atlassify/pull/2445) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [refactor: main module](https://github.com/setchy/atlassify/pull/2437) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor(renderer): organize utils](https://github.com/gitify-app/gitify/pull/2683) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor(main): organize main structure](https://github.com/gitify-app/gitify/pull/2678) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: main module](https://github.com/setchy/atlassify/pull/2437) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor: tailwind component classes](https://github.com/setchy/atlassify/pull/2435) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor(main): organize main structure](https://github.com/gitify-app/gitify/pull/2678) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix(api): no cache user responses](https://github.com/gitify-app/gitify/pull/2677) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: tailwind component classes](https://github.com/setchy/atlassify/pull/2435) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [refactor: test utils for navigation mocking](https://github.com/setchy/atlassify/pull/2433) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [fix(api): no cache user responses](https://github.com/gitify-app/gitify/pull/2677) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat(accounts): add action button to account errors](https://github.com/gitify-app/gitify/pull/2675) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [refactor: test utils for navigation mocking](https://github.com/setchy/atlassify/pull/2433) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix: compare account uuids](https://github.com/gitify-app/gitify/pull/2674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat(accounts): add action button to account errors](https://github.com/gitify-app/gitify/pull/2675) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: set github app dev settings correctly](https://github.com/gitify-app/gitify/pull/2673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: compare account uuids](https://github.com/gitify-app/gitify/pull/2674) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: account error header](https://github.com/gitify-app/gitify/pull/2672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: set github app dev settings correctly](https://github.com/gitify-app/gitify/pull/2673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat(auth): account scopes and expired token workflows](https://github.com/gitify-app/gitify/pull/2671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: account error header](https://github.com/gitify-app/gitify/pull/2672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [feat(auth): account scopes and expired token workflows](https://github.com/gitify-app/gitify/pull/2671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat: update faqs (with categorization)](https://github.com/gitify-app/website/pull/618) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
@@ -145,17 +147,21 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: react devtools and twemoji plugin](https://github.com/gitify-app/gitify/pull/2662) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: react devtools](https://github.com/setchy/atlassify/pull/2412) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) 9336⭐
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 40169⭐
+
+- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) 2692⭐
+
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 15289⭐
+
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) 9375⭐
 
 - [beadbox/beadbox](https://github.com/beadbox/beadbox) 30⭐
 
-- [strands-agents/sdk-typescript](https://github.com/strands-agents/sdk-typescript) 515⭐
+- [strands-agents/sdk-typescript](https://github.com/strands-agents/sdk-typescript) 518⭐
 
 - [JetBrains/js-graphql-intellij-plugin](https://github.com/JetBrains/js-graphql-intellij-plugin) 895⭐
 
@@ -163,12 +169,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [thinkb4/a-walk-in-javascript](https://github.com/thinkb4/a-walk-in-javascript) 45⭐
 
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) 27003⭐
-
-- [AppThreat/chen](https://github.com/AppThreat/chen) 27⭐
-
-- [block/goose](https://github.com/block/goose) 32922⭐
-
-- [continuedev/continue](https://github.com/continuedev/continue) 31813⭐
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) 27008⭐
 
 
