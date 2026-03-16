@@ -60,8 +60,7 @@ Senior Executive (VP) // Architect // Developer
 
 ### 📛 Badges
 
-[![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d) [![github](https://img.shields.io/github/followers/setchy?logo=github&style=plastic)](https://github.com/setchy?tab=followers) 
-
+[![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d)
 
 <b>My GitHub Stats</b>
 
@@ -84,29 +83,31 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [today]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [today]
+
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [today]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [today]
+
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
-
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
-
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
 - [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
-
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
-
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 weeks ago]
-
-- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [4 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
+
+- MERGED - [feat: add related blips](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/919) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [today]
 
 - MERGED - [refactor: switch from `puppetter` to `cheerio`](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/917) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
 
@@ -146,27 +147,25 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(auth): account scopes and expired token workflows](https://github.com/gitify-app/gitify/pull/2671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: update faqs (with categorization)](https://github.com/gitify-app/website/pull/618) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [jetclock/Roadmap](https://github.com/jetclock/Roadmap) 6⭐
 
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 46655⭐
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 48563⭐
 
-- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) 2709⭐
+- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) 2724⭐
 
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 16437⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 16723⭐
 
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) 9425⭐
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) 9435⭐
 
 - [beadbox/beadbox](https://github.com/beadbox/beadbox) 36⭐
 
-- [strands-agents/sdk-typescript](https://github.com/strands-agents/sdk-typescript) 519⭐
+- [strands-agents/sdk-typescript](https://github.com/strands-agents/sdk-typescript) 521⭐
 
-- [JetBrains/js-graphql-intellij-plugin](https://github.com/JetBrains/js-graphql-intellij-plugin) 895⭐
+- [JetBrains/js-graphql-intellij-plugin](https://github.com/JetBrains/js-graphql-intellij-plugin) 896⭐
 
 - [Enigmatis/graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) 392⭐
 
