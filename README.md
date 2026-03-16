@@ -60,7 +60,7 @@ Senior Executive (VP) // Architect // Developer
 
 ### 📛 Badges
 
-[![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d)
+[![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d) [![github](https://img.shields.io/github/followers/setchy?logo=github&style=flat-square)](https://github.com/setchy?tab=followers)
 
 <b>My GitHub Stats</b>
 
@@ -153,7 +153,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [jetclock/Roadmap](https://github.com/jetclock/Roadmap) 6⭐
 
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 48563⭐
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 48565⭐
 
 - [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) 2724⭐
 
