@@ -83,43 +83,47 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+
+- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [4 days ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
-
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 weeks ago]
 
-- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [3 weeks ago]
+- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [4 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [build: prepare `v3.4.0` release](https://github.com/setchy/atlassify/pull/2475) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: switch from `puppetter` to `cheerio`](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/917) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
 
-- MERGED - [feat: dev logs](https://github.com/gitify-app/gitify/pull/2690) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(cli): implement `search`, `filter` and `stats` cmds](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/913) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
 
-- MERGED - [feat: separate dev logs](https://github.com/setchy/atlassify/pull/2474) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v3.4.0` release](https://github.com/setchy/atlassify/pull/2475) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: hooks and context](https://github.com/setchy/atlassify/pull/2458) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: dev logs](https://github.com/gitify-app/gitify/pull/2690) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [chore: update jsdocs](https://github.com/gitify-app/gitify/pull/2684) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: separate dev logs](https://github.com/setchy/atlassify/pull/2474) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [chore: update jsdocs](https://github.com/setchy/atlassify/pull/2445) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: hooks and context](https://github.com/setchy/atlassify/pull/2458) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [refactor(renderer): organize utils](https://github.com/gitify-app/gitify/pull/2683) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [chore: update jsdocs](https://github.com/gitify-app/gitify/pull/2684) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [chore: update jsdocs](https://github.com/setchy/atlassify/pull/2445) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- MERGED - [refactor(renderer): organize utils](https://github.com/gitify-app/gitify/pull/2683) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: main module](https://github.com/setchy/atlassify/pull/2437) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -143,25 +147,21 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: update faqs (with categorization)](https://github.com/gitify-app/website/pull/618) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- OPEN - [feat(bitbucket-pipelines): update file patterns to support shared configs](https://github.com/renovatebot/renovate/pull/41704) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
-
-- MERGED - [build: prepare `v3.3.0` release](https://github.com/setchy/atlassify/pull/2432) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [jetclock/Roadmap](https://github.com/jetclock/Roadmap) 6⭐
 
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 43878⭐
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 46655⭐
 
-- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) 2699⭐
+- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) 2709⭐
 
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 15931⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 16437⭐
 
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) 9393⭐
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) 9425⭐
 
-- [beadbox/beadbox](https://github.com/beadbox/beadbox) 33⭐
+- [beadbox/beadbox](https://github.com/beadbox/beadbox) 36⭐
 
 - [strands-agents/sdk-typescript](https://github.com/strands-agents/sdk-typescript) 519⭐
 
