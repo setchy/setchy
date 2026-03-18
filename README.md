@@ -83,21 +83,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
-
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [5 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
+
+- [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server [6 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -107,21 +107,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: electron power monitor for refetching](https://github.com/setchy/atlassify/pull/2482) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat(auth): provide user choice on scopes](https://github.com/gitify-app/gitify/pull/2691) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: add related blips](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/919) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
+- MERGED - [feat: electron power monitor for refetching](https://github.com/setchy/atlassify/pull/2482) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [refactor: switch from `puppetter` to `cheerio`](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/917) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 days ago]
+- MERGED - [feat: add related blips](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/919) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 days ago]
 
-- MERGED - [feat(cli): implement `search`, `filter` and `stats` cmds](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/913) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 days ago]
+- MERGED - [refactor: switch from `puppetter` to `cheerio`](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/917) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [3 days ago]
 
-- MERGED - [build: prepare `v3.4.0` release](https://github.com/setchy/atlassify/pull/2475) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat(cli): implement `search`, `filter` and `stats` cmds](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/913) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [3 days ago]
 
-- MERGED - [feat: dev logs](https://github.com/gitify-app/gitify/pull/2690) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v3.4.0` release](https://github.com/setchy/atlassify/pull/2475) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat: separate dev logs](https://github.com/setchy/atlassify/pull/2474) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: dev logs](https://github.com/gitify-app/gitify/pull/2690) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: hooks and context](https://github.com/setchy/atlassify/pull/2458) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [feat: separate dev logs](https://github.com/setchy/atlassify/pull/2474) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- MERGED - [refactor: hooks and context](https://github.com/setchy/atlassify/pull/2458) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
 - MERGED - [chore: update jsdocs](https://github.com/gitify-app/gitify/pull/2684) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: set github app dev settings correctly](https://github.com/gitify-app/gitify/pull/2673) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [fix: account error header](https://github.com/gitify-app/gitify/pull/2672) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 17801⭐
+
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) 25708⭐
+
 - [jetclock/Roadmap](https://github.com/jetclock/Roadmap) 6⭐
 
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 49331⭐
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) 51886⭐
 
-- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) 2731⭐
+- [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) 2759⭐
 
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 16847⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 17226⭐
 
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) 9440⭐
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) 9461⭐
 
-- [beadbox/beadbox](https://github.com/beadbox/beadbox) 36⭐
+- [beadbox/beadbox](https://github.com/beadbox/beadbox) 37⭐
 
-- [strands-agents/sdk-typescript](https://github.com/strands-agents/sdk-typescript) 522⭐
+- [strands-agents/sdk-typescript](https://github.com/strands-agents/sdk-typescript) 524⭐
 
-- [JetBrains/js-graphql-intellij-plugin](https://github.com/JetBrains/js-graphql-intellij-plugin) 896⭐
-
-- [Enigmatis/graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) 392⭐
-
-- [thinkb4/a-walk-in-javascript](https://github.com/thinkb4/a-walk-in-javascript) 45⭐
+- [JetBrains/js-graphql-intellij-plugin](https://github.com/JetBrains/js-graphql-intellij-plugin) 898⭐
 
 
