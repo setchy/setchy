@@ -169,6 +169,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 23536⭐
 
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) 27182⭐
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) 27183⭐
 
 
