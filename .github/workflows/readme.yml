@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          clean: true
 
-      - uses: muesli/readme-scribe@master
+      - uses: muesli/readme-scribe #v0.1
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
@@ -24,7 +26,7 @@ jobs:
           path: README.md
 
       - name: Pull latest changes from remote
-        run: git pull origin main
+        run: git pull --rebase origin main
 
       - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7.1.0
         env:
@@ -32,3 +34,11 @@ jobs:
         with:
           commit_message: "docs: Update generated README"
           branch: main
+
+      - name: Verify no drift
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Drift detected — uncommitted changes remain after auto-commit"
+            git status
+            exit 1
+          fi
