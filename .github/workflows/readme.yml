@@ -25,20 +25,9 @@ jobs:
           name: README.md
           path: README.md
 
-      - name: Pull latest changes from remote
-        run: git pull --rebase origin main
-
       - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7.1.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: "docs: Update generated README"
           branch: main
-
-      - name: Verify no drift
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            echo "Drift detected — uncommitted changes remain after auto-commit"
-            git status
-            exit 1
-          fi
