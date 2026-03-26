@@ -83,9 +83,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [today]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [today]
+
+- [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) -  [today]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
 
@@ -99,15 +103,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 month ago]
-
-- [biomejs/website](https://github.com/biomejs/website) - Biome&#39;s website [1 month ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat(locales): i18n cli](https://github.com/setchy/atlassify/pull/2562) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [Correct capitalization of &#39;i18next&#39; in documentation](https://github.com/i18next/i18next-gitbook/pull/245) to [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) [today]
+
+- MERGED - [feat(locales): i18n cli](https://github.com/setchy/atlassify/pull/2562) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
 - MERGED - [feat: add error action buttons](https://github.com/setchy/atlassify/pull/2561) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat(group): group by `product`, `actor`, `category`, `engagement`](https://github.com/setchy/atlassify/pull/2542) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- CLOSED - [refactor: group notifications](https://github.com/setchy/atlassify/pull/2541) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 34223⭐
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 34574⭐
 
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) 11040⭐
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) 11043⭐
 
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) 6340⭐
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) 6361⭐
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) 48648⭐
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) 48757⭐
 
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 7385⭐
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 7442⭐
 
-- [generaltranslation/gt](https://github.com/generaltranslation/gt) 887⭐
+- [generaltranslation/gt](https://github.com/generaltranslation/gt) 889⭐
 
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) 3548⭐
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) 3608⭐
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) 37625⭐
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) 37649⭐
 
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 23091⭐
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 23536⭐
 
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) 27044⭐
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) 27182⭐
 
 
