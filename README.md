@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) -  [1 day ago]
+- [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) -  [2 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -107,68 +107,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [Correct capitalization of &#39;i18next&#39; in documentation](https://github.com/i18next/i18next-gitbook/pull/245) to [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) [1 day ago]
+- MERGED - [Correct capitalization of &#39;i18next&#39; in documentation](https://github.com/i18next/i18next-gitbook/pull/245) to [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) [2 days ago]
 
-- MERGED - [feat(locales): i18n cli](https://github.com/setchy/atlassify/pull/2562) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat(locales): i18n cli](https://github.com/setchy/atlassify/pull/2562) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat: add error action buttons](https://github.com/setchy/atlassify/pull/2561) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: add error action buttons](https://github.com/setchy/atlassify/pull/2561) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [build: prepare `v6.19.0` release](https://github.com/gitify-app/gitify/pull/2741) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [build: prepare `v6.19.0` release](https://github.com/gitify-app/gitify/pull/2741) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v3.6.0` release](https://github.com/setchy/atlassify/pull/2559) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v3.6.0` release](https://github.com/setchy/atlassify/pull/2559) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat(auth): note about reauth flow](https://github.com/gitify-app/gitify/pull/2739) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(auth): note about reauth flow](https://github.com/gitify-app/gitify/pull/2739) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: preload consistency](https://github.com/gitify-app/gitify/pull/2736) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: preload consistency](https://github.com/gitify-app/gitify/pull/2736) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor(utils/system): alignment and jsdocs](https://github.com/gitify-app/gitify/pull/2735) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor(utils/system): alignment and jsdocs](https://github.com/gitify-app/gitify/pull/2735) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [fix: storage keys](https://github.com/gitify-app/gitify/pull/2734) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: storage keys](https://github.com/gitify-app/gitify/pull/2734) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: electron-builder npmrc no longer required](https://github.com/gitify-app/gitify/pull/2733) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: electron-builder npmrc no longer required](https://github.com/gitify-app/gitify/pull/2733) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [chore: biome format](https://github.com/gitify-app/gitify/pull/2732) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [chore: biome format](https://github.com/gitify-app/gitify/pull/2732) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: prevent show window stale rendering](https://github.com/gitify-app/gitify/pull/2731) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: prevent show window stale rendering](https://github.com/gitify-app/gitify/pull/2731) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: prevent show window stale rendering](https://github.com/setchy/atlassify/pull/2553) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat: prevent show window stale rendering](https://github.com/setchy/atlassify/pull/2553) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: linked issue description](https://github.com/gitify-app/gitify/pull/2730) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: linked issue description](https://github.com/gitify-app/gitify/pull/2730) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build: prepare `v6.18.0` release](https://github.com/gitify-app/gitify/pull/2729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: prepare `v6.18.0` release](https://github.com/gitify-app/gitify/pull/2729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: test renderWithProviders for store initialization](https://github.com/gitify-app/gitify/pull/2728) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: test renderWithProviders for store initialization](https://github.com/gitify-app/gitify/pull/2728) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor: random emoji core util](https://github.com/gitify-app/gitify/pull/2727) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: random emoji core util](https://github.com/gitify-app/gitify/pull/2727) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [test: vitest setup and cleanup](https://github.com/gitify-app/gitify/pull/2726) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [test: vitest setup and cleanup](https://github.com/gitify-app/gitify/pull/2726) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [build: copy static resources for dev mode](https://github.com/gitify-app/gitify/pull/2725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [build: copy static resources for dev mode](https://github.com/gitify-app/gitify/pull/2725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [feat(group): group by `product`, `actor`, `category`, `engagement`](https://github.com/setchy/atlassify/pull/2542) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- OPEN - [feat(group): group by `product`, `actor`, `category`, `engagement`](https://github.com/setchy/atlassify/pull/2542) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 34609⭐
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 34937⭐
 
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) 11045⭐
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) 11056⭐
 
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) 6369⭐
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) 6385⭐
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) 48776⭐
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) 48887⭐
 
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 7462⭐
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 7531⭐
 
-- [generaltranslation/gt](https://github.com/generaltranslation/gt) 889⭐
+- [generaltranslation/gt](https://github.com/generaltranslation/gt) 892⭐
 
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) 3616⭐
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) 3661⭐
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) 37652⭐
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) 37683⭐
 
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 23586⭐
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 23936⭐
 
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) 27208⭐
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) 27370⭐
 
 
