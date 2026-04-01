@@ -83,15 +83,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) -  [5 days ago]
+- [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) -  [6 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [5 days ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [6 days ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,11 +107,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [Correct capitalization of &#39;i18next&#39; in documentation](https://github.com/i18next/i18next-gitbook/pull/245) to [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) [5 days ago]
+- MERGED - [test: improve speed by removing date-fns barrel imports](https://github.com/gitify-app/gitify/pull/2755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat(locales): i18n cli](https://github.com/setchy/atlassify/pull/2562) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [fix(test): act](https://github.com/gitify-app/gitify/pull/2754) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: add error action buttons](https://github.com/setchy/atlassify/pull/2561) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [Correct capitalization of &#39;i18next&#39; in documentation](https://github.com/i18next/i18next-gitbook/pull/245) to [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) [6 days ago]
+
+- MERGED - [feat(locales): i18n cli](https://github.com/setchy/atlassify/pull/2562) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- MERGED - [feat: add error action buttons](https://github.com/setchy/atlassify/pull/2561) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [build: prepare `v6.19.0` release](https://github.com/gitify-app/gitify/pull/2741) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -143,32 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [test: vitest setup and cleanup](https://github.com/gitify-app/gitify/pull/2726) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: copy static resources for dev mode](https://github.com/gitify-app/gitify/pull/2725) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- OPEN - [feat(group): group by `product`, `actor`, `category`, `engagement`](https://github.com/setchy/atlassify/pull/2542) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 35684⭐
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 36066⭐
 
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) 11093⭐
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) 11107⭐
 
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) 6472⭐
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) 6508⭐
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) 49182⭐
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) 49289⭐
 
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 7806⭐
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 7868⭐
 
-- [generaltranslation/gt](https://github.com/generaltranslation/gt) 892⭐
+- [generaltranslation/gt](https://github.com/generaltranslation/gt) 893⭐
 
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) 3788⭐
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) 3829⭐
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) 37744⭐
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) 37765⭐
 
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 25198⭐
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 25642⭐
 
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) 27714⭐
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) 27903⭐
 
 
