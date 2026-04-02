@@ -87,11 +87,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) -  [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) -  [1 week ago]
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [6 days ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
 
@@ -107,11 +107,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [test: improve speed by removing date-fns barrel imports](https://github.com/gitify-app/gitify/pull/2755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test(vitest): switch to vmThreads pool mode](https://github.com/setchy/atlassify/pull/2592) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [fix(test): act](https://github.com/gitify-app/gitify/pull/2754) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor(vitest): render utils under node project](https://github.com/gitify-app/gitify/pull/2758) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [Correct capitalization of &#39;i18next&#39; in documentation](https://github.com/i18next/i18next-gitbook/pull/245) to [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) [6 days ago]
+- MERGED - [test(vitest): use deps.optimizer.client](https://github.com/gitify-app/gitify/pull/2757) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [test: pool `vmThreads` to share module registry across tests](https://github.com/gitify-app/gitify/pull/2756) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [test: improve speed by removing date-fns barrel imports](https://github.com/gitify-app/gitify/pull/2755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [fix(test): act](https://github.com/gitify-app/gitify/pull/2754) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+
+- MERGED - [Correct capitalization of &#39;i18next&#39; in documentation](https://github.com/i18next/i18next-gitbook/pull/245) to [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) [1 week ago]
 
 - MERGED - [feat(locales): i18n cli](https://github.com/setchy/atlassify/pull/2562) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -139,36 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [fix: linked issue description](https://github.com/gitify-app/gitify/pull/2730) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [build: prepare `v6.18.0` release](https://github.com/gitify-app/gitify/pull/2729) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: test renderWithProviders for store initialization](https://github.com/gitify-app/gitify/pull/2728) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: random emoji core util](https://github.com/gitify-app/gitify/pull/2727) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [test: vitest setup and cleanup](https://github.com/gitify-app/gitify/pull/2726) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 36066⭐
+- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) 1740⭐
 
-- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) 11107⭐
+- [inbn/component-gallery](https://github.com/inbn/component-gallery) 309⭐
 
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) 6508⭐
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) 26645⭐
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) 49289⭐
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) 100979⭐
 
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 7868⭐
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) 36359⭐
+
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend) 11109⭐
+
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) 6546⭐
+
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) 49408⭐
+
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) 7938⭐
 
 - [generaltranslation/gt](https://github.com/generaltranslation/gt) 893⭐
-
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) 3829⭐
-
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) 37765⭐
-
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) 25642⭐
-
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) 27903⭐
 
 
