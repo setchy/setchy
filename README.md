@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [openai/symphony](https://github.com/openai/symphony) 14849⭐
+- [openai/symphony](https://github.com/openai/symphony) 14896⭐
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 8841⭐
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 10693⭐
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 10531⭐
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 11687⭐
 
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18588⭐
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18589⭐
 
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) 3774⭐
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) 3777⭐
 
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) 4108⭐
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) 4121⭐
 
 - [Servarr/Wiki](https://github.com/Servarr/Wiki) 603⭐
 
-- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) 1863⭐
+- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) 1886⭐
 
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) 314⭐
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) 26678⭐
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) 26684⭐
 
 
