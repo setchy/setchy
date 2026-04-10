@@ -153,9 +153,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [openai/symphony](https://github.com/openai/symphony) 14896⭐
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 10693⭐
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 10760⭐
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 11687⭐
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 11691⭐
 
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18589⭐
 
