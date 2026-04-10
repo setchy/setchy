@@ -83,41 +83,41 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
+
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions [1 week ago]
 
-- [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) -  [2 weeks ago]
-
 - [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [2 weeks ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
+- [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) -  [2 weeks ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [1 day ago]
+- OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [2 days ago]
 
-- MERGED - [build: prepare `v3.7.0` release](https://github.com/setchy/atlassify/pull/2639) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v3.7.0` release](https://github.com/setchy/atlassify/pull/2639) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [refactor(actions): remove inherit secrets](https://github.com/setchy/atlassify/pull/2636) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor(actions): remove inherit secrets](https://github.com/setchy/atlassify/pull/2636) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [refactor(dashboard): align terminology with other sections](https://github.com/renovatebot/renovate/pull/42354) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [refactor(dashboard): align terminology with other sections](https://github.com/renovatebot/renovate/pull/42354) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [refactor(actions): use gh cli for draft release](https://github.com/setchy/atlassify/pull/2634) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor(actions): use gh cli for draft release](https://github.com/setchy/atlassify/pull/2634) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat: use gh cli](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/930) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [6 days ago]
+- MERGED - [feat: use gh cli](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/930) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 week ago]
 
 - MERGED - [fix(actions): zizmor fixes](https://github.com/setchy/atlassify/pull/2593) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 7511⭐
+- [openai/symphony](https://github.com/openai/symphony) 14849⭐
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 9386⭐
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 8841⭐
 
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18587⭐
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 10531⭐
 
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) 3771⭐
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18588⭐
 
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) 4066⭐
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) 3774⭐
+
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) 4108⭐
 
 - [Servarr/Wiki](https://github.com/Servarr/Wiki) 603⭐
 
-- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) 1849⭐
+- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) 1863⭐
 
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) 314⭐
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) 26677⭐
-
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) 111205⭐
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) 26678⭐
 
 
