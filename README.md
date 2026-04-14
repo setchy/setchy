@@ -83,17 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 week ago]
-
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions [1 week ago]
 
@@ -101,19 +103,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) -  [2 weeks ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [5 days ago]
+- MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [6 days ago]
 
 - MERGED - [build: prepare `v3.7.0` release](https://github.com/setchy/atlassify/pull/2639) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [refactor(actions): remove inherit secrets](https://github.com/setchy/atlassify/pull/2636) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [refactor(dashboard): align terminology with other sections](https://github.com/renovatebot/renovate/pull/42354) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [refactor(dashboard): align terminology with other sections](https://github.com/renovatebot/renovate/pull/42354) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [refactor(actions): use gh cli for draft release](https://github.com/setchy/atlassify/pull/2634) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -129,15 +131,15 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [test(vitest): switch to vmThreads pool mode](https://github.com/setchy/atlassify/pull/2592) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [refactor(vitest): render utils under node project](https://github.com/gitify-app/gitify/pull/2758) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- CLOSED - [refactor(vitest): render utils under node project](https://github.com/gitify-app/gitify/pull/2758) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [test(vitest): use deps.optimizer.client](https://github.com/gitify-app/gitify/pull/2757) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [test: pool `vmThreads` to share module registry across tests](https://github.com/gitify-app/gitify/pull/2756) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [test: improve speed by removing date-fns barrel imports](https://github.com/gitify-app/gitify/pull/2755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [test: improve speed by removing date-fns barrel imports](https://github.com/gitify-app/gitify/pull/2755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [fix(test): act](https://github.com/gitify-app/gitify/pull/2754) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix(test): act](https://github.com/gitify-app/gitify/pull/2754) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [Correct capitalization of &#39;i18next&#39; in documentation](https://github.com/i18next/i18next-gitbook/pull/245) to [i18next/i18next-gitbook](https://github.com/i18next/i18next-gitbook) [2 weeks ago]
 
@@ -145,30 +147,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: add error action buttons](https://github.com/setchy/atlassify/pull/2561) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [build: prepare `v6.19.0` release](https://github.com/gitify-app/gitify/pull/2741) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [openai/symphony](https://github.com/openai/symphony) 14979⭐
+- [openai/symphony](https://github.com/openai/symphony) 15073⭐
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 21793⭐
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 26207⭐
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 13837⭐
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 14876⭐
 
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18597⭐
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18604⭐
 
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) 3782⭐
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) 3783⭐
 
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) 4140⭐
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) 4164⭐
 
 - [Servarr/Wiki](https://github.com/Servarr/Wiki) 602⭐
 
-- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) 1944⭐
+- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) 1962⭐
 
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) 315⭐
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) 26687⭐
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) 26690⭐
 
 
