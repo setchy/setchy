@@ -83,19 +83,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
 
@@ -107,15 +107,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [4 days ago]
+- MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [5 days ago]
 
-- OPEN - [feat(platform/bitbucket): remove deprecated issue tracking integration](https://github.com/renovatebot/renovate/pull/42633) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [feat(platform/bitbucket): remove deprecated issue tracking integration](https://github.com/renovatebot/renovate/pull/42633) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- OPEN - [feat: improve `rovo` product &amp; actor mapping](https://github.com/setchy/atlassify/pull/2700) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- OPEN - [feat: improve `rovo` product &amp; actor mapping](https://github.com/setchy/atlassify/pull/2700) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- OPEN - [feat(dashboard): print schedule(s) for awaiting PRs](https://github.com/renovatebot/renovate/pull/42627) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [feat(dashboard): print schedule(s) for awaiting PRs](https://github.com/renovatebot/renovate/pull/42627) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
 
-- MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [1 week ago]
 
@@ -151,24 +151,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10902⭐
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10920⭐
 
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1865⭐
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1868⭐
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 373⭐
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 395⭐
 
-- [CycloneDX/cyclonedx-assessors-studio](https://github.com/CycloneDX/cyclonedx-assessors-studio) 11⭐
+- [CycloneDX/cyclonedx-assessors-studio](https://github.com/CycloneDX/cyclonedx-assessors-studio) 12⭐
 
-- [openai/symphony](https://github.com/openai/symphony) 15238⭐
+- [openai/symphony](https://github.com/openai/symphony) 15267⭐
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 37911⭐
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 39034⭐
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 17538⭐
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 17929⭐
 
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18672⭐
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18679⭐
 
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) 3795⭐
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) 3796⭐
 
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) 4209⭐
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) 4219⭐
 
 
