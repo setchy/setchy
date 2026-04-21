@@ -83,11 +83,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
@@ -107,13 +107,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [5 days ago]
+- MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [6 days ago]
 
-- OPEN - [feat(platform/bitbucket): remove deprecated issue tracking integration](https://github.com/renovatebot/renovate/pull/42633) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [feat(platform/bitbucket): remove deprecated issue tracking integration](https://github.com/renovatebot/renovate/pull/42633) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- OPEN - [feat: improve `rovo` product &amp; actor mapping](https://github.com/setchy/atlassify/pull/2700) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [feat: improve `rovo` product &amp; actor mapping](https://github.com/setchy/atlassify/pull/2700) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [feat(dashboard): print schedule(s) for awaiting PRs](https://github.com/renovatebot/renovate/pull/42627) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [feat(dashboard): print schedule(s) for awaiting PRs](https://github.com/renovatebot/renovate/pull/42627) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -145,30 +145,30 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [test: pool `vmThreads` to share module registry across tests](https://github.com/gitify-app/gitify/pull/2756) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [test: improve speed by removing date-fns barrel imports](https://github.com/gitify-app/gitify/pull/2755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [test: improve speed by removing date-fns barrel imports](https://github.com/gitify-app/gitify/pull/2755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10920⭐
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10942⭐
 
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1868⭐
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1876⭐
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 395⭐
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 407⭐
 
 - [CycloneDX/cyclonedx-assessors-studio](https://github.com/CycloneDX/cyclonedx-assessors-studio) 12⭐
 
-- [openai/symphony](https://github.com/openai/symphony) 15267⭐
+- [openai/symphony](https://github.com/openai/symphony) 15301⭐
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 39034⭐
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 40733⭐
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 17929⭐
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 18245⭐
 
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18679⭐
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18688⭐
 
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) 3796⭐
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) 3803⭐
 
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) 4219⭐
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) 4235⭐
 
 
