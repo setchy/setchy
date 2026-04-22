@@ -19,7 +19,7 @@ Senior Executive (VP) // Architect // Developer
 
 ### 🎙️ Socials
 
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/setchy) [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/adamsetch) [![Twitter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://www.twitter.com/setchy87)
+<p align="left"><a href="https://www.github.com/setchy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/adamsetch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.twitter.com/setchy87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### 📛 Badges
 
@@ -114,6 +114,10 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 227⭐
+
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24173⭐
+
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12122⭐
 
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45403⭐
@@ -128,10 +132,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [openai/symphony](https://github.com/openai/symphony) 15335⭐
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 43239⭐
-
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) 20835⭐
-
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) 18693⭐
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 43242⭐
 
 
