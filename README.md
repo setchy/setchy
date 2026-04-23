@@ -14,7 +14,7 @@ Senior Executive (VP) // Architect // Developer
 
 ### 💪 Skills
 
-[![Skills](https://skills.syvixor.com/api/icons?perline=10&i=javascript,typescript,nodejs,java,spring,springboot,html,css3,reactjs,tailwindcss,electron,vuejs,astro,pnpm,npm,apachemaven,vite,vitest,expressjs,graphql,apollo,postman,githubcopilot,github,bitbucket,confluence,jira,docker,intellijidea,visualstudiocode,renovate,openapi,slack,drawio)](https://github.com/syvixor/skills-icons)
+[![Skills](hhttps://skills.syvixor.com/api/icons?perline=10&i=javascript,typescript,nodejs,java,spring,springboot,html,css3,reactjs,tailwindcss,electron,vuejs,astro,pnpm,npm,apachemaven,vite,vitest,expressjs,graphql,apollo,netflixdgs,postman,githubcopilot,github,bitbucket,confluence,jira,docker,intellijidea,visualstudiocode,renovate,launchdarkly,openapi,slack,drawio)](https://github.com/syvixor/skills-icons)
                       
 
 ### 🎙️ Socials
@@ -116,22 +116,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 227⭐
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24174⭐
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24175⭐
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12123⭐
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12128⭐
 
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45440⭐
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45496⭐
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10970⭐
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10971⭐
 
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1893⭐
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1895⭐
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 419⭐
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 420⭐
 
-- [CycloneDX/cyclonedx-assessors-studio](https://github.com/CycloneDX/cyclonedx-assessors-studio) 12⭐
+- [CycloneDX/cyclonedx-assessors-studio](https://github.com/CycloneDX/cyclonedx-assessors-studio) 13⭐
 
-- [openai/symphony](https://github.com/openai/symphony) 15340⭐
+- [openai/symphony](https://github.com/openai/symphony) 15357⭐
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 43656⭐
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 44159⭐
 
 
