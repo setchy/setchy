@@ -46,25 +46,25 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
-
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
 
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions [2 weeks ago]
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions [3 weeks ago]
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [3 weeks ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [4 weeks ago]
 
 #### 🎉 My recent pull requests
 
@@ -92,13 +92,13 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: use gh cli](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/930) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 weeks ago]
 
-- MERGED - [fix(actions): zizmor fixes](https://github.com/setchy/atlassify/pull/2593) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [fix(actions): zizmor fixes](https://github.com/setchy/atlassify/pull/2593) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [feat(actions): add `zizmor` and `actionlint`](https://github.com/gitify-app/website/pull/636) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
+- MERGED - [feat(actions): add `zizmor` and `actionlint`](https://github.com/gitify-app/website/pull/636) to [gitify-app/website](https://github.com/gitify-app/website) [3 weeks ago]
 
-- MERGED - [feat(actions): add zizmor and actionlint#636](https://github.com/gitify-app/gitify/pull/2763) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat(actions): add zizmor and actionlint#636](https://github.com/gitify-app/gitify/pull/2763) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [docs: update repology badge to use shields.io](https://github.com/zizmorcore/zizmor/pull/1850) to [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) [2 weeks ago]
+- MERGED - [docs: update repology badge to use shields.io](https://github.com/zizmorcore/zizmor/pull/1850) to [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) [3 weeks ago]
 
 - MERGED - [test(vitest): switch to vmThreads pool mode](https://github.com/setchy/atlassify/pull/2592) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -116,22 +116,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 227⭐
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24173⭐
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24174⭐
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12122⭐
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12123⭐
 
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45403⭐
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45440⭐
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10965⭐
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10970⭐
 
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1883⭐
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1893⭐
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 416⭐
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 419⭐
 
 - [CycloneDX/cyclonedx-assessors-studio](https://github.com/CycloneDX/cyclonedx-assessors-studio) 12⭐
 
-- [openai/symphony](https://github.com/openai/symphony) 15335⭐
+- [openai/symphony](https://github.com/openai/symphony) 15340⭐
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 43242⭐
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 43656⭐
 
 
