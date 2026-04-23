@@ -14,7 +14,7 @@ Senior Executive (VP) // Architect // Developer
 
 ### 💪 Skills
 
-[![Skills](https://skills.syvixor.com/api/icons?perline=10&i=javascript,typescript,nodejs,java,spring,springboot,html,css3,reactjs,tailwindcss,electron,vuejs,astro,pnpm,npm,apachemaven,vite,vitest,expressjs,graphql,apollo,postman,githubcopilot,github,bitbucket,confluence,jira,docker,intellijidea,visualstudiocode,renovate,openapi,slack,drawio)](https://github.com/syvixor/skills-icons)
+[![Skills](hhttps://skills.syvixor.com/api/icons?perline=10&i=javascript,typescript,nodejs,java,spring,springboot,html,css3,reactjs,tailwindcss,electron,vuejs,astro,pnpm,npm,apachemaven,vite,vitest,expressjs,graphql,apollo,netflixdgs,postman,githubcopilot,github,bitbucket,confluence,jira,docker,intellijidea,visualstudiocode,renovate,launchdarkly,openapi,slack,drawio)](https://github.com/syvixor/skills-icons)
                       
 
 ### 🎙️ Socials
