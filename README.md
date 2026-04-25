@@ -46,9 +46,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -64,7 +64,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions [3 weeks ago]
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [4 weeks ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 month ago]
 
 #### 🎉 My recent pull requests
 
@@ -82,7 +82,7 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [2 weeks ago]
 
-- MERGED - [build: prepare `v3.7.0` release](https://github.com/setchy/atlassify/pull/2639) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [build: prepare `v3.7.0` release](https://github.com/setchy/atlassify/pull/2639) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - MERGED - [refactor(actions): remove inherit secrets](https://github.com/setchy/atlassify/pull/2636) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 227⭐
+- [useserai/serai](https://github.com/useserai/serai) 24⭐
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24176⭐
+- [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 228⭐
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12130⭐
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24179⭐
 
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45551⭐
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12137⭐
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10983⭐
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45635⭐
 
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1899⭐
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10994⭐
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 423⭐
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1901⭐
+
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 425⭐
 
 - [CycloneDX/cyclonedx-assessors-studio](https://github.com/CycloneDX/cyclonedx-assessors-studio) 14⭐
 
-- [openai/symphony](https://github.com/openai/symphony) 15372⭐
-
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) 44799⭐
+- [openai/symphony](https://github.com/openai/symphony) 15386⭐
 
 
