@@ -46,9 +46,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -60,7 +60,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 weeks ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 weeks ago]
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions [3 weeks ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [useserai/serai](https://github.com/useserai/serai) 24⭐
+- [useserai/serai](https://github.com/useserai/serai) 30⭐
 
 - [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 228⭐
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24179⭐
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24180⭐
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12137⭐
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12142⭐
 
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45635⭐
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45686⭐
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) 10994⭐
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) 11005⭐
 
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1901⭐
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1903⭐
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 425⭐
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 426⭐
 
 - [CycloneDX/cyclonedx-assessors-studio](https://github.com/CycloneDX/cyclonedx-assessors-studio) 14⭐
 
-- [openai/symphony](https://github.com/openai/symphony) 15386⭐
+- [openai/symphony](https://github.com/openai/symphony) 15406⭐
 
 
