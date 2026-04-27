@@ -46,9 +46,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -58,7 +58,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 weeks ago]
 
@@ -78,7 +78,7 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat(dashboard): print schedule(s) for awaiting PRs](https://github.com/renovatebot/renovate/pull/42627) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [2 weeks ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [useserai/serai](https://github.com/useserai/serai) 30⭐
+- [useserai/serai](https://github.com/useserai/serai) 33⭐
 
-- [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 228⭐
+- [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 229⭐
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24180⭐
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24179⭐
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12142⭐
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12151⭐
 
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45686⭐
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45741⭐
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) 11005⭐
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) 11029⭐
 
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1903⭐
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1904⭐
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 426⭐
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 428⭐
 
 - [CycloneDX/cyclonedx-assessors-studio](https://github.com/CycloneDX/cyclonedx-assessors-studio) 14⭐
 
-- [openai/symphony](https://github.com/openai/symphony) 15406⭐
+- [openai/symphony](https://github.com/openai/symphony) 15419⭐
 
 
