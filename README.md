@@ -46,13 +46,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
@@ -70,17 +70,27 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 week ago]
+- MERGED - [build: prepare `v3.8.0` release](https://github.com/setchy/atlassify/pull/2785) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [feat(actors): add rovo product family as an actor type](https://github.com/setchy/atlassify/pull/2781) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [feat(products): add support for `rovo chat` inference](https://github.com/setchy/atlassify/pull/2780) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [build: prepare `v6.20.0` release](https://github.com/gitify-app/gitify/pull/2819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [fix(url): github actions status query filter is now case sensitive](https://github.com/gitify-app/gitify/pull/2817) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 weeks ago]
 
 - OPEN - [feat(platform/bitbucket): remove deprecated issue tracking integration](https://github.com/renovatebot/renovate/pull/42633) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- OPEN - [feat: improve `rovo` product &amp; actor mapping](https://github.com/setchy/atlassify/pull/2700) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- CLOSED - [feat: improve `rovo` product &amp; actor mapping](https://github.com/setchy/atlassify/pull/2700) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - OPEN - [feat(dashboard): print schedule(s) for awaiting PRs](https://github.com/renovatebot/renovate/pull/42627) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [2 weeks ago]
+- OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [3 weeks ago]
 
 - MERGED - [build: prepare `v3.7.0` release](https://github.com/setchy/atlassify/pull/2639) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -100,38 +110,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: update repology badge to use shields.io](https://github.com/zizmorcore/zizmor/pull/1850) to [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) [3 weeks ago]
 
-- MERGED - [test(vitest): switch to vmThreads pool mode](https://github.com/setchy/atlassify/pull/2592) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
-
-- CLOSED - [refactor(vitest): render utils under node project](https://github.com/gitify-app/gitify/pull/2758) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
-- MERGED - [test(vitest): use deps.optimizer.client](https://github.com/gitify-app/gitify/pull/2757) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
-- MERGED - [test: pool `vmThreads` to share module registry across tests](https://github.com/gitify-app/gitify/pull/2756) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
-
-- MERGED - [test: improve speed by removing date-fns barrel imports](https://github.com/gitify-app/gitify/pull/2755) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [useserai/serai](https://github.com/useserai/serai) 35⭐
+- [useserai/serai](https://github.com/useserai/serai) 36⭐
 
 - [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 229⭐
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24184⭐
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24189⭐
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12166⭐
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12174⭐
 
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45832⭐
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 45917⭐
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) 11046⭐
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) 11062⭐
 
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1911⭐
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1914⭐
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 431⭐
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 434⭐
 
 - [CycloneDX/cyclonedx-assessors-studio](https://github.com/CycloneDX/cyclonedx-assessors-studio) 14⭐
 
-- [openai/symphony](https://github.com/openai/symphony) 16008⭐
+- [openai/symphony](https://github.com/openai/symphony) 17964⭐
 
 
