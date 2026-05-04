@@ -46,9 +46,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
@@ -58,7 +58,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 weeks ago]
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 weeks ago]
 
@@ -70,17 +70,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [3 days ago]
+- OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [4 days ago]
 
-- MERGED - [build: prepare `v3.8.0` release](https://github.com/setchy/atlassify/pull/2785) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v3.8.0` release](https://github.com/setchy/atlassify/pull/2785) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [feat(actors): add rovo product family as an actor type](https://github.com/setchy/atlassify/pull/2781) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat(actors): add rovo product family as an actor type](https://github.com/setchy/atlassify/pull/2781) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [feat(products): add support for `rovo chat` inference](https://github.com/setchy/atlassify/pull/2780) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat(products): add support for `rovo chat` inference](https://github.com/setchy/atlassify/pull/2780) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [build: prepare `v6.20.0` release](https://github.com/gitify-app/gitify/pull/2819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: prepare `v6.20.0` release](https://github.com/gitify-app/gitify/pull/2819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [fix(url): github actions status query filter is now case sensitive](https://github.com/gitify-app/gitify/pull/2817) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix(url): github actions status query filter is now case sensitive](https://github.com/gitify-app/gitify/pull/2817) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
 - MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 weeks ago]
 
@@ -90,11 +90,11 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat(dashboard): print schedule(s) for awaiting PRs](https://github.com/renovatebot/renovate/pull/42627) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [3 weeks ago]
 
-- MERGED - [build: prepare `v3.7.0` release](https://github.com/setchy/atlassify/pull/2639) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [build: prepare `v3.7.0` release](https://github.com/setchy/atlassify/pull/2639) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
 - MERGED - [refactor(actions): remove inherit secrets](https://github.com/setchy/atlassify/pull/2636) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -116,22 +116,22 @@ Senior Executive (VP) // Architect // Developer
 
 - [cisco-open/ai-harness-toolkit](https://github.com/cisco-open/ai-harness-toolkit) 4⭐
 
-- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 2993⭐
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 3001⭐
 
 - [useserai/serai](https://github.com/useserai/serai) 46⭐
 
 - [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 231⭐
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24196⭐
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24198⭐
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12200⭐
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12215⭐
 
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 46194⭐
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 46258⭐
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) 11108⭐
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) 11118⭐
 
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1923⭐
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1925⭐
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 451⭐
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 455⭐
 
 
