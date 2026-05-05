@@ -46,49 +46,55 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 weeks ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 weeks ago]
-
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 weeks ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 month ago]
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions [1 month ago]
-
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [4 days ago]
+- OPEN - [feat: `@graphql-codegen` migration and custom scalar mapping](https://github.com/gitify-app/gitify/pull/2829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [build: prepare `v3.8.0` release](https://github.com/setchy/atlassify/pull/2785) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: `@graphql-codegen` custom scalar mapping](https://github.com/setchy/atlassify/pull/2810) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat(actors): add rovo product family as an actor type](https://github.com/setchy/atlassify/pull/2781) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [feat: `@graphql-codegen` migration](https://github.com/setchy/atlassify/pull/2809) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [feat(products): add support for `rovo chat` inference](https://github.com/setchy/atlassify/pull/2780) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [5 days ago]
 
-- MERGED - [build: prepare `v6.20.0` release](https://github.com/gitify-app/gitify/pull/2819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v3.8.0` release](https://github.com/setchy/atlassify/pull/2785) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [fix(url): github actions status query filter is now case sensitive](https://github.com/gitify-app/gitify/pull/2817) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat(actors): add rovo product family as an actor type](https://github.com/setchy/atlassify/pull/2781) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- MERGED - [feat(products): add support for `rovo chat` inference](https://github.com/setchy/atlassify/pull/2780) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+
+- MERGED - [build: prepare `v6.20.0` release](https://github.com/gitify-app/gitify/pull/2819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+
+- MERGED - [fix(url): github actions status query filter is now case sensitive](https://github.com/gitify-app/gitify/pull/2817) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 weeks ago]
 
-- OPEN - [feat(platform/bitbucket): remove deprecated issue tracking integration](https://github.com/renovatebot/renovate/pull/42633) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- OPEN - [feat(platform/bitbucket): remove deprecated issue tracking integration](https://github.com/renovatebot/renovate/pull/42633) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- CLOSED - [feat: improve `rovo` product &amp; actor mapping](https://github.com/setchy/atlassify/pull/2700) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- CLOSED - [feat: improve `rovo` product &amp; actor mapping](https://github.com/setchy/atlassify/pull/2700) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- OPEN - [feat(dashboard): print schedule(s) for awaiting PRs](https://github.com/renovatebot/renovate/pull/42627) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- OPEN - [feat(dashboard): print schedule(s) for awaiting PRs](https://github.com/renovatebot/renovate/pull/42627) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
 - MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -104,34 +110,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: use gh cli](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/930) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 month ago]
 
-- MERGED - [fix(actions): zizmor fixes](https://github.com/setchy/atlassify/pull/2593) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [feat(actions): add `zizmor` and `actionlint`](https://github.com/gitify-app/website/pull/636) to [gitify-app/website](https://github.com/gitify-app/website) [1 month ago]
-
-- MERGED - [feat(actions): add zizmor and actionlint#636](https://github.com/gitify-app/gitify/pull/2763) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
 - [cisco-open/ai-harness-toolkit](https://github.com/cisco-open/ai-harness-toolkit) 4⭐
 
-- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 3001⭐
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 3011⭐
 
 - [useserai/serai](https://github.com/useserai/serai) 46⭐
 
 - [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 231⭐
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24198⭐
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24200⭐
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12215⭐
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12220⭐
 
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 46258⭐
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 46332⭐
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) 11118⭐
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) 11126⭐
 
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1925⭐
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) 1929⭐
 
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 455⭐
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) 459⭐
 
 
