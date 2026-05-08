@@ -46,17 +46,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 day ago]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
-
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
+
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 weeks ago]
 
@@ -64,17 +66,25 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 month ago]
 
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions [1 month ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [feat: `@graphql-codegen` migration and custom scalar mapping](https://github.com/gitify-app/gitify/pull/2829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [docs: git forges](https://github.com/gitify-app/gitify/pull/2851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [refactor: `@graphql-codegen` custom scalar mapping](https://github.com/setchy/atlassify/pull/2810) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- OPEN - [feat: git forges](https://github.com/gitify-app/website/pull/662) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
 
-- MERGED - [feat: `@graphql-codegen` migration](https://github.com/setchy/atlassify/pull/2809) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- OPEN - [feat(api): scoped api tokens](https://github.com/setchy/atlassify/pull/2818) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- OPEN - [fix: tray error state based on account errors](https://github.com/setchy/atlassify/pull/2816) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- OPEN - [docs: remove encryption-not-available-linux.md](https://github.com/gitify-app/website/pull/659) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+
+- MERGED - [feat: `@graphql-codegen` migration and custom scalar mapping](https://github.com/gitify-app/gitify/pull/2829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+
+- MERGED - [refactor: `@graphql-codegen` custom scalar mapping](https://github.com/setchy/atlassify/pull/2810) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+
+- MERGED - [feat: `@graphql-codegen` migration](https://github.com/setchy/atlassify/pull/2809) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
 - OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [1 week ago]
 
@@ -98,40 +108,30 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(bitbucket): infer rovo-dev automation actor](https://github.com/setchy/atlassify/pull/2690) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [4 weeks ago]
-
-- MERGED - [build: prepare `v3.7.0` release](https://github.com/setchy/atlassify/pull/2639) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [refactor(actions): remove inherit secrets](https://github.com/setchy/atlassify/pull/2636) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [refactor(dashboard): align terminology with other sections](https://github.com/renovatebot/renovate/pull/42354) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
-
-- MERGED - [refactor(actions): use gh cli for draft release](https://github.com/setchy/atlassify/pull/2634) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [feat: use gh cli](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/930) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 month ago]
+- OPEN - [fix: profile formatting](https://github.com/gastownhall/.github/pull/1) to [gastownhall/.github](https://github.com/gastownhall/.github) [1 month ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6622⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6623⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15039⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15057⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 29⭐
 
 - [cisco-open/ai-harness-toolkit](https://github.com/cisco-open/ai-harness-toolkit) 4⭐
 
-- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 3026⭐
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 3037⭐
 
 - [useserai/serai](https://github.com/useserai/serai) 48⭐
 
 - [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 231⭐
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24213⭐
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24215⭐
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12247⭐
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12259⭐
 
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 46511⭐
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) 46614⭐
 
 
