@@ -50,11 +50,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 days ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
 
@@ -70,27 +70,29 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
 
-- OPEN - [feat(forge): bitbucket cloud](https://github.com/gitify-app/gitify/pull/2857) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2853) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(forge): bitbucket cloud](https://github.com/gitify-app/gitify/pull/2857) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2853) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [feat: git forges](https://github.com/gitify-app/website/pull/662) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- OPEN - [feat(api): scoped api tokens](https://github.com/setchy/atlassify/pull/2818) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [feat: git forges](https://github.com/gitify-app/website/pull/662) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
 
-- OPEN - [fix: tray error state based on account errors](https://github.com/setchy/atlassify/pull/2816) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [feat(api): scoped api tokens](https://github.com/setchy/atlassify/pull/2818) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [docs: remove encryption-not-available-linux.md](https://github.com/gitify-app/website/pull/659) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- OPEN - [fix: tray error state based on account errors](https://github.com/setchy/atlassify/pull/2816) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- MERGED - [feat: `@graphql-codegen` migration and custom scalar mapping](https://github.com/gitify-app/gitify/pull/2829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [docs: remove encryption-not-available-linux.md](https://github.com/gitify-app/website/pull/659) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
 
-- MERGED - [refactor: `@graphql-codegen` custom scalar mapping](https://github.com/setchy/atlassify/pull/2810) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [feat: `@graphql-codegen` migration and custom scalar mapping](https://github.com/gitify-app/gitify/pull/2829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat: `@graphql-codegen` migration](https://github.com/setchy/atlassify/pull/2809) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor: `@graphql-codegen` custom scalar mapping](https://github.com/setchy/atlassify/pull/2810) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+
+- MERGED - [feat: `@graphql-codegen` migration](https://github.com/setchy/atlassify/pull/2809) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [1 week ago]
 
@@ -108,30 +110,28 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat(platform/bitbucket): remove deprecated issue tracking integration](https://github.com/renovatebot/renovate/pull/42633) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
-- CLOSED - [feat: improve `rovo` product &amp; actor mapping](https://github.com/setchy/atlassify/pull/2700) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 35442⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 35584⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6624⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6629⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15076⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15089⭐
 
-- [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 29⭐
+- [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 30⭐
 
 - [cisco-open/ai-harness-toolkit](https://github.com/cisco-open/ai-harness-toolkit) 4⭐
 
-- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 3046⭐
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 3057⭐
 
 - [useserai/serai](https://github.com/useserai/serai) 48⭐
 
-- [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 231⭐
+- [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 232⭐
 
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24219⭐
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12273⭐
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12281⭐
 
 
