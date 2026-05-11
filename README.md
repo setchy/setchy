@@ -14,7 +14,7 @@ Senior Executive (VP) // Architect // Developer
 
 ### 💪 Skills
 
-[![Skills](hhttps://skills.syvixor.com/api/icons?perline=10&i=javascript,typescript,nodejs,java,spring,springboot,html,css3,reactjs,tailwindcss,electron,vuejs,astro,pnpm,npm,apachemaven,vite,vitest,expressjs,graphql,apollo,netflixdgs,postman,githubcopilot,github,bitbucket,confluence,jira,docker,intellijidea,visualstudiocode,renovate,launchdarkly,openapi,slack,drawio)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?perline=10&i=javascript,typescript,nodejs,java,spring,springboot,html,css3,reactjs,tailwindcss,electron,vuejs,astro,pnpm,npm,apachemaven,vite,vitest,expressjs,graphql,apollo,netflixdgs,postman,githubcopilot,github,bitbucket,confluence,jira,docker,intellijidea,visualstudiocode,renovate,launchdarkly,openapi,slack,drawio)](https://github.com/syvixor/skills-icons)
                       
 
 ### 🎙️ Socials
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 35725⭐
+- [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 54⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6632⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 35778⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15093⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6633⭐
+
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15098⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 30⭐
 
 - [cisco-open/ai-harness-toolkit](https://github.com/cisco-open/ai-harness-toolkit) 4⭐
 
-- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 3066⭐
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 3074⭐
 
 - [useserai/serai](https://github.com/useserai/serai) 48⭐
 
 - [syvixor/skills-icons](https://github.com/syvixor/skills-icons) 232⭐
 
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24221⭐
-
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) 12287⭐
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) 24224⭐
 
 
