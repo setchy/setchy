@@ -46,21 +46,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [6 days ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 week ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 weeks ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 weeks ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 month ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 month ago]
 
@@ -70,23 +70,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- OPEN - [feat(forge): bitbucket cloud](https://github.com/gitify-app/gitify/pull/2857) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- OPEN - [feat(forge): bitbucket cloud](https://github.com/gitify-app/gitify/pull/2857) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2853) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2853) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: git forges](https://github.com/gitify-app/website/pull/662) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [feat: git forges](https://github.com/gitify-app/website/pull/662) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- OPEN - [feat(api): scoped api tokens](https://github.com/setchy/atlassify/pull/2818) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [feat(api): scoped api tokens](https://github.com/setchy/atlassify/pull/2818) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [fix: tray error state based on account errors](https://github.com/setchy/atlassify/pull/2816) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [fix: tray error state based on account errors](https://github.com/setchy/atlassify/pull/2816) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [docs: remove encryption-not-available-linux.md](https://github.com/gitify-app/website/pull/659) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [docs: remove encryption-not-available-linux.md](https://github.com/gitify-app/website/pull/659) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
 - MERGED - [feat: `@graphql-codegen` migration and custom scalar mapping](https://github.com/gitify-app/gitify/pull/2829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -94,7 +94,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: `@graphql-codegen` migration](https://github.com/setchy/atlassify/pull/2809) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [1 week ago]
+- OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [2 weeks ago]
 
 - MERGED - [build: prepare `v3.8.0` release](https://github.com/setchy/atlassify/pull/2785) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -108,13 +108,15 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [4 weeks ago]
 
-- OPEN - [feat(platform/bitbucket): remove deprecated issue tracking integration](https://github.com/renovatebot/renovate/pull/42633) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 weeks ago]
+- OPEN - [feat(platform/bitbucket): remove deprecated issue tracking integration](https://github.com/renovatebot/renovate/pull/42633) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [jdx/mise](https://github.com/jdx/mise) 28101⭐
+- [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
+
+- [jdx/mise](https://github.com/jdx/mise) 28145⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -122,16 +124,14 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 54⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 35989⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36100⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6640⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6645⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15118⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15131⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 30⭐
 
 - [cisco-open/ai-harness-toolkit](https://github.com/cisco-open/ai-harness-toolkit) 4⭐
-
-- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) 3087⭐
 
 
