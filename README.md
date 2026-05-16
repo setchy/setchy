@@ -46,11 +46,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 week ago]
 
@@ -70,7 +70,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
 - MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -116,7 +116,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28200⭐
+- [jdx/mise](https://github.com/jdx/mise) 28238⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -124,11 +124,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 54⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36184⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36257⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6649⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6655⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15145⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15158⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 30⭐
 
