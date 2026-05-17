@@ -46,7 +46,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -116,7 +116,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28238⭐
+- [jdx/mise](https://github.com/jdx/mise) 28265⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -124,11 +124,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 54⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36257⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36326⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6655⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6657⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15158⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15161⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 30⭐
 
