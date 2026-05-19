@@ -96,15 +96,15 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [2 weeks ago]
 
-- MERGED - [build: prepare `v3.8.0` release](https://github.com/setchy/atlassify/pull/2785) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [build: prepare `v3.8.0` release](https://github.com/setchy/atlassify/pull/2785) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [feat(actors): add rovo product family as an actor type](https://github.com/setchy/atlassify/pull/2781) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [feat(actors): add rovo product family as an actor type](https://github.com/setchy/atlassify/pull/2781) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [feat(products): add support for `rovo chat` inference](https://github.com/setchy/atlassify/pull/2780) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [feat(products): add support for `rovo chat` inference](https://github.com/setchy/atlassify/pull/2780) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [build: prepare `v6.20.0` release](https://github.com/gitify-app/gitify/pull/2819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [build: prepare `v6.20.0` release](https://github.com/gitify-app/gitify/pull/2819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [fix(url): github actions status query filter is now case sensitive](https://github.com/gitify-app/gitify/pull/2817) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [fix(url): github actions status query filter is now case sensitive](https://github.com/gitify-app/gitify/pull/2817) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 month ago]
 
@@ -114,9 +114,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [feddi-dev/feddi-gateway](https://github.com/feddi-dev/feddi-gateway) 8⭐
+
 - [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28292⭐
+- [jdx/mise](https://github.com/jdx/mise) 28337⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -124,14 +126,12 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 54⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36390⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36482⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6660⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6665⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15170⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15182⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 30⭐
-
-- [cisco-open/ai-harness-toolkit](https://github.com/cisco-open/ai-harness-toolkit) 5⭐
 
 
