@@ -56,7 +56,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 month ago]
 
@@ -114,11 +114,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [feddi-dev/feddi-gateway](https://github.com/feddi-dev/feddi-gateway) 8⭐
+- [feddi-dev/feddi-gateway](https://github.com/feddi-dev/feddi-gateway) 9⭐
 
 - [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28337⭐
+- [jdx/mise](https://github.com/jdx/mise) 28395⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -126,11 +126,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 54⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36482⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36617⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6665⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6668⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15182⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15193⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 30⭐
 
