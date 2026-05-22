@@ -46,9 +46,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -72,11 +72,11 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 
-- MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- OPEN - [feat(forge): bitbucket cloud](https://github.com/gitify-app/gitify/pull/2857) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- OPEN - [feat(forge): bitbucket cloud](https://github.com/gitify-app/gitify/pull/2857) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2853) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2853) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -118,7 +118,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28421⭐
+- [jdx/mise](https://github.com/jdx/mise) 28472⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -126,12 +126,12 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 54⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36720⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36817⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6673⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6680⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15201⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15220⭐
 
-- [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 30⭐
+- [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 31⭐
 
 
