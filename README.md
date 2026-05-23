@@ -46,13 +46,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 weeks ago]
 
@@ -70,7 +70,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 - MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -118,19 +118,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28472⭐
+- [jdx/mise](https://github.com/jdx/mise) 28513⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
 - [cjoudrey/graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter) 706⭐
 
-- [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 54⭐
+- [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 55⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36817⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 36919⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6680⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6683⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15220⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15236⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 31⭐
 
