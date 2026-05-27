@@ -46,9 +46,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
@@ -58,7 +58,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 weeks ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 month ago]
 
@@ -118,7 +118,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28628⭐
+- [jdx/mise](https://github.com/jdx/mise) 28672⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -126,11 +126,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 55⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 37386⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 37484⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6694⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6696⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15267⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15281⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 33⭐
 
