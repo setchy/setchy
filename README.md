@@ -46,7 +46,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -54,9 +54,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 weeks ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [3 weeks ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 weeks ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 weeks ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
@@ -78,15 +78,15 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2853) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [feat: git forges](https://github.com/gitify-app/website/pull/662) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
+- MERGED - [feat: git forges](https://github.com/gitify-app/website/pull/662) to [gitify-app/website](https://github.com/gitify-app/website) [3 weeks ago]
 
-- OPEN - [feat(api): scoped api tokens](https://github.com/setchy/atlassify/pull/2818) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- OPEN - [feat(api): scoped api tokens](https://github.com/setchy/atlassify/pull/2818) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- OPEN - [fix: tray error state based on account errors](https://github.com/setchy/atlassify/pull/2816) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- OPEN - [fix: tray error state based on account errors](https://github.com/setchy/atlassify/pull/2816) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [docs: remove encryption-not-available-linux.md](https://github.com/gitify-app/website/pull/659) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
+- MERGED - [docs: remove encryption-not-available-linux.md](https://github.com/gitify-app/website/pull/659) to [gitify-app/website](https://github.com/gitify-app/website) [3 weeks ago]
 
 - MERGED - [feat: `@graphql-codegen` migration and custom scalar mapping](https://github.com/gitify-app/gitify/pull/2829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
@@ -94,17 +94,17 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: `@graphql-codegen` migration](https://github.com/setchy/atlassify/pull/2809) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [3 weeks ago]
+- OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [4 weeks ago]
 
-- MERGED - [build: prepare `v3.8.0` release](https://github.com/setchy/atlassify/pull/2785) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [build: prepare `v3.8.0` release](https://github.com/setchy/atlassify/pull/2785) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [feat(actors): add rovo product family as an actor type](https://github.com/setchy/atlassify/pull/2781) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [feat(actors): add rovo product family as an actor type](https://github.com/setchy/atlassify/pull/2781) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [feat(products): add support for `rovo chat` inference](https://github.com/setchy/atlassify/pull/2780) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [feat(products): add support for `rovo chat` inference](https://github.com/setchy/atlassify/pull/2780) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [build: prepare `v6.20.0` release](https://github.com/gitify-app/gitify/pull/2819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [build: prepare `v6.20.0` release](https://github.com/gitify-app/gitify/pull/2819) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
-- MERGED - [fix(url): github actions status query filter is now case sensitive](https://github.com/gitify-app/gitify/pull/2817) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [fix(url): github actions status query filter is now case sensitive](https://github.com/gitify-app/gitify/pull/2817) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
 - MERGED - [feat(volume): volume 34 release.  support for `caution` ring](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/943) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 month ago]
 
@@ -114,11 +114,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [feddi-dev/feddi-gateway](https://github.com/feddi-dev/feddi-gateway) 9⭐
+- [feddi-dev/feddi-gateway](https://github.com/feddi-dev/feddi-gateway) 10⭐
 
 - [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28672⭐
+- [jdx/mise](https://github.com/jdx/mise) 28719⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -126,11 +126,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 55⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 37484⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 37574⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6696⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6700⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15281⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15294⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 33⭐
 
