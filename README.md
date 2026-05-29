@@ -46,7 +46,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 
@@ -56,15 +58,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [3 weeks ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 weeks ago]
-
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
+
+- [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 month ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 month ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 month ago]
-
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 month ago]
 
 #### 🎉 My recent pull requests
 
@@ -72,11 +72,11 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
-- MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- OPEN - [feat(forge): bitbucket cloud](https://github.com/gitify-app/gitify/pull/2857) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- OPEN - [feat(forge): bitbucket cloud](https://github.com/gitify-app/gitify/pull/2857) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2853) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2853) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [docs: git forges](https://github.com/gitify-app/gitify/pull/2851) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
@@ -118,7 +118,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28719⭐
+- [jdx/mise](https://github.com/jdx/mise) 28765⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -126,11 +126,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 55⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 37574⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 37670⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6700⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6707⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15294⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15307⭐
 
 - [DimwitLabs/AI-DECLARATION.md](https://github.com/DimwitLabs/AI-DECLARATION.md) 33⭐
 
