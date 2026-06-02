@@ -46,7 +46,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -70,7 +70,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v3.9.0` release](https://github.com/setchy/atlassify/pull/2979) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v3.9.0` release](https://github.com/setchy/atlassify/pull/2979) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
 - OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
@@ -114,13 +114,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) 174817⭐
+- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) 710⭐
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) 176089⭐
 
 - [feddi-dev/feddi-gateway](https://github.com/feddi-dev/feddi-gateway) 10⭐
 
-- [vritly/vritly-web](https://github.com/vritly/vritly-web) 5⭐
-
-- [jdx/mise](https://github.com/jdx/mise) 28880⭐
+- [jdx/mise](https://github.com/jdx/mise) 28912⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -128,10 +128,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 55⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 37874⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 37933⭐
 
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6712⭐
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6714⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15343⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15350⭐
 
 
