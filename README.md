@@ -46,11 +46,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
 
@@ -58,7 +58,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [3 weeks ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 weeks ago]
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [1 month ago]
 
@@ -70,7 +70,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v3.9.0` release](https://github.com/setchy/atlassify/pull/2979) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: prepare `v3.9.0` release](https://github.com/setchy/atlassify/pull/2979) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
 - OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 weeks ago]
 
@@ -90,11 +90,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: remove encryption-not-available-linux.md](https://github.com/gitify-app/website/pull/659) to [gitify-app/website](https://github.com/gitify-app/website) [3 weeks ago]
 
-- MERGED - [feat: `@graphql-codegen` migration and custom scalar mapping](https://github.com/gitify-app/gitify/pull/2829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [feat: `@graphql-codegen` migration and custom scalar mapping](https://github.com/gitify-app/gitify/pull/2829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
-- MERGED - [refactor: `@graphql-codegen` custom scalar mapping](https://github.com/setchy/atlassify/pull/2810) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [refactor: `@graphql-codegen` custom scalar mapping](https://github.com/setchy/atlassify/pull/2810) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [feat: `@graphql-codegen` migration](https://github.com/setchy/atlassify/pull/2809) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [feat: `@graphql-codegen` migration](https://github.com/setchy/atlassify/pull/2809) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
 - OPEN - [feat: rename `world kinect` to `world fuel`](https://github.com/graphql/graphql-landscape/pull/426) to [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) [1 month ago]
 
@@ -116,11 +116,11 @@ Senior Executive (VP) // Architect // Developer
 
 - [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) 714⭐
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) 177135⭐
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) 177516⭐
 
 - [feddi-dev/feddi-gateway](https://github.com/feddi-dev/feddi-gateway) 10⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28938⭐
+- [jdx/mise](https://github.com/jdx/mise) 28955⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -128,10 +128,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 55⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 37992⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 38002⭐
 
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6717⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15359⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15362⭐
 
 
