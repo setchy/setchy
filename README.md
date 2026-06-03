@@ -114,13 +114,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) 714⭐
+- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) 715⭐
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) 177516⭐
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) 178268⭐
 
-- [feddi-dev/feddi-gateway](https://github.com/feddi-dev/feddi-gateway) 10⭐
+- [feddi-dev/feddi-gateway](https://github.com/feddi-dev/feddi-gateway) 11⭐
 
-- [jdx/mise](https://github.com/jdx/mise) 28955⭐
+- [jdx/mise](https://github.com/jdx/mise) 28985⭐
 
 - [gitify-app/menubar](https://github.com/gitify-app/menubar) 2⭐
 
@@ -128,10 +128,10 @@ Senior Executive (VP) // Architect // Developer
 
 - [boberito/AirDropAssistant](https://github.com/boberito/AirDropAssistant) 55⭐
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 38002⭐
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) 38061⭐
 
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) 6717⭐
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15362⭐
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) 15371⭐
 
 
