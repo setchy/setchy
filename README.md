@@ -46,13 +46,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 weeks ago]
 
@@ -70,19 +70,25 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: update repo urls](https://github.com/gitify-app/electron-menubar/pull/71) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [4 days ago]
+- OPEN - [refactor: migrate to vite-plus unified toolchain](https://github.com/setchy/atlassify/pull/3033) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [Revert &#34;chore(deps): update pnpm/action-setup digest to 0e279bb&#34;](https://github.com/gitify-app/electron-menubar/pull/67) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [4 days ago]
+- MERGED - [chore(deps): override vulnerable react-devtools transitive deps](https://github.com/setchy/atlassify/pull/3030) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- MERGED - [docs: refresh readme](https://github.com/gitify-app/electron-menubar/pull/66) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [4 days ago]
+- MERGED - [chore: migrate vite-plugin-electron to v1](https://github.com/setchy/atlassify/pull/3029) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
-- CLOSED - [docs: refresh readme](https://github.com/max-mapper/menubar/pull/497) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [4 days ago]
+- MERGED - [docs: update repo urls](https://github.com/gitify-app/electron-menubar/pull/71) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [5 days ago]
 
-- MERGED - [docs: Update installation command from bun to pnpm](https://github.com/gitify-app/electron-menubar/pull/56) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [4 days ago]
+- MERGED - [Revert &#34;chore(deps): update pnpm/action-setup digest to 0e279bb&#34;](https://github.com/gitify-app/electron-menubar/pull/67) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [5 days ago]
 
-- MERGED - [feat: Add CODEOWNERS file](https://github.com/gitify-app/electron-menubar/pull/55) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [4 days ago]
+- MERGED - [docs: refresh readme](https://github.com/gitify-app/electron-menubar/pull/66) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [5 days ago]
 
-- MERGED - [feat: onboard fork to renovate](https://github.com/gitify-app/electron-menubar/pull/54) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [4 days ago]
+- CLOSED - [docs: refresh readme](https://github.com/max-mapper/menubar/pull/497) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [5 days ago]
+
+- MERGED - [docs: Update installation command from bun to pnpm](https://github.com/gitify-app/electron-menubar/pull/56) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [5 days ago]
+
+- MERGED - [feat: Add CODEOWNERS file](https://github.com/gitify-app/electron-menubar/pull/55) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [5 days ago]
+
+- MERGED - [feat: onboard fork to renovate](https://github.com/gitify-app/electron-menubar/pull/54) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [5 days ago]
 
 - MERGED - [build: prepare `v3.9.0` release](https://github.com/setchy/atlassify/pull/2979) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -104,34 +110,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [docs: remove encryption-not-available-linux.md](https://github.com/gitify-app/website/pull/659) to [gitify-app/website](https://github.com/gitify-app/website) [1 month ago]
 
-- MERGED - [feat: `@graphql-codegen` migration and custom scalar mapping](https://github.com/gitify-app/gitify/pull/2829) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
-- MERGED - [refactor: `@graphql-codegen` custom scalar mapping](https://github.com/setchy/atlassify/pull/2810) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [feat: `@graphql-codegen` migration](https://github.com/setchy/atlassify/pull/2809) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) 2554⭐
+- [microsoft/apm](https://github.com/microsoft/apm) 2803⭐
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) 121788⭐
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) 2576⭐
 
-- [SonarSource/sonarqube-cli](https://github.com/SonarSource/sonarqube-cli) 182⭐
+- [mattpocock/skills](https://github.com/mattpocock/skills) 123242⭐
 
-- [earendil-works/pi](https://github.com/earendil-works/pi) 60947⭐
+- [SonarSource/sonarqube-cli](https://github.com/SonarSource/sonarqube-cli) 184⭐
+
+- [earendil-works/pi](https://github.com/earendil-works/pi) 61293⭐
 
 - [Tokenomics-AI/Tokenomics](https://github.com/Tokenomics-AI/Tokenomics) 5⭐
 
 - [MikeMcQuaid/open-source-resistance](https://github.com/MikeMcQuaid/open-source-resistance) 22⭐
 
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) 18984⭐
+- [chopratejas/headroom](https://github.com/chopratejas/headroom) 20641⭐
 
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) 60174⭐
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) 60643⭐
 
-- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) 731⭐
-
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) 187480⭐
+- [artifact-keeper/artifact-keeper](https://github.com/artifact-keeper/artifact-keeper) 735⭐
 
 
