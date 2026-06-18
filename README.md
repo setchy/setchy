@@ -114,13 +114,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [apache/echarts](https://github.com/apache/echarts) 66610⭐
+- [agntcy/dir](https://github.com/agntcy/dir) 160⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 32106⭐
+- [apache/echarts](https://github.com/apache/echarts) 66615⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4638⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 35783⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7068⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4642⭐
+
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7069⭐
 
 - [fossology/fossology](https://github.com/fossology/fossology) 1000⭐
 
@@ -128,10 +130,8 @@ Senior Executive (VP) // Architect // Developer
 
 - [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) 109⭐
 
-- [microsoft/apm](https://github.com/microsoft/apm) 2922⭐
+- [microsoft/apm](https://github.com/microsoft/apm) 2932⭐
 
-- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) 2753⭐
-
-- [mattpocock/skills](https://github.com/mattpocock/skills) 133749⭐
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) 2771⭐
 
 
