@@ -114,11 +114,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [go-task/task](https://github.com/go-task/task) 15729⭐
+
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 578⭐
+
 - [agntcy/dir](https://github.com/agntcy/dir) 160⭐
 
 - [apache/echarts](https://github.com/apache/echarts) 66615⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 35783⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 35945⭐
 
 - [github/gh-aw](https://github.com/github/gh-aw) 4642⭐
 
@@ -129,9 +133,5 @@ Senior Executive (VP) // Architect // Developer
 - [clearlydefined/curated-data](https://github.com/clearlydefined/curated-data) 143⭐
 
 - [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) 109⭐
-
-- [microsoft/apm](https://github.com/microsoft/apm) 2932⭐
-
-- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) 2771⭐
 
 
