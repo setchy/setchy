@@ -46,15 +46,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 weeks ago]
 
@@ -70,9 +70,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
-- MERGED - [fix: revert `electron-menubar` to triage windows platform positioning error](https://github.com/setchy/atlassify/pull/3069) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [fix: revert `electron-menubar` to triage windows platform positioning error](https://github.com/setchy/atlassify/pull/3069) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
 
 - MERGED - [build: prepare `v3.10.0` release](https://github.com/setchy/atlassify/pull/3067) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -114,19 +114,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [go-task/task](https://github.com/go-task/task) 15736⭐
+- [go-task/task](https://github.com/go-task/task) 15741⭐
 
-- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 640⭐
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 705⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 162⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66622⭐
+- [apache/echarts](https://github.com/apache/echarts) 66623⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 40169⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 43495⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4652⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4653⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7074⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7079⭐
 
 - [fossology/fossology](https://github.com/fossology/fossology) 1001⭐
 
