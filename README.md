@@ -46,11 +46,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
-
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -84,11 +84,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: migrate to `electron-menubar`](https://github.com/setchy/atlassify/pull/3065) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- OPEN - [refactor: migrate to vite-plus unified toolchain](https://github.com/setchy/atlassify/pull/3033) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- OPEN - [refactor: migrate to vite-plus unified toolchain](https://github.com/setchy/atlassify/pull/3033) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [chore(deps): override vulnerable react-devtools transitive deps](https://github.com/setchy/atlassify/pull/3030) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [chore(deps): override vulnerable react-devtools transitive deps](https://github.com/setchy/atlassify/pull/3030) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [chore: migrate vite-plugin-electron to v1](https://github.com/setchy/atlassify/pull/3029) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [chore: migrate vite-plugin-electron to v1](https://github.com/setchy/atlassify/pull/3029) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [docs: update repo urls](https://github.com/gitify-app/electron-menubar/pull/71) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 weeks ago]
 
@@ -114,19 +114,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [go-task/task](https://github.com/go-task/task) 15744⭐
+- [go-task/task](https://github.com/go-task/task) 15753⭐
 
-- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 762⭐
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 815⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 162⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66626⭐
+- [apache/echarts](https://github.com/apache/echarts) 66628⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 46467⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 49975⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4671⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4680⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7085⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7088⭐
 
 - [fossology/fossology](https://github.com/fossology/fossology) 1001⭐
 
