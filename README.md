@@ -46,7 +46,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -56,7 +56,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 weeks ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 month ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 month ago]
 
@@ -114,19 +114,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [go-task/task](https://github.com/go-task/task) 15753⭐
+- [go-task/task](https://github.com/go-task/task) 15759⭐
 
-- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 815⭐
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 896⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 162⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66628⭐
+- [apache/echarts](https://github.com/apache/echarts) 66637⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 49975⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 52648⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4680⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4689⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7088⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7092⭐
 
 - [fossology/fossology](https://github.com/fossology/fossology) 1001⭐
 
