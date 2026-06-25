@@ -46,7 +46,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [go-task/task](https://github.com/go-task/task) 15759⭐
+- [go-task/task](https://github.com/go-task/task) 15763⭐
 
-- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 896⭐
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 928⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 162⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66637⭐
+- [apache/echarts](https://github.com/apache/echarts) 66648⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 52648⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 55405⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4689⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4692⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7092⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7098⭐
 
-- [fossology/fossology](https://github.com/fossology/fossology) 1001⭐
+- [fossology/fossology](https://github.com/fossology/fossology) 1002⭐
 
 - [clearlydefined/curated-data](https://github.com/clearlydefined/curated-data) 143⭐
 
-- [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) 108⭐
+- [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) 109⭐
 
 
