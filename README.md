@@ -46,11 +46,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
-
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
@@ -90,21 +90,21 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [chore: migrate vite-plugin-electron to v1](https://github.com/setchy/atlassify/pull/3029) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [docs: update repo urls](https://github.com/gitify-app/electron-menubar/pull/71) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 weeks ago]
+- MERGED - [docs: update repo urls](https://github.com/gitify-app/electron-menubar/pull/71) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 weeks ago]
 
-- MERGED - [Revert &#34;chore(deps): update pnpm/action-setup digest to 0e279bb&#34;](https://github.com/gitify-app/electron-menubar/pull/67) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 weeks ago]
+- MERGED - [Revert &#34;chore(deps): update pnpm/action-setup digest to 0e279bb&#34;](https://github.com/gitify-app/electron-menubar/pull/67) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 weeks ago]
 
-- MERGED - [docs: refresh readme](https://github.com/gitify-app/electron-menubar/pull/66) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 weeks ago]
+- MERGED - [docs: refresh readme](https://github.com/gitify-app/electron-menubar/pull/66) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 weeks ago]
 
-- CLOSED - [docs: refresh readme](https://github.com/max-mapper/menubar/pull/497) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 weeks ago]
+- CLOSED - [docs: refresh readme](https://github.com/max-mapper/menubar/pull/497) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 weeks ago]
 
-- MERGED - [docs: Update installation command from bun to pnpm](https://github.com/gitify-app/electron-menubar/pull/56) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 weeks ago]
+- MERGED - [docs: Update installation command from bun to pnpm](https://github.com/gitify-app/electron-menubar/pull/56) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 weeks ago]
 
-- MERGED - [feat: Add CODEOWNERS file](https://github.com/gitify-app/electron-menubar/pull/55) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 weeks ago]
+- MERGED - [feat: Add CODEOWNERS file](https://github.com/gitify-app/electron-menubar/pull/55) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 weeks ago]
 
-- MERGED - [feat: onboard fork to renovate](https://github.com/gitify-app/electron-menubar/pull/54) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 weeks ago]
+- MERGED - [feat: onboard fork to renovate](https://github.com/gitify-app/electron-menubar/pull/54) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 weeks ago]
 
-- MERGED - [build: prepare `v3.9.0` release](https://github.com/setchy/atlassify/pull/2979) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [build: prepare `v3.9.0` release](https://github.com/setchy/atlassify/pull/2979) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
 - OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [go-task/task](https://github.com/go-task/task) 15763⭐
+- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 167⭐
 
-- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 928⭐
+- [go-task/task](https://github.com/go-task/task) 15771⭐
 
-- [agntcy/dir](https://github.com/agntcy/dir) 162⭐
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 955⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66648⭐
+- [agntcy/dir](https://github.com/agntcy/dir) 163⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 55405⭐
+- [apache/echarts](https://github.com/apache/echarts) 66661⭐
+
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 58207⭐
 
 - [github/gh-aw](https://github.com/github/gh-aw) 4692⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7098⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7102⭐
 
-- [fossology/fossology](https://github.com/fossology/fossology) 1002⭐
+- [fossology/fossology](https://github.com/fossology/fossology) 1003⭐
 
 - [clearlydefined/curated-data](https://github.com/clearlydefined/curated-data) 143⭐
-
-- [clearlydefined/clearlydefined](https://github.com/clearlydefined/clearlydefined) 109⭐
 
 
