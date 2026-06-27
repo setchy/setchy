@@ -46,19 +46,19 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 month ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 month ago]
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 month ago]
 
@@ -70,19 +70,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+
 - MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [fix: revert `electron-menubar` to triage windows platform positioning error](https://github.com/setchy/atlassify/pull/3069) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [build: prepare `v3.10.0` release](https://github.com/setchy/atlassify/pull/3067) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [build: prepare `v3.10.0` release](https://github.com/setchy/atlassify/pull/3067) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [feat(settings): opt-out anonymous analytics &#43; privacy policy](https://github.com/setchy/atlassify/pull/3066) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat(settings): opt-out anonymous analytics &#43; privacy policy](https://github.com/setchy/atlassify/pull/3066) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [fix: tailwind bg utility](https://github.com/gitify-app/gitify/pull/2989) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: tailwind bg utility](https://github.com/gitify-app/gitify/pull/2989) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [chore(deps): update workspace config](https://github.com/gitify-app/gitify/pull/2988) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [chore(deps): update workspace config](https://github.com/gitify-app/gitify/pull/2988) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: migrate to `electron-menubar`](https://github.com/setchy/atlassify/pull/3065) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat: migrate to `electron-menubar`](https://github.com/setchy/atlassify/pull/3065) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - OPEN - [refactor: migrate to vite-plus unified toolchain](https://github.com/setchy/atlassify/pull/3033) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -108,29 +110,27 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
 
-- MERGED - [feat(filters): account filtering](https://github.com/gitify-app/gitify/pull/2858) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 167⭐
+- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 168⭐
 
-- [go-task/task](https://github.com/go-task/task) 15771⭐
+- [go-task/task](https://github.com/go-task/task) 15776⭐
 
-- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 955⭐
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 971⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 163⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66661⭐
+- [apache/echarts](https://github.com/apache/echarts) 66673⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 58207⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 60228⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4692⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4694⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7102⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7105⭐
 
-- [fossology/fossology](https://github.com/fossology/fossology) 1003⭐
+- [fossology/fossology](https://github.com/fossology/fossology) 1004⭐
 
 - [clearlydefined/curated-data](https://github.com/clearlydefined/curated-data) 143⭐
 
