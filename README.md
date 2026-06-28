@@ -46,23 +46,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
-
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 month ago]
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 month ago]
-
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 month ago]
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 months ago]
 
@@ -70,7 +70,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- OPEN - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
 - MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
@@ -106,29 +108,27 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: onboard fork to renovate](https://github.com/gitify-app/electron-menubar/pull/54) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 weeks ago]
 
-- MERGED - [build: prepare `v3.9.0` release](https://github.com/setchy/atlassify/pull/2979) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
-
-- OPEN - [fix(dashboard): markdown formatting](https://github.com/renovatebot/renovate/pull/43210) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 month ago]
+- MERGED - [build: prepare `v3.9.0` release](https://github.com/setchy/atlassify/pull/2979) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
 #### ⭐ Latest projects I've starred
 
 
 
-- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 168⭐
+- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 169⭐
 
-- [go-task/task](https://github.com/go-task/task) 15776⭐
+- [go-task/task](https://github.com/go-task/task) 15780⭐
 
-- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 971⭐
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 980⭐
 
-- [agntcy/dir](https://github.com/agntcy/dir) 163⭐
+- [agntcy/dir](https://github.com/agntcy/dir) 165⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66673⭐
+- [apache/echarts](https://github.com/apache/echarts) 66685⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 60228⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 61868⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4694⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4700⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7105⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7109⭐
 
 - [fossology/fossology](https://github.com/fossology/fossology) 1004⭐
 
