@@ -116,19 +116,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 169⭐
 
-- [go-task/task](https://github.com/go-task/task) 15780⭐
+- [go-task/task](https://github.com/go-task/task) 15783⭐
 
-- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 980⭐
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 986⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 165⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66685⭐
+- [apache/echarts](https://github.com/apache/echarts) 66690⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 61868⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 62539⭐
 
 - [github/gh-aw](https://github.com/github/gh-aw) 4700⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7109⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7110⭐
 
 - [fossology/fossology](https://github.com/fossology/fossology) 1004⭐
 
