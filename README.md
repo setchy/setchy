@@ -48,15 +48,15 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
 
@@ -70,13 +70,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
-- MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
 
-- MERGED - [fix: revert `electron-menubar` to triage windows platform positioning error](https://github.com/setchy/atlassify/pull/3069) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+
+- MERGED - [fix: revert `electron-menubar` to triage windows platform positioning error](https://github.com/setchy/atlassify/pull/3069) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [build: prepare `v3.10.0` release](https://github.com/setchy/atlassify/pull/3067) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -108,27 +110,25 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: onboard fork to renovate](https://github.com/gitify-app/electron-menubar/pull/54) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 weeks ago]
 
-- MERGED - [build: prepare `v3.9.0` release](https://github.com/setchy/atlassify/pull/2979) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 169⭐
+- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 170⭐
 
-- [go-task/task](https://github.com/go-task/task) 15783⭐
+- [go-task/task](https://github.com/go-task/task) 15784⭐
 
-- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 989⭐
+- [microsoft/fastcontext](https://github.com/microsoft/fastcontext) 993⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 165⭐
 
 - [apache/echarts](https://github.com/apache/echarts) 66691⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 62727⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 64699⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4700⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4702⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7111⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7115⭐
 
 - [fossology/fossology](https://github.com/fossology/fossology) 1004⭐
 
