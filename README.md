@@ -46,13 +46,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
@@ -70,11 +70,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
 
 - MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -114,21 +114,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2181⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2188⭐
 
-- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 170⭐
+- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 172⭐
 
-- [go-task/task](https://github.com/go-task/task) 15787⭐
+- [go-task/task](https://github.com/go-task/task) 15788⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 165⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66698⭐
+- [apache/echarts](https://github.com/apache/echarts) 66707⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 67405⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 69206⭐
 
 - [github/gh-aw](https://github.com/github/gh-aw) 4703⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7119⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7124⭐
 
 - [fossology/fossology](https://github.com/fossology/fossology) 1004⭐
 
