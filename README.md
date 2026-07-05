@@ -46,21 +46,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [5 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [6 days ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 weeks ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 weeks ago]
 
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 month ago]
 
@@ -70,15 +70,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- OPEN - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- OPEN - [chore: renovate semantic commit type](https://github.com/gitify-app/electron-menubar/pull/95) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
+- OPEN - [chore: renovate semantic commit type](https://github.com/gitify-app/electron-menubar/pull/95) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 days ago]
 
-- CLOSED - [chore: renovate semantic commit type](https://github.com/max-mapper/menubar/pull/498) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 days ago]
+- CLOSED - [chore: renovate semantic commit type](https://github.com/max-mapper/menubar/pull/498) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 days ago]
 
-- MERGED - [build: prepare `v3.11.0` release](https://github.com/setchy/atlassify/pull/3189) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [build: prepare `v3.11.0` release](https://github.com/setchy/atlassify/pull/3189) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -104,11 +104,11 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [chore: migrate vite-plugin-electron to v1](https://github.com/setchy/atlassify/pull/3029) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [docs: update repo urls](https://github.com/gitify-app/electron-menubar/pull/71) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [4 weeks ago]
+- MERGED - [docs: update repo urls](https://github.com/gitify-app/electron-menubar/pull/71) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 month ago]
 
-- MERGED - [Revert &#34;chore(deps): update pnpm/action-setup digest to 0e279bb&#34;](https://github.com/gitify-app/electron-menubar/pull/67) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [4 weeks ago]
+- MERGED - [Revert &#34;chore(deps): update pnpm/action-setup digest to 0e279bb&#34;](https://github.com/gitify-app/electron-menubar/pull/67) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 month ago]
 
-- MERGED - [docs: refresh readme](https://github.com/gitify-app/electron-menubar/pull/66) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [4 weeks ago]
+- MERGED - [docs: refresh readme](https://github.com/gitify-app/electron-menubar/pull/66) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 month ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -116,19 +116,19 @@ Senior Executive (VP) // Architect // Developer
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 34⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2203⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2205⭐
 
 - [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 177⭐
 
-- [go-task/task](https://github.com/go-task/task) 15796⭐
+- [go-task/task](https://github.com/go-task/task) 15802⭐
 
-- [agntcy/dir](https://github.com/agntcy/dir) 165⭐
+- [agntcy/dir](https://github.com/agntcy/dir) 166⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66733⭐
+- [apache/echarts](https://github.com/apache/echarts) 66740⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 73055⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 73938⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4717⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4720⭐
 
 - [googleapis/release-please](https://github.com/googleapis/release-please) 7137⭐
 
