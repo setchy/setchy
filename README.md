@@ -46,23 +46,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [6 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 weeks ago]
 
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 month ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 months ago]
 
 - [DependencyTrack/frontend](https://github.com/DependencyTrack/frontend) - Frontend UI for Dependency-Track [2 months ago]
 
@@ -70,13 +70,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 
-- OPEN - [chore: renovate semantic commit type](https://github.com/gitify-app/electron-menubar/pull/95) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 days ago]
+- OPEN - [chore: renovate semantic commit type](https://github.com/gitify-app/electron-menubar/pull/95) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [4 days ago]
 
-- CLOSED - [chore: renovate semantic commit type](https://github.com/max-mapper/menubar/pull/498) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 days ago]
+- CLOSED - [chore: renovate semantic commit type](https://github.com/max-mapper/menubar/pull/498) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [4 days ago]
 
-- MERGED - [build: prepare `v3.11.0` release](https://github.com/setchy/atlassify/pull/3189) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [build: prepare `v3.11.0` release](https://github.com/setchy/atlassify/pull/3189) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
 - MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -84,9 +84,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
-- MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
-- MERGED - [fix: revert `electron-menubar` to triage windows platform positioning error](https://github.com/setchy/atlassify/pull/3069) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [fix: revert `electron-menubar` to triage windows platform positioning error](https://github.com/setchy/atlassify/pull/3069) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - MERGED - [build: prepare `v3.10.0` release](https://github.com/setchy/atlassify/pull/3067) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -116,21 +116,21 @@ Senior Executive (VP) // Architect // Developer
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 34⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2205⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2206⭐
 
 - [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 177⭐
 
-- [go-task/task](https://github.com/go-task/task) 15802⭐
+- [go-task/task](https://github.com/go-task/task) 15803⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 166⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66740⭐
+- [apache/echarts](https://github.com/apache/echarts) 66748⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 73938⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 74904⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4720⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4724⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7137⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7138⭐
 
 - [fossology/fossology](https://github.com/fossology/fossology) 1004⭐
 
