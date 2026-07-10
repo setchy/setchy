@@ -46,31 +46,31 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 day ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [3 days ago]
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [1 day ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 days ago]
+
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
+
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
-
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 month ago]
-
-- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [2 months ago]
-
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 - MERGED - [chore: renovate semantic commit type](https://github.com/gitify-app/electron-menubar/pull/95) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 week ago]
 
@@ -82,7 +82,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
 
 - MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 18813⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 18863⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 34⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2243⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2249⭐
 
 - [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 180⭐
 
-- [go-task/task](https://github.com/go-task/task) 15810⭐
+- [go-task/task](https://github.com/go-task/task) 15815⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 167⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66773⭐
+- [apache/echarts](https://github.com/apache/echarts) 66776⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 78070⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 79243⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4735⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4740⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7157⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7167⭐
 
 
