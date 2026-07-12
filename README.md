@@ -46,15 +46,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [2 days ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [3 days ago]
 
-- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [2 days ago]
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [3 days ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [6 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -62,7 +62,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
 
@@ -78,7 +78,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v3.11.0` release](https://github.com/setchy/atlassify/pull/3189) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 - MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 18904⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 18967⭐
 
-- [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 34⭐
+- [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2258⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2260⭐
 
 - [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 180⭐
 
-- [go-task/task](https://github.com/go-task/task) 15822⭐
+- [go-task/task](https://github.com/go-task/task) 15823⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 167⭐
 
 - [apache/echarts](https://github.com/apache/echarts) 66787⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 80178⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 80796⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4746⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4752⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7172⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7178⭐
 
 
