@@ -46,25 +46,25 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [3 days ago]
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [4 days ago]
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [6 days ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [4 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 weeks ago]
 
 #### 🎉 My recent pull requests
 
@@ -84,19 +84,19 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
 
-- MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
-- MERGED - [fix: revert `electron-menubar` to triage windows platform positioning error](https://github.com/setchy/atlassify/pull/3069) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
+- MERGED - [fix: revert `electron-menubar` to triage windows platform positioning error](https://github.com/setchy/atlassify/pull/3069) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
 
-- MERGED - [build: prepare `v3.10.0` release](https://github.com/setchy/atlassify/pull/3067) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [build: prepare `v3.10.0` release](https://github.com/setchy/atlassify/pull/3067) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [feat(settings): opt-out anonymous analytics &#43; privacy policy](https://github.com/setchy/atlassify/pull/3066) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [feat(settings): opt-out anonymous analytics &#43; privacy policy](https://github.com/setchy/atlassify/pull/3066) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [fix: tailwind bg utility](https://github.com/gitify-app/gitify/pull/2989) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [fix: tailwind bg utility](https://github.com/gitify-app/gitify/pull/2989) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
-- MERGED - [chore(deps): update workspace config](https://github.com/gitify-app/gitify/pull/2988) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [chore(deps): update workspace config](https://github.com/gitify-app/gitify/pull/2988) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
-- MERGED - [feat: migrate to `electron-menubar`](https://github.com/setchy/atlassify/pull/3065) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
+- MERGED - [feat: migrate to `electron-menubar`](https://github.com/setchy/atlassify/pull/3065) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
 - OPEN - [refactor: migrate to vite-plus unified toolchain](https://github.com/setchy/atlassify/pull/3033) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 18967⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19006⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2260⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2263⭐
 
 - [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 180⭐
 
-- [go-task/task](https://github.com/go-task/task) 15823⭐
+- [go-task/task](https://github.com/go-task/task) 15825⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 167⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66787⭐
+- [apache/echarts](https://github.com/apache/echarts) 66798⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 80796⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 81392⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4752⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4753⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7178⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7181⭐
 
 
