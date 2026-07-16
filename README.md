@@ -46,15 +46,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 day ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [6 days ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 week ago]
 
-- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [6 days ago]
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [1 week ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 
@@ -72,9 +72,9 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
-- MERGED - [chore: renovate semantic commit type](https://github.com/gitify-app/electron-menubar/pull/95) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 week ago]
+- MERGED - [chore: renovate semantic commit type](https://github.com/gitify-app/electron-menubar/pull/95) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 weeks ago]
 
-- CLOSED - [chore: renovate semantic commit type](https://github.com/max-mapper/menubar/pull/498) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 week ago]
+- CLOSED - [chore: renovate semantic commit type](https://github.com/max-mapper/menubar/pull/498) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 weeks ago]
 
 - MERGED - [build: prepare `v3.11.0` release](https://github.com/setchy/atlassify/pull/3189) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19108⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19172⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2272⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2278⭐
 
-- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 182⭐
+- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 183⭐
 
-- [go-task/task](https://github.com/go-task/task) 15837⭐
+- [go-task/task](https://github.com/go-task/task) 15845⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 167⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66811⭐
+- [apache/echarts](https://github.com/apache/echarts) 66816⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 83118⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 84054⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4761⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4763⭐
 
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7193⭐
+- [googleapis/release-please](https://github.com/googleapis/release-please) 7200⭐
 
 
