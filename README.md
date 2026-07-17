@@ -46,11 +46,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [3 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
 - [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 week ago]
 
@@ -70,7 +70,7 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
 - MERGED - [chore: renovate semantic commit type](https://github.com/gitify-app/electron-menubar/pull/95) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 weeks ago]
 
@@ -82,7 +82,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
-- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [2 weeks ago]
+- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [3 weeks ago]
 
 - MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19172⭐
+- [robinebers/openusage](https://github.com/robinebers/openusage) 3381⭐
+
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19249⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2278⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2287⭐
 
-- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 183⭐
+- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 186⭐
 
-- [go-task/task](https://github.com/go-task/task) 15845⭐
+- [go-task/task](https://github.com/go-task/task) 15850⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 167⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66816⭐
+- [apache/echarts](https://github.com/apache/echarts) 66823⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 84054⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 84702⭐
 
-- [github/gh-aw](https://github.com/github/gh-aw) 4763⭐
-
-- [googleapis/release-please](https://github.com/googleapis/release-please) 7200⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4769⭐
 
 
