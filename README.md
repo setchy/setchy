@@ -46,11 +46,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
 - [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 week ago]
 
@@ -62,7 +62,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 weeks ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 month ago]
 
@@ -78,7 +78,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [build: prepare `v3.11.0` release](https://github.com/setchy/atlassify/pull/3189) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
-- MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
 - MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8723⭐
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8742⭐
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) 3394⭐
+- [robinebers/openusage](https://github.com/robinebers/openusage) 3411⭐
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19295⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19333⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2295⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2298⭐
 
 - [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 186⭐
 
-- [go-task/task](https://github.com/go-task/task) 15855⭐
+- [go-task/task](https://github.com/go-task/task) 15859⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 168⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66824⭐
+- [apache/echarts](https://github.com/apache/echarts) 66828⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 85227⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 85602⭐
 
 
