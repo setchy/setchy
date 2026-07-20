@@ -46,21 +46,21 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [6 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
 
 - [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 week ago]
 
 - [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [1 week ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 weeks ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 weeks ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 weeks ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8742⭐
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8758⭐
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) 3411⭐
+- [robinebers/openusage](https://github.com/robinebers/openusage) 3435⭐
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19333⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19368⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2298⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2303⭐
 
 - [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 186⭐
 
-- [go-task/task](https://github.com/go-task/task) 15859⭐
+- [go-task/task](https://github.com/go-task/task) 15858⭐
 
-- [agntcy/dir](https://github.com/agntcy/dir) 168⭐
+- [agntcy/dir](https://github.com/agntcy/dir) 169⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66828⭐
+- [apache/echarts](https://github.com/apache/echarts) 66831⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 85602⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 86115⭐
 
 
