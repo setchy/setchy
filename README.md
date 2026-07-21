@@ -46,9 +46,9 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
@@ -118,7 +118,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [robinebers/openusage](https://github.com/robinebers/openusage) 3454⭐
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19403⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19405⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
@@ -132,6 +132,6 @@ Senior Executive (VP) // Architect // Developer
 
 - [apache/echarts](https://github.com/apache/echarts) 66849⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 86738⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 86751⭐
 
 
