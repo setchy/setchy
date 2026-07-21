@@ -46,15 +46,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [6 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
 
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 week ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
 - [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [1 week ago]
+
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 week ago]
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 weeks ago]
 
@@ -62,13 +64,13 @@ Senior Executive (VP) // Architect // Developer
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 weeks ago]
-
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
+
+- OPEN - [feat(forge): add bitbucket cloud support](https://github.com/gitify-app/gitify/pull/3059) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
 - MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -108,30 +110,28 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [Revert &#34;chore(deps): update pnpm/action-setup digest to 0e279bb&#34;](https://github.com/gitify-app/electron-menubar/pull/67) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 month ago]
 
-- MERGED - [docs: refresh readme](https://github.com/gitify-app/electron-menubar/pull/66) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8758⭐
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8786⭐
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) 3435⭐
+- [robinebers/openusage](https://github.com/robinebers/openusage) 3452⭐
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19368⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19397⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2303⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2313⭐
 
-- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 186⭐
+- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 187⭐
 
-- [go-task/task](https://github.com/go-task/task) 15858⭐
+- [go-task/task](https://github.com/go-task/task) 15865⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 169⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66831⭐
+- [apache/echarts](https://github.com/apache/echarts) 66847⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 86115⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 86647⭐
 
 
