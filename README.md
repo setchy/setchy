@@ -46,11 +46,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [3 days ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
@@ -62,15 +64,21 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 weeks ago]
-
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- OPEN - [feat(forge): add bitbucket cloud support](https://github.com/gitify-app/gitify/pull/3059) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: update faqs for v7 features](https://github.com/gitify-app/website/pull/707) to [gitify-app/website](https://github.com/gitify-app/website) [today]
+
+- MERGED - [refactor: device code flow ux](https://github.com/gitify-app/gitify/pull/3063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [build: prepare `v7.0.0` release](https://github.com/gitify-app/gitify/pull/3062) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [feat(events): monitor power state](https://github.com/gitify-app/gitify/pull/3060) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [feat(forge): add bitbucket cloud support](https://github.com/gitify-app/gitify/pull/3059) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 
 - MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
 
@@ -78,7 +86,7 @@ Senior Executive (VP) // Architect // Developer
 
 - CLOSED - [chore: renovate semantic commit type](https://github.com/max-mapper/menubar/pull/498) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [2 weeks ago]
 
-- MERGED - [build: prepare `v3.11.0` release](https://github.com/setchy/atlassify/pull/3189) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [build: prepare `v3.11.0` release](https://github.com/setchy/atlassify/pull/3189) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
@@ -102,36 +110,28 @@ Senior Executive (VP) // Architect // Developer
 
 - OPEN - [refactor: migrate to vite-plus unified toolchain](https://github.com/setchy/atlassify/pull/3033) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
-- MERGED - [chore(deps): override vulnerable react-devtools transitive deps](https://github.com/setchy/atlassify/pull/3030) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [chore: migrate vite-plugin-electron to v1](https://github.com/setchy/atlassify/pull/3029) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [docs: update repo urls](https://github.com/gitify-app/electron-menubar/pull/71) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 month ago]
-
-- MERGED - [Revert &#34;chore(deps): update pnpm/action-setup digest to 0e279bb&#34;](https://github.com/gitify-app/electron-menubar/pull/67) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8792⭐
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8822⭐
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) 3454⭐
+- [robinebers/openusage](https://github.com/robinebers/openusage) 3468⭐
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19405⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19480⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2313⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2322⭐
 
 - [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 187⭐
 
-- [go-task/task](https://github.com/go-task/task) 15865⭐
+- [go-task/task](https://github.com/go-task/task) 15863⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 169⭐
 
-- [apache/echarts](https://github.com/apache/echarts) 66849⭐
+- [apache/echarts](https://github.com/apache/echarts) 66860⭐
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 86751⭐
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 87313⭐
 
 
