@@ -46,13 +46,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 
@@ -70,17 +70,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: update faqs for v7 features](https://github.com/gitify-app/website/pull/707) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [docs: update faqs for v7 features](https://github.com/gitify-app/website/pull/707) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 
-- MERGED - [refactor: device code flow ux](https://github.com/gitify-app/gitify/pull/3063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: device code flow ux](https://github.com/gitify-app/gitify/pull/3063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [build: prepare `v7.0.0` release](https://github.com/gitify-app/gitify/pull/3062) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [build: prepare `v7.0.0` release](https://github.com/gitify-app/gitify/pull/3062) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat(events): monitor power state](https://github.com/gitify-app/gitify/pull/3060) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(events): monitor power state](https://github.com/gitify-app/gitify/pull/3060) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat(forge): add bitbucket cloud support](https://github.com/gitify-app/gitify/pull/3059) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(forge): add bitbucket cloud support](https://github.com/gitify-app/gitify/pull/3059) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
 - MERGED - [chore: renovate semantic commit type](https://github.com/gitify-app/electron-menubar/pull/95) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 weeks ago]
 
@@ -92,7 +92,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 weeks ago]
 
-- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [3 weeks ago]
+- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [4 weeks ago]
 
 - MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
 
@@ -114,23 +114,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) 8080⭐
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) 8081⭐
 
-- [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) 267⭐
+- [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) 268⭐
 
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8854⭐
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8885⭐
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) 3481⭐
+- [robinebers/openusage](https://github.com/robinebers/openusage) 3494⭐
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19574⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19644⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2339⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2349⭐
 
 - [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 193⭐
 
-- [go-task/task](https://github.com/go-task/task) 15868⭐
+- [go-task/task](https://github.com/go-task/task) 15870⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 169⭐
 
