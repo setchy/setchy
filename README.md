@@ -46,11 +46,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
 
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 week ago]
 
@@ -60,9 +60,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [2 weeks ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 weeks ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 weeks ago]
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 weeks ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 weeks ago]
 
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 month ago]
 
@@ -70,15 +70,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [docs: update faqs for v7 features](https://github.com/gitify-app/website/pull/707) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [docs: update faqs for v7 features](https://github.com/gitify-app/website/pull/707) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
 
-- MERGED - [refactor: device code flow ux](https://github.com/gitify-app/gitify/pull/3063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor: device code flow ux](https://github.com/gitify-app/gitify/pull/3063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [build: prepare `v7.0.0` release](https://github.com/gitify-app/gitify/pull/3062) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: prepare `v7.0.0` release](https://github.com/gitify-app/gitify/pull/3062) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat(events): monitor power state](https://github.com/gitify-app/gitify/pull/3060) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat(events): monitor power state](https://github.com/gitify-app/gitify/pull/3060) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- MERGED - [feat(forge): add bitbucket cloud support](https://github.com/gitify-app/gitify/pull/3059) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat(forge): add bitbucket cloud support](https://github.com/gitify-app/gitify/pull/3059) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
 
@@ -90,7 +90,7 @@ Senior Executive (VP) // Architect // Developer
 
 - MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
 
-- MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 weeks ago]
+- MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
 
 - MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [1 month ago]
 
@@ -114,23 +114,23 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) 8083⭐
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) 8084⭐
 
-- [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) 270⭐
+- [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) 274⭐
 
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8930⭐
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 8948⭐
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) 3512⭐
+- [robinebers/openusage](https://github.com/robinebers/openusage) 3520⭐
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19746⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19799⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 35⭐
 
-- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2360⭐
+- [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2362⭐
 
-- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 194⭐
+- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 197⭐
 
-- [go-task/task](https://github.com/go-task/task) 15877⭐
+- [go-task/task](https://github.com/go-task/task) 15884⭐
 
 - [agntcy/dir](https://github.com/agntcy/dir) 169⭐
 
