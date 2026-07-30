@@ -46,9 +46,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -56,11 +58,9 @@ Senior Executive (VP) // Architect // Developer
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 weeks ago]
 
-- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [2 weeks ago]
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [3 weeks ago]
 
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [2 weeks ago]
-
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 weeks ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [3 weeks ago]
 
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 month ago]
 
@@ -70,68 +70,68 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- MERGED - [ci: update release sections to use emojis and callout core deps](https://github.com/gitify-app/electron-menubar/pull/133) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+
+- CLOSED - [ci: update release config](https://github.com/max-mapper/menubar/pull/499) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [1 day ago]
+
+- MERGED - [ci: add `core-deps` scope to surface within release-please generated changelog/release notes](https://github.com/gitify-app/gitify/pull/3114) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [ci: reuse draft release](https://github.com/setchy/atlassify/pull/3286) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [ci: add release labeling](https://github.com/gitify-app/gitify/pull/3112) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [refactor: vite config](https://github.com/gitify-app/gitify/pull/3110) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [refactor: vite config](https://github.com/setchy/atlassify/pull/3285) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [refactor: remove use of deprecated `shouldUseNewLogoDesign` prop](https://github.com/setchy/atlassify/pull/3284) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [build: prepare `v3.12.0` release](https://github.com/setchy/atlassify/pull/3283) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [fix: dev server startup](https://github.com/setchy/atlassify/pull/3282) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [refactor: update urls (api and web) to home.atlassian.com](https://github.com/setchy/atlassify/pull/3281) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [fix: confluence live docs urls and missing shared page notofications](https://github.com/setchy/atlassify/pull/3280) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [ci(actions): add concurrency groups](https://github.com/setchy/atlassify/pull/3279) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
+- MERGED - [build: update labeler for perf semantic commit type](https://github.com/gitify-app/gitify/pull/3105) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- MERGED - [chore: update perf emoji](https://github.com/gitify-app/gitify/pull/3104) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+
+- OPEN - [fix(util/markdown): undo zero-width space chars when used inside codeblocks](https://github.com/renovatebot/renovate/pull/44933) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+
+- MERGED - [chore(deps): fix build issues](https://github.com/setchy/atlassify/pull/3278) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+
 - MERGED - [docs: update faqs for v7 features](https://github.com/gitify-app/website/pull/707) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 
 - MERGED - [refactor: device code flow ux](https://github.com/gitify-app/gitify/pull/3063) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 - MERGED - [build: prepare `v7.0.0` release](https://github.com/gitify-app/gitify/pull/3062) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
-- MERGED - [feat(events): monitor power state](https://github.com/gitify-app/gitify/pull/3060) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [feat(forge): add bitbucket cloud support](https://github.com/gitify-app/gitify/pull/3059) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-
-- MERGED - [refactor: migrate from `menubar` to `electron-menubar`](https://github.com/setchy/atlassify/pull/3190) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 weeks ago]
-
-- MERGED - [chore: renovate semantic commit type](https://github.com/gitify-app/electron-menubar/pull/95) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 weeks ago]
-
-- CLOSED - [chore: renovate semantic commit type](https://github.com/max-mapper/menubar/pull/498) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [3 weeks ago]
-
-- MERGED - [build: prepare `v3.11.0` release](https://github.com/setchy/atlassify/pull/3189) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 weeks ago]
-
-- MERGED - [feat(filter): review request type (user or team)](https://github.com/gitify-app/gitify/pull/3023) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
-- MERGED - [test: improve test suite](https://github.com/gitify-app/gitify/pull/3022) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
-- MERGED - [feat: remove deprecated callback route](https://github.com/gitify-app/website/pull/692) to [gitify-app/website](https://github.com/gitify-app/website) [1 month ago]
-
-- MERGED - [build: prepare `v3.10.1` release](https://github.com/setchy/atlassify/pull/3070) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [fix: revert `electron-menubar` to triage windows platform positioning error](https://github.com/setchy/atlassify/pull/3069) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [build: prepare `v3.10.0` release](https://github.com/setchy/atlassify/pull/3067) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [feat(settings): opt-out anonymous analytics &#43; privacy policy](https://github.com/setchy/atlassify/pull/3066) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- MERGED - [fix: tailwind bg utility](https://github.com/gitify-app/gitify/pull/2989) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
-- MERGED - [chore(deps): update workspace config](https://github.com/gitify-app/gitify/pull/2988) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 month ago]
-
-- MERGED - [feat: migrate to `electron-menubar`](https://github.com/setchy/atlassify/pull/3065) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
-- OPEN - [refactor: migrate to vite-plus unified toolchain](https://github.com/setchy/atlassify/pull/3033) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 month ago]
-
 #### ⭐ Latest projects I've starred
 
 
 
-- [devcontainers/spec](https://github.com/devcontainers/spec) 5617⭐
+- [block/buzz](https://github.com/block/buzz) 17148⭐
+
+- [devcontainers/spec](https://github.com/devcontainers/spec) 5622⭐
 
 - [ards-project/ard-spec](https://github.com/ards-project/ard-spec) 408⭐
 
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) 8084⭐
 
-- [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) 278⭐
+- [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) 280⭐
 
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 9000⭐
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 9021⭐
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) 3544⭐
+- [robinebers/openusage](https://github.com/robinebers/openusage) 3552⭐
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19912⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 19949⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 36⭐
 
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) 2374⭐
-
-- [CiscoDevNet/foundry-security-spec](https://github.com/CiscoDevNet/foundry-security-spec) 200⭐
 
 
