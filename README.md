@@ -46,17 +46,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [6 days ago]
 
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
@@ -70,45 +70,45 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- MERGED - [refactor(bitbucket): simplify repo url transform](https://github.com/gitify-app/gitify/pull/3133) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [fix: correct online state on startup instead of waiting for a network event](https://github.com/gitify-app/gitify/pull/3147) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [chore: add labeler config for forges](https://github.com/gitify-app/gitify/pull/3132) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [refactor(api): configure gc and stale time](https://github.com/gitify-app/gitify/pull/3146) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [chore: remove schedule for first-party `electron-menubar`](https://github.com/setchy/atlassify/pull/3296) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- OPEN - [fix: rollback failed notification interaction with visual warning](https://github.com/gitify-app/gitify/pull/3145) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
-- MERGED - [chore: remove schedule for first-party `electron-menubar`](https://github.com/gitify-app/gitify/pull/3129) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor(bitbucket): simplify repo url transform](https://github.com/gitify-app/gitify/pull/3133) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [build: prepare `v3.13.0` release](https://github.com/setchy/atlassify/pull/3295) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [chore: add labeler config for forges](https://github.com/gitify-app/gitify/pull/3132) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
-- MERGED - [refactor: migrate to `@atlaskit/css`](https://github.com/setchy/atlassify/pull/3294) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [chore: remove schedule for first-party `electron-menubar`](https://github.com/setchy/atlassify/pull/3296) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- OPEN - [docs: add opengraph meta tags](https://github.com/renovatebot/renovate/pull/44985) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [chore: remove schedule for first-party `electron-menubar`](https://github.com/gitify-app/gitify/pull/3129) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [docs: abandoned prs](https://github.com/renovatebot/renovate/pull/44984) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [build: prepare `v3.13.0` release](https://github.com/setchy/atlassify/pull/3295) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [chore: remove minimum age threshold for first-party `electron-menubar`](https://github.com/setchy/atlassify/pull/3293) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [refactor: migrate to `@atlaskit/css`](https://github.com/setchy/atlassify/pull/3294) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [chore: remove minimum age threshold for first-party `electron-menubar`](https://github.com/gitify-app/gitify/pull/3127) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [docs: add opengraph meta tags](https://github.com/renovatebot/renovate/pull/44985) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [feat(api): paginate results](https://github.com/setchy/atlassify/pull/3292) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- OPEN - [docs: abandoned prs](https://github.com/renovatebot/renovate/pull/44984) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
 
-- MERGED - [ci: format contributors section as unordered list](https://github.com/gitify-app/gitify/pull/3126) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [chore: remove minimum age threshold for first-party `electron-menubar`](https://github.com/setchy/atlassify/pull/3293) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- OPEN - [refactor: migrate from deprecated `standard-version` to recommended `release-please` workflow](https://github.com/max-mapper/menubar/pull/503) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [5 days ago]
+- MERGED - [chore: remove minimum age threshold for first-party `electron-menubar`](https://github.com/gitify-app/gitify/pull/3127) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [chore: update biomejs and lint codebase](https://github.com/max-mapper/menubar/pull/502) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [5 days ago]
+- MERGED - [feat(api): paginate results](https://github.com/setchy/atlassify/pull/3292) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
 
-- MERGED - [chore: update to node 24 lts](https://github.com/max-mapper/menubar/pull/501) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [5 days ago]
+- MERGED - [ci: format contributors section as unordered list](https://github.com/gitify-app/gitify/pull/3126) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 
-- OPEN - [chore: update typedocs](https://github.com/max-mapper/menubar/pull/500) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [5 days ago]
+- OPEN - [refactor: migrate from deprecated `standard-version` to recommended `release-please` workflow](https://github.com/max-mapper/menubar/pull/503) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [6 days ago]
 
-- MERGED - [ci: update release sections to use emojis and callout core deps](https://github.com/gitify-app/electron-menubar/pull/133) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [6 days ago]
+- MERGED - [chore: update biomejs and lint codebase](https://github.com/max-mapper/menubar/pull/502) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [6 days ago]
 
-- CLOSED - [ci: update release config](https://github.com/max-mapper/menubar/pull/499) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [6 days ago]
+- MERGED - [chore: update to node 24 lts](https://github.com/max-mapper/menubar/pull/501) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [6 days ago]
 
-- MERGED - [ci: add `core-deps` scope to surface within release-please generated changelog/release notes](https://github.com/gitify-app/gitify/pull/3114) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [chore: update typedocs](https://github.com/max-mapper/menubar/pull/500) to [max-mapper/menubar](https://github.com/max-mapper/menubar) [6 days ago]
 
-- MERGED - [ci: reuse draft release](https://github.com/setchy/atlassify/pull/3286) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [ci: update release sections to use emojis and callout core deps](https://github.com/gitify-app/electron-menubar/pull/133) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 week ago]
 
 #### ⭐ Latest projects I've starred
 
@@ -116,21 +116,21 @@ Senior Executive (VP) // Architect // Developer
 
 - [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) 2⭐
 
-- [block/buzz](https://github.com/block/buzz) 21861⭐
+- [block/buzz](https://github.com/block/buzz) 22559⭐
 
-- [devcontainers/spec](https://github.com/devcontainers/spec) 5627⭐
+- [devcontainers/spec](https://github.com/devcontainers/spec) 5630⭐
 
-- [ards-project/ard-spec](https://github.com/ards-project/ard-spec) 413⭐
+- [ards-project/ard-spec](https://github.com/ards-project/ard-spec) 414⭐
 
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) 8087⭐
 
-- [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) 285⭐
+- [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) 298⭐
 
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 9123⭐
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 9135⭐
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) 3627⭐
+- [robinebers/openusage](https://github.com/robinebers/openusage) 3643⭐
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 20130⭐
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 20252⭐
 
 - [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 36⭐
 
