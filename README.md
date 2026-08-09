@@ -46,13 +46,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [setchy/.github](https://github.com/setchy/.github) -  [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [setchy/.github](https://github.com/setchy/.github) -  [3 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [5 days ago]
 
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -64,27 +64,27 @@ Senior Executive (VP) // Architect // Developer
 
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [3 weeks ago]
 
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 month ago]
+- [graphql/graphql-landscape](https://github.com/graphql/graphql-landscape) - 🌄Landscape for the GraphQL ecosystem [1 month ago]
 
 #### 🎉 My recent pull requests
 
 
 
-- MERGED - [build: prepare `v3.14.0` release](https://github.com/setchy/atlassify/pull/3352) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [build: prepare `v3.14.0` release](https://github.com/setchy/atlassify/pull/3352) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
 
-- MERGED - [test: refactor to use cases](https://github.com/gitify-app/gitify/pull/3160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [test: refactor to use cases](https://github.com/gitify-app/gitify/pull/3160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat(metrics): add pills for issue and stacked](https://github.com/gitify-app/gitify/pull/3159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(metrics): add pills for issue and stacked](https://github.com/gitify-app/gitify/pull/3159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
 
-- MERGED - [feat(accounts): add optional hostname hints for notification feed routing](https://github.com/setchy/atlassify/pull/3335) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat(accounts): add optional hostname hints for notification feed routing](https://github.com/setchy/atlassify/pull/3335) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [refactor: skip set login item in dev mode](https://github.com/setchy/atlassify/pull/3334) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [refactor: skip set login item in dev mode](https://github.com/setchy/atlassify/pull/3334) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
 
-- MERGED - [fix: correct online state on startup instead of waiting for a network event](https://github.com/gitify-app/gitify/pull/3147) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: correct online state on startup instead of waiting for a network event](https://github.com/gitify-app/gitify/pull/3147) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- MERGED - [refactor(api): configure gc and stale time](https://github.com/gitify-app/gitify/pull/3146) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor(api): configure gc and stale time](https://github.com/gitify-app/gitify/pull/3146) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
-- OPEN - [fix: rollback failed notification interaction with visual warning](https://github.com/gitify-app/gitify/pull/3145) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: rollback failed notification interaction with visual warning](https://github.com/gitify-app/gitify/pull/3145) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
 
 - MERGED - [refactor(bitbucket): simplify repo url transform](https://github.com/gitify-app/gitify/pull/3133) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
@@ -114,24 +114,24 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) 3⭐
+- [Finsys/dockhand](https://github.com/Finsys/dockhand) 5529⭐
 
-- [block/buzz](https://github.com/block/buzz) 24948⭐
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) 8562⭐
 
-- [devcontainers/spec](https://github.com/devcontainers/spec) 5635⭐
+- [setchy/miami-spice](https://github.com/setchy/miami-spice) 1⭐
 
-- [ards-project/ard-spec](https://github.com/ards-project/ard-spec) 422⭐
+- [megabyte79/miami-spice](https://github.com/megabyte79/miami-spice) 1⭐
 
-- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) 8086⭐
+- [StefanAraujo/miami-spice](https://github.com/StefanAraujo/miami-spice) 1⭐
 
-- [cosai-oasis/project-codeguard](https://github.com/cosai-oasis/project-codeguard) 300⭐
+- [btmitchell25/miami-spice](https://github.com/btmitchell25/miami-spice) 1⭐
 
-- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) 9192⭐
+- [sdolgin/miami-spice-decoded](https://github.com/sdolgin/miami-spice-decoded) 1⭐
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) 3682⭐
+- [TardisThief/MiamiSpice2026](https://github.com/TardisThief/MiamiSpice2026) 1⭐
 
-- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) 20551⭐
+- [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) 4⭐
 
-- [olgasafonova/SkillCheck-Free](https://github.com/olgasafonova/SkillCheck-Free) 36⭐
+- [block/buzz](https://github.com/block/buzz) 25321⭐
 
 
