@@ -71,7 +71,7 @@ Senior Executive (VP) // Architect // Developer
 <summary>⭐ Latest projects I've starred</summary>
 
 {{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) {{.Repo.Stargazers}}⭐
+- [{{.Repo.Name}}]({{.Repo.URL}}): ⭐ {{.Repo.Stargazers}}
   {{- end}}
 
 </details>
