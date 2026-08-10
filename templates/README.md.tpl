@@ -48,26 +48,33 @@ Senior Executive (VP) // Architect // Developer
 - [LaunchDarkly: World Kinect increases release velocity by 400%](https://launchdarkly.com/case-studies/world-kinect/)
 
 ### 🎯 OSS Activity
-#### 🚀 My recent contributions
+
+<details>
+<summary>🚀 My recent contributions</summary>
 
 {{range recentContributions 10}}
-
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description }} [{{humanize .OccurredAt}}]
   {{- end}}
 
-#### 🎉 My recent pull requests
+</details>
+
+<details>
+<summary>🎉 My recent pull requests</summary>
 
 {{range recentPullRequests 20}}
-
 - {{.State}} - [{{.Title}}]({{.URL}}) to [{{.Repo.Name}}]({{.Repo.URL}}) [{{humanize .CreatedAt}}]
   {{- end}}
 
-#### ⭐ Latest projects I've starred
+</details>
+
+<details>
+<summary>⭐ Latest projects I've starred</summary>
 
 {{range recentStars 10}}
-
 - [{{.Repo.Name}}]({{.Repo.URL}}) {{.Repo.Stargazers}}⭐
   {{- end}}
+
+</details>
 
 <!--
 **setchy/setchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
