@@ -29,13 +29,14 @@ Senior Executive (VP) // Architect // Developer
 
 ### 📛 Badges
 
-[![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d) [![github](https://img.shields.io/github/followers/setchy?logo=github&style=flat-square)](https://github.com/setchy?tab=followers)
+[![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d)
+[![sponsors](https://img.shields.io/github/sponsors/setchy?logo=githubsponsors&logoColor=EA4AAA&style=flat-square)](https://github.com/sponsors/setchy)
+[![github](https://img.shields.io/github/followers/setchy?logo=github&style=flat-square)](https://github.com/setchy?tab=followers)
 
-<b>My GitHub Stats</b>
+#### 📊 My GitHub Stats
 
 <a href="http://www.github.com/setchy"><img src="https://github-stats-extended.vercel.app/api?username=setchy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="setchy's GitHub stats" /></a>
-
-<a href="http://www.github.com/setchy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=setchy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/setchy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=setchy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="setchy's GitHub streak" /></a>
 
 ### 📼 Videos
 
@@ -54,15 +55,15 @@ Senior Executive (VP) // Architect // Developer
 
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [today]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [today]
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 - [setchy/.github](https://github.com/setchy/.github) -  [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 week ago]
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 weeks ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [3 weeks ago]
 
 </details>
 
@@ -99,7 +100,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [nativewind/nativewind](https://github.com/nativewind/nativewind): ⭐ 8054
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js): ⭐ 11316
-- [Finsys/dockhand](https://github.com/Finsys/dockhand): ⭐ 5550
+- [Finsys/dockhand](https://github.com/Finsys/dockhand): ⭐ 5551
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons): ⭐ 8567
 - [setchy/miami-spice](https://github.com/setchy/miami-spice): ⭐ 1
 - [megabyte79/miami-spice](https://github.com/megabyte79/miami-spice): ⭐ 1
