@@ -29,13 +29,14 @@ Senior Executive (VP) // Architect // Developer
 
 ### 📛 Badges
 
-[![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d) [![github](https://img.shields.io/github/followers/setchy?logo=github&style=flat-square)](https://github.com/setchy?tab=followers)
+[![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d)
+[![sponsors](https://img.shields.io/github/sponsors/setchy?logo=githubsponsors&logoColor=EA4AAA&style=flat-square)](https://github.com/sponsors/setchy)
+[![github](https://img.shields.io/github/followers/setchy?logo=github&style=flat-square)](https://github.com/setchy?tab=followers)
 
-<b>My GitHub Stats</b>
+#### 📊 My GitHub Stats
 
 <a href="http://www.github.com/setchy"><img src="https://github-stats-extended.vercel.app/api?username=setchy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="setchy's GitHub stats" /></a>
-
-<a href="http://www.github.com/setchy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=setchy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/setchy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=setchy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="setchy's GitHub streak" /></a>
 
 ### 📼 Videos
 
