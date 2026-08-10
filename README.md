@@ -97,16 +97,16 @@ Senior Executive (VP) // Architect // Developer
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [nativewind/nativewind](https://github.com/nativewind/nativewind) 8054⭐
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) 11316⭐
-- [Finsys/dockhand](https://github.com/Finsys/dockhand) 5550⭐
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) 8567⭐
-- [setchy/miami-spice](https://github.com/setchy/miami-spice) 1⭐
-- [megabyte79/miami-spice](https://github.com/megabyte79/miami-spice) 1⭐
-- [StefanAraujo/miami-spice](https://github.com/StefanAraujo/miami-spice) 1⭐
-- [btmitchell25/miami-spice](https://github.com/btmitchell25/miami-spice) 1⭐
-- [sdolgin/miami-spice-decoded](https://github.com/sdolgin/miami-spice-decoded) 1⭐
-- [TardisThief/MiamiSpice2026](https://github.com/TardisThief/MiamiSpice2026) 1⭐
+- [nativewind/nativewind](https://github.com/nativewind/nativewind): ⭐ 8054
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js): ⭐ 11316
+- [Finsys/dockhand](https://github.com/Finsys/dockhand): ⭐ 5550
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons): ⭐ 8567
+- [setchy/miami-spice](https://github.com/setchy/miami-spice): ⭐ 1
+- [megabyte79/miami-spice](https://github.com/megabyte79/miami-spice): ⭐ 1
+- [StefanAraujo/miami-spice](https://github.com/StefanAraujo/miami-spice): ⭐ 1
+- [btmitchell25/miami-spice](https://github.com/btmitchell25/miami-spice): ⭐ 1
+- [sdolgin/miami-spice-decoded](https://github.com/sdolgin/miami-spice-decoded): ⭐ 1
+- [TardisThief/MiamiSpice2026](https://github.com/TardisThief/MiamiSpice2026): ⭐ 1
 
 </details>
 
