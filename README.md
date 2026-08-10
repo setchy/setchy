@@ -19,7 +19,13 @@ Senior Executive (VP) // Architect // Developer
 
 ### 🎙️ Socials
 
-<p align="left"><a href="https://www.github.com/setchy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/adamsetch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.twitter.com/setchy87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.github.com/setchy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adamsetch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.twitter.com/setchy87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
 ### 📛 Badges
 
@@ -27,7 +33,7 @@ Senior Executive (VP) // Architect // Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/setchy"><img src="https://github-readme-stats.vercel.app/api?username=setchy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="setchy's GitHub stats" /></a>
+<a href="http://www.github.com/setchy"><img src="https://github-stats-extended.vercel.app/api?username=setchy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="setchy's GitHub stats" /></a>
 
 <a href="http://www.github.com/setchy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=setchy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -46,17 +52,17 @@ Senior Executive (VP) // Architect // Developer
 
 
 
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [today]
+
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
+
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
 
-- [setchy/.github](https://github.com/setchy/.github) -  [4 days ago]
-
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [6 days ago]
-
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
+- [setchy/.github](https://github.com/setchy/.github) -  [4 days ago]
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
@@ -114,11 +120,13 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) 11309⭐
+- [nativewind/nativewind](https://github.com/nativewind/nativewind) 8054⭐
 
-- [Finsys/dockhand](https://github.com/Finsys/dockhand) 5540⭐
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) 11316⭐
 
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) 8564⭐
+- [Finsys/dockhand](https://github.com/Finsys/dockhand) 5550⭐
+
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) 8567⭐
 
 - [setchy/miami-spice](https://github.com/setchy/miami-spice) 1⭐
 
@@ -131,7 +139,5 @@ Senior Executive (VP) // Architect // Developer
 - [sdolgin/miami-spice-decoded](https://github.com/sdolgin/miami-spice-decoded) 1⭐
 
 - [TardisThief/MiamiSpice2026](https://github.com/TardisThief/MiamiSpice2026) 1⭐
-
-- [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) 4⭐
 
 
