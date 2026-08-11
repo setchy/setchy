@@ -30,8 +30,8 @@ Senior Executive (VP) // Architect // Developer
 ### 📛 Badges
 
 [![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d)
-[![sponsors](https://img.shields.io/github/sponsors/setchy?logo=githubsponsors&logoColor=EA4AAA&style=flat-square)](https://github.com/sponsors/setchy)
 [![github](https://img.shields.io/github/followers/setchy?logo=github&style=flat-square)](https://github.com/setchy?tab=followers)
+[![sponsors](https://img.shields.io/github/sponsors/setchy?logo=githubsponsors&logoColor=EA4AAA&style=flat-square)](https://github.com/sponsors/setchy)
 
 #### 📊 My GitHub Stats
 
