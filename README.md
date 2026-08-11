@@ -54,13 +54,13 @@ Senior Executive (VP) // Architect // Developer
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [today]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [today]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
-- [setchy/.github](https://github.com/setchy/.github) -  [4 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My GitHub Pages site [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong tour visualization [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [setchy/.github](https://github.com/setchy/.github) -  [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [1 week ago]
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 weeks ago]
@@ -71,14 +71,14 @@ Senior Executive (VP) // Architect // Developer
 <summary>🎉 My recent pull requests</summary>
 
 
-- MERGED - [build: prepare `v3.14.0` release](https://github.com/setchy/atlassify/pull/3352) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
-- MERGED - [test: refactor to use cases](https://github.com/gitify-app/gitify/pull/3160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- MERGED - [feat(metrics): add pills for issue and stacked](https://github.com/gitify-app/gitify/pull/3159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- MERGED - [feat(accounts): add optional hostname hints for notification feed routing](https://github.com/setchy/atlassify/pull/3335) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
-- MERGED - [refactor: skip set login item in dev mode](https://github.com/setchy/atlassify/pull/3334) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
-- MERGED - [fix: correct online state on startup instead of waiting for a network event](https://github.com/gitify-app/gitify/pull/3147) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
-- MERGED - [refactor(api): configure gc and stale time](https://github.com/gitify-app/gitify/pull/3146) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
-- MERGED - [fix: rollback failed notification interaction with visual warning](https://github.com/gitify-app/gitify/pull/3145) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v3.14.0` release](https://github.com/setchy/atlassify/pull/3352) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [test: refactor to use cases](https://github.com/gitify-app/gitify/pull/3160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat(metrics): add pills for issue and stacked](https://github.com/gitify-app/gitify/pull/3159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [feat(accounts): add optional hostname hints for notification feed routing](https://github.com/setchy/atlassify/pull/3335) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: skip set login item in dev mode](https://github.com/setchy/atlassify/pull/3334) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [fix: correct online state on startup instead of waiting for a network event](https://github.com/gitify-app/gitify/pull/3147) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor(api): configure gc and stale time](https://github.com/gitify-app/gitify/pull/3146) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: rollback failed notification interaction with visual warning](https://github.com/gitify-app/gitify/pull/3145) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [refactor(bitbucket): simplify repo url transform](https://github.com/gitify-app/gitify/pull/3133) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [chore: add labeler config for forges](https://github.com/gitify-app/gitify/pull/3132) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [chore: remove schedule for first-party `electron-menubar`](https://github.com/setchy/atlassify/pull/3296) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
@@ -100,7 +100,7 @@ Senior Executive (VP) // Architect // Developer
 
 - [nativewind/nativewind](https://github.com/nativewind/nativewind): ⭐ 8054
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js): ⭐ 11316
-- [Finsys/dockhand](https://github.com/Finsys/dockhand): ⭐ 5551
+- [Finsys/dockhand](https://github.com/Finsys/dockhand): ⭐ 5552
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons): ⭐ 8567
 - [setchy/miami-spice](https://github.com/setchy/miami-spice): ⭐ 1
 - [megabyte79/miami-spice](https://github.com/megabyte79/miami-spice): ⭐ 1
