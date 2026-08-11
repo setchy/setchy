@@ -1,7 +1,7 @@
 ![wave][wave-gif] Hi, I'm Adam
 ============================================================================================================================
 
-Senior Executive (VP) // Architect // Developer
+Distinguished Engineer @ Cisco // Former Chief Architect & VP // Developer
 --------------------------------------------------------------------------
 
 ### 🔭 Interests
