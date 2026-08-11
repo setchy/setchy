@@ -1,8 +1,8 @@
 ![wave][wave-gif] Hi, I'm Adam
 ============================================================================================================================
 
-Senior Executive (VP) // Architect // Developer
------------------------------------------------
+Distinguished Engineer @ Cisco // Former Chief Architect & VP // Developer
+--------------------------------------------------------------------------
 
 ### 🔭 Interests
 
@@ -12,38 +12,35 @@ Senior Executive (VP) // Architect // Developer
 - **Dependency Management & Technical Health**: *LeanIX // Renovate // SBOM*
 - **Innovation**: *Communicating emerging technology trends via Tech Radars*
 
-### 💪 Skills
+### 🛠️ Skills
 
 [![Skills][skills-badge]][skills-icons]
 
-### 🎙️ Socials
+### 🤝 Connect
 
 [![GitHub][social-github-badge]][social-github]
 [![LinkedIn][social-linkedin-badge]][social-linkedin]
 [![Twitter][social-twitter-badge]][social-twitter]
 
-### 📛 Badges
+### 🏅 Badges
 
 [![wakatime][wakatime-badge]][wakatime]
 [![github][followers-badge]][followers]
 [![sponsors][sponsors-badge]][sponsors]
 
-#### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 [![setchy's GitHub stats][stats-badge]][profile]
 [![setchy's GitHub streak][streak-badge]][profile]
 
-### 📼 Videos
+### 🎬 Talks, Videos & Case Studies
 
-- [Apollo GraphOS: Power digital transformations][video-graphos]
-- [GraphQL Summit 2023 - it's all about the people][video-summit-2023]
-- [GraphQL Summit (Nov '21) - A Champion's Guide to Building Your Unified Graph][video-summit-2021]
+- [![Video][badge-apollo-video]][video-graphos] **[Apollo GraphOS: Power digital transformations][video-graphos]**
+- [![Video][badge-youtube-video]][video-summit-2023] **[GraphQL Summit 2023 — it's all about the people][video-summit-2023]**
+- [![Video][badge-apollo-video]][video-summit-2021] **[A Champion's Guide to Building Your Unified Graph][video-summit-2021]** *(GraphQL Summit, Nov '21)*
+- [![Case Study][badge-launchdarkly-case]][case-study-world-kinect] **[World Kinect increases release velocity by 400%][case-study-world-kinect]**
 
-### ✏️ Case Studies
-
-- [LaunchDarkly: World Kinect increases release velocity by 400%][case-study-world-kinect]
-
-### 🎯 OSS Activity
+### 🧑‍💻 OSS Activity
 
 <details>
 <summary>🚀 My recent contributions</summary>
@@ -63,7 +60,7 @@ Senior Executive (VP) // Architect // Developer
 </details>
 
 <details>
-<summary>🎉 My recent pull requests</summary>
+<summary>🔀 My recent pull requests</summary>
 
 
 - MERGED - [feat: group and filter](https://github.com/setchy/guidealong-maps/pull/21) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
@@ -120,11 +117,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 [social-github]: https://www.github.com/setchy
-[social-github-badge]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square
+[social-github-badge]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge
 [social-linkedin]: https://www.linkedin.com/in/adamsetch
-[social-linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square
+[social-linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
 [social-twitter]: https://www.twitter.com/setchy87
-[social-twitter-badge]: https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=flat-square
+[social-twitter-badge]: https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge
 
 
 
@@ -143,10 +140,11 @@ Senior Executive (VP) // Architect // Developer
 
 
 
-[case-study-world-kinect]: https://launchdarkly.com/case-studies/world-kinect/
-
-
+[badge-apollo-video]: https://img.shields.io/badge/Video-311C87?logo=apollographql&logoColor=white&style=flat-square
+[badge-youtube-video]: https://img.shields.io/badge/Video-FF0000?logo=youtube&logoColor=white&style=flat-square
+[badge-launchdarkly-case]: https://img.shields.io/badge/Case_Study-405BFF?logo=launchdarkly&logoColor=white&style=flat-square
 
 [video-graphos]: https://www.apollographql.com/enterprise?wvideo=4fu2lsjssc
 [video-summit-2023]: https://www.youtube.com/watch?v=090IWEcHbJc
 [video-summit-2021]: https://www.apollographql.com/events/roundtable/graphql-summit-november-2021/a-champions-guide-to-building-your-unified-graph
+[case-study-world-kinect]: https://launchdarkly.com/case-studies/world-kinect/
