@@ -30,8 +30,8 @@ Senior Executive (VP) // Architect // Developer
 ### 📛 Badges
 
 [![wakatime](https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg)](https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d)
-[![sponsors](https://img.shields.io/github/sponsors/setchy?logo=githubsponsors&logoColor=EA4AAA&style=flat-square)](https://github.com/sponsors/setchy)
 [![github](https://img.shields.io/github/followers/setchy?logo=github&style=flat-square)](https://github.com/setchy?tab=followers)
+[![sponsors](https://img.shields.io/github/sponsors/setchy?logo=githubsponsors&logoColor=EA4AAA&style=flat-square)](https://github.com/sponsors/setchy)
 
 #### 📊 My GitHub Stats
 
@@ -101,7 +101,7 @@ Senior Executive (VP) // Architect // Developer
 - [nativewind/nativewind](https://github.com/nativewind/nativewind): ⭐ 8054
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js): ⭐ 11316
 - [Finsys/dockhand](https://github.com/Finsys/dockhand): ⭐ 5552
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons): ⭐ 8567
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons): ⭐ 8568
 - [setchy/miami-spice](https://github.com/setchy/miami-spice): ⭐ 1
 - [megabyte79/miami-spice](https://github.com/megabyte79/miami-spice): ⭐ 1
 - [StefanAraujo/miami-spice](https://github.com/StefanAraujo/miami-spice): ⭐ 1
