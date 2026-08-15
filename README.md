@@ -47,15 +47,15 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [2 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [3 days ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 - [setchy/.github](https://github.com/setchy/.github) -  [1 week ago]
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron [2 weeks ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 weeks ago]
 
 </details>
 
@@ -63,14 +63,17 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [chore: update labeler config](https://github.com/gitify-app/gitify/pull/3180) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [chore: remove unused generated files](https://github.com/gitify-app/gitify/pull/3179) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [fix(forge/github): sanitize gql query docs based on gated feature compatibility](https://github.com/gitify-app/gitify/pull/3178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(actions): run triage on release-please](https://github.com/gitify-app/gitify/pull/3177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [feat: mobile responsive](https://github.com/setchy/guidealong-maps/pull/26) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [2 days ago]
-- MERGED - [fix(metrics): fetch stacked pr metrics only for GitHub Cloud](https://github.com/gitify-app/gitify/pull/3175) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [feat: group and filter](https://github.com/setchy/guidealong-maps/pull/21) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [3 days ago]
-- OPEN - [feat: migration to astro site](https://github.com/setchy/setchy.github.io/pull/74) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [3 days ago]
+- OPEN - [feat(metrics): improve pr review metric pill](https://github.com/gitify-app/gitify/pull/3184) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(github): format and render Bot account names](https://github.com/gitify-app/gitify/pull/3183) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(github): update actor display names (managed and unmanaged)](https://github.com/gitify-app/gitify/pull/3182) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore: update labeler config](https://github.com/gitify-app/gitify/pull/3180) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [chore: remove unused generated files](https://github.com/gitify-app/gitify/pull/3179) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [fix(forge/github): sanitize gql query docs based on gated feature compatibility](https://github.com/gitify-app/gitify/pull/3178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [chore(actions): run triage on release-please](https://github.com/gitify-app/gitify/pull/3177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: mobile responsive](https://github.com/setchy/guidealong-maps/pull/26) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [3 days ago]
+- MERGED - [fix(metrics): fetch stacked pr metrics only for GitHub Cloud](https://github.com/gitify-app/gitify/pull/3175) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: group and filter](https://github.com/setchy/guidealong-maps/pull/21) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [4 days ago]
+- OPEN - [feat: migration to astro site](https://github.com/setchy/setchy.github.io/pull/74) to [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) [4 days ago]
 - MERGED - [build: prepare `v3.14.0` release](https://github.com/setchy/atlassify/pull/3352) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 - MERGED - [test: refactor to use cases](https://github.com/gitify-app/gitify/pull/3160) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [feat(metrics): add pills for issue and stacked](https://github.com/gitify-app/gitify/pull/3159) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
@@ -79,10 +82,7 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - MERGED - [fix: correct online state on startup instead of waiting for a network event](https://github.com/gitify-app/gitify/pull/3147) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [refactor(api): configure gc and stale time](https://github.com/gitify-app/gitify/pull/3146) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [fix: rollback failed notification interaction with visual warning](https://github.com/gitify-app/gitify/pull/3145) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [refactor(bitbucket): simplify repo url transform](https://github.com/gitify-app/gitify/pull/3133) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [chore: add labeler config for forges](https://github.com/gitify-app/gitify/pull/3132) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [chore: remove schedule for first-party `electron-menubar`](https://github.com/setchy/atlassify/pull/3296) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-- MERGED - [chore: remove schedule for first-party `electron-menubar`](https://github.com/gitify-app/gitify/pull/3129) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [refactor(bitbucket): simplify repo url transform](https://github.com/gitify-app/gitify/pull/3133) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 </details>
 
@@ -90,13 +90,13 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3133
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3136
 - [3rg0n/webex-message-handler](https://github.com/3rg0n/webex-message-handler): ⭐ 1
 - [3rg0n/wgrok](https://github.com/3rg0n/wgrok): ⭐ 1
-- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended): ⭐ 842
-- [nativewind/nativewind](https://github.com/nativewind/nativewind): ⭐ 8058
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js): ⭐ 11334
-- [Finsys/dockhand](https://github.com/Finsys/dockhand): ⭐ 5587
+- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended): ⭐ 850
+- [nativewind/nativewind](https://github.com/nativewind/nativewind): ⭐ 8060
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js): ⭐ 11345
+- [Finsys/dockhand](https://github.com/Finsys/dockhand): ⭐ 5597
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons): ⭐ 8575
 - [setchy/miami-spice](https://github.com/setchy/miami-spice): ⭐ 1
 - [megabyte79/miami-spice](https://github.com/megabyte79/miami-spice): ⭐ 1
