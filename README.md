@@ -98,7 +98,7 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3150
 - [3rg0n/webex-message-handler](https://github.com/3rg0n/webex-message-handler): ⭐ 1
 - [3rg0n/wgrok](https://github.com/3rg0n/wgrok): ⭐ 1
-- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended): ⭐ 952
+- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended): ⭐ 951
 - [nativewind/nativewind](https://github.com/nativewind/nativewind): ⭐ 8060
 
 </details>
