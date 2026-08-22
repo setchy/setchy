@@ -2,6 +2,8 @@ name: Update README
 
 on:
   push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 */1 * *"
   workflow_dispatch:
@@ -17,7 +19,7 @@ jobs:
           clean: true
 
       - name: Generate GitHub stats card
-        uses: stats-organization/github-readme-stats-action@e52ecffb9b500c9f8532aff89937973d64706446 # v2
+        uses: stats-organization/github-readme-stats-action@e52ecffb9b500c9f8532aff89937973d64706446 # v2.0.2
         with:
           card: stats
           options: username=setchy&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true
@@ -25,7 +27,7 @@ jobs:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - name: Generate streak stats card
-        uses: DenverCoder1/github-readme-streak-stats@f69662e10794e8757b12d3303a113a30b01c9bc9 # main
+        uses: DenverCoder1/github-readme-streak-stats@f69662e10794e8757b12d3303a113a30b01c9bc9 # v1.7.0
         with:
           options: user=setchy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true
           path: profile/streak.svg
