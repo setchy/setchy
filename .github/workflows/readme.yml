@@ -19,7 +19,7 @@ jobs:
           clean: true
 
       - name: Generate GitHub stats card
-        uses: stats-organization/github-readme-stats-action@e52ecffb9b500c9f8532aff89937973d64706446 # v2.0.2
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: stats
           options: username=setchy&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true
