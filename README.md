@@ -46,7 +46,7 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [4 days ago]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [6 days ago]
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [6 days ago]
@@ -90,16 +90,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
+- [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action): ⭐ 263
 - [trakt/trakt-web](https://github.com/trakt/trakt-web): ⭐ 287
 - [trakt/trakt-android](https://github.com/trakt/trakt-android): ⭐ 61
 - [CNoetzel/HelloFresh-RecipeDownloader](https://github.com/CNoetzel/HelloFresh-RecipeDownloader): ⭐ 12
 - [trakt/trakt-api](https://github.com/trakt/trakt-api): ⭐ 346
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3148
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3150
 - [3rg0n/webex-message-handler](https://github.com/3rg0n/webex-message-handler): ⭐ 1
 - [3rg0n/wgrok](https://github.com/3rg0n/wgrok): ⭐ 1
-- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended): ⭐ 946
+- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended): ⭐ 952
 - [nativewind/nativewind](https://github.com/nativewind/nativewind): ⭐ 8060
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js): ⭐ 11401
 
 </details>
 
@@ -135,8 +135,8 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 
 [profile]: https://github.com/setchy
-[stats-badge]: https://github-stats-extended.vercel.app/api?username=setchy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true
-[streak-badge]: https://github-readme-streak-stats.herokuapp.com/?user=setchy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true
+[stats-badge]: ./profile/stats.svg
+[streak-badge]: ./profile/streak.svg
 
 
 
