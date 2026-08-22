@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - name: Generate streak stats card
-        uses: DenverCoder1/github-readme-streak-stats@f69662e10794e8757b12d3303a113a30b01c9bc9 # v1.7.0
+        uses: DenverCoder1/github-readme-streak-stats@51cfb8879073b4c016ce6286016de0b14d179077 # v1.7.0
         with:
           options: user=setchy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true
           path: profile/streak.svg
