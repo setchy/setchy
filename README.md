@@ -47,8 +47,8 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [1 day ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 week ago]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 week ago]
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
@@ -63,7 +63,8 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [chore: fix release please configuration for dep scopes](https://github.com/gitify-app/gitify/pull/3221) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test: `vp migrate` to avoid vitest drift](https://github.com/gitify-app/gitify/pull/3224) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore: fix release please configuration for dep scopes](https://github.com/gitify-app/gitify/pull/3221) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 - MERGED - [fix: menubar icon state](https://github.com/gitify-app/gitify/pull/3205) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [feat(github): improve pr enriched data ](https://github.com/gitify-app/gitify/pull/3204) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - OPEN - [docs: update README](https://github.com/alexcodito/HelloFreshCrawler/pull/11) to [alexcodito/HelloFreshCrawler](https://github.com/alexcodito/HelloFreshCrawler) [1 week ago]
@@ -82,7 +83,6 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - MERGED - [chore: update labeler config](https://github.com/gitify-app/gitify/pull/3180) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [chore: remove unused generated files](https://github.com/gitify-app/gitify/pull/3179) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [fix(forge/github): sanitize gql query docs based on gated feature compatibility](https://github.com/gitify-app/gitify/pull/3178) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [chore(actions): run triage on release-please](https://github.com/gitify-app/gitify/pull/3177) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 </details>
 
@@ -90,16 +90,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn): ⭐ 11882
+- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn): ⭐ 11906
 - [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action): ⭐ 269
 - [trakt/trakt-web](https://github.com/trakt/trakt-web): ⭐ 288
 - [trakt/trakt-android](https://github.com/trakt/trakt-android): ⭐ 63
 - [CNoetzel/HelloFresh-RecipeDownloader](https://github.com/CNoetzel/HelloFresh-RecipeDownloader): ⭐ 12
-- [trakt/trakt-api](https://github.com/trakt/trakt-api): ⭐ 346
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3154
+- [trakt/trakt-api](https://github.com/trakt/trakt-api): ⭐ 347
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3157
 - [3rg0n/webex-message-handler](https://github.com/3rg0n/webex-message-handler): ⭐ 1
 - [3rg0n/wgrok](https://github.com/3rg0n/wgrok): ⭐ 1
-- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended): ⭐ 987
+- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended): ⭐ 1008
 
 </details>
 
