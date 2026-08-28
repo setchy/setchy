@@ -16,17 +16,17 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 [![Skills][skills-badge]][skills-icons]
 
-### 🤝 Connect & Support
+### 🤝 Connect
 
 [![GitHub][social-github-badge]][social-github]
 [![LinkedIn][social-linkedin-badge]][social-linkedin]
 [![Twitter][social-twitter-badge]][social-twitter]
-[![sponsors][sponsors-badge]][sponsors]
 
 ### 📈 Stats
 
 [![wakatime][wakatime-badge]][wakatime]
 [![github][followers-badge]][followers]
+[![sponsors][sponsors-badge]][sponsors]
 
 [![setchy's GitHub stats][stats-badge]][profile]
 [![setchy's GitHub streak][streak-badge]][profile]
@@ -93,9 +93,9 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <!-- Badges -->
 
 [wakatime]: https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d
-[wakatime-badge]: https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg
+[wakatime-badge]: https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg?style=for-the-badge
 [followers]: https://github.com/setchy?tab=followers
-[followers-badge]: https://img.shields.io/github/followers/setchy?logo=github&style=flat-square
+[followers-badge]: https://img.shields.io/github/followers/setchy?logo=github&style=for-the-badge
 [sponsors]: https://github.com/sponsors/setchy
 [sponsors-badge]: https://img.shields.io/github/sponsors/setchy?logo=githubsponsors&logoColor=EA4AAA&style=for-the-badge
 
