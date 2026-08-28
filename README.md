@@ -6,29 +6,27 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 ### 🔭 Interests
 
-- **DX**: *Developer Experience // Developer Productivity*
-- **Career Pathways**: *Building strong engineering communities of practice (guilds, chapters, etc)*
-- **APIs & Integration**: *GraphQL // Apollo // REST // AsyncAPI*
-- **Dependency Management & Technical Health**: *LeanIX // Renovate // SBOM*
-- **Innovation**: *Communicating emerging technology trends via Tech Radars*
+- 🛠️ **DX**: *Developer Experience // Developer Productivity*
+- 🧭 **Career Pathways**: *Building strong engineering communities of practice (guilds, chapters, etc)*
+- 🔌 **APIs & Integration**: *GraphQL // Apollo // REST // AsyncAPI*
+- 🩺 **Dependency Management & Technical Health**: *LeanIX // Renovate // SBOM*
+- 💡 **Innovation**: *Communicating emerging technology trends via Tech Radars*
 
 ### 🛠️ Skills
 
 [![Skills][skills-badge]][skills-icons]
 
-### 🤝 Connect
+### 🤝 Connect & Support
 
 [![GitHub][social-github-badge]][social-github]
 [![LinkedIn][social-linkedin-badge]][social-linkedin]
 [![Twitter][social-twitter-badge]][social-twitter]
+[![sponsors][sponsors-badge]][sponsors]
 
-### 🏅 Badges
+### 📈 Stats
 
 [![wakatime][wakatime-badge]][wakatime]
 [![github][followers-badge]][followers]
-[![sponsors][sponsors-badge]][sponsors]
-
-### 📊 GitHub Stats
 
 [![setchy's GitHub stats][stats-badge]][profile]
 [![setchy's GitHub streak][streak-badge]][profile]
@@ -130,7 +128,7 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 [followers]: https://github.com/setchy?tab=followers
 [followers-badge]: https://img.shields.io/github/followers/setchy?logo=github&style=flat-square
 [sponsors]: https://github.com/sponsors/setchy
-[sponsors-badge]: https://img.shields.io/github/sponsors/setchy?logo=githubsponsors&logoColor=EA4AAA&style=flat-square
+[sponsors-badge]: https://img.shields.io/github/sponsors/setchy?logo=githubsponsors&logoColor=EA4AAA&style=for-the-badge
 
 
 
