@@ -33,6 +33,64 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
+      - name: Save skills card
+        if: github.event_name != 'schedule'
+        env:
+          SKILLS: |
+            javascript
+            typescript
+            java
+            html
+            css3
+            reactjs
+            vuejs
+            astro
+            tailwindcss
+            electron
+            expo
+            tanstack
+            zustand
+            axios
+            auth0
+            nodejs
+            expressjs
+            spring
+            springboot
+            graphql
+            apollo
+            netflixdgs
+            openapi
+            swagger
+            postman
+            npm
+            pnpm
+            apachemaven
+            vite
+            vitest
+            biome
+            sonarqube
+            renovate
+            docker
+            githubactions
+            githubpages
+            launchdarkly
+            github
+            githubcopilot
+            bitbucket
+            jira
+            confluence
+            slack
+            drawio
+            intellijidea
+            visualstudiocode
+        run: |
+          skills=$(echo "$SKILLS" | xargs | tr ' ' ',')
+          curl --fail --location --retry 3 --get \
+            --data-urlencode "perline=10" \
+            --data-urlencode "i=$skills" \
+            --output profile/skills.svg \
+            https://skills.syvixor.com/api/icons
+
       - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}

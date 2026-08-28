@@ -81,7 +81,7 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
      Icon catalogue: https://builder.syvixor.com/ -->
 
 [skills-icons]: https://github.com/syvixor/skills-icons
-[skills-badge]: https://skills.syvixor.com/api/icons?perline=10&i=javascript,typescript,java,html,css3,reactjs,vuejs,astro,tailwindcss,electron,expo,tanstack,zustand,axios,auth0,nodejs,expressjs,spring,springboot,graphql,apollo,netflixdgs,openapi,swagger,postman,npm,pnpm,apachemaven,vite,vitest,biome,sonarqube,renovate,docker,githubactions,githubpages,launchdarkly,github,githubcopilot,bitbucket,jira,confluence,slack,drawio,intellijidea,visualstudiocode
+[skills-badge]: ./profile/skills.svg
 
 <!-- Socials -->
 
