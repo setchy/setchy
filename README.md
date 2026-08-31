@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [6 days ago]
+- [WorldFuel/.github](https://github.com/WorldFuel/.github) -  [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [1 week ago]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 week ago]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 weeks ago]
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 weeks ago]
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
-- [setchy/.github](https://github.com/setchy/.github) -  [3 weeks ago]
 
 </details>
 
@@ -61,11 +61,11 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [build: prepare `v3.15.0` release](https://github.com/setchy/atlassify/pull/3509) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
-- MERGED - [chore(deps): remove transitives](https://github.com/setchy/atlassify/pull/3508) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
-- MERGED - [fix: null safety for non-product notification](https://github.com/setchy/atlassify/pull/3498) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
-- MERGED - [test: `vp migrate` to avoid vitest drift](https://github.com/gitify-app/gitify/pull/3224) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- MERGED - [chore: fix release please configuration for dep scopes](https://github.com/gitify-app/gitify/pull/3221) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [build: prepare `v3.15.0` release](https://github.com/setchy/atlassify/pull/3509) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [chore(deps): remove transitives](https://github.com/setchy/atlassify/pull/3508) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix: null safety for non-product notification](https://github.com/setchy/atlassify/pull/3498) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [test: `vp migrate` to avoid vitest drift](https://github.com/gitify-app/gitify/pull/3224) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [chore: fix release please configuration for dep scopes](https://github.com/gitify-app/gitify/pull/3221) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [fix: menubar icon state](https://github.com/gitify-app/gitify/pull/3205) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [feat(github): improve pr enriched data ](https://github.com/gitify-app/gitify/pull/3204) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - OPEN - [docs: update README](https://github.com/alexcodito/HelloFreshCrawler/pull/11) to [alexcodito/HelloFreshCrawler](https://github.com/alexcodito/HelloFreshCrawler) [2 weeks ago]
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn): ⭐ 11947
-- [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action): ⭐ 272
+- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy): ⭐ 705
+- [Unmanic/unmanic](https://github.com/Unmanic/unmanic): ⭐ 2482
+- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn): ⭐ 11954
+- [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action): ⭐ 273
 - [trakt/trakt-web](https://github.com/trakt/trakt-web): ⭐ 289
-- [trakt/trakt-android](https://github.com/trakt/trakt-android): ⭐ 65
+- [trakt/trakt-android](https://github.com/trakt/trakt-android): ⭐ 66
 - [CNoetzel/HelloFresh-RecipeDownloader](https://github.com/CNoetzel/HelloFresh-RecipeDownloader): ⭐ 12
 - [trakt/trakt-api](https://github.com/trakt/trakt-api): ⭐ 348
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3161
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3164
 - [3rg0n/webex-message-handler](https://github.com/3rg0n/webex-message-handler): ⭐ 1
-- [3rg0n/wgrok](https://github.com/3rg0n/wgrok): ⭐ 1
-- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended): ⭐ 1056
 
 </details>
 
