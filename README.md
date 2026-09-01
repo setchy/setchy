@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [WorldFuel/.github](https://github.com/WorldFuel/.github) -  [2 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [WorldFuel/.github](https://github.com/WorldFuel/.github) -  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [1 week ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 week ago]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 weeks ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 weeks ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [build: prepare `v3.15.0` release](https://github.com/setchy/atlassify/pull/3509) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
-- MERGED - [chore(deps): remove transitives](https://github.com/setchy/atlassify/pull/3508) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
-- MERGED - [fix: null safety for non-product notification](https://github.com/setchy/atlassify/pull/3498) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [test: `vp migrate` to avoid vitest drift](https://github.com/gitify-app/gitify/pull/3224) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: numeric types](https://github.com/setchy/dgs-extended-formatters/pull/490) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- MERGED - [feat: on input field](https://github.com/setchy/dgs-extended-formatters/pull/489) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- MERGED - [fix: sonar feedback](https://github.com/setchy/dgs-extended-formatters/pull/488) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- MERGED - [build: verify samples in ci](https://github.com/setchy/dgs-extended-formatters/pull/487) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- MERGED - [fix: jsonpath and protobuf-java version overrides.](https://github.com/setchy/dgs-extended-formatters/pull/486) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- MERGED - [chore(vscode): sonar connection](https://github.com/setchy/dgs-extended-formatters/pull/483) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- MERGED - [feat: encode directive](https://github.com/setchy/dgs-extended-formatters/pull/482) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- MERGED - [feat: cleanup project](https://github.com/setchy/dgs-extended-formatters/pull/481) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- MERGED - [chore: mise setup](https://github.com/setchy/dgs-extended-formatters/pull/480) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- OPEN - [chore(deps): vite-plus sync](https://github.com/gitify-app/gitify/pull/3244) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: prepare `v3.15.0` release](https://github.com/setchy/atlassify/pull/3509) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [chore(deps): remove transitives](https://github.com/setchy/atlassify/pull/3508) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [fix: null safety for non-product notification](https://github.com/setchy/atlassify/pull/3498) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [test: `vp migrate` to avoid vitest drift](https://github.com/gitify-app/gitify/pull/3224) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [chore: fix release please configuration for dep scopes](https://github.com/gitify-app/gitify/pull/3221) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [fix: menubar icon state](https://github.com/gitify-app/gitify/pull/3205) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [feat(github): improve pr enriched data ](https://github.com/gitify-app/gitify/pull/3204) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [fix: menubar icon state](https://github.com/gitify-app/gitify/pull/3205) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat(github): improve pr enriched data ](https://github.com/gitify-app/gitify/pull/3204) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 - OPEN - [docs: update README](https://github.com/alexcodito/HelloFreshCrawler/pull/11) to [alexcodito/HelloFreshCrawler](https://github.com/alexcodito/HelloFreshCrawler) [2 weeks ago]
 - MERGED - [chore: init openspec](https://github.com/gitify-app/gitify/pull/3200) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 - MERGED - [chore: address vite warning](https://github.com/gitify-app/gitify/pull/3198) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-- MERGED - [chore: vp staged projects](https://github.com/gitify-app/gitify/pull/3197) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-- MERGED - [build: prepare `v3.14.1` release](https://github.com/setchy/atlassify/pull/3417) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-- MERGED - [docs(faqs): complete refresh](https://github.com/setchy/atlassify/pull/3416) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-- MERGED - [fix(menubar): auto-update](https://github.com/setchy/atlassify/pull/3415) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-- MERGED - [chore: openspec init](https://github.com/setchy/atlassify/pull/3414) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-- MERGED - [fix(api): resolve and use routing ari for grouped notification interactions](https://github.com/setchy/atlassify/pull/3413) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-- MERGED - [chore: openspec init](https://github.com/setchy/atlassify/pull/3412) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-- MERGED - [feat(metrics): improve pr review metric pill](https://github.com/gitify-app/gitify/pull/3184) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-- MERGED - [feat(github): format and render Bot account names](https://github.com/gitify-app/gitify/pull/3183) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-- MERGED - [feat(github): update actor display names (managed and unmanaged)](https://github.com/gitify-app/gitify/pull/3182) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 
 </details>
 
@@ -88,15 +88,15 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy): ⭐ 705
-- [Unmanic/unmanic](https://github.com/Unmanic/unmanic): ⭐ 2482
-- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn): ⭐ 11954
-- [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action): ⭐ 273
-- [trakt/trakt-web](https://github.com/trakt/trakt-web): ⭐ 289
-- [trakt/trakt-android](https://github.com/trakt/trakt-android): ⭐ 66
+- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy): ⭐ 710
+- [Unmanic/unmanic](https://github.com/Unmanic/unmanic): ⭐ 2484
+- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn): ⭐ 11957
+- [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action): ⭐ 274
+- [trakt/trakt-web](https://github.com/trakt/trakt-web): ⭐ 290
+- [trakt/trakt-android](https://github.com/trakt/trakt-android): ⭐ 67
 - [CNoetzel/HelloFresh-RecipeDownloader](https://github.com/CNoetzel/HelloFresh-RecipeDownloader): ⭐ 12
 - [trakt/trakt-api](https://github.com/trakt/trakt-api): ⭐ 348
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3164
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3166
 - [3rg0n/webex-message-handler](https://github.com/3rg0n/webex-message-handler): ⭐ 1
 
 </details>
