@@ -44,13 +44,13 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [3 days ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
-- [WorldFuel/.github](https://github.com/WorldFuel/.github) -  [5 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [5 days ago]
+- [WorldFuel/.github](https://github.com/WorldFuel/.github) -  [6 days ago]
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [1 week ago]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 weeks ago]
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [ci: explicit `.nvmrc`](https://github.com/gitify-app/gitify/pull/3251) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- OPEN - [refactor: emojify pr body notes](https://github.com/renovatebot/renovate/pull/45646) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [today]
-- OPEN - [refactor: pr body important note](https://github.com/renovatebot/renovate/pull/45645) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [today]
-- CLOSED - [refactor(pr-body): use `Important` truncation notice across platforms](https://github.com/renovatebot/renovate/pull/45644) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [today]
-- OPEN - [feat(preset): `@octokit` group preset](https://github.com/renovatebot/renovate/pull/45643) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [today]
-- MERGED - [fix: ci vp run args](https://github.com/gitify-app/gitify/pull/3250) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [feat(preset): group vite&#43;](https://github.com/renovatebot/renovate/pull/45631) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
-- OPEN - [fix: github md rendered alerts](https://github.com/renovatebot/renovate/pull/45613) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
-- MERGED - [fix: numeric types](https://github.com/setchy/dgs-extended-formatters/pull/490) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
-- MERGED - [feat: on input field](https://github.com/setchy/dgs-extended-formatters/pull/489) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
-- MERGED - [fix: sonar feedback](https://github.com/setchy/dgs-extended-formatters/pull/488) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
-- MERGED - [build: verify samples in ci](https://github.com/setchy/dgs-extended-formatters/pull/487) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
-- MERGED - [fix: jsonpath and protobuf-java version overrides.](https://github.com/setchy/dgs-extended-formatters/pull/486) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
-- MERGED - [chore(vscode): sonar connection](https://github.com/setchy/dgs-extended-formatters/pull/483) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
-- MERGED - [feat: encode directive](https://github.com/setchy/dgs-extended-formatters/pull/482) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
-- MERGED - [feat: cleanup project](https://github.com/setchy/dgs-extended-formatters/pull/481) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
-- MERGED - [chore: mise setup](https://github.com/setchy/dgs-extended-formatters/pull/480) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
-- CLOSED - [chore(deps): vite-plus sync](https://github.com/gitify-app/gitify/pull/3244) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [build: prepare `v3.15.0` release](https://github.com/setchy/atlassify/pull/3509) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
-- MERGED - [chore(deps): remove transitives](https://github.com/setchy/atlassify/pull/3508) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- MERGED - [refactor: replace `cn` util with dep](https://github.com/setchy/atlassify/pull/3589) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [chore: remove unused deps](https://github.com/gitify-app/website/pull/739) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [chore: update keywords](https://github.com/gitify-app/gitify/pull/3268) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(renovate): use `vitePlus` shared group presets](https://github.com/gitify-app/gitify/pull/3257) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: replace `cn` util with dep](https://github.com/gitify-app/gitify/pull/3256) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor(shortcuts): forge specific issue and pull request urls](https://github.com/gitify-app/gitify/pull/3255) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: update gh templates](https://github.com/gitify-app/gitify/pull/3254) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [ci: explicit `.nvmrc`](https://github.com/gitify-app/gitify/pull/3251) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor: emojify pr body notes](https://github.com/renovatebot/renovate/pull/45646) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [refactor: pr body important note](https://github.com/renovatebot/renovate/pull/45645) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- CLOSED - [refactor(pr-body): use `Important` truncation notice across platforms](https://github.com/renovatebot/renovate/pull/45644) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [feat(preset): `@octokit` group preset](https://github.com/renovatebot/renovate/pull/45643) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [fix: ci vp run args](https://github.com/gitify-app/gitify/pull/3250) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(preset): group vite&#43;](https://github.com/renovatebot/renovate/pull/45631) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
+- OPEN - [fix: github md rendered alerts](https://github.com/renovatebot/renovate/pull/45613) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [fix: numeric types](https://github.com/setchy/dgs-extended-formatters/pull/490) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [4 days ago]
+- MERGED - [feat: on input field](https://github.com/setchy/dgs-extended-formatters/pull/489) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [4 days ago]
+- MERGED - [fix: sonar feedback](https://github.com/setchy/dgs-extended-formatters/pull/488) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [4 days ago]
+- MERGED - [build: verify samples in ci](https://github.com/setchy/dgs-extended-formatters/pull/487) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [4 days ago]
+- MERGED - [fix: jsonpath and protobuf-java version overrides.](https://github.com/setchy/dgs-extended-formatters/pull/486) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [4 days ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
+- [humanlayer/skills](https://github.com/humanlayer/skills): ⭐ 1583
+- [shadcn-ui/cn](https://github.com/shadcn-ui/cn): ⭐ 964
 - [Ezard/semantic-prs](https://github.com/Ezard/semantic-prs): ⭐ 145
-- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy): ⭐ 726
-- [Unmanic/unmanic](https://github.com/Unmanic/unmanic): ⭐ 2488
-- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn): ⭐ 11971
-- [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action): ⭐ 276
+- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy): ⭐ 732
+- [Unmanic/unmanic](https://github.com/Unmanic/unmanic): ⭐ 2489
+- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn): ⭐ 11998
+- [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action): ⭐ 277
 - [trakt/trakt-web](https://github.com/trakt/trakt-web): ⭐ 291
 - [trakt/trakt-android](https://github.com/trakt/trakt-android): ⭐ 67
 - [CNoetzel/HelloFresh-RecipeDownloader](https://github.com/CNoetzel/HelloFresh-RecipeDownloader): ⭐ 12
-- [trakt/trakt-api](https://github.com/trakt/trakt-api): ⭐ 348
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite): ⭐ 3230
 
 </details>
 
