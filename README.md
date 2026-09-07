@@ -44,15 +44,15 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [5 days ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [6 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [6 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 week ago]
 - [WorldFuel/.github](https://github.com/WorldFuel/.github) -  [1 week ago]
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 week ago]
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [1 week ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [2 weeks ago]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 weeks ago]
 
 </details>
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- CLOSED - [docs: fix indentation in codeblock](https://github.com/gitify-app/electron-menubar/pull/176) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [feat(github): add support for parent and sub issues](https://github.com/gitify-app/gitify/pull/3279) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [refactor(api): orderby reviews no longer supported](https://github.com/gitify-app/gitify/pull/3278) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [feat(metrics): use new Issue Relates To Icon for linked issues pill](https://github.com/gitify-app/gitify/pull/3277) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [feat(metrics): prepend issue fields as formatted labels](https://github.com/gitify-app/gitify/pull/3276) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [feat(presets): remove duplicate octokit preset](https://github.com/renovatebot/renovate/pull/45708) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
-- OPEN - [feat(preset): `@primer` monorepo preset](https://github.com/renovatebot/renovate/pull/45696) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
-- MERGED - [refactor: replace `cn` util with dep](https://github.com/setchy/atlassify/pull/3589) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
-- MERGED - [chore: remove unused deps](https://github.com/gitify-app/website/pull/739) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
-- MERGED - [chore: update keywords](https://github.com/gitify-app/gitify/pull/3268) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [chore(renovate): use `vitePlus` shared group presets](https://github.com/gitify-app/gitify/pull/3257) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [refactor: replace `cn` util with dep](https://github.com/gitify-app/gitify/pull/3256) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [refactor(shortcuts): forge specific issue and pull request urls](https://github.com/gitify-app/gitify/pull/3255) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [docs: update gh templates](https://github.com/gitify-app/gitify/pull/3254) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [ci: explicit `.nvmrc`](https://github.com/gitify-app/gitify/pull/3251) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- OPEN - [refactor: emojify pr body notes](https://github.com/renovatebot/renovate/pull/45646) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
-- OPEN - [refactor: pr body important note](https://github.com/renovatebot/renovate/pull/45645) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
-- CLOSED - [refactor(pr-body): use `Important` truncation notice across platforms](https://github.com/renovatebot/renovate/pull/45644) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
-- MERGED - [feat(preset): `@octokit` group preset](https://github.com/renovatebot/renovate/pull/45643) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
-- MERGED - [fix: ci vp run args](https://github.com/gitify-app/gitify/pull/3250) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- CLOSED - [docs: fix indentation in codeblock](https://github.com/gitify-app/electron-menubar/pull/176) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
+- OPEN - [feat(github): add support for parent and sub issues](https://github.com/gitify-app/gitify/pull/3279) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor(api): orderby reviews no longer supported](https://github.com/gitify-app/gitify/pull/3278) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(metrics): use new Issue Relates To Icon for linked issues pill](https://github.com/gitify-app/gitify/pull/3277) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat(metrics): prepend issue fields as formatted labels](https://github.com/gitify-app/gitify/pull/3276) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- OPEN - [feat(presets): remove duplicate octokit preset](https://github.com/renovatebot/renovate/pull/45708) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- OPEN - [feat(preset): `@primer` monorepo preset](https://github.com/renovatebot/renovate/pull/45696) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [refactor: replace `cn` util with dep](https://github.com/setchy/atlassify/pull/3589) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [chore: remove unused deps](https://github.com/gitify-app/website/pull/739) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [chore: update keywords](https://github.com/gitify-app/gitify/pull/3268) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [chore(renovate): use `vitePlus` shared group presets](https://github.com/gitify-app/gitify/pull/3257) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor: replace `cn` util with dep](https://github.com/gitify-app/gitify/pull/3256) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [refactor(shortcuts): forge specific issue and pull request urls](https://github.com/gitify-app/gitify/pull/3255) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [docs: update gh templates](https://github.com/gitify-app/gitify/pull/3254) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [ci: explicit `.nvmrc`](https://github.com/gitify-app/gitify/pull/3251) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [refactor: emojify pr body notes](https://github.com/renovatebot/renovate/pull/45646) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- OPEN - [refactor: pr body important note](https://github.com/renovatebot/renovate/pull/45645) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- CLOSED - [refactor(pr-body): use `Important` truncation notice across platforms](https://github.com/renovatebot/renovate/pull/45644) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [feat(preset): `@octokit` group preset](https://github.com/renovatebot/renovate/pull/45643) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
+- MERGED - [fix: ci vp run args](https://github.com/gitify-app/gitify/pull/3250) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude): ⭐ 3229
-- [openobserve/openobserve](https://github.com/openobserve/openobserve): ⭐ 21651
-- [splunk/token-meter](https://github.com/splunk/token-meter): ⭐ 55
-- [open-webui/open-webui](https://github.com/open-webui/open-webui): ⭐ 151066
-- [anthropics/skills](https://github.com/anthropics/skills): ⭐ 174577
-- [humanlayer/skills](https://github.com/humanlayer/skills): ⭐ 2723
-- [shadcn-ui/cn](https://github.com/shadcn-ui/cn): ⭐ 1171
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude): ⭐ 3693
+- [openobserve/openobserve](https://github.com/openobserve/openobserve): ⭐ 21666
+- [splunk/token-meter](https://github.com/splunk/token-meter): ⭐ 57
+- [open-webui/open-webui](https://github.com/open-webui/open-webui): ⭐ 151143
+- [anthropics/skills](https://github.com/anthropics/skills): ⭐ 174869
+- [humanlayer/skills](https://github.com/humanlayer/skills): ⭐ 3166
+- [shadcn-ui/cn](https://github.com/shadcn-ui/cn): ⭐ 1214
 - [Ezard/semantic-prs](https://github.com/Ezard/semantic-prs): ⭐ 145
-- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy): ⭐ 739
-- [Unmanic/unmanic](https://github.com/Unmanic/unmanic): ⭐ 2491
+- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy): ⭐ 744
+- [Unmanic/unmanic](https://github.com/Unmanic/unmanic): ⭐ 2492
 
 </details>
 
