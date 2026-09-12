@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Adam Setch&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 135, Total Commits  (last year) : 2117, Total PRs: 1988, Total Issues: 280, Contributed to (last year): 28</desc>
+        <desc id="descId">Total Stars Earned: 135, Total Commits  (last year) : 2123, Total PRs: 1991, Total Issues: 280, Contributed to (last year): 28</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 24.763968995557047;
+        stroke-dashoffset: 24.781196814753795;
       }
     }
   
