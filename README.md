@@ -44,13 +44,13 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [3 days ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [5 days ago]
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [6 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [4 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [1 week ago]
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
 - [WorldFuel/.github](https://github.com/WorldFuel/.github) -  [2 weeks ago]
@@ -61,11 +61,12 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [feat: update technologies](https://github.com/gitify-app/website/pull/749) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
-- OPEN - [refactor: align gh terminology](https://github.com/gitify-app/gitify/pull/3298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [refactor: refresh faqs copy](https://github.com/gitify-app/website/pull/745) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
-- MERGED - [feat(manager/github-actions): extract expo GitHub actions&#39; `eas-version`](https://github.com/renovatebot/renovate/pull/45846) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
-- MERGED - [fix: `@primer` motion animations for refresh](https://github.com/gitify-app/gitify/pull/3289) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix(dashboard): keep abandoned note outside the `&lt;details&gt;` block](https://github.com/renovatebot/renovate/pull/45902) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [feat: update technologies](https://github.com/gitify-app/website/pull/749) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- OPEN - [refactor: align gh terminology](https://github.com/gitify-app/gitify/pull/3298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [refactor: refresh faqs copy](https://github.com/gitify-app/website/pull/745) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [feat(manager/github-actions): extract expo GitHub actions&#39; `eas-version`](https://github.com/renovatebot/renovate/pull/45846) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- MERGED - [fix: `@primer` motion animations for refresh](https://github.com/gitify-app/gitify/pull/3289) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
 - CLOSED - [docs: fix indentation in codeblock](https://github.com/gitify-app/electron-menubar/pull/176) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 week ago]
 - OPEN - [feat(github): add support for parent and sub issues](https://github.com/gitify-app/gitify/pull/3279) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [refactor(api): orderby reviews no longer supported](https://github.com/gitify-app/gitify/pull/3278) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
@@ -80,7 +81,6 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - MERGED - [refactor: replace `cn` util with dep](https://github.com/gitify-app/gitify/pull/3256) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [refactor(shortcuts): forge specific issue and pull request urls](https://github.com/gitify-app/gitify/pull/3255) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [docs: update gh templates](https://github.com/gitify-app/gitify/pull/3254) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [ci: explicit `.nvmrc`](https://github.com/gitify-app/gitify/pull/3251) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 87557
-- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1277
-- [agentplugins/agent-plugins-site](https://github.com/agentplugins/agent-plugins-site): ⭐ 173
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 75665
-- [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog): ⭐ 1172
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude): ⭐ 4348
-- [openobserve/openobserve](https://github.com/openobserve/openobserve): ⭐ 21747
-- [splunk/token-meter](https://github.com/splunk/token-meter): ⭐ 87
-- [open-webui/open-webui](https://github.com/open-webui/open-webui): ⭐ 151676
-- [anthropics/skills](https://github.com/anthropics/skills): ⭐ 175857
+- [CycloneDX/guides](https://github.com/CycloneDX/guides): ⭐ 9
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 87690
+- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1279
+- [agentplugins/agent-plugins-site](https://github.com/agentplugins/agent-plugins-site): ⭐ 172
+- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 75690
+- [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog): ⭐ 1174
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude): ⭐ 4402
+- [openobserve/openobserve](https://github.com/openobserve/openobserve): ⭐ 21760
+- [splunk/token-meter](https://github.com/splunk/token-meter): ⭐ 88
+- [open-webui/open-webui](https://github.com/open-webui/open-webui): ⭐ 151798
 
 </details>
 
