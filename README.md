@@ -47,8 +47,8 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 - [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [1 day ago]
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
 - [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects [2 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [4 days ago]
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4310
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 107022
+- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4225
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 107040
 - [CycloneDX/guides](https://github.com/CycloneDX/guides): ⭐ 9
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 88200
-- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1290
-- [agentplugins/agent-plugins-site](https://github.com/agentplugins/agent-plugins-site): ⭐ 173
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 75850
-- [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog): ⭐ 1193
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude): ⭐ 4592
-- [openobserve/openobserve](https://github.com/openobserve/openobserve): ⭐ 22032
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 88315
+- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1292
+- [agentplugins/agent-plugins-site](https://github.com/agentplugins/agent-plugins-site): ⭐ 174
+- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 75825
+- [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog): ⭐ 1195
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude): ⭐ 4616
+- [openobserve/openobserve](https://github.com/openobserve/openobserve): ⭐ 21993
 
 </details>
 
