@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
-- [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects [2 days ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [4 days ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [6 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects [3 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [3 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
 </details>
 
@@ -61,17 +61,17 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [ci: add comments to PR on rel](https://github.com/setchy/atlassify/pull/3660) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
-- MERGED - [feat(api): harden query paths](https://github.com/setchy/atlassify/pull/3659) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
-- MERGED - [fix: align playwright versions](https://github.com/gitify-app/gitify/pull/3299) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [feat: electron-menubar v11 migration](https://github.com/setchy/atlassify/pull/3631) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
-- MERGED - [ci: release-please automation](https://github.com/setchy/atlassify/pull/3630) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
-- MERGED - [Add DGS Extended Formatters](https://github.com/graphql-java/awesome-graphql-java/pull/49) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [2 days ago]
-- MERGED - [Add Netflix DGS Framework](https://github.com/graphql-java/awesome-graphql-java/pull/48) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [2 days ago]
-- MERGED - [fix(dashboard): keep abandoned note outside the `&lt;details&gt;` block](https://github.com/renovatebot/renovate/pull/45902) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
-- MERGED - [feat: update technologies](https://github.com/gitify-app/website/pull/749) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
-- OPEN - [refactor: align gh terminology](https://github.com/gitify-app/gitify/pull/3298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
-- MERGED - [refactor: refresh faqs copy](https://github.com/gitify-app/website/pull/745) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
+- MERGED - [ci: add comments to PR on rel](https://github.com/setchy/atlassify/pull/3660) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [feat(api): harden query paths](https://github.com/setchy/atlassify/pull/3659) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [fix: align playwright versions](https://github.com/gitify-app/gitify/pull/3299) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: electron-menubar v11 migration](https://github.com/setchy/atlassify/pull/3631) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [ci: release-please automation](https://github.com/setchy/atlassify/pull/3630) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [Add DGS Extended Formatters](https://github.com/graphql-java/awesome-graphql-java/pull/49) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [3 days ago]
+- MERGED - [Add Netflix DGS Framework](https://github.com/graphql-java/awesome-graphql-java/pull/48) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [3 days ago]
+- MERGED - [fix(dashboard): keep abandoned note outside the `&lt;details&gt;` block](https://github.com/renovatebot/renovate/pull/45902) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [feat: update technologies](https://github.com/gitify-app/website/pull/749) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+- OPEN - [refactor: align gh terminology](https://github.com/gitify-app/gitify/pull/3298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [refactor: refresh faqs copy](https://github.com/gitify-app/website/pull/745) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 - MERGED - [feat(manager/github-actions): extract expo GitHub actions&#39; `eas-version`](https://github.com/renovatebot/renovate/pull/45846) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 - MERGED - [fix: `@primer` motion animations for refresh](https://github.com/gitify-app/gitify/pull/3289) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - CLOSED - [docs: fix indentation in codeblock](https://github.com/gitify-app/electron-menubar/pull/176) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 week ago]
@@ -79,8 +79,8 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - MERGED - [refactor(api): orderby reviews no longer supported](https://github.com/gitify-app/gitify/pull/3278) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - MERGED - [feat(metrics): use new Issue Relates To Icon for linked issues pill](https://github.com/gitify-app/gitify/pull/3277) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
 - OPEN - [feat(metrics): prepend issue fields as formatted labels](https://github.com/gitify-app/gitify/pull/3276) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [feat(presets): remove duplicate octokit preset](https://github.com/renovatebot/renovate/pull/45708) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
-- OPEN - [feat(preset): `@primer` monorepo preset](https://github.com/renovatebot/renovate/pull/45696) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
+- MERGED - [feat(presets): remove duplicate octokit preset](https://github.com/renovatebot/renovate/pull/45708) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
+- OPEN - [feat(preset): `@primer` monorepo preset](https://github.com/renovatebot/renovate/pull/45696) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4225
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 107040
+- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4227
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 107045
 - [CycloneDX/guides](https://github.com/CycloneDX/guides): ⭐ 9
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 88315
-- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1292
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 88342
+- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1296
 - [agentplugins/agent-plugins-site](https://github.com/agentplugins/agent-plugins-site): ⭐ 174
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 75825
-- [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog): ⭐ 1195
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude): ⭐ 4616
-- [openobserve/openobserve](https://github.com/openobserve/openobserve): ⭐ 21993
+- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 75832
+- [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog): ⭐ 1196
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude): ⭐ 4619
+- [openobserve/openobserve](https://github.com/openobserve/openobserve): ⭐ 21995
 
 </details>
 
