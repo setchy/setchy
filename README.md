@@ -45,13 +45,13 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [1 day ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [5 days ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [6 days ago]
-- [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects [6 days ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [6 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects [1 week ago]
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -61,14 +61,14 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [fix: remove broken article](https://github.com/chentsulin/awesome-graphql/pull/812) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [3 days ago]
-- MERGED - [ci: add comments to PR on rel](https://github.com/setchy/atlassify/pull/3660) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
-- MERGED - [feat(api): harden query paths](https://github.com/setchy/atlassify/pull/3659) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
-- MERGED - [fix: align playwright versions](https://github.com/gitify-app/gitify/pull/3299) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
-- MERGED - [feat: electron-menubar v11 migration](https://github.com/setchy/atlassify/pull/3631) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
-- MERGED - [ci: release-please automation](https://github.com/setchy/atlassify/pull/3630) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
-- MERGED - [Add DGS Extended Formatters](https://github.com/graphql-java/awesome-graphql-java/pull/49) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [6 days ago]
-- MERGED - [Add Netflix DGS Framework](https://github.com/graphql-java/awesome-graphql-java/pull/48) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [6 days ago]
+- MERGED - [fix: remove broken article](https://github.com/chentsulin/awesome-graphql/pull/812) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [4 days ago]
+- MERGED - [ci: add comments to PR on rel](https://github.com/setchy/atlassify/pull/3660) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [feat(api): harden query paths](https://github.com/setchy/atlassify/pull/3659) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [fix: align playwright versions](https://github.com/gitify-app/gitify/pull/3299) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
+- MERGED - [feat: electron-menubar v11 migration](https://github.com/setchy/atlassify/pull/3631) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [ci: release-please automation](https://github.com/setchy/atlassify/pull/3630) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [Add DGS Extended Formatters](https://github.com/graphql-java/awesome-graphql-java/pull/49) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [1 week ago]
+- MERGED - [Add Netflix DGS Framework](https://github.com/graphql-java/awesome-graphql-java/pull/48) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [1 week ago]
 - MERGED - [fix(dashboard): keep abandoned note outside the `&lt;details&gt;` block](https://github.com/renovatebot/renovate/pull/45902) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
 - MERGED - [feat: update technologies](https://github.com/gitify-app/website/pull/749) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
 - OPEN - [refactor: align gh terminology](https://github.com/gitify-app/gitify/pull/3298) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 518
-- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): ⭐ 722
-- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4265
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 107103
+- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 526
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): ⭐ 725
+- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4270
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 107123
 - [CycloneDX/guides](https://github.com/CycloneDX/guides): ⭐ 9
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 88656
-- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1306
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 88752
+- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1311
 - [agentplugins/agent-plugins-site](https://github.com/agentplugins/agent-plugins-site): ⭐ 175
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 75893
-- [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog): ⭐ 1210
+- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 75944
+- [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog): ⭐ 1218
 
 </details>
 
