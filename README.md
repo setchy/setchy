@@ -44,14 +44,14 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [today]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
 - [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [2 days ago]
 - [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [2 days ago]
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
-- [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects [1 week ago]
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 week ago]
+- [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects [1 week ago]
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
 
@@ -79,7 +79,7 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - OPEN - [feat(github): add support for parent and sub issues](https://github.com/gitify-app/gitify/pull/3279) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 - MERGED - [refactor(api): orderby reviews no longer supported](https://github.com/gitify-app/gitify/pull/3278) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 - MERGED - [feat(metrics): use new Issue Relates To Icon for linked issues pill](https://github.com/gitify-app/gitify/pull/3277) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
-- OPEN - [feat(metrics): prepend issue fields as formatted labels](https://github.com/gitify-app/gitify/pull/3276) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
+- MERGED - [feat(metrics): prepend issue fields as formatted labels](https://github.com/gitify-app/gitify/pull/3276) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 weeks ago]
 - MERGED - [feat(presets): remove duplicate octokit preset](https://github.com/renovatebot/renovate/pull/45708) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 weeks ago]
 
 </details>
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 534
+- [cortex-docs/cortex](https://github.com/cortex-docs/cortex): ⭐ 3209
+- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 537
 - [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): ⭐ 728
-- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4275
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 107132
+- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4277
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 107140
 - [CycloneDX/guides](https://github.com/CycloneDX/guides): ⭐ 9
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 88885
-- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1317
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 88965
+- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1319
 - [agentplugins/agent-plugins-site](https://github.com/agentplugins/agent-plugins-site): ⭐ 176
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 76001
-- [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog): ⭐ 1225
+- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 76017
 
 </details>
 
