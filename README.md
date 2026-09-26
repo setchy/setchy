@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [2 days ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [4 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [6 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
+- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [5 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 week ago]
 - [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
 - [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects [1 week ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 weeks ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 weeks ago]
 
 </details>
 
@@ -61,18 +61,18 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [ci: renovate config update](https://github.com/chentsulin/awesome-graphql/pull/829) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Run Renovate with GitHub Actions](https://github.com/chentsulin/awesome-graphql/pull/827) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Add GraphQL interoperability specifications](https://github.com/chentsulin/awesome-graphql/pull/826) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Move tutorials before other learning resources](https://github.com/chentsulin/awesome-graphql/pull/825) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Reorganize catalog taxonomy](https://github.com/chentsulin/awesome-graphql/pull/824) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Temporarily allow flaky links](https://github.com/chentsulin/awesome-graphql/pull/822) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Avoid duplicate pull request workflow runs](https://github.com/chentsulin/awesome-graphql/pull/821) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Add missing post descriptions](https://github.com/chentsulin/awesome-graphql/pull/820) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Add missing blog descriptions](https://github.com/chentsulin/awesome-graphql/pull/819) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Update tools and services descriptions](https://github.com/chentsulin/awesome-graphql/pull/818) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Update language implementation descriptions](https://github.com/chentsulin/awesome-graphql/pull/817) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
-- MERGED - [Update JavaScript project descriptions](https://github.com/chentsulin/awesome-graphql/pull/816) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
+- MERGED - [ci: renovate config update](https://github.com/chentsulin/awesome-graphql/pull/829) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Run Renovate with GitHub Actions](https://github.com/chentsulin/awesome-graphql/pull/827) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Add GraphQL interoperability specifications](https://github.com/chentsulin/awesome-graphql/pull/826) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Move tutorials before other learning resources](https://github.com/chentsulin/awesome-graphql/pull/825) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Reorganize catalog taxonomy](https://github.com/chentsulin/awesome-graphql/pull/824) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Temporarily allow flaky links](https://github.com/chentsulin/awesome-graphql/pull/822) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Avoid duplicate pull request workflow runs](https://github.com/chentsulin/awesome-graphql/pull/821) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Add missing post descriptions](https://github.com/chentsulin/awesome-graphql/pull/820) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Add missing blog descriptions](https://github.com/chentsulin/awesome-graphql/pull/819) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Update tools and services descriptions](https://github.com/chentsulin/awesome-graphql/pull/818) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Update language implementation descriptions](https://github.com/chentsulin/awesome-graphql/pull/817) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
+- MERGED - [Update JavaScript project descriptions](https://github.com/chentsulin/awesome-graphql/pull/816) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 days ago]
 - MERGED - [fix: remove broken article](https://github.com/chentsulin/awesome-graphql/pull/812) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
 - MERGED - [ci: add comments to PR on rel](https://github.com/setchy/atlassify/pull/3660) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 - MERGED - [feat(api): harden query paths](https://github.com/setchy/atlassify/pull/3659) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [cortex-docs/cortex](https://github.com/cortex-docs/cortex): ⭐ 3213
-- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 545
-- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): ⭐ 735
-- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4281
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 107152
+- [cortex-docs/cortex](https://github.com/cortex-docs/cortex): ⭐ 3217
+- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 551
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): ⭐ 738
+- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4290
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 107168
 - [CycloneDX/guides](https://github.com/CycloneDX/guides): ⭐ 9
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 89102
-- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1325
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands): ⭐ 89172
+- [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec): ⭐ 1328
 - [agentplugins/agent-plugins-site](https://github.com/agentplugins/agent-plugins-site): ⭐ 177
-- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 76061
+- [caddyserver/caddy](https://github.com/caddyserver/caddy): ⭐ 76082
 
 </details>
 
