@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
-- [setchy/setchy.github.io](https://github.com/setchy/setchy.github.io) - My personal site [4 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 days ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [4 days ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [5 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [6 days ago]
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
+- [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects [2 weeks ago]
 
 </details>
 
@@ -61,11 +61,11 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [chore: remove app-builder-lib patch](https://github.com/gitify-app/gitify/pull/3340) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [refactor: migrate to `pnpm/setup`](https://github.com/gitify-app/website/pull/757) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
-- MERGED - [refactor: migrate to `pnpm/setup`](https://github.com/setchy/atlassify/pull/3791) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
-- OPEN - [fix(prune): refresh PR state before autoclosing](https://github.com/renovatebot/renovate/pull/46518) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [4 days ago]
-- OPEN - [feat: awesome-lint and contents section](https://github.com/graphql-java/awesome-graphql-java/pull/51) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [5 days ago]
+- MERGED - [chore: remove app-builder-lib patch](https://github.com/gitify-app/gitify/pull/3340) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [refactor: migrate to `pnpm/setup`](https://github.com/gitify-app/website/pull/757) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [refactor: migrate to `pnpm/setup`](https://github.com/setchy/atlassify/pull/3791) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- OPEN - [fix(prune): refresh PR state before autoclosing](https://github.com/renovatebot/renovate/pull/46518) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
+- OPEN - [feat: awesome-lint and contents section](https://github.com/graphql-java/awesome-graphql-java/pull/51) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [6 days ago]
 - MERGED - [ci: renovate config update](https://github.com/chentsulin/awesome-graphql/pull/829) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
 - MERGED - [Run Renovate with GitHub Actions](https://github.com/chentsulin/awesome-graphql/pull/827) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
 - MERGED - [Add GraphQL interoperability specifications](https://github.com/chentsulin/awesome-graphql/pull/826) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [langchain-ai/openevals](https://github.com/langchain-ai/openevals): ⭐ 1212
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill): ⭐ 9795
+- [langchain-ai/openevals](https://github.com/langchain-ai/openevals): ⭐ 1214
 - [microsoft/agentrc](https://github.com/microsoft/agentrc): ⭐ 1090
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip): ⭐ 95882
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip): ⭐ 96355
 - [renovatebot/github-action](https://github.com/renovatebot/github-action): ⭐ 545
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee): ⭐ 3967
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee): ⭐ 3973
 - [cisco-open/repository-agent-orchestrator](https://github.com/cisco-open/repository-agent-orchestrator): ⭐ 6
-- [cortex-docs/cortex](https://github.com/cortex-docs/cortex): ⭐ 3211
-- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 585
-- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): ⭐ 750
-- [microsoft/AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach): ⭐ 4307
+- [cortex-docs/cortex](https://github.com/cortex-docs/cortex): ⭐ 3216
+- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 601
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): ⭐ 752
 
 </details>
 
