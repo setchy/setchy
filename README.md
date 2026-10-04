@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [2 days ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) -  [6 days ago]
+- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [6 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 week ago]
 - [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
-- [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) - awesome list of graphql-java related projects [2 weeks ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [chore: remove app-builder-lib patch](https://github.com/gitify-app/gitify/pull/3340) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [refactor: migrate to `pnpm/setup`](https://github.com/gitify-app/website/pull/757) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
-- MERGED - [refactor: migrate to `pnpm/setup`](https://github.com/setchy/atlassify/pull/3791) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- OPEN - [fix(prune): refresh PR state before autoclosing](https://github.com/renovatebot/renovate/pull/46518) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
-- OPEN - [feat: awesome-lint and contents section](https://github.com/graphql-java/awesome-graphql-java/pull/51) to [graphql-java/awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) [6 days ago]
-- MERGED - [ci: renovate config update](https://github.com/chentsulin/awesome-graphql/pull/829) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Run Renovate with GitHub Actions](https://github.com/chentsulin/awesome-graphql/pull/827) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Add GraphQL interoperability specifications](https://github.com/chentsulin/awesome-graphql/pull/826) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Move tutorials before other learning resources](https://github.com/chentsulin/awesome-graphql/pull/825) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Reorganize catalog taxonomy](https://github.com/chentsulin/awesome-graphql/pull/824) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Temporarily allow flaky links](https://github.com/chentsulin/awesome-graphql/pull/822) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Avoid duplicate pull request workflow runs](https://github.com/chentsulin/awesome-graphql/pull/821) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Add missing post descriptions](https://github.com/chentsulin/awesome-graphql/pull/820) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Add missing blog descriptions](https://github.com/chentsulin/awesome-graphql/pull/819) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Update tools and services descriptions](https://github.com/chentsulin/awesome-graphql/pull/818) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Update language implementation descriptions](https://github.com/chentsulin/awesome-graphql/pull/817) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [Update JavaScript project descriptions](https://github.com/chentsulin/awesome-graphql/pull/816) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [fix: remove broken article](https://github.com/chentsulin/awesome-graphql/pull/812) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [2 weeks ago]
-- MERGED - [ci: add comments to PR on rel](https://github.com/setchy/atlassify/pull/3660) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
-- MERGED - [feat(api): harden query paths](https://github.com/setchy/atlassify/pull/3659) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 weeks ago]
+- OPEN - [fix(sonar): run container smoke test as non-root user (docker:S6471)](https://github.com/gitify-app/gnome/pull/22) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
+- OPEN - [fix(sonar): sort apt packages alphabetically in test image (docker:S7018)](https://github.com/gitify-app/gnome/pull/21) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
+- OPEN - [fix(sonar): await outside loops in preferences smoke test (javascript:S9382)](https://github.com/gitify-app/gnome/pull/20) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
+- OPEN - [fix(sonar): explicitly ignore unhandled screenshot promise (javascript:S9383)](https://github.com/gitify-app/gnome/pull/19) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
+- OPEN - [chore(sonar): document loopback-only inspector connection (python:S5332)](https://github.com/gitify-app/kde/pull/7) to [gitify-app/kde](https://github.com/gitify-app/kde) [today]
+- OPEN - [refactor(sonar): extract helpers to reduce main() complexity (python:S3776)](https://github.com/gitify-app/kde/pull/6) to [gitify-app/kde](https://github.com/gitify-app/kde) [today]
+- OPEN - [refactor(sonar): reduce visual pixel check cognitive complexity (typescript:S3776)](https://github.com/gitify-app/electron-menubar/pull/226) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [fix(sonar): invoke capture tools by absolute path (typescript:S4036)](https://github.com/gitify-app/electron-menubar/pull/225) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [refactor(sonar): justify sequential polling waits in loops (typescript:S9382)](https://github.com/gitify-app/electron-menubar/pull/224) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [refactor(sonar): parse VISUAL bounds with precompiled RegExp (typescript:S6594)](https://github.com/gitify-app/electron-menubar/pull/223) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [test(sonar): assert mock call counts with toHaveLength (typescript:S5906)](https://github.com/gitify-app/electron-menubar/pull/222) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [refactor(sonar): anchor testMatch regex to the e2e suffix (typescript:S8786)](https://github.com/gitify-app/electron-menubar/pull/221) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [refactor(sonar): prefer nullish coalescing assignment for defaults (typescript:S6606)](https://github.com/gitify-app/electron-menubar/pull/220) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- MERGED - [docs(readme): replace flaky bundlephobia badges with a bundlejs badge](https://github.com/gitify-app/electron-menubar/pull/219) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [refactor(sonar): mark constructor-only fields readonly (typescript:S2933)](https://github.com/gitify-app/electron-menubar/pull/218) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [refactor(sonar): keep deprecated showOnRightClick support explicit (typescript:S1874)](https://github.com/gitify-app/electron-menubar/pull/211) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [test(sonar): document platform-conditional test skips (typescript:S1607)](https://github.com/gitify-app/electron-menubar/pull/208) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [fix(sonar): constrain update-platforms CLI paths to the repo (tssecurity:S8707)](https://github.com/gitify-app/electron-menubar/pull/206) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- MERGED - [fix(sonar): resolve floating promise in icon animation example (javascript:S9383)](https://github.com/gitify-app/electron-menubar/pull/204) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- MERGED - [chore(sonar): remove TODO marker from Hyprland comment (githubactions:S1135)](https://github.com/gitify-app/electron-menubar/pull/203) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill): ⭐ 9795
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill): ⭐ 9814
 - [langchain-ai/openevals](https://github.com/langchain-ai/openevals): ⭐ 1214
-- [microsoft/agentrc](https://github.com/microsoft/agentrc): ⭐ 1090
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip): ⭐ 96355
+- [microsoft/agentrc](https://github.com/microsoft/agentrc): ⭐ 1091
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip): ⭐ 96781
 - [renovatebot/github-action](https://github.com/renovatebot/github-action): ⭐ 545
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee): ⭐ 3973
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee): ⭐ 3978
 - [cisco-open/repository-agent-orchestrator](https://github.com/cisco-open/repository-agent-orchestrator): ⭐ 6
-- [cortex-docs/cortex](https://github.com/cortex-docs/cortex): ⭐ 3216
-- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 601
-- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): ⭐ 752
+- [cortex-docs/cortex](https://github.com/cortex-docs/cortex): ⭐ 3224
+- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 621
+- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): ⭐ 756
 
 </details>
 
