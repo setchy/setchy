@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [6 days ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [6 days ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 week ago]
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 week ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- OPEN - [fix(sonar): run container smoke test as non-root user (docker:S6471)](https://github.com/gitify-app/gnome/pull/22) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
-- OPEN - [fix(sonar): sort apt packages alphabetically in test image (docker:S7018)](https://github.com/gitify-app/gnome/pull/21) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
-- OPEN - [fix(sonar): await outside loops in preferences smoke test (javascript:S9382)](https://github.com/gitify-app/gnome/pull/20) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
-- OPEN - [fix(sonar): explicitly ignore unhandled screenshot promise (javascript:S9383)](https://github.com/gitify-app/gnome/pull/19) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
-- OPEN - [chore(sonar): document loopback-only inspector connection (python:S5332)](https://github.com/gitify-app/kde/pull/7) to [gitify-app/kde](https://github.com/gitify-app/kde) [today]
-- OPEN - [refactor(sonar): extract helpers to reduce main() complexity (python:S3776)](https://github.com/gitify-app/kde/pull/6) to [gitify-app/kde](https://github.com/gitify-app/kde) [today]
-- OPEN - [refactor(sonar): reduce visual pixel check cognitive complexity (typescript:S3776)](https://github.com/gitify-app/electron-menubar/pull/226) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [fix(sonar): invoke capture tools by absolute path (typescript:S4036)](https://github.com/gitify-app/electron-menubar/pull/225) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [refactor(sonar): justify sequential polling waits in loops (typescript:S9382)](https://github.com/gitify-app/electron-menubar/pull/224) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [refactor(sonar): parse VISUAL bounds with precompiled RegExp (typescript:S6594)](https://github.com/gitify-app/electron-menubar/pull/223) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [test(sonar): assert mock call counts with toHaveLength (typescript:S5906)](https://github.com/gitify-app/electron-menubar/pull/222) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [refactor(sonar): anchor testMatch regex to the e2e suffix (typescript:S8786)](https://github.com/gitify-app/electron-menubar/pull/221) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [refactor(sonar): prefer nullish coalescing assignment for defaults (typescript:S6606)](https://github.com/gitify-app/electron-menubar/pull/220) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [docs(readme): replace flaky bundlephobia badges with a bundlejs badge](https://github.com/gitify-app/electron-menubar/pull/219) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [refactor(sonar): mark constructor-only fields readonly (typescript:S2933)](https://github.com/gitify-app/electron-menubar/pull/218) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [refactor(sonar): keep deprecated showOnRightClick support explicit (typescript:S1874)](https://github.com/gitify-app/electron-menubar/pull/211) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [test(sonar): document platform-conditional test skips (typescript:S1607)](https://github.com/gitify-app/electron-menubar/pull/208) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- OPEN - [fix(sonar): constrain update-platforms CLI paths to the repo (tssecurity:S8707)](https://github.com/gitify-app/electron-menubar/pull/206) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [fix(sonar): resolve floating promise in icon animation example (javascript:S9383)](https://github.com/gitify-app/electron-menubar/pull/204) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [chore(sonar): remove TODO marker from Hyprland comment (githubactions:S1135)](https://github.com/gitify-app/electron-menubar/pull/203) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- OPEN - [refactor(i18n): adopt t() defaultValue as the source of English](https://github.com/setchy/atlassify/pull/3830) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix(renderer): resolve error catalog strings in the current language](https://github.com/setchy/atlassify/pull/3829) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix(renderer): use useTranslation hook in ManageAccountRoute](https://github.com/setchy/atlassify/pull/3828) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix(sonar): handle app.whenReady rejection on startup (typescript:S9383)](https://github.com/gitify-app/gitify/pull/3380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor(sonar): remove legacy storage migration (typescript:S1135)](https://github.com/setchy/atlassify/pull/3827) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor(sonar): use non-deprecated avatar size (typescript:S1874)](https://github.com/setchy/atlassify/pull/3826) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor: migrate @atlaskit/logo imports to entry points](https://github.com/setchy/atlassify/pull/3804) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [chore: remove app-builder-lib patch](https://github.com/setchy/atlassify/pull/3801) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor(sonar): resolve nested ternary in account header styles (typescript:S3358)](https://github.com/setchy/atlassify/pull/3800) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor(sonar): hoist unstable icon components (typescript:S6478)](https://github.com/setchy/atlassify/pull/3799) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [config: Refactor renovate.json configuration](https://github.com/gitify-app/website/pull/765) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [ci: refactor renovate.json configuration for clarity](https://github.com/gitify-app/gitify/pull/3377) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [config: Update Renovate configuration to extend GitHub settings](https://github.com/gitify-app/kde/pull/8) to [gitify-app/kde](https://github.com/gitify-app/kde) [1 day ago]
+- MERGED - [ci: Update renovate.json configuration and descriptions](https://github.com/gitify-app/electron-menubar/pull/227) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- MERGED - [config: Refactor renovate.json configuration](https://github.com/gitify-app/gnome/pull/27) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [1 day ago]
+- MERGED - [refactor(sonar): resolve nested ternary operators (typescript:S3358)](https://github.com/setchy/atlassify/pull/3798) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [test(sonar): parameterize similar tests (typescript:S5976)](https://github.com/setchy/atlassify/pull/3797) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor(sonar): resolve async functions without await (typescript:S7503)](https://github.com/setchy/atlassify/pull/3796) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [fix(sonar): throw TypeError after type check (typescript:S7786)](https://github.com/setchy/atlassify/pull/3795) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [refactor(sonar): avoid awaiting promises sequentially in loops (typescript:S9382)](https://github.com/setchy/atlassify/pull/3794) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill): ⭐ 9814
+- [LittleSound/bekuto3d](https://github.com/LittleSound/bekuto3d): ⭐ 369
+- [LitoMore/badge3d](https://github.com/LitoMore/badge3d): ⭐ 9
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill): ⭐ 9905
 - [langchain-ai/openevals](https://github.com/langchain-ai/openevals): ⭐ 1214
-- [microsoft/agentrc](https://github.com/microsoft/agentrc): ⭐ 1091
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip): ⭐ 96781
-- [renovatebot/github-action](https://github.com/renovatebot/github-action): ⭐ 545
+- [microsoft/agentrc](https://github.com/microsoft/agentrc): ⭐ 1092
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip): ⭐ 97233
+- [renovatebot/github-action](https://github.com/renovatebot/github-action): ⭐ 546
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee): ⭐ 3978
 - [cisco-open/repository-agent-orchestrator](https://github.com/cisco-open/repository-agent-orchestrator): ⭐ 6
-- [cortex-docs/cortex](https://github.com/cortex-docs/cortex): ⭐ 3224
-- [Chaptarr/chaptarr](https://github.com/Chaptarr/chaptarr): ⭐ 621
-- [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): ⭐ 756
+- [cortex-docs/cortex](https://github.com/cortex-docs/cortex): ⭐ 3228
 
 </details>
 
