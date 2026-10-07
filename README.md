@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [today]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [today]
+- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [today]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com [2 days ago]
-- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [3 days ago]
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
 
 </details>
 
@@ -61,10 +61,15 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
+- OPEN - [fix(visual): run GNOME tray test on headless Wayland](https://github.com/gitify-app/electron-menubar/pull/239) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- MERGED - [fix: de-flake e2e DevTools poll and remove new-code duplication](https://github.com/gitify-app/electron-menubar/pull/238) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- MERGED - [refactor(sonar): mark callback members as readonly (typescript:S2933)](https://github.com/gitify-app/electron-menubar/pull/237) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- MERGED - [ci: add `ubuntu-26.04` to e2e matrix](https://github.com/gitify-app/electron-menubar/pull/234) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- MERGED - [fix(sonar): drop argv-derived paths from update-platforms (tssecurity:S8707)](https://github.com/gitify-app/electron-menubar/pull/233) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
 - MERGED - [docs: add GNOME Wayland setup and align desktop FAQs](https://github.com/gitify-app/website/pull/770) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 - MERGED - [fix: cache GitHub API requests and fail fast on rate limits](https://github.com/gitify-app/website/pull/769) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
 - MERGED - [feat(manager/github-actions): update gh-aw-actions/setup-cli with.version](https://github.com/renovatebot/renovate/pull/46766) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
-- OPEN - [feat(notifications): support copilot agent session](https://github.com/gitify-app/gitify/pull/3384) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [feat(notifications): support copilot agent session](https://github.com/gitify-app/gitify/pull/3384) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 - MERGED - [Document agent_session_finished notification reason](https://github.com/github/docs/pull/46192) to [github/docs](https://github.com/github/docs) [2 days ago]
 - OPEN - [refactor(i18n): adopt t() defaultValue as the source of English](https://github.com/setchy/atlassify/pull/3830) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 - MERGED - [fix(renderer): resolve error catalog strings in the current language](https://github.com/setchy/atlassify/pull/3829) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
@@ -76,11 +81,6 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - MERGED - [chore: remove app-builder-lib patch](https://github.com/setchy/atlassify/pull/3801) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 - MERGED - [refactor(sonar): resolve nested ternary in account header styles (typescript:S3358)](https://github.com/setchy/atlassify/pull/3800) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
 - MERGED - [refactor(sonar): hoist unstable icon components (typescript:S6478)](https://github.com/setchy/atlassify/pull/3799) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
-- MERGED - [config: Refactor renovate.json configuration](https://github.com/gitify-app/website/pull/765) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
-- MERGED - [ci: refactor renovate.json configuration for clarity](https://github.com/gitify-app/gitify/pull/3377) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [config: Update Renovate configuration to extend GitHub settings](https://github.com/gitify-app/kde/pull/8) to [gitify-app/kde](https://github.com/gitify-app/kde) [3 days ago]
-- MERGED - [ci: Update renovate.json configuration and descriptions](https://github.com/gitify-app/electron-menubar/pull/227) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 days ago]
-- MERGED - [config: Refactor renovate.json configuration](https://github.com/gitify-app/gnome/pull/27) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [3 days ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 196016
-- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): ⭐ 8500
-- [sergigp/yarrtube](https://github.com/sergigp/yarrtube): ⭐ 127
+- [librariesio/libraries.io](https://github.com/librariesio/libraries.io): ⭐ 1159
+- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5416
+- [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay): ⭐ 6514
+- [openlint/openlint](https://github.com/openlint/openlint): ⭐ 5
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 196148
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): ⭐ 8502
+- [sergigp/yarrtube](https://github.com/sergigp/yarrtube): ⭐ 129
 - [LittleSound/bekuto3d](https://github.com/LittleSound/bekuto3d): ⭐ 369
 - [LitoMore/badge3d](https://github.com/LitoMore/badge3d): ⭐ 9
-- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill): ⭐ 9960
-- [langchain-ai/openevals](https://github.com/langchain-ai/openevals): ⭐ 1216
-- [microsoft/agentrc](https://github.com/microsoft/agentrc): ⭐ 1095
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip): ⭐ 98111
-- [renovatebot/github-action](https://github.com/renovatebot/github-action): ⭐ 549
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill): ⭐ 9978
 
 </details>
 
