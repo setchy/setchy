@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 day ago]
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
 - [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [2 days ago]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [3 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- OPEN - [fix(visual): run GNOME tray test on headless Wayland](https://github.com/gitify-app/electron-menubar/pull/239) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [fix: de-flake e2e DevTools poll and remove new-code duplication](https://github.com/gitify-app/electron-menubar/pull/238) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [refactor(sonar): mark callback members as readonly (typescript:S2933)](https://github.com/gitify-app/electron-menubar/pull/237) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [ci: add `ubuntu-26.04` to e2e matrix](https://github.com/gitify-app/electron-menubar/pull/234) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [fix(sonar): drop argv-derived paths from update-platforms (tssecurity:S8707)](https://github.com/gitify-app/electron-menubar/pull/233) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [docs: add GNOME Wayland setup and align desktop FAQs](https://github.com/gitify-app/website/pull/770) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
-- MERGED - [fix: cache GitHub API requests and fail fast on rate limits](https://github.com/gitify-app/website/pull/769) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
-- MERGED - [feat(manager/github-actions): update gh-aw-actions/setup-cli with.version](https://github.com/renovatebot/renovate/pull/46766) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
-- MERGED - [feat(notifications): support copilot agent session](https://github.com/gitify-app/gitify/pull/3384) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [Document agent_session_finished notification reason](https://github.com/github/docs/pull/46192) to [github/docs](https://github.com/github/docs) [3 days ago]
-- OPEN - [refactor(i18n): adopt t() defaultValue as the source of English](https://github.com/setchy/atlassify/pull/3830) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [fix(renderer): resolve error catalog strings in the current language](https://github.com/setchy/atlassify/pull/3829) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [fix(renderer): use useTranslation hook in ManageAccountRoute](https://github.com/setchy/atlassify/pull/3828) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [fix(sonar): handle app.whenReady rejection on startup (typescript:S9383)](https://github.com/gitify-app/gitify/pull/3380) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- MERGED - [refactor(sonar): remove legacy storage migration (typescript:S1135)](https://github.com/setchy/atlassify/pull/3827) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [refactor(sonar): use non-deprecated avatar size (typescript:S1874)](https://github.com/setchy/atlassify/pull/3826) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [refactor: migrate @atlaskit/logo imports to entry points](https://github.com/setchy/atlassify/pull/3804) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [chore: remove app-builder-lib patch](https://github.com/setchy/atlassify/pull/3801) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [refactor(sonar): resolve nested ternary in account header styles (typescript:S3358)](https://github.com/setchy/atlassify/pull/3800) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [refactor(sonar): hoist unstable icon components (typescript:S6478)](https://github.com/setchy/atlassify/pull/3799) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [test: replace deprecated settings assertion](https://github.com/gitify-app/gitify/pull/3397) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [test: isolate ozone test directories](https://github.com/gitify-app/gitify/pull/3396) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test: simplify GitHub CLI mock responses](https://github.com/gitify-app/gitify/pull/3395) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: migrate to CSS-based Primer theme provider](https://github.com/gitify-app/gitify/pull/3394) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: stabilize account scopes icon components](https://github.com/gitify-app/gitify/pull/3393) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [ci: add reusable GitHub Actions security scanning](https://github.com/gitify-app/.github/pull/10) to [gitify-app/.github](https://github.com/gitify-app/.github) [1 day ago]
+- MERGED - [ci(renovate): use the shared Renovate config validator](https://github.com/gitify-app/kde/pull/13) to [gitify-app/kde](https://github.com/gitify-app/kde) [1 day ago]
+- MERGED - [ci(renovate): use the shared Renovate config validator](https://github.com/gitify-app/gnome/pull/37) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [1 day ago]
+- MERGED - [chore(renovate): adopt the shared weekly cadence and validator](https://github.com/gitify-app/website/pull/771) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- MERGED - [ci(renovate): use the shared Renovate config validator](https://github.com/gitify-app/electron-menubar/pull/244) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- MERGED - [chore(renovate): inherit shared grouping and use the reusable validator](https://github.com/gitify-app/gitify/pull/3392) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix(renovate): run validator from an isolated working directory](https://github.com/gitify-app/.github/pull/6) to [gitify-app/.github](https://github.com/gitify-app/.github) [1 day ago]
+- CLOSED - [TEST: invalid preset (verify required check blocks merge)](https://github.com/gitify-app/.github/pull/5) to [gitify-app/.github](https://github.com/gitify-app/.github) [1 day ago]
+- MERGED - [ci(renovate): run validator on every pull request](https://github.com/gitify-app/.github/pull/4) to [gitify-app/.github](https://github.com/gitify-app/.github) [1 day ago]
+- MERGED - [fix(renovate): validate multiple preset files without multiline step output](https://github.com/gitify-app/.github/pull/3) to [gitify-app/.github](https://github.com/gitify-app/.github) [1 day ago]
+- MERGED - [config(renovate): harden shared preset and add onboarding entry point](https://github.com/gitify-app/.github/pull/2) to [gitify-app/.github](https://github.com/gitify-app/.github) [1 day ago]
+- MERGED - [chore(renovate): track the smoke-test Dockerfile image](https://github.com/gitify-app/gnome/pull/36) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [1 day ago]
+- MERGED - [ci(renovate): add reusable Renovate config validator workflow](https://github.com/gitify-app/.github/pull/1) to [gitify-app/.github](https://github.com/gitify-app/.github) [1 day ago]
+- OPEN - [fix(visual): run GNOME tray test on headless Wayland](https://github.com/gitify-app/electron-menubar/pull/239) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
+- MERGED - [fix: de-flake e2e DevTools poll and remove new-code duplication](https://github.com/gitify-app/electron-menubar/pull/238) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 39922
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5785
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 39974
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io): ⭐ 1159
-- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5423
-- [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay): ⭐ 6623
-- [openlint/openlint](https://github.com/openlint/openlint): ⭐ 5
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 196227
-- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): ⭐ 8503
+- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5428
+- [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay): ⭐ 6684
+- [openlint/openlint](https://github.com/openlint/openlint): ⭐ 6
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 196245
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): ⭐ 8504
 - [sergigp/yarrtube](https://github.com/sergigp/yarrtube): ⭐ 133
 - [LittleSound/bekuto3d](https://github.com/LittleSound/bekuto3d): ⭐ 369
-- [LitoMore/badge3d](https://github.com/LitoMore/badge3d): ⭐ 9
 
 </details>
 
