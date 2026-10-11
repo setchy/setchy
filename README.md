@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [today]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) -  [today]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [today]
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [today]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [today]
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [today]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [today]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [today]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) -  [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [chore(deps): remove duplicate react-i18next lockfile entries](https://github.com/setchy/atlassify/pull/3862) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
-- OPEN - [feat(best-practices): provide default `minimumReleaseAge` for pypi](https://github.com/renovatebot/renovate/pull/46903) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [today]
-- MERGED - [ci: add reusable Renovate config validator workflow](https://github.com/setchy/renovate-config/pull/2) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [today]
-- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/chip-index/pull/1) to [setchy/chip-index](https://github.com/setchy/chip-index) [today]
-- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1162) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [today]
-- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/homebrew-brews/pull/59) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [today]
-- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/dgs-extended-formatters/pull/503) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [today]
-- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/meme-driven.dev/pull/511) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [today]
-- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/guidealong-maps/pull/91) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
-- OPEN - [chore: use shared renovate-config preset](https://github.com/setchy/atlassify/pull/3858) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
-- MERGED - [feat: add shared default Renovate preset](https://github.com/setchy/renovate-config/pull/1) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [today]
-- MERGED - [chore: add Astro type checking to local scripts and CI](https://github.com/gitify-app/website/pull/773) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
-- MERGED - [docs: enforce Astro checks for website builds and CI](https://github.com/setchy/atlassify/pull/3832) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
-- MERGED - [ci: add Astro diagnostics check with pnpm/setup](https://github.com/setchy/meme-driven.dev/pull/506) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 day ago]
-- MERGED - [test: replace deprecated settings assertion](https://github.com/gitify-app/gitify/pull/3397) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- OPEN - [test: isolate ozone test directories](https://github.com/gitify-app/gitify/pull/3396) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [test: simplify GitHub CLI mock responses](https://github.com/gitify-app/gitify/pull/3395) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [fix: migrate to CSS-based Primer theme provider](https://github.com/gitify-app/gitify/pull/3394) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [fix: stabilize account scopes icon components](https://github.com/gitify-app/gitify/pull/3393) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- OPEN - [ci: add reusable GitHub Actions security scanning](https://github.com/gitify-app/.github/pull/10) to [gitify-app/.github](https://github.com/gitify-app/.github) [2 days ago]
+- MERGED - [chore(deps): remove duplicate react-i18next lockfile entries](https://github.com/setchy/atlassify/pull/3862) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- OPEN - [feat(best-practices): provide default `minimumReleaseAge` for pypi](https://github.com/renovatebot/renovate/pull/46903) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- MERGED - [ci: add reusable Renovate config validator workflow](https://github.com/setchy/renovate-config/pull/2) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 day ago]
+- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/chip-index/pull/1) to [setchy/chip-index](https://github.com/setchy/chip-index) [1 day ago]
+- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1162) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
+- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/homebrew-brews/pull/59) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [1 day ago]
+- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/dgs-extended-formatters/pull/503) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
+- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/meme-driven.dev/pull/511) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 day ago]
+- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/guidealong-maps/pull/91) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [1 day ago]
+- MERGED - [chore: use shared renovate-config preset](https://github.com/setchy/atlassify/pull/3858) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: add shared default Renovate preset](https://github.com/setchy/renovate-config/pull/1) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 day ago]
+- MERGED - [chore: add Astro type checking to local scripts and CI](https://github.com/gitify-app/website/pull/773) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [docs: enforce Astro checks for website builds and CI](https://github.com/setchy/atlassify/pull/3832) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [ci: add Astro diagnostics check with pnpm/setup](https://github.com/setchy/meme-driven.dev/pull/506) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 days ago]
+- MERGED - [test: replace deprecated settings assertion](https://github.com/gitify-app/gitify/pull/3397) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [test: isolate ozone test directories](https://github.com/gitify-app/gitify/pull/3396) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [test: simplify GitHub CLI mock responses](https://github.com/gitify-app/gitify/pull/3395) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: migrate to CSS-based Primer theme provider](https://github.com/gitify-app/gitify/pull/3394) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [fix: stabilize account scopes icon components](https://github.com/gitify-app/gitify/pull/3393) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- OPEN - [ci: add reusable GitHub Actions security scanning](https://github.com/gitify-app/.github/pull/10) to [gitify-app/.github](https://github.com/gitify-app/.github) [3 days ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 174
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5786
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40026
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9440
+- [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1566
+- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 182
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5790
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40037
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io): ⭐ 1159
-- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5445
-- [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay): ⭐ 6728
+- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5446
+- [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay): ⭐ 6731
 - [openlint/openlint](https://github.com/openlint/openlint): ⭐ 6
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 196633
-- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist): ⭐ 8507
-- [sergigp/yarrtube](https://github.com/sergigp/yarrtube): ⭐ 145
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 196704
 
 </details>
 
