@@ -96,7 +96,7 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5449
 - [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay): ⭐ 6749
 - [openlint/openlint](https://github.com/openlint/openlint): ⭐ 6
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 196961
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 196969
 
 </details>
 
