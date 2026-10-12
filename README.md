@@ -44,15 +44,15 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
 - [setchy/renovate-config](https://github.com/setchy/renovate-config) -  [1 day ago]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
 - [setchy/.github](https://github.com/setchy/.github) -  [1 day ago]
 - [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
-- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
 - [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 
 </details>
@@ -87,16 +87,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9448
-- [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1567
-- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 206
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5788
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40079
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9450
+- [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1568
+- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 211
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5787
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40097
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io): ⭐ 1159
-- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5449
-- [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay): ⭐ 6749
+- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5450
+- [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay): ⭐ 6754
 - [openlint/openlint](https://github.com/openlint/openlint): ⭐ 6
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 196969
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 197083
 
 </details>
 
