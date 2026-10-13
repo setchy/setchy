@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
 - [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
-- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 
 </details>
 
@@ -61,6 +61,8 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
+- OPEN - [feat: update biome domains, rules and associated fixes - #782](https://github.com/setchy/atlassify/pull/3868) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+- MERGED - [feat: update biome domains, rules and associated fixes](https://github.com/gitify-app/website/pull/782) to [gitify-app/website](https://github.com/gitify-app/website) [today]
 - OPEN - [feat(trakt): add device code authentication](https://github.com/Taxel/PlexTraktSync/pull/2607) to [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) [1 day ago]
 - MERGED - [ci: pin the Renovate version used by the validator](https://github.com/gitify-app/renovate-config/pull/5) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
 - MERGED - [ci: pin the Renovate version used by the validator](https://github.com/setchy/renovate-config/pull/13) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 day ago]
@@ -79,8 +81,6 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/website/pull/781) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
 - MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/gitify/pull/3405) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 - MERGED - [chore(CODEOWNERS): own by maintainers](https://github.com/gitify-app/renovate-config/pull/2) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
-- MERGED - [chore: add CODEOWNERS](https://github.com/gitify-app/.github/pull/13) to [gitify-app/.github](https://github.com/gitify-app/.github) [1 day ago]
-- MERGED - [chore: add CODEOWNERS](https://github.com/gitify-app/kde/pull/16) to [gitify-app/kde](https://github.com/gitify-app/kde) [1 day ago]
 
 </details>
 
@@ -90,9 +90,9 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 951
 - [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6234
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9456
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9457
 - [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1571
-- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 220
+- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 221
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5785
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40114
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io): ⭐ 1159
