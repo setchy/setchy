@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
-- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [2 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- OPEN - [feat: update biome domains, rules and associated fixes - #782](https://github.com/setchy/atlassify/pull/3868) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
-- MERGED - [feat: update biome domains, rules and associated fixes](https://github.com/gitify-app/website/pull/782) to [gitify-app/website](https://github.com/gitify-app/website) [today]
-- OPEN - [feat(trakt): add device code authentication](https://github.com/Taxel/PlexTraktSync/pull/2607) to [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) [1 day ago]
-- MERGED - [ci: pin the Renovate version used by the validator](https://github.com/gitify-app/renovate-config/pull/5) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
-- MERGED - [ci: pin the Renovate version used by the validator](https://github.com/setchy/renovate-config/pull/13) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 day ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/homebrew-brews/pull/64) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [1 day ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1172) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/meme-driven.dev/pull/520) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 day ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/guidealong-maps/pull/99) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [1 day ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/dgs-extended-formatters/pull/508) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/chip-index/pull/8) to [setchy/chip-index](https://github.com/setchy/chip-index) [1 day ago]
-- MERGED - [ci(renovate): pin Node 24.21.0 and add workflow hygiene](https://github.com/gitify-app/renovate-config/pull/4) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
-- MERGED - [ci: unify the Renovate config validator](https://github.com/setchy/renovate-config/pull/12) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 day ago]
-- MERGED - [docs: reference the preset via local&gt;](https://github.com/gitify-app/renovate-config/pull/3) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
-- MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/kde/pull/17) to [gitify-app/kde](https://github.com/gitify-app/kde) [1 day ago]
-- MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/gnome/pull/42) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [1 day ago]
-- MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/electron-menubar/pull/257) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/website/pull/781) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
-- MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/gitify/pull/3405) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(CODEOWNERS): own by maintainers](https://github.com/gitify-app/renovate-config/pull/2) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
+- MERGED - [feat(notifications): show identifiers for releases and commits](https://github.com/gitify-app/gitify/pull/3408) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(notifications): rework hover actions and wrap metric pills](https://github.com/gitify-app/gitify/pull/3407) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: detailed overlay cards [avatar, org, description, comments, reviews]](https://github.com/gitify-app/gitify/pull/3406) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [refactor(renderer): use function declarations for React components](https://github.com/setchy/atlassify/pull/3869) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: update biome domains, rules and associated fixes - #782](https://github.com/setchy/atlassify/pull/3868) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [feat: update biome domains, rules and associated fixes](https://github.com/gitify-app/website/pull/782) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
+- OPEN - [feat(trakt): add device code authentication](https://github.com/Taxel/PlexTraktSync/pull/2607) to [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) [2 days ago]
+- MERGED - [ci: pin the Renovate version used by the validator](https://github.com/gitify-app/renovate-config/pull/5) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
+- MERGED - [ci: pin the Renovate version used by the validator](https://github.com/setchy/renovate-config/pull/13) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
+- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/homebrew-brews/pull/64) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [2 days ago]
+- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1172) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 days ago]
+- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/meme-driven.dev/pull/520) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 days ago]
+- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/guidealong-maps/pull/99) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [2 days ago]
+- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/dgs-extended-formatters/pull/508) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [2 days ago]
+- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/chip-index/pull/8) to [setchy/chip-index](https://github.com/setchy/chip-index) [2 days ago]
+- MERGED - [ci(renovate): pin Node 24.21.0 and add workflow hygiene](https://github.com/gitify-app/renovate-config/pull/4) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
+- MERGED - [ci: unify the Renovate config validator](https://github.com/setchy/renovate-config/pull/12) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
+- MERGED - [docs: reference the preset via local&gt;](https://github.com/gitify-app/renovate-config/pull/3) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
+- MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/kde/pull/17) to [gitify-app/kde](https://github.com/gitify-app/kde) [2 days ago]
+- MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/gnome/pull/42) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [2 days ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 951
-- [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6234
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9457
-- [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1571
-- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 221
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5785
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40114
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9475
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 952
+- [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6235
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9463
+- [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1579
+- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 225
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5782
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40157
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io): ⭐ 1159
-- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5455
-- [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay): ⭐ 6762
+- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5462
 
 </details>
 
