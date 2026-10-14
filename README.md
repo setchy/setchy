@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [2 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [today]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [today]
+- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [today]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [today]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [today]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [today]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [today]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [today]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [feat(notifications): show identifiers for releases and commits](https://github.com/gitify-app/gitify/pull/3408) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [feat(notifications): rework hover actions and wrap metric pills](https://github.com/gitify-app/gitify/pull/3407) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [feat: detailed overlay cards [avatar, org, description, comments, reviews]](https://github.com/gitify-app/gitify/pull/3406) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [refactor(renderer): use function declarations for React components](https://github.com/setchy/atlassify/pull/3869) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
-- MERGED - [feat: update biome domains, rules and associated fixes - #782](https://github.com/setchy/atlassify/pull/3868) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
-- MERGED - [feat: update biome domains, rules and associated fixes](https://github.com/gitify-app/website/pull/782) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
-- OPEN - [feat(trakt): add device code authentication](https://github.com/Taxel/PlexTraktSync/pull/2607) to [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) [2 days ago]
-- MERGED - [ci: pin the Renovate version used by the validator](https://github.com/gitify-app/renovate-config/pull/5) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
-- MERGED - [ci: pin the Renovate version used by the validator](https://github.com/setchy/renovate-config/pull/13) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/homebrew-brews/pull/64) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [2 days ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1172) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 days ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/meme-driven.dev/pull/520) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 days ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/guidealong-maps/pull/99) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [2 days ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/dgs-extended-formatters/pull/508) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [2 days ago]
-- MERGED - [ci(renovate): use the combined validator workflow](https://github.com/setchy/chip-index/pull/8) to [setchy/chip-index](https://github.com/setchy/chip-index) [2 days ago]
-- MERGED - [ci(renovate): pin Node 24.21.0 and add workflow hygiene](https://github.com/gitify-app/renovate-config/pull/4) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
-- MERGED - [ci: unify the Renovate config validator](https://github.com/setchy/renovate-config/pull/12) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
-- MERGED - [docs: reference the preset via local&gt;](https://github.com/gitify-app/renovate-config/pull/3) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
-- MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/kde/pull/17) to [gitify-app/kde](https://github.com/gitify-app/kde) [2 days ago]
-- MERGED - [chore(renovate): extend local&gt;gitify-app/renovate-config](https://github.com/gitify-app/gnome/pull/42) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [2 days ago]
+- MERGED - [fix(ci): use renovate-config validator workflow location](https://github.com/gitify-app/kde/pull/19) to [gitify-app/kde](https://github.com/gitify-app/kde) [today]
+- CLOSED - [ci: run workflows on renovate/** branches](https://github.com/gitify-app/gnome/pull/47) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
+- CLOSED - [ci: run workflows on renovate/** branches](https://github.com/gitify-app/electron-menubar/pull/262) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- CLOSED - [ci: run workflows on renovate/** branches](https://github.com/gitify-app/gitify/pull/3422) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- CLOSED - [ci: run workflows on renovate/** branches](https://github.com/gitify-app/website/pull/788) to [gitify-app/website](https://github.com/gitify-app/website) [today]
+- CLOSED - [fix: use branch automerge for renovate-config workflow digests](https://github.com/gitify-app/renovate-config/pull/9) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [today]
+- MERGED - [fix: merge renovate-config workflow digest updates directly](https://github.com/gitify-app/renovate-config/pull/8) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [today]
+- OPEN - [refactor(renderer): use function declarations for React components](https://github.com/gitify-app/gitify/pull/3421) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- OPEN - [chore: adopt Vite&#43; native type-aware checking](https://github.com/gitify-app/gitify/pull/3420) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [docs: emoji headings in the contributing guide](https://github.com/gitify-app/gitify/pull/3419) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [docs: keep the title plain and emoji every section heading](https://github.com/gitify-app/.github/pull/15) to [gitify-app/.github](https://github.com/gitify-app/.github) [today]
+- MERGED - [docs: keep the title plain and emoji every section heading](https://github.com/gitify-app/website/pull/784) to [gitify-app/website](https://github.com/gitify-app/website) [today]
+- MERGED - [docs: align README headings and add a contributing guide](https://github.com/gitify-app/renovate-config/pull/6) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [today]
+- MERGED - [docs: add emoji headings and a contributing guide](https://github.com/gitify-app/kde/pull/18) to [gitify-app/kde](https://github.com/gitify-app/kde) [today]
+- MERGED - [docs: add emoji headings and a contributing guide](https://github.com/gitify-app/gnome/pull/43) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
+- MERGED - [docs: keep the title plain and emoji every section heading](https://github.com/gitify-app/electron-menubar/pull/261) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- MERGED - [docs: add emoji headings to the README](https://github.com/gitify-app/gitify/pull/3418) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- CLOSED - [chore: include type-checking in the standard check command](https://github.com/gitify-app/gitify/pull/3417) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [docs: adopt Contributor Covenant 3.0 code of conduct](https://github.com/setchy/atlassify/pull/3870) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+- MERGED - [test(notifications): colocate notification list builder tests](https://github.com/gitify-app/gitify/pull/3416) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9475
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 952
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 957
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1003
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9477
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 954
 - [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6235
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9463
-- [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1579
-- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 225
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5782
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40157
-- [librariesio/libraries.io](https://github.com/librariesio/libraries.io): ⭐ 1159
-- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 5462
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9470
+- [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1582
+- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 235
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5784
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40188
 
 </details>
 
