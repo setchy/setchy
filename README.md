@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [today]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [today]
 - [gitify-app/.github](https://github.com/gitify-app/.github) - Gitify organization public profile [1 day ago]
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
-- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [1 day ago]
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
 - [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
+- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [1 day ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 959
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1014
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9477
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 954
-- [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6237
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9472
-- [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1582
-- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 240
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 964
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1024
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9478
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 955
+- [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6240
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9478
+- [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1581
+- [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 242
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5784
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40195
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40210
 
 </details>
 
