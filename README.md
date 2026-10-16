@@ -90,14 +90,14 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 973
 - [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1034
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9478
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9479
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 956
 - [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6244
 - [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9481
 - [rvben/rumdl](https://github.com/rvben/rumdl): ⭐ 1586
 - [jdx/jactionlint](https://github.com/jdx/jactionlint): ⭐ 246
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page): ⭐ 5785
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40234
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 40236
 
 </details>
 
