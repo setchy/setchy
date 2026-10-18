@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 85226
-- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3978
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 316720
-- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 914
-- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1007
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1112
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 5631
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 85369
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3977
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 320859
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 920
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1010
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1119
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9477
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 962
 - [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6255
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog): ⭐ 9492
 
 </details>
 
