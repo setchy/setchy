@@ -44,9 +44,9 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
 - [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 - [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [2 days ago]
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
@@ -88,13 +88,13 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 15587
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 86505
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 15627
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 86514
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3980
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 348772
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 348924
 - [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 934
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1040
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1357
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1358
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9481
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 965
 - [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6263
