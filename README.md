@@ -45,15 +45,15 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 
 - [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
 - [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [2 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
-- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [2 days ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [4 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [2 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [3 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
+- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [3 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [feat: request reviewers from CODEOWNERS](https://github.com/setchy/renovate-config/pull/18) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [3 days ago]
-- MERGED - [chore(ci): migrate lint workflow to all-in-one pnpm/setup](https://github.com/setchy/meme-driven.dev/pull/525) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [3 days ago]
-- OPEN - [test(renderer): serve compiled CSS sort endpoint locally in test setup](https://github.com/setchy/atlassify/pull/3899) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- OPEN - [fix(test): resolve @compiled/vite-plugin dev CSS modules under Vitest](https://github.com/setchy/atlassify/pull/3898) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [ci(sonar): wait for the quality gate before finishing the scan](https://github.com/gitify-app/website/pull/789) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
-- MERGED - [chore(openspec): adopt the atlassify-specs store](https://github.com/setchy/atlassify/pull/3890) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [chore(codegen): add reproducible Bitbucket GraphQL code generation](https://github.com/gitify-app/gitify/pull/3452) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- MERGED - [ci(sonar): wait for the quality gate before finishing the scan](https://github.com/setchy/atlassify/pull/3889) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [refactor(sonar): mark React component props as read-only (typescript:S6759)](https://github.com/setchy/atlassify/pull/3888) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [fix(graphql): support GitHub and Bitbucket schemas in the editor config](https://github.com/gitify-app/gitify/pull/3451) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- MERGED - [fix(deps): declare @graphql-codegen/typed-document-node devDependency](https://github.com/gitify-app/gitify/pull/3450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- OPEN - [refactor(auth): migrate custom OAuth app login to the device flow](https://github.com/gitify-app/gitify/pull/3449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- MERGED - [refactor(sonar): mark component props as read-only (typescript:S6759)](https://github.com/gitify-app/gitify/pull/3448) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- MERGED - [ci: guard CI dependency version compatibility](https://github.com/gitify-app/gitify/pull/3445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- MERGED - [fix: validate OAuth state on the web-flow callback](https://github.com/gitify-app/gitify/pull/3444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- MERGED - [feat: release tag octicon](https://github.com/gitify-app/gitify/pull/3443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- OPEN - [build: harden packaged builds with Electron fuses](https://github.com/gitify-app/gitify/pull/3442) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- OPEN - [perf: decouple notification actions from the notifications query](https://github.com/gitify-app/gitify/pull/3426) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- MERGED - [chore(deps): update GitHub Actions dependencies](https://github.com/chentsulin/awesome-graphql/pull/845) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [6 days ago]
-- MERGED - [chore: improve Renovate dashboard updates](https://github.com/chentsulin/awesome-graphql/pull/844) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [6 days ago]
+- MERGED - [feat: request reviewers from CODEOWNERS](https://github.com/setchy/renovate-config/pull/18) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [4 days ago]
+- MERGED - [chore(ci): migrate lint workflow to all-in-one pnpm/setup](https://github.com/setchy/meme-driven.dev/pull/525) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [4 days ago]
+- OPEN - [test(renderer): serve compiled CSS sort endpoint locally in test setup](https://github.com/setchy/atlassify/pull/3899) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- OPEN - [fix(test): resolve @compiled/vite-plugin dev CSS modules under Vitest](https://github.com/setchy/atlassify/pull/3898) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [ci(sonar): wait for the quality gate before finishing the scan](https://github.com/gitify-app/website/pull/789) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
+- MERGED - [chore(openspec): adopt the atlassify-specs store](https://github.com/setchy/atlassify/pull/3890) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [chore(codegen): add reproducible Bitbucket GraphQL code generation](https://github.com/gitify-app/gitify/pull/3452) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [ci(sonar): wait for the quality gate before finishing the scan](https://github.com/setchy/atlassify/pull/3889) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor(sonar): mark React component props as read-only (typescript:S6759)](https://github.com/setchy/atlassify/pull/3888) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [fix(graphql): support GitHub and Bitbucket schemas in the editor config](https://github.com/gitify-app/gitify/pull/3451) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix(deps): declare @graphql-codegen/typed-document-node devDependency](https://github.com/gitify-app/gitify/pull/3450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- OPEN - [refactor(auth): migrate custom OAuth app login to the device flow](https://github.com/gitify-app/gitify/pull/3449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [refactor(sonar): mark component props as read-only (typescript:S6759)](https://github.com/gitify-app/gitify/pull/3448) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [ci: guard CI dependency version compatibility](https://github.com/gitify-app/gitify/pull/3445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [fix: validate OAuth state on the web-flow callback](https://github.com/gitify-app/gitify/pull/3444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat: release tag octicon](https://github.com/gitify-app/gitify/pull/3443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [build: harden packaged builds with Electron fuses](https://github.com/gitify-app/gitify/pull/3442) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- OPEN - [perf: decouple notification actions from the notifications query](https://github.com/gitify-app/gitify/pull/3426) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [chore(deps): update GitHub Actions dependencies](https://github.com/chentsulin/awesome-graphql/pull/845) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
+- MERGED - [chore: improve Renovate dashboard updates](https://github.com/chentsulin/awesome-graphql/pull/844) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 15627
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 86514
-- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3980
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 348924
-- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 934
-- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1040
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1358
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9481
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 965
-- [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6263
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 17242
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 87084
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3982
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 357999
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 938
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1054
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1424
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9480
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 968
+- [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6272
 
 </details>
 
