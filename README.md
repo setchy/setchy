@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [today]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [today]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [today]
+- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [today]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [today]
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [2 days ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [3 days ago]
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
-- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [3 days ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 days ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [5 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
+- CLOSED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/vite-electron-builder-forked/pull/11) to [setchy/vite-electron-builder-forked](https://github.com/setchy/vite-electron-builder-forked) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1197) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [today]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/renovate-config/pull/24) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [today]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/meme-driven.dev/pull/529) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/installme.zip/pull/2) to [setchy/installme.zip](https://github.com/setchy/installme.zip) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/homebrew-brews/pull/74) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/guidealong-maps/pull/115) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/dgs-extended-formatters/pull/512) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [today]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/chip-index/pull/18) to [setchy/chip-index](https://github.com/setchy/chip-index) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/atlassify/pull/3925) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/website/pull/795) to [gitify-app/website](https://github.com/gitify-app/website) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/gitify/pull/3459) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/renovate-config/pull/12) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/gnome/pull/51) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/electron-menubar/pull/276) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/kde/pull/20) to [gitify-app/kde](https://github.com/gitify-app/kde) [today]
+- OPEN - [docs: make commands copyable](https://github.com/advanced-security/gh-sbom/pull/26) to [advanced-security/gh-sbom](https://github.com/advanced-security/gh-sbom) [today]
 - MERGED - [feat: request reviewers from CODEOWNERS](https://github.com/setchy/renovate-config/pull/18) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [4 days ago]
 - MERGED - [chore(ci): migrate lint workflow to all-in-one pnpm/setup](https://github.com/setchy/meme-driven.dev/pull/525) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [4 days ago]
 - OPEN - [test(renderer): serve compiled CSS sort endpoint locally in test setup](https://github.com/setchy/atlassify/pull/3899) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
-- OPEN - [fix(test): resolve @compiled/vite-plugin dev CSS modules under Vitest](https://github.com/setchy/atlassify/pull/3898) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
-- MERGED - [ci(sonar): wait for the quality gate before finishing the scan](https://github.com/gitify-app/website/pull/789) to [gitify-app/website](https://github.com/gitify-app/website) [5 days ago]
-- MERGED - [chore(openspec): adopt the atlassify-specs store](https://github.com/setchy/atlassify/pull/3890) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
-- MERGED - [chore(codegen): add reproducible Bitbucket GraphQL code generation](https://github.com/gitify-app/gitify/pull/3452) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- MERGED - [ci(sonar): wait for the quality gate before finishing the scan](https://github.com/setchy/atlassify/pull/3889) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
-- MERGED - [refactor(sonar): mark React component props as read-only (typescript:S6759)](https://github.com/setchy/atlassify/pull/3888) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
-- MERGED - [fix(graphql): support GitHub and Bitbucket schemas in the editor config](https://github.com/gitify-app/gitify/pull/3451) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- MERGED - [fix(deps): declare @graphql-codegen/typed-document-node devDependency](https://github.com/gitify-app/gitify/pull/3450) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- OPEN - [refactor(auth): migrate custom OAuth app login to the device flow](https://github.com/gitify-app/gitify/pull/3449) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- MERGED - [refactor(sonar): mark component props as read-only (typescript:S6759)](https://github.com/gitify-app/gitify/pull/3448) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- MERGED - [ci: guard CI dependency version compatibility](https://github.com/gitify-app/gitify/pull/3445) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
-- MERGED - [fix: validate OAuth state on the web-flow callback](https://github.com/gitify-app/gitify/pull/3444) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
-- MERGED - [feat: release tag octicon](https://github.com/gitify-app/gitify/pull/3443) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
-- OPEN - [build: harden packaged builds with Electron fuses](https://github.com/gitify-app/gitify/pull/3442) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
-- OPEN - [perf: decouple notification actions from the notifications query](https://github.com/gitify-app/gitify/pull/3426) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
-- MERGED - [chore(deps): update GitHub Actions dependencies](https://github.com/chentsulin/awesome-graphql/pull/845) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
-- MERGED - [chore: improve Renovate dashboard updates](https://github.com/chentsulin/awesome-graphql/pull/844) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 week ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 17571
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 87315
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 17652
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 87361
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3982
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 361271
-- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 941
-- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1063
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1435
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 361990
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 942
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1065
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1438
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9480
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 967
-- [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6272
+- [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6273
 
 </details>
 
