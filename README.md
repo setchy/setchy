@@ -89,9 +89,9 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 
 - [google-research/harness2](https://github.com/google-research/harness2): ⭐ 18043
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 87714
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 87719
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3984
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 366781
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 366806
 - [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 943
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1068
 - [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1456
