@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 day ago]
-- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
-- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [1 day ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [2 days ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [2 days ago]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [2 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [2 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1197) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/renovate-config/pull/24) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 day ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/meme-driven.dev/pull/529) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 day ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/installme.zip/pull/2) to [setchy/installme.zip](https://github.com/setchy/installme.zip) [1 day ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/homebrew-brews/pull/74) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [1 day ago]
-- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/guidealong-maps/pull/115) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [1 day ago]
-- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/dgs-extended-formatters/pull/512) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [1 day ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/chip-index/pull/18) to [setchy/chip-index](https://github.com/setchy/chip-index) [1 day ago]
-- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/atlassify/pull/3925) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
-- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/website/pull/795) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
-- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/gitify/pull/3459) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/renovate-config/pull/12) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
-- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/gnome/pull/51) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [1 day ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/electron-menubar/pull/276) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/kde/pull/20) to [gitify-app/kde](https://github.com/gitify-app/kde) [1 day ago]
-- OPEN - [docs: make commands copyable](https://github.com/advanced-security/gh-sbom/pull/26) to [advanced-security/gh-sbom](https://github.com/advanced-security/gh-sbom) [1 day ago]
-- MERGED - [feat: request reviewers from CODEOWNERS](https://github.com/setchy/renovate-config/pull/18) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [5 days ago]
-- MERGED - [chore(ci): migrate lint workflow to all-in-one pnpm/setup](https://github.com/setchy/meme-driven.dev/pull/525) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [5 days ago]
-- OPEN - [test(renderer): serve compiled CSS sort endpoint locally in test setup](https://github.com/setchy/atlassify/pull/3899) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
-- OPEN - [fix(test): resolve @compiled/vite-plugin dev CSS modules under Vitest](https://github.com/setchy/atlassify/pull/3898) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [feat(notifications): add loading state for initial fetch](https://github.com/gitify-app/gitify/pull/3460) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1197) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 days ago]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/renovate-config/pull/24) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/meme-driven.dev/pull/529) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 days ago]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/installme.zip/pull/2) to [setchy/installme.zip](https://github.com/setchy/installme.zip) [2 days ago]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/homebrew-brews/pull/74) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [2 days ago]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/guidealong-maps/pull/115) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [2 days ago]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/dgs-extended-formatters/pull/512) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [2 days ago]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/chip-index/pull/18) to [setchy/chip-index](https://github.com/setchy/chip-index) [2 days ago]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/atlassify/pull/3925) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/website/pull/795) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/gitify/pull/3459) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/renovate-config/pull/12) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
+- OPEN - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/gnome/pull/51) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [2 days ago]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/electron-menubar/pull/276) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
+- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/gitify-app/kde/pull/20) to [gitify-app/kde](https://github.com/gitify-app/kde) [2 days ago]
+- OPEN - [docs: make commands copyable](https://github.com/advanced-security/gh-sbom/pull/26) to [advanced-security/gh-sbom](https://github.com/advanced-security/gh-sbom) [2 days ago]
+- MERGED - [feat: request reviewers from CODEOWNERS](https://github.com/setchy/renovate-config/pull/18) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [6 days ago]
+- MERGED - [chore(ci): migrate lint workflow to all-in-one pnpm/setup](https://github.com/setchy/meme-driven.dev/pull/525) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [6 days ago]
+- OPEN - [test(renderer): serve compiled CSS sort endpoint locally in test setup](https://github.com/setchy/atlassify/pull/3899) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 18043
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 87719
-- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3984
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 366806
-- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 943
-- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1068
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1456
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9482
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 967
-- [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6279
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 18604
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 88315
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3989
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 373509
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 945
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1086
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1483
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9480
+- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 969
+- [vale-cli/vale](https://github.com/vale-cli/vale): ⭐ 6283
 
 </details>
 
