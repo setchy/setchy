@@ -48,9 +48,9 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format [1 day ago]
-- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [3 days ago]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [3 days ago]
 - [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [3 days ago]
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
@@ -61,6 +61,7 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
+- OPEN - [refactor(settings): refresh controls with Primer](https://github.com/gitify-app/gitify/pull/3496) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 - MERGED - [refactor(renderer): polish tooltip copy](https://github.com/gitify-app/gitify/pull/3495) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 - MERGED - [feat(settings): add help tooltips to remaining controls](https://github.com/gitify-app/gitify/pull/3494) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 - MERGED - [refactor(settings): align control visibility gating](https://github.com/gitify-app/gitify/pull/3493) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
@@ -80,7 +81,6 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1197) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [3 days ago]
 - MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/renovate-config/pull/24) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [3 days ago]
 - MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/meme-driven.dev/pull/529) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [3 days ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/installme.zip/pull/2) to [setchy/installme.zip](https://github.com/setchy/installme.zip) [3 days ago]
 
 </details>
 
@@ -88,11 +88,11 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12404
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 19122
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 88749
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12407
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 19141
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 88771
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3991
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 378799
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 379026
 - [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 946
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1103
 - [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1497
