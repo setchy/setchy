@@ -6,7 +6,7 @@ workflows:
     '.github/workflows/readme.yml':
         - 'actions/checkout@v7.0.1'
         - 'actions/upload-artifact@v7.0.2'
-        - 'denvercoder1/github-readme-streak-stats@v1.8.0'
+        - 'denvercoder1/github-readme-streak-stats@v1.8.1'
         - 'muesli/readme-scribe@v0.1'
         - 'stats-organization/github-readme-stats-action@v2.1.0'
         - 'stefanzweifel/git-auto-commit-action@v7.2.1'
@@ -27,9 +27,9 @@ dependencies:
         commit: 'sha1-cf430e030ddbb5b0abf93d22962f4752f3646cd9'
         owner_id: 44036562
         repo_id: 192625955
-    'denvercoder1/github-readme-streak-stats@v1.8.0':
-        ref: 'v1.8.0'
-        commit: 'sha1-d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1'
+    'denvercoder1/github-readme-streak-stats@v1.8.1':
+        ref: 'v1.8.1'
+        commit: 'sha1-adbd07609bb771d3510a15ee2f3b31d5fbe5201d'
         owner_id: 20955511
         repo_id: 307018731
         uses:
