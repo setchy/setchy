@@ -93,7 +93,7 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <!-- Badges -->
 
 [wakatime]: https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d
-[wakatime-badge]: https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg?style=for-the-badge
+[wakatime-badge]: https://img.shields.io/wakatime/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d?style=for-the-badge
 [followers]: https://github.com/setchy?tab=followers
 [followers-badge]: https://img.shields.io/github/followers/setchy?logo=github&style=for-the-badge
 [sponsors]: https://github.com/sponsors/setchy
