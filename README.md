@@ -44,14 +44,14 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [today]
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format [1 day ago]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
 - [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [3 days ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [3 days ago]
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
 
@@ -61,7 +61,8 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- OPEN - [refactor(settings): refresh controls with Primer](https://github.com/gitify-app/gitify/pull/3496) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- OPEN - [refactor(filters): adopt Primer checkbox and help popover](https://github.com/gitify-app/gitify/pull/3497) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [refactor(settings): refresh controls with Primer](https://github.com/gitify-app/gitify/pull/3496) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 - MERGED - [refactor(renderer): polish tooltip copy](https://github.com/gitify-app/gitify/pull/3495) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 - MERGED - [feat(settings): add help tooltips to remaining controls](https://github.com/gitify-app/gitify/pull/3494) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 - MERGED - [refactor(settings): align control visibility gating](https://github.com/gitify-app/gitify/pull/3493) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
@@ -80,7 +81,6 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 - MERGED - [feat(notifications): add loading state for initial fetch](https://github.com/gitify-app/gitify/pull/3460) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 - MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1197) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [3 days ago]
 - MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/renovate-config/pull/24) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [3 days ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/meme-driven.dev/pull/529) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [3 days ago]
 
 </details>
 
@@ -88,15 +88,15 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12407
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 19141
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 88771
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12454
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 19334
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 88929
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3991
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 379026
-- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 946
-- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1103
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1497
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9480
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 381293
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 947
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1107
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1502
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9481
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 970
 
 </details>
@@ -124,7 +124,7 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 
 [wakatime]: https://wakatime.com/@2b948ae2-4be1-4020-8a57-7de60b53fe1d
-[wakatime-badge]: https://wakatime.com/badge/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d.svg?style=for-the-badge
+[wakatime-badge]: https://img.shields.io/wakatime/user/2b948ae2-4be1-4020-8a57-7de60b53fe1d?style=for-the-badge
 [followers]: https://github.com/setchy?tab=followers
 [followers-badge]: https://img.shields.io/github/followers/setchy?logo=github&style=for-the-badge
 [sponsors]: https://github.com/sponsors/setchy
