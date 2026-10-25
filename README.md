@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [today]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [today]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [today]
+- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [today]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [today]
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 - [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [3 days ago]
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [3 days ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- OPEN - [refactor(filters): adopt Primer checkbox and help popover](https://github.com/gitify-app/gitify/pull/3497) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [refactor(settings): refresh controls with Primer](https://github.com/gitify-app/gitify/pull/3496) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [refactor(renderer): polish tooltip copy](https://github.com/gitify-app/gitify/pull/3495) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [feat(settings): add help tooltips to remaining controls](https://github.com/gitify-app/gitify/pull/3494) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [refactor(settings): align control visibility gating](https://github.com/gitify-app/gitify/pull/3493) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [refactor(settings): split inbox and alert sections](https://github.com/gitify-app/gitify/pull/3492) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [feat(notifications): add actionable native alerts](https://github.com/gitify-app/gitify/pull/3491) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [refactor(renderer): import store modules directly in utils](https://github.com/gitify-app/gitify/pull/3490) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [refactor(renderer): break import cycles and enable no-cycle globally](https://github.com/gitify-app/gitify/pull/3489) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [refactor(lint): share renderer boundary file globs](https://github.com/gitify-app/gitify/pull/3488) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(lint): add import hygiene rules](https://github.com/gitify-app/gitify/pull/3487) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(lint): detect import cycles in upper renderer layers](https://github.com/gitify-app/gitify/pull/3486) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(lint): enforce forge adapter boundary](https://github.com/gitify-app/gitify/pull/3485) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(lint): enforce renderer process boundary](https://github.com/gitify-app/gitify/pull/3484) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(lint): prevent focused vitest tests](https://github.com/gitify-app/gitify/pull/3483) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(lint): forbid node builtins in renderer code](https://github.com/gitify-app/gitify/pull/3482) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [fix(notifications): show loading after login with empty inbox](https://github.com/setchy/atlassify/pull/3935) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
-- MERGED - [feat(notifications): add loading state for initial fetch](https://github.com/gitify-app/gitify/pull/3460) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1197) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [3 days ago]
-- MERGED - [chore(ci): add GitHub Actions lockfile](https://github.com/setchy/renovate-config/pull/24) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [3 days ago]
+- OPEN - [docs(preload): align IPC contract documentation](https://github.com/gitify-app/gitify/pull/3528) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [refactor(renderer): model chevron icon choice as a direction](https://github.com/gitify-app/gitify/pull/3527) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [test: expand visual regression coverage](https://github.com/gitify-app/gitify/pull/3524) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- OPEN - [feat(i18n): add internationalization support](https://github.com/gitify-app/gitify/pull/3523) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [chore(ci): let the validator discover the config files](https://github.com/setchy/renovate-config/pull/27) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [today]
+- MERGED - [chore(ci): gate the Renovate validator bump behind dashboard approval](https://github.com/gitify-app/renovate-config/pull/14) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [today]
+- MERGED - [chore(lint): final boundary hardening](https://github.com/gitify-app/gitify/pull/3521) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [chore(lint): enable react safety rules](https://github.com/gitify-app/gitify/pull/3520) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [chore(lint): enable no-cycle outside the renderer](https://github.com/gitify-app/gitify/pull/3519) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [chore(lint): complete process boundary enforcement](https://github.com/gitify-app/gitify/pull/3518) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [chore(lint): promote exhaustive-deps to error](https://github.com/gitify-app/gitify/pull/3517) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [chore(lint): re-enable vitest correctness rules](https://github.com/gitify-app/gitify/pull/3516) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- OPEN - [gitify: update description](https://github.com/Homebrew/homebrew-cask/pull/297129) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [today]
+- OPEN - [fix(gitify): refresh listing for multi-forge support](https://github.com/flatpark/flatpark/pull/855) to [flatpark/flatpark](https://github.com/flatpark/flatpark) [today]
+- OPEN - [feat(presets): add `oxfmt` to `packages:linters`](https://github.com/renovatebot/renovate/pull/47383) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [today]
+- OPEN - [feat(presets): add `@biomejs/**` packages to `packages:linters`](https://github.com/renovatebot/renovate/pull/47382) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [today]
+- OPEN - [refactor(renderer)!: remove legacy context storage migration](https://github.com/gitify-app/gitify/pull/3515) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [test: replace login and repository-header snapshots with behaviour](https://github.com/gitify-app/gitify/pull/3514) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- OPEN - [docs: update filters and settings screenshots for v8](https://github.com/gitify-app/website/pull/797) to [gitify-app/website](https://github.com/gitify-app/website) [today]
+- MERGED - [ci(labeler): accept breaking-change markers in PR titles](https://github.com/gitify-app/gitify/pull/3513) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 
 </details>
 
@@ -88,14 +88,14 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12454
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 19334
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 88929
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12480
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 19568
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 89138
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3991
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 381293
-- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 947
-- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1107
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1502
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 384080
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 948
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1110
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1518
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9481
 - [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 970
 
