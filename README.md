@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [today]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [today]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [today]
-- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [today]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [today]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [1 day ago]
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format [1 day ago]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
+- [flatpark/flatpark](https://github.com/flatpark/flatpark) - Yet another Flatpak hub. [1 day ago]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere [1 day ago]
+- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
+- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [2 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- OPEN - [docs(preload): align IPC contract documentation](https://github.com/gitify-app/gitify/pull/3528) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [refactor(renderer): model chevron icon choice as a direction](https://github.com/gitify-app/gitify/pull/3527) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [test: expand visual regression coverage](https://github.com/gitify-app/gitify/pull/3524) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- OPEN - [feat(i18n): add internationalization support](https://github.com/gitify-app/gitify/pull/3523) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [chore(ci): let the validator discover the config files](https://github.com/setchy/renovate-config/pull/27) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [today]
-- MERGED - [chore(ci): gate the Renovate validator bump behind dashboard approval](https://github.com/gitify-app/renovate-config/pull/14) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [today]
-- MERGED - [chore(lint): final boundary hardening](https://github.com/gitify-app/gitify/pull/3521) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [chore(lint): enable react safety rules](https://github.com/gitify-app/gitify/pull/3520) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [chore(lint): enable no-cycle outside the renderer](https://github.com/gitify-app/gitify/pull/3519) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [chore(lint): complete process boundary enforcement](https://github.com/gitify-app/gitify/pull/3518) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [chore(lint): promote exhaustive-deps to error](https://github.com/gitify-app/gitify/pull/3517) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [chore(lint): re-enable vitest correctness rules](https://github.com/gitify-app/gitify/pull/3516) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- OPEN - [gitify: update description](https://github.com/Homebrew/homebrew-cask/pull/297129) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [today]
-- OPEN - [fix(gitify): refresh listing for multi-forge support](https://github.com/flatpark/flatpark/pull/855) to [flatpark/flatpark](https://github.com/flatpark/flatpark) [today]
-- OPEN - [feat(presets): add `oxfmt` to `packages:linters`](https://github.com/renovatebot/renovate/pull/47383) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [today]
-- OPEN - [feat(presets): add `@biomejs/**` packages to `packages:linters`](https://github.com/renovatebot/renovate/pull/47382) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [today]
-- OPEN - [refactor(renderer)!: remove legacy context storage migration](https://github.com/gitify-app/gitify/pull/3515) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [test: replace login and repository-header snapshots with behaviour](https://github.com/gitify-app/gitify/pull/3514) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- OPEN - [docs: update filters and settings screenshots for v8](https://github.com/gitify-app/website/pull/797) to [gitify-app/website](https://github.com/gitify-app/website) [today]
-- MERGED - [ci(labeler): accept breaking-change markers in PR titles](https://github.com/gitify-app/gitify/pull/3513) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [chore(test): document the Vitest project split](https://github.com/gitify-app/gitify/pull/3531) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [docs: complete TSDoc accuracy and add guardrails](https://github.com/gitify-app/gitify/pull/3530) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [chore(packaging): trim packaged node_modules](https://github.com/gitify-app/gitify/pull/3529) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [docs: define TSDoc convention and align IPC docs](https://github.com/gitify-app/gitify/pull/3528) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor(renderer): model chevron icon choice as a direction](https://github.com/gitify-app/gitify/pull/3527) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test: expand visual regression coverage](https://github.com/gitify-app/gitify/pull/3524) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(i18n): add internationalization support](https://github.com/gitify-app/gitify/pull/3523) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(ci): let the validator discover the config files](https://github.com/setchy/renovate-config/pull/27) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 day ago]
+- MERGED - [chore(ci): gate the Renovate validator bump behind dashboard approval](https://github.com/gitify-app/renovate-config/pull/14) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
+- MERGED - [chore(lint): final boundary hardening](https://github.com/gitify-app/gitify/pull/3521) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(lint): enable react safety rules](https://github.com/gitify-app/gitify/pull/3520) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(lint): enable no-cycle outside the renderer](https://github.com/gitify-app/gitify/pull/3519) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(lint): complete process boundary enforcement](https://github.com/gitify-app/gitify/pull/3518) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(lint): promote exhaustive-deps to error](https://github.com/gitify-app/gitify/pull/3517) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(lint): re-enable vitest correctness rules](https://github.com/gitify-app/gitify/pull/3516) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [gitify: update description](https://github.com/Homebrew/homebrew-cask/pull/297129) to [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) [1 day ago]
+- MERGED - [fix(gitify): refresh listing for multi-forge support](https://github.com/flatpark/flatpark/pull/855) to [flatpark/flatpark](https://github.com/flatpark/flatpark) [1 day ago]
+- OPEN - [feat(presets): add `oxfmt` to `packages:linters`](https://github.com/renovatebot/renovate/pull/47383) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [feat(presets): add `@biomejs/**` packages to `packages:linters`](https://github.com/renovatebot/renovate/pull/47382) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 day ago]
+- OPEN - [refactor(renderer)!: remove legacy context storage migration](https://github.com/gitify-app/gitify/pull/3515) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12480
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 19568
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 89138
+- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 13991
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12500
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 19661
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 89227
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3991
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 384080
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 385064
 - [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 948
-- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1110
-- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1518
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1113
+- [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): ⭐ 1525
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill): ⭐ 9481
-- [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch): ⭐ 970
 
 </details>
 
