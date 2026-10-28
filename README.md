@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [today]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [today]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [today]
 - [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [today]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 day ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [today]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [today]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [today]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [today]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [today]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [chore: configure site URL in Astro config](https://github.com/gitify-app/website/pull/800) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
-- MERGED - [chore(docs): configure site URL in Astro config](https://github.com/setchy/atlassify/pull/3963) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
-- MERGED - [chore: configure site URL in Astro config](https://github.com/setchy/meme-driven.dev/pull/537) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 day ago]
-- OPEN - [feat(presets): add `ruff` to `packages:linters`](https://github.com/renovatebot/renovate/pull/47405) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
-- OPEN - [feat(presets): add `rumdl` to `packages:linters`](https://github.com/renovatebot/renovate/pull/47404) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
-- MERGED - [chore(test): document the Vitest project split](https://github.com/gitify-app/gitify/pull/3531) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- OPEN - [docs: complete TSDoc accuracy and add guardrails](https://github.com/gitify-app/gitify/pull/3530) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- OPEN - [chore(packaging): trim packaged node_modules](https://github.com/gitify-app/gitify/pull/3529) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [docs: define TSDoc convention and align IPC docs](https://github.com/gitify-app/gitify/pull/3528) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [refactor(renderer): model chevron icon choice as a direction](https://github.com/gitify-app/gitify/pull/3527) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [test: expand visual regression coverage](https://github.com/gitify-app/gitify/pull/3524) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- OPEN - [feat(i18n): add internationalization support](https://github.com/gitify-app/gitify/pull/3523) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [chore(ci): let the validator discover the config files](https://github.com/setchy/renovate-config/pull/27) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [3 days ago]
-- MERGED - [chore(ci): gate the Renovate validator bump behind dashboard approval](https://github.com/gitify-app/renovate-config/pull/14) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [3 days ago]
-- MERGED - [chore(lint): final boundary hardening](https://github.com/gitify-app/gitify/pull/3521) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [chore(lint): enable react safety rules](https://github.com/gitify-app/gitify/pull/3520) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [chore(lint): enable no-cycle outside the renderer](https://github.com/gitify-app/gitify/pull/3519) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [chore(lint): complete process boundary enforcement](https://github.com/gitify-app/gitify/pull/3518) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [chore(lint): promote exhaustive-deps to error](https://github.com/gitify-app/gitify/pull/3517) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [chore(lint): re-enable vitest correctness rules](https://github.com/gitify-app/gitify/pull/3516) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [ci(labeler): accept breaking-change markers and broader PR title scopes](https://github.com/setchy/atlassify/pull/3971) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+- MERGED - [chore(biome): enable markdown and yaml formatting](https://github.com/setchy/guidealong-maps/pull/127) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
+- MERGED - [chore(biome): exclude generated folders via includes](https://github.com/gitify-app/website/pull/810) to [gitify-app/website](https://github.com/gitify-app/website) [today]
+- MERGED - [chore(ci): require frozen lockfile in pnpm/setup](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1218) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [today]
+- MERGED - [chore: sort devEngines keys](https://github.com/setchy/guidealong-maps/pull/126) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
+- MERGED - [chore: sort devEngines keys](https://github.com/setchy/meme-driven.dev/pull/540) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [today]
+- MERGED - [chore: sort devEngines keys](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1216) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [today]
+- MERGED - [chore: sort devEngines keys](https://github.com/setchy/atlassify/pull/3970) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+- MERGED - [chore: sort devEngines keys](https://github.com/gitify-app/website/pull/809) to [gitify-app/website](https://github.com/gitify-app/website) [today]
+- MERGED - [chore(ci): use pnpm/setup for pnpm, Node, and lockfile](https://github.com/gitify-app/electron-menubar/pull/298) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/setchy/guidealong-maps/pull/125) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
+- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/setchy/meme-driven.dev/pull/539) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [today]
+- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1215) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [today]
+- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/setchy/atlassify/pull/3969) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/gitify-app/gnome/pull/62) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
+- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/gitify-app/electron-menubar/pull/297) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/gitify-app/website/pull/808) to [gitify-app/website](https://github.com/gitify-app/website) [today]
+- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/gitify-app/gitify/pull/3539) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [fix(visual): seed xfce4-panel layout to avoid an empty panel](https://github.com/gitify-app/electron-menubar/pull/295) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- MERGED - [chore: add devEngines Node.js pin](https://github.com/setchy/guidealong-maps/pull/124) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23179
+- [setchy/onlydevs](https://github.com/setchy/onlydevs): ⭐ 1
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23189
 - [in-toto/witness](https://github.com/in-toto/witness): ⭐ 614
-- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14334
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12672
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 20751
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 90744
-- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3992
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 399659
-- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 956
-- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1149
+- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14367
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12685
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 20946
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 90929
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3994
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 401700
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 958
 
 </details>
 
