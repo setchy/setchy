@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 day ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [today]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [today]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 day ago]
 - [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 day ago]
 - [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
 - [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 day ago]
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23168
-- [in-toto/witness](https://github.com/in-toto/witness): ⭐ 613
-- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14298
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12666
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 20607
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 90523
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23179
+- [in-toto/witness](https://github.com/in-toto/witness): ⭐ 614
+- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14334
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12672
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 20751
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 90744
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3992
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 397858
-- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 955
-- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1146
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 399659
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 956
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format): ⭐ 1149
 
 </details>
 
