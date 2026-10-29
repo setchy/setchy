@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [today]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [today]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [today]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [today]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [today]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [today]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [today]
-- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [today]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
+- [setchy/chip-index](https://github.com/setchy/chip-index) - A shrine to everyones favorite food group - fries! [1 day ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [ci(labeler): accept breaking-change markers and broader PR title scopes](https://github.com/setchy/atlassify/pull/3971) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
-- MERGED - [chore(biome): enable markdown and yaml formatting](https://github.com/setchy/guidealong-maps/pull/127) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
-- MERGED - [chore(biome): exclude generated folders via includes](https://github.com/gitify-app/website/pull/810) to [gitify-app/website](https://github.com/gitify-app/website) [today]
-- MERGED - [chore(ci): require frozen lockfile in pnpm/setup](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1218) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [today]
-- MERGED - [chore: sort devEngines keys](https://github.com/setchy/guidealong-maps/pull/126) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
-- MERGED - [chore: sort devEngines keys](https://github.com/setchy/meme-driven.dev/pull/540) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [today]
-- MERGED - [chore: sort devEngines keys](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1216) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [today]
-- MERGED - [chore: sort devEngines keys](https://github.com/setchy/atlassify/pull/3970) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
-- MERGED - [chore: sort devEngines keys](https://github.com/gitify-app/website/pull/809) to [gitify-app/website](https://github.com/gitify-app/website) [today]
-- MERGED - [chore(ci): use pnpm/setup for pnpm, Node, and lockfile](https://github.com/gitify-app/electron-menubar/pull/298) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
-- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/setchy/guidealong-maps/pull/125) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
-- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/setchy/meme-driven.dev/pull/539) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [today]
-- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1215) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [today]
-- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/setchy/atlassify/pull/3969) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
-- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/gitify-app/gnome/pull/62) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
-- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/gitify-app/electron-menubar/pull/297) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
-- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/gitify-app/website/pull/808) to [gitify-app/website](https://github.com/gitify-app/website) [today]
-- MERGED - [chore: declare pnpm via devEngines.packageManager](https://github.com/gitify-app/gitify/pull/3539) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
-- MERGED - [fix(visual): seed xfce4-panel layout to avoid an empty panel](https://github.com/gitify-app/electron-menubar/pull/295) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
-- MERGED - [chore: add devEngines Node.js pin](https://github.com/setchy/guidealong-maps/pull/124) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
+- MERGED - [fix(github): reduce merged GraphQL batch size to avoid resource limits](https://github.com/gitify-app/gitify/pull/3559) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
+- MERGED - [fix(i18n): follow the OS language until the user chooses one](https://github.com/setchy/atlassify/pull/3977) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+- MERGED - [test: remove nock in favour of axios mocks](https://github.com/setchy/atlassify/pull/3976) to [setchy/atlassify](https://github.com/setchy/atlassify) [today]
+- MERGED - [fix(a11y): accessible names for help buttons and scope status icons](https://github.com/gitify-app/gitify/pull/3558) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test: migrate getByTestId queries to accessible queries](https://github.com/gitify-app/gitify/pull/3557) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [ci: keep milestone description in sync with release version](https://github.com/gitify-app/gitify/pull/3552) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: align stacked PR and linked issue pill labels to Type: value format](https://github.com/gitify-app/gitify/pull/3551) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat: add task list progress pill for pull requests](https://github.com/gitify-app/gitify/pull/3550) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: show review required indicator in reviews pill](https://github.com/gitify-app/gitify/pull/3549) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: add CI checks pill for pull requests](https://github.com/gitify-app/gitify/pull/3548) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: make milestone pill prop optional](https://github.com/gitify-app/gitify/pull/3547) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: open linked issue when clicking the linked issues pill](https://github.com/gitify-app/gitify/pull/3546) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: remove duplicate tab stop on non-clickable metric pills](https://github.com/gitify-app/gitify/pull/3545) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: show milestone state in milestone pill tooltip](https://github.com/gitify-app/gitify/pull/3544) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: use stack icon and gray color for stacked pull request pill](https://github.com/gitify-app/gitify/pull/3543) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: add screen reader labels to metric pills](https://github.com/gitify-app/gitify/pull/3542) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [refactor: reorder metric pills into a logical flow](https://github.com/gitify-app/gitify/pull/3541) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat: show only issue number in parent issue pill](https://github.com/gitify-app/gitify/pull/3540) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [ci(labeler): accept breaking-change markers and broader PR title scopes](https://github.com/setchy/atlassify/pull/3971) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [chore(biome): enable markdown and yaml formatting](https://github.com/setchy/guidealong-maps/pull/127) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [1 day ago]
 
 </details>
 
@@ -89,15 +89,15 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 
 - [setchy/onlydevs](https://github.com/setchy/onlydevs): ⭐ 1
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23189
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23204
 - [in-toto/witness](https://github.com/in-toto/witness): ⭐ 614
-- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14367
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12685
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 20946
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 90929
+- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14379
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12692
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 21061
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 91056
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3994
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 401700
-- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 958
+- [morluto/rea](https://github.com/morluto/rea): ⭐ 403266
+- [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp): ⭐ 959
 
 </details>
 
