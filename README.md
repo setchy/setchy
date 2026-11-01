@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [2 days ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [2 days ago]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [2 days ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [3 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [3 days ago]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [3 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [chore: group Java runtime updates](https://github.com/setchy/renovate-config/pull/37) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
-- OPEN - [feat(presets): add `group:nodeJsWithTypes`](https://github.com/renovatebot/renovate/pull/47577) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
-- OPEN - [feat(presets): add `group:java` preset](https://github.com/renovatebot/renovate/pull/47573) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
-- CLOSED - [fix: restore valid JSON in Renovate preset](https://github.com/setchy/renovate-config/pull/36) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
-- MERGED - [chore: move zizmor config into .github](https://github.com/setchy/atlassify/pull/3985) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
-- MERGED - [ci: enforce hash-pinned GitHub Actions](https://github.com/gitify-app/electron-menubar/pull/303) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
-- MERGED - [chore: avoid Renovate validator SHA churn](https://github.com/gitify-app/gitify/pull/3566) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [chore(ci): follow trusted Renovate validator main](https://github.com/gitify-app/website/pull/813) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
-- MERGED - [ci: trust Renovate validator on main](https://github.com/setchy/chip-index/pull/26) to [setchy/chip-index](https://github.com/setchy/chip-index) [2 days ago]
-- MERGED - [fix(ci): trust Renovate validator ref](https://github.com/setchy/dgs-extended-formatters/pull/519) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [2 days ago]
-- MERGED - [ci: trust Renovate validator on main](https://github.com/gitify-app/gnome/pull/66) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [2 days ago]
-- MERGED - [chore(ci): trust shared Renovate validator main](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1222) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 days ago]
-- MERGED - [ci: follow trusted Renovate validator main](https://github.com/setchy/homebrew-brews/pull/81) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [2 days ago]
-- MERGED - [ci: follow trusted Renovate validator main branch](https://github.com/setchy/guidealong-maps/pull/131) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [2 days ago]
-- MERGED - [fix: follow trusted Renovate validator main](https://github.com/setchy/meme-driven.dev/pull/541) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 days ago]
-- MERGED - [fix: keep trusted Renovate validator refs unpinned](https://github.com/setchy/renovate-config/pull/35) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
-- MERGED - [fix: allow trusted Renovate validator to track main](https://github.com/gitify-app/renovate-config/pull/20) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
-- MERGED - [fix(ci): run the config validator with pnpm instead of npx](https://github.com/gitify-app/renovate-config/pull/19) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
-- MERGED - [fix(ci): run the config validator with pnpm instead of npx](https://github.com/setchy/renovate-config/pull/33) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
-- CLOSED - [fix(notifications): verify transient feed omissions](https://github.com/setchy/atlassify/pull/3983) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- OPEN - [build(dev): run development from a branded Electron app bundle](https://github.com/gitify-app/gitify/pull/3576) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(notifications): improve single notification copy](https://github.com/gitify-app/gitify/pull/3575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- OPEN - [feat(notifications): add actionable native notifications](https://github.com/gitify-app/gitify/pull/3574) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [build: validate runtime dependency classification](https://github.com/gitify-app/gitify/pull/3573) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(deps): remove unused final-form and react-router-dom types](https://github.com/gitify-app/gitify/pull/3572) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(deps): classify renderer-only packages as devDependencies](https://github.com/gitify-app/gitify/pull/3571) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore(packaging): let electron-builder collect runtime dependencies](https://github.com/gitify-app/gitify/pull/3570) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: enforce zoom limits on shortcuts and hide login scrollbar](https://github.com/gitify-app/gitify/pull/3569) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [feat(login): refine GitHub secondary auth methods](https://github.com/gitify-app/gitify/pull/3568) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [fix: launch dev builds alongside installed Gitify](https://github.com/gitify-app/gitify/pull/3567) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore: group Java runtime updates](https://github.com/setchy/renovate-config/pull/37) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [3 days ago]
+- OPEN - [feat(presets): add `group:nodeJsWithTypes`](https://github.com/renovatebot/renovate/pull/47577) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- OPEN - [feat(presets): add `group:java` preset](https://github.com/renovatebot/renovate/pull/47573) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [3 days ago]
+- CLOSED - [fix: restore valid JSON in Renovate preset](https://github.com/setchy/renovate-config/pull/36) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [3 days ago]
+- MERGED - [chore: move zizmor config into .github](https://github.com/setchy/atlassify/pull/3985) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
+- MERGED - [ci: enforce hash-pinned GitHub Actions](https://github.com/gitify-app/electron-menubar/pull/303) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 days ago]
+- MERGED - [chore: avoid Renovate validator SHA churn](https://github.com/gitify-app/gitify/pull/3566) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [chore(ci): follow trusted Renovate validator main](https://github.com/gitify-app/website/pull/813) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
+- MERGED - [ci: trust Renovate validator on main](https://github.com/setchy/chip-index/pull/26) to [setchy/chip-index](https://github.com/setchy/chip-index) [3 days ago]
+- MERGED - [fix(ci): trust Renovate validator ref](https://github.com/setchy/dgs-extended-formatters/pull/519) to [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) [3 days ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3878
+- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 2148
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3879
 - [setchy/onlydevs](https://github.com/setchy/onlydevs): ⭐ 1
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23262
-- [in-toto/witness](https://github.com/in-toto/witness): ⭐ 614
-- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14497
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12723
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 21517
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 91866
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23283
+- [in-toto/witness](https://github.com/in-toto/witness): ⭐ 615
+- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14576
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12735
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 21698
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 92170
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3997
-- [morluto/rea](https://github.com/morluto/rea): ⭐ 412643
 
 </details>
 
