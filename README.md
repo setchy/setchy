@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [1 day ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [4 days ago]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 day ago]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [fix(notifications): size GitHub enrichment batches at 50](https://github.com/gitify-app/gitify/pull/3597) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(dev): scope and quiet the lint checker](https://github.com/gitify-app/gitify/pull/3596) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [refactor(notifications): read alert settings with useEffectEvent](https://github.com/gitify-app/gitify/pull/3595) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [feat(renderer): add route and app error boundaries](https://github.com/gitify-app/gitify/pull/3594) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [feat(renderer): adopt data router navigation](https://github.com/gitify-app/gitify/pull/3593) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [feat(updater): link release notes from update dialog](https://github.com/gitify-app/gitify/pull/3592) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [feat: log uncaught errors without credentials](https://github.com/gitify-app/gitify/pull/3591) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [feat: pause polling while locked or suspended](https://github.com/gitify-app/gitify/pull/3590) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [feat(notifications): collapse overflowing metric pills](https://github.com/gitify-app/gitify/pull/3589) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [feat: report OS login-item status](https://github.com/gitify-app/gitify/pull/3588) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [refactor: drop unsupported openAsHidden](https://github.com/gitify-app/gitify/pull/3587) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore: remove stale Babel config and document @parcel/watcher](https://github.com/gitify-app/gitify/pull/3586) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- CLOSED - [feat(renderer): adopt React Router 8 navigation](https://github.com/gitify-app/gitify/pull/3585) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- OPEN - [docs(faq): add accessibility FAQs](https://github.com/gitify-app/website/pull/816) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
-- MERGED - [fix(notifications): bound notification exit animation](https://github.com/gitify-app/gitify/pull/3584) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [fix(github): optimize notification enrichment requests](https://github.com/gitify-app/gitify/pull/3583) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [fix(dev): run the lint checker through vp lint](https://github.com/gitify-app/gitify/pull/3582) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(tailwind): tidy v4 config, IntelliSense, and packaging checks](https://github.com/gitify-app/gitify/pull/3581) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [build(dev): run development from a branded Electron app bundle](https://github.com/gitify-app/gitify/pull/3576) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [feat(notifications): improve single notification copy](https://github.com/gitify-app/gitify/pull/3575) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [chore: move Lychee options into TOML config](https://github.com/chentsulin/awesome-graphql/pull/858) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
+- MERGED - [chore(deps): update mise and Renovate actions](https://github.com/chentsulin/awesome-graphql/pull/857) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
+- CLOSED - [chore: update workflow dependencies and extract Lychee config](https://github.com/chentsulin/awesome-graphql/pull/856) to [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) [1 day ago]
+- OPEN - [feat: prepare for volume 35](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1232) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
+- MERGED - [chore: use Node.js and Java group presets](https://github.com/setchy/renovate-config/pull/38) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 day ago]
+- MERGED - [chore: use group:nodeJsWithTypes preset](https://github.com/gitify-app/renovate-config/pull/21) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
+- MERGED - [test: add Vitest GitHub Actions reporter](https://github.com/gitify-app/gitify/pull/3612) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [test: add Vitest GitHub Actions reporter](https://github.com/setchy/atlassify/pull/4003) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [test: add Vitest GitHub Actions reporter](https://github.com/gitify-app/electron-menubar/pull/315) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
+- MERGED - [test: add Vitest GitHub Actions reporter](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1231) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
+- MERGED - [chore: add oxlint](https://github.com/gitify-app/kde/pull/31) to [gitify-app/kde](https://github.com/gitify-app/kde) [1 day ago]
+- MERGED - [chore: use pnpm and pnpm/setup](https://github.com/gitify-app/kde/pull/30) to [gitify-app/kde](https://github.com/gitify-app/kde) [1 day ago]
+- MERGED - [chore: add lint:ci with GitHub annotations](https://github.com/gitify-app/gitify/pull/3611) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore: add lint:ci with GitHub annotations](https://github.com/gitify-app/gnome/pull/69) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [1 day ago]
+- CLOSED - [Add gitify topic](https://github.com/github/explore/pull/5442) to [github/explore](https://github.com/github/explore) [1 day ago]
+- MERGED - [docs: use command table in contributing guide](https://github.com/setchy/meme-driven.dev/pull/553) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 day ago]
+- MERGED - [docs: use command table in contributing guide](https://github.com/setchy/atlassify/pull/4002) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [chore: split lint, format, and combined check scripts](https://github.com/setchy/meme-driven.dev/pull/552) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 day ago]
+- MERGED - [chore: split lint, format, and combined check scripts](https://github.com/setchy/atlassify/pull/4001) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [chore: split lint, format, and combined check scripts](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1230) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 3429
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3879
+- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 4131
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3882
 - [setchy/onlydevs](https://github.com/setchy/onlydevs): ⭐ 1
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23297
-- [in-toto/witness](https://github.com/in-toto/witness): ⭐ 615
-- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14622
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12748
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 21917
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 92436
-- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 3999
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23320
+- [in-toto/witness](https://github.com/in-toto/witness): ⭐ 616
+- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14704
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12768
+- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 22156
+- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 92814
+- [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos): ⭐ 4000
 
 </details>
 
