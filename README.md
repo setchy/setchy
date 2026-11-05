@@ -44,14 +44,14 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
 - [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 - [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [1 day ago]
 - [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [3 days ago]
 - [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [3 days ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
 - [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [3 days ago]
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [3 days ago]
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag): ⭐ 2133
-- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 5086
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3883
+- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1864
+- [github-community-projects/stale-repos](https://github.com/github-community-projects/stale-repos): ⭐ 205
+- [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard): ⭐ 87
+- [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen): ⭐ 227
+- [apache/devlake](https://github.com/apache/devlake): ⭐ 3187
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag): ⭐ 2134
+- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 5231
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3882
 - [setchy/onlydevs](https://github.com/setchy/onlydevs): ⭐ 1
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23354
-- [in-toto/witness](https://github.com/in-toto/witness): ⭐ 616
-- [thesysdev/openui](https://github.com/thesysdev/openui): ⭐ 14771
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 12807
-- [google-research/harness2](https://github.com/google-research/harness2): ⭐ 22697
-- [tt-a1i/archify](https://github.com/tt-a1i/archify): ⭐ 93534
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23367
 
 </details>
 
