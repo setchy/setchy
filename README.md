@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [2 days ago]
-- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [2 days ago]
-- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [3 days ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [3 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [4 days ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [6 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
+- [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) - ➖ High level way to create menubar desktop applications with Electron [3 days ago]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [5 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [5 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [5 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io [1 week ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [docs: automate supported platforms site updates](https://github.com/gitify-app/electron-menubar/pull/330) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
-- MERGED - [docs: add macOS and Ubuntu platform aliases](https://github.com/gitify-app/electron-menubar/pull/329) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
-- MERGED - [fix: wait for window bounds before visual capture](https://github.com/gitify-app/electron-menubar/pull/324) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
-- MERGED - [ci: drop retired macOS 14 hosted runners](https://github.com/gitify-app/electron-menubar/pull/323) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
-- MERGED - [fix(a11y): reveal notification actions on keyboard focus](https://github.com/gitify-app/gitify/pull/3647) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [feat: show the existing window when Gitify is launched again](https://github.com/gitify-app/gitify/pull/3646) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
-- MERGED - [feat(notifications): animate repository header out with its last row](https://github.com/gitify-app/gitify/pull/3645) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [fix(ui): only highlight header chevron when hovering it or empty row space](https://github.com/gitify-app/gitify/pull/3633) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [fix: prevent metric pill layout render loops](https://github.com/gitify-app/gitify/pull/3632) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [fix(ci): let the Renovate validator track main](https://github.com/gitify-app/kde/pull/34) to [gitify-app/kde](https://github.com/gitify-app/kde) [4 days ago]
-- MERGED - [refactor(sonar): use optional chaining for nullable lookups (javascript:S6582)](https://github.com/gitify-app/kde/pull/33) to [gitify-app/kde](https://github.com/gitify-app/kde) [4 days ago]
-- MERGED - [fix(sonar): give the edge reduce an initial accumulator (javascript:S6959)](https://github.com/gitify-app/kde/pull/32) to [gitify-app/kde](https://github.com/gitify-app/kde) [4 days ago]
-- MERGED - [docs: update Homebrew install copy](https://github.com/gitify-app/gitify/pull/3626) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- MERGED - [docs: rename experimental README section to Homebrew](https://github.com/setchy/atlassify/pull/4029) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [docs: add emojis to README headings](https://github.com/setchy/atlassify/pull/4027) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [refactor(sonar): hoist inline icon renderers (typescript:S6478)](https://github.com/setchy/atlassify/pull/4026) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [refactor(sonar): move Atlassify logo colours to Tailwind (typescript:S1135)](https://github.com/setchy/atlassify/pull/4025) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [fix(sonar): use async Electron safeStorage APIs (typescript:S1874)](https://github.com/setchy/atlassify/pull/4024) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [docs: document Homebrew 7 workflow and add CONTRIBUTING](https://github.com/setchy/homebrew-brews/pull/91) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [4 days ago]
-- MERGED - [docs: use a generic satellite icon on blips badge](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1239) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [4 days ago]
+- MERGED - [docs: automate supported platforms site updates](https://github.com/gitify-app/electron-menubar/pull/330) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 days ago]
+- MERGED - [docs: add macOS and Ubuntu platform aliases](https://github.com/gitify-app/electron-menubar/pull/329) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 days ago]
+- MERGED - [fix: wait for window bounds before visual capture](https://github.com/gitify-app/electron-menubar/pull/324) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 days ago]
+- MERGED - [ci: drop retired macOS 14 hosted runners](https://github.com/gitify-app/electron-menubar/pull/323) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [3 days ago]
+- MERGED - [fix(a11y): reveal notification actions on keyboard focus](https://github.com/gitify-app/gitify/pull/3647) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat: show the existing window when Gitify is launched again](https://github.com/gitify-app/gitify/pull/3646) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
+- MERGED - [feat(notifications): animate repository header out with its last row](https://github.com/gitify-app/gitify/pull/3645) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix(ui): only highlight header chevron when hovering it or empty row space](https://github.com/gitify-app/gitify/pull/3633) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix: prevent metric pill layout render loops](https://github.com/gitify-app/gitify/pull/3632) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [fix(ci): let the Renovate validator track main](https://github.com/gitify-app/kde/pull/34) to [gitify-app/kde](https://github.com/gitify-app/kde) [5 days ago]
+- MERGED - [refactor(sonar): use optional chaining for nullable lookups (javascript:S6582)](https://github.com/gitify-app/kde/pull/33) to [gitify-app/kde](https://github.com/gitify-app/kde) [5 days ago]
+- MERGED - [fix(sonar): give the edge reduce an initial accumulator (javascript:S6959)](https://github.com/gitify-app/kde/pull/32) to [gitify-app/kde](https://github.com/gitify-app/kde) [5 days ago]
+- MERGED - [docs: update Homebrew install copy](https://github.com/gitify-app/gitify/pull/3626) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [docs: rename experimental README section to Homebrew](https://github.com/setchy/atlassify/pull/4029) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [docs: add emojis to README headings](https://github.com/setchy/atlassify/pull/4027) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor(sonar): hoist inline icon renderers (typescript:S6478)](https://github.com/setchy/atlassify/pull/4026) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor(sonar): move Atlassify logo colours to Tailwind (typescript:S1135)](https://github.com/setchy/atlassify/pull/4025) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [fix(sonar): use async Electron safeStorage APIs (typescript:S1874)](https://github.com/setchy/atlassify/pull/4024) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [docs: document Homebrew 7 workflow and add CONTRIBUTING](https://github.com/setchy/homebrew-brews/pull/91) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [5 days ago]
+- MERGED - [docs: use a generic satellite icon on blips badge](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1239) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [5 days ago]
 
 </details>
 
@@ -88,16 +88,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1866
+- [8rank/iKnow](https://github.com/8rank/iKnow): ⭐ 416
+- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1867
 - [github-community-projects/stale-repos](https://github.com/github-community-projects/stale-repos): ⭐ 205
 - [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard): ⭐ 87
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen): ⭐ 227
 - [apache/devlake](https://github.com/apache/devlake): ⭐ 3191
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag): ⭐ 2135
-- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 5705
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3882
+- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 5847
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3883
 - [setchy/onlydevs](https://github.com/setchy/onlydevs): ⭐ 1
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc): ⭐ 23419
 
 </details>
 
