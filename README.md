@@ -46,14 +46,14 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 
 - [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
 - [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 days ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [4 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
-- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [4 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [3 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [5 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [5 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [chore(deps): update graphql codegen toolchain to v8](https://github.com/setchy/atlassify/pull/4076) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
-- MERGED - [build: let electron-builder prune node_modules](https://github.com/setchy/atlassify/pull/4069) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
-- MERGED - [ci: allow devDependencies that are production transitives](https://github.com/gitify-app/gitify/pull/3671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [ci: allow devDependencies that are production transitives](https://github.com/setchy/atlassify/pull/4068) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
-- CLOSED - [ci: keep runtime devDependencies in package check](https://github.com/gitify-app/gitify/pull/3670) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [ci: derive the packaged dependency check from the project](https://github.com/gitify-app/gitify/pull/3665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- MERGED - [build: harden packaged binaries with Electron fuses](https://github.com/setchy/atlassify/pull/4065) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [build: harden packaged binaries with Electron fuses](https://github.com/setchy/atlassify/pull/4064) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [ci: verify the packaged dependency closure](https://github.com/setchy/atlassify/pull/4063) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [ci: verify packaging produced every configured artifact](https://github.com/setchy/atlassify/pull/4062) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [ci: verify packaging produced every configured artifact](https://github.com/gitify-app/gitify/pull/3663) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
-- MERGED - [fix: run build and packaging through Vite&#43; (restores Windows installer)](https://github.com/setchy/atlassify/pull/4035) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- CLOSED - [fix: restore Windows packaging and verify release artifacts](https://github.com/setchy/atlassify/pull/4033) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [chore(deps): update pnpm to 12.18.0](https://github.com/setchy/atlassify/pull/4032) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
-- MERGED - [refactor(tests): extract shared positioning test helpers](https://github.com/gitify-app/kde/pull/38) to [gitify-app/kde](https://github.com/gitify-app/kde) [4 days ago]
-- MERGED - [fix(ci): sync lockfile with @biomejs/biome 2.6.5](https://github.com/setchy/guidealong-maps/pull/148) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [4 days ago]
-- MERGED - [docs: automate supported platforms site updates](https://github.com/gitify-app/electron-menubar/pull/330) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 week ago]
-- MERGED - [docs: add macOS and Ubuntu platform aliases](https://github.com/gitify-app/electron-menubar/pull/329) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 week ago]
-- MERGED - [fix: wait for window bounds before visual capture](https://github.com/gitify-app/electron-menubar/pull/324) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 week ago]
-- MERGED - [ci: drop retired macOS 14 hosted runners](https://github.com/gitify-app/electron-menubar/pull/323) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 week ago]
+- MERGED - [feat: let mise manage patch updates within version lines](https://github.com/setchy/renovate-config/pull/43) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 day ago]
+- MERGED - [chore: restore local GraphQL SDL for editor tooling](https://github.com/setchy/atlassify/pull/4079) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [chore(deps): update graphql codegen toolchain to v8](https://github.com/gitify-app/gitify/pull/3681) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
+- MERGED - [chore: group graphql-codegen updates](https://github.com/setchy/atlassify/pull/4078) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
+- MERGED - [chore(deps): update graphql codegen toolchain to v8](https://github.com/setchy/atlassify/pull/4076) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [build: let electron-builder prune node_modules](https://github.com/setchy/atlassify/pull/4069) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [ci: allow devDependencies that are production transitives](https://github.com/gitify-app/gitify/pull/3671) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [ci: allow devDependencies that are production transitives](https://github.com/setchy/atlassify/pull/4068) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- CLOSED - [ci: keep runtime devDependencies in package check](https://github.com/gitify-app/gitify/pull/3670) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [ci: derive the packaged dependency check from the project](https://github.com/gitify-app/gitify/pull/3665) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [build: harden packaged binaries with Electron fuses](https://github.com/setchy/atlassify/pull/4065) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [build: harden packaged binaries with Electron fuses](https://github.com/setchy/atlassify/pull/4064) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [ci: verify the packaged dependency closure](https://github.com/setchy/atlassify/pull/4063) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [ci: verify packaging produced every configured artifact](https://github.com/setchy/atlassify/pull/4062) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [ci: verify packaging produced every configured artifact](https://github.com/gitify-app/gitify/pull/3663) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
+- MERGED - [fix: run build and packaging through Vite&#43; (restores Windows installer)](https://github.com/setchy/atlassify/pull/4035) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- CLOSED - [fix: restore Windows packaging and verify release artifacts](https://github.com/setchy/atlassify/pull/4033) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [chore(deps): update pnpm to 12.18.0](https://github.com/setchy/atlassify/pull/4032) to [setchy/atlassify](https://github.com/setchy/atlassify) [5 days ago]
+- MERGED - [refactor(tests): extract shared positioning test helpers](https://github.com/gitify-app/kde/pull/38) to [gitify-app/kde](https://github.com/gitify-app/kde) [5 days ago]
+- MERGED - [fix(ci): sync lockfile with @biomejs/biome 2.6.5](https://github.com/setchy/guidealong-maps/pull/148) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [5 days ago]
 
 </details>
 
@@ -88,14 +88,14 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [8rank/iKnow](https://github.com/8rank/iKnow): ⭐ 588
-- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1876
+- [8rank/iKnow](https://github.com/8rank/iKnow): ⭐ 623
+- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1877
 - [github-community-projects/stale-repos](https://github.com/github-community-projects/stale-repos): ⭐ 205
 - [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard): ⭐ 87
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen): ⭐ 227
 - [apache/devlake](https://github.com/apache/devlake): ⭐ 3198
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag): ⭐ 2142
-- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 6515
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag): ⭐ 2143
+- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 6624
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3886
 - [setchy/onlydevs](https://github.com/setchy/onlydevs): ⭐ 1
 
