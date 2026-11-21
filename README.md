@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [2 days ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [2 days ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [3 days ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [3 days ago]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [3 days ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [3 days ago]
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [3 days ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [3 days ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io [4 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [4 days ago]
+- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [3 days ago]
+- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [3 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [4 days ago]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [4 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [4 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [4 days ago]
+- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [4 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [4 days ago]
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io [5 days ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [5 days ago]
 
 </details>
 
@@ -61,22 +61,22 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- OPEN - [fix(notifications): treat offline as a connection state, not an error](https://github.com/gitify-app/gitify/pull/3706) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/gitify-app/website/pull/826) to [gitify-app/website](https://github.com/gitify-app/website) [3 days ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/gitify-app/gitify/pull/3704) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/meme-driven.dev/pull/572) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [3 days ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/atlassify/pull/4111) to [setchy/atlassify](https://github.com/setchy/atlassify) [3 days ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1261) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [3 days ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/guidealong-maps/pull/164) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [3 days ago]
-- OPEN - [ci(release): gate release PRs on Apple notarization readiness](https://github.com/gitify-app/gitify/pull/3703) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [3 days ago]
-- OPEN - [feat(github-cli): let users pick among stored CLI accounts](https://github.com/gitify-app/gitify/pull/3682) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [5 days ago]
-- MERGED - [feat(presets/replacement): Add replacement for `@tsconfig/node26`](https://github.com/renovatebot/renovate/pull/48059) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [5 days ago]
-- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/gitify-app/website/pull/825) to [gitify-app/website](https://github.com/gitify-app/website) [6 days ago]
-- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1251) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [6 days ago]
-- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/meme-driven.dev/pull/568) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [6 days ago]
-- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/guidealong-maps/pull/156) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [6 days ago]
-- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/atlassify/pull/4110) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
-- MERGED - [chore(deps): repair pnpm lockfile for @atlaskit/css](https://github.com/setchy/atlassify/pull/4109) to [setchy/atlassify](https://github.com/setchy/atlassify) [6 days ago]
+- OPEN - [fix(notifications): treat offline as a connection state, not an error](https://github.com/gitify-app/gitify/pull/3706) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/gitify-app/website/pull/826) to [gitify-app/website](https://github.com/gitify-app/website) [4 days ago]
+- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/gitify-app/gitify/pull/3704) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/meme-driven.dev/pull/572) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [4 days ago]
+- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/atlassify/pull/4111) to [setchy/atlassify](https://github.com/setchy/atlassify) [4 days ago]
+- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1261) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [4 days ago]
+- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/guidealong-maps/pull/164) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [4 days ago]
+- OPEN - [ci(release): gate release PRs on Apple notarization readiness](https://github.com/gitify-app/gitify/pull/3703) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [4 days ago]
+- OPEN - [feat(github-cli): let users pick among stored CLI accounts](https://github.com/gitify-app/gitify/pull/3682) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [6 days ago]
+- MERGED - [feat(presets/replacement): Add replacement for `@tsconfig/node26`](https://github.com/renovatebot/renovate/pull/48059) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [6 days ago]
+- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/gitify-app/website/pull/825) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
+- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1251) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 week ago]
+- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/meme-driven.dev/pull/568) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 week ago]
+- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/guidealong-maps/pull/156) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [1 week ago]
+- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/atlassify/pull/4110) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
+- MERGED - [chore(deps): repair pnpm lockfile for @atlaskit/css](https://github.com/setchy/atlassify/pull/4109) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 - MERGED - [feat: let mise manage patch updates within version lines](https://github.com/setchy/renovate-config/pull/43) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 week ago]
 - MERGED - [chore: restore local GraphQL SDL for editor tooling](https://github.com/setchy/atlassify/pull/4079) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 - MERGED - [chore(deps): update graphql codegen toolchain to v8](https://github.com/gitify-app/gitify/pull/3681) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
@@ -88,15 +88,15 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [8rank/iKnow](https://github.com/8rank/iKnow): ⭐ 675
-- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1886
+- [8rank/iKnow](https://github.com/8rank/iKnow): ⭐ 674
+- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1888
 - [github-community-projects/stale-repos](https://github.com/github-community-projects/stale-repos): ⭐ 205
 - [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard): ⭐ 87
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen): ⭐ 227
-- [apache/devlake](https://github.com/apache/devlake): ⭐ 3203
+- [apache/devlake](https://github.com/apache/devlake): ⭐ 3204
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag): ⭐ 2145
-- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 7609
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3889
+- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 7746
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3891
 - [setchy/onlydevs](https://github.com/setchy/onlydevs): ⭐ 1
 
 </details>
