@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
-- [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) - Shared renovate configuration for gitify-app org [2 days ago]
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [2 days ago]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [2 days ago]
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io [2 days ago]
-- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [3 days ago]
-- [graphql-java-kickstart/documentation](https://github.com/graphql-java-kickstart/documentation) -  [1 week ago]
-- [graphql-java-kickstart/graphql-java-kickstart.github.io](https://github.com/graphql-java-kickstart/graphql-java-kickstart.github.io) - GraphQL Kickstart Documentation [1 week ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 week ago]
-- [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) - Meme Driven Development (MDD) - A novel (and fun) approach to modern software development [1 week ago]
+- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [today]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [today]
+- [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [today]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [today]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [today]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [today]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [today]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [today]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [today]
+- [gitify-app/kde](https://github.com/gitify-app/kde) - Native Wayland panel positioning for Gitify on KDE Plasma [today]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1266) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [today]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/renovate-config/pull/50) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [today]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/meme-driven.dev/pull/580) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [today]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/installme.zip/pull/20) to [setchy/installme.zip](https://github.com/setchy/installme.zip) [today]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/guidealong-maps/pull/169) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [today]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/homebrew-brews/pull/93) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [today]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/chip-index/pull/28) to [setchy/chip-index](https://github.com/setchy/chip-index) [today]
+- MERGED - [chore(ci): verify GitHub Actions lockfile](https://github.com/gitify-app/website/pull/832) to [gitify-app/website](https://github.com/gitify-app/website) [today]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/gitify-app/electron-menubar/pull/337) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [today]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/gitify-app/kde/pull/43) to [gitify-app/kde](https://github.com/gitify-app/kde) [today]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/gitify-app/renovate-config/pull/26) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [today]
+- MERGED - [chore(ci): verify GitHub Actions lockfile](https://github.com/gitify-app/gnome/pull/74) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [today]
+- MERGED - [chore(deps): track annotated GitHub Actions versions](https://github.com/gitify-app/renovate-config/pull/25) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [today]
+- MERGED - [chore(deps): track annotated GitHub Actions versions](https://github.com/setchy/renovate-config/pull/48) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [today]
+- MERGED - [fix(deps): keep Vite&#43; and its bundled Vite core in sync](https://github.com/gitify-app/gitify/pull/3728) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [today]
 - MERGED - [fix(auth): open the inbox before notifications finish loading](https://github.com/gitify-app/gitify/pull/3708) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 - MERGED - [docs: fix Markdown heading levels](https://github.com/renovatebot/renovate/pull/48301) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [2 days ago]
 - MERGED - [ci(renovate): scope npm runtime dependencies as deps-core](https://github.com/gitify-app/gitify/pull/3707) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
 - MERGED - [feat: rebase update PRs only when conflicted](https://github.com/gitify-app/renovate-config/pull/24) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
 - MERGED - [feat: rebase update PRs only when conflicted](https://github.com/setchy/renovate-config/pull/46) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
-- MERGED - [fix(notifications): treat offline as a connection state, not an error](https://github.com/gitify-app/gitify/pull/3706) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/gitify-app/website/pull/826) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/gitify-app/gitify/pull/3704) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/meme-driven.dev/pull/572) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 week ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/atlassify/pull/4111) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1261) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 week ago]
-- MERGED - [chore(openspec): use global skills instead of project copies](https://github.com/setchy/guidealong-maps/pull/164) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [1 week ago]
-- MERGED - [ci(release): gate release PRs on Apple notarization readiness](https://github.com/gitify-app/gitify/pull/3703) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [feat(auth): let users pick among stored CLI accounts](https://github.com/gitify-app/gitify/pull/3682) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 week ago]
-- MERGED - [feat(presets/replacement): Add replacement for `@tsconfig/node26`](https://github.com/renovatebot/renovate/pull/48059) to [renovatebot/renovate](https://github.com/renovatebot/renovate) [1 week ago]
-- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/gitify-app/website/pull/825) to [gitify-app/website](https://github.com/gitify-app/website) [1 week ago]
-- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1251) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 week ago]
-- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/meme-driven.dev/pull/568) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 week ago]
-- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/guidealong-maps/pull/156) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [1 week ago]
-- MERGED - [chore: migrate OpenSpec to v2.0.0](https://github.com/setchy/atlassify/pull/4110) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 week ago]
 
 </details>
 
@@ -88,14 +88,14 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [8rank/iKnow](https://github.com/8rank/iKnow): ⭐ 684
-- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1895
+- [8rank/iKnow](https://github.com/8rank/iKnow): ⭐ 687
+- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1897
 - [github-community-projects/stale-repos](https://github.com/github-community-projects/stale-repos): ⭐ 205
 - [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard): ⭐ 87
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen): ⭐ 227
-- [apache/devlake](https://github.com/apache/devlake): ⭐ 3207
+- [apache/devlake](https://github.com/apache/devlake): ⭐ 3208
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag): ⭐ 2149
-- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 8591
+- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 8645
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3895
 - [setchy/onlydevs](https://github.com/setchy/onlydevs): ⭐ 1
 
