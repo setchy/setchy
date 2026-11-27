@@ -44,16 +44,16 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🚀 My recent contributions</summary>
 
 
-- [setchy/dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - A set of DGS Directives for common formatting use-cases [1 day ago]
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [1 day ago]
 - [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) - Global GuideAlong Tours Explorer [1 day ago]
-- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [1 day ago]
-- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [1 day ago]
-- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [1 day ago]
-- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [1 day ago]
-- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [1 day ago]
-- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [1 day ago]
-- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [1 day ago]
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL [1 day ago]
+- [setchy/installme.zip](https://github.com/setchy/installme.zip) - Who thought zip domains were a good idea? [2 days ago]
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows &amp; Linux. [2 days ago]
+- [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) - CLI and complete collection of Thoughtworks Technology Radar datasets (JSON, CSV and Google Sheets) [2 days ago]
+- [gitify-app/website](https://github.com/gitify-app/website) - The source code of gitify.io [2 days ago]
+- [gitify-app/gnome](https://github.com/gitify-app/gnome) - Anchors the Gitify window to its tray icon on GNOME. [2 days ago]
+- [setchy/renovate-config](https://github.com/setchy/renovate-config) - Shared Renovate presets &amp; validation for the setchy organization [2 days ago]
+- [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) - 🍻 My brews [2 days ago]
+- [setchy/atlassify](https://github.com/setchy/atlassify) - Atlassian notifications on your menu bar. Available on macOS, Windows &amp; Linux.  [2 days ago]
 
 </details>
 
@@ -61,26 +61,26 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>🔀 My recent pull requests</summary>
 
 
-- MERGED - [fix: show update download status in tray menu](https://github.com/setchy/atlassify/pull/4129) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
-- MERGED - [fix: show update download status in tray menu](https://github.com/gitify-app/gitify/pull/3735) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(ci): remove redundant Pages deployment workflow](https://github.com/setchy/installme.zip/pull/21) to [setchy/installme.zip](https://github.com/setchy/installme.zip) [1 day ago]
-- MERGED - [ci: use self-repository references for reusable workflows](https://github.com/gitify-app/gitify/pull/3733) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- CLOSED - [chore(release): streamline release notes](https://github.com/setchy/atlassify/pull/4128) to [setchy/atlassify](https://github.com/setchy/atlassify) [1 day ago]
-- MERGED - [chore(release): recognize core dependency updates in release notes](https://github.com/gitify-app/electron-menubar/pull/338) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [chore(release): simplify dependency changelog rules](https://github.com/gitify-app/gitify/pull/3732) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [1 day ago]
-- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1266) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [1 day ago]
-- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/renovate-config/pull/50) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [1 day ago]
-- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/meme-driven.dev/pull/580) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [1 day ago]
-- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/installme.zip/pull/20) to [setchy/installme.zip](https://github.com/setchy/installme.zip) [1 day ago]
-- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/guidealong-maps/pull/169) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [1 day ago]
-- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/homebrew-brews/pull/93) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [1 day ago]
-- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/chip-index/pull/28) to [setchy/chip-index](https://github.com/setchy/chip-index) [1 day ago]
-- MERGED - [chore(ci): verify GitHub Actions lockfile](https://github.com/gitify-app/website/pull/832) to [gitify-app/website](https://github.com/gitify-app/website) [1 day ago]
-- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/gitify-app/electron-menubar/pull/337) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [1 day ago]
-- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/gitify-app/kde/pull/43) to [gitify-app/kde](https://github.com/gitify-app/kde) [1 day ago]
-- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/gitify-app/renovate-config/pull/26) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
-- MERGED - [chore(ci): verify GitHub Actions lockfile](https://github.com/gitify-app/gnome/pull/74) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [1 day ago]
-- MERGED - [chore(deps): track annotated GitHub Actions versions](https://github.com/gitify-app/renovate-config/pull/25) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [1 day ago]
+- MERGED - [chore(data): backfill completed tour dates](https://github.com/setchy/guidealong-maps/pull/171) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [1 day ago]
+- MERGED - [fix: show update download status in tray menu](https://github.com/setchy/atlassify/pull/4129) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [fix: show update download status in tray menu](https://github.com/gitify-app/gitify/pull/3735) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [chore(ci): remove redundant Pages deployment workflow](https://github.com/setchy/installme.zip/pull/21) to [setchy/installme.zip](https://github.com/setchy/installme.zip) [2 days ago]
+- MERGED - [ci: use self-repository references for reusable workflows](https://github.com/gitify-app/gitify/pull/3733) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- CLOSED - [chore(release): streamline release notes](https://github.com/setchy/atlassify/pull/4128) to [setchy/atlassify](https://github.com/setchy/atlassify) [2 days ago]
+- MERGED - [chore(release): recognize core dependency updates in release notes](https://github.com/gitify-app/electron-menubar/pull/338) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
+- MERGED - [chore(release): simplify dependency changelog rules](https://github.com/gitify-app/gitify/pull/3732) to [gitify-app/gitify](https://github.com/gitify-app/gitify) [2 days ago]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/thoughtworks-tech-radar-volumes/pull/1266) to [setchy/thoughtworks-tech-radar-volumes](https://github.com/setchy/thoughtworks-tech-radar-volumes) [2 days ago]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/renovate-config/pull/50) to [setchy/renovate-config](https://github.com/setchy/renovate-config) [2 days ago]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/meme-driven.dev/pull/580) to [setchy/meme-driven.dev](https://github.com/setchy/meme-driven.dev) [2 days ago]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/installme.zip/pull/20) to [setchy/installme.zip](https://github.com/setchy/installme.zip) [2 days ago]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/guidealong-maps/pull/169) to [setchy/guidealong-maps](https://github.com/setchy/guidealong-maps) [2 days ago]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/homebrew-brews/pull/93) to [setchy/homebrew-brews](https://github.com/setchy/homebrew-brews) [2 days ago]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/setchy/chip-index/pull/28) to [setchy/chip-index](https://github.com/setchy/chip-index) [2 days ago]
+- MERGED - [chore(ci): verify GitHub Actions lockfile](https://github.com/gitify-app/website/pull/832) to [gitify-app/website](https://github.com/gitify-app/website) [2 days ago]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/gitify-app/electron-menubar/pull/337) to [gitify-app/electron-menubar](https://github.com/gitify-app/electron-menubar) [2 days ago]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/gitify-app/kde/pull/43) to [gitify-app/kde](https://github.com/gitify-app/kde) [2 days ago]
+- MERGED - [chore(ci): lint and verify GitHub Actions workflows](https://github.com/gitify-app/renovate-config/pull/26) to [gitify-app/renovate-config](https://github.com/gitify-app/renovate-config) [2 days ago]
+- MERGED - [chore(ci): verify GitHub Actions lockfile](https://github.com/gitify-app/gnome/pull/74) to [gitify-app/gnome](https://github.com/gitify-app/gnome) [2 days ago]
 
 </details>
 
@@ -88,15 +88,15 @@ Distinguished Engineer // Chief Architect // Senior Executive (VP)
 <summary>⭐ Latest projects I've starred</summary>
 
 
-- [8rank/iKnow](https://github.com/8rank/iKnow): ⭐ 687
-- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1897
+- [8rank/iKnow](https://github.com/8rank/iKnow): ⭐ 689
+- [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): ⭐ 1898
 - [github-community-projects/stale-repos](https://github.com/github-community-projects/stale-repos): ⭐ 205
 - [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard): ⭐ 87
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen): ⭐ 227
-- [apache/devlake](https://github.com/apache/devlake): ⭐ 3209
+- [apache/devlake](https://github.com/apache/devlake): ⭐ 3210
 - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag): ⭐ 2149
-- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 8719
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3895
+- [anomalyco/hex](https://github.com/anomalyco/hex): ⭐ 8845
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore): ⭐ 3896
 - [setchy/onlydevs](https://github.com/setchy/onlydevs): ⭐ 1
 
 </details>
